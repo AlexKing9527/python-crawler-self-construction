@@ -109,5 +109,5 @@ def getip(targeturl,path):
 #-------------------------------------------------------启动-----------------------------------------------------------
 if __name__ == '__main__':
     path = 'ip.csv' # 存放爬取ip的文档path
-    targeturl = ['http://www.cnblogs.com/TurboWay/','http://www.baidu.com','http://www.zhihu.com','http://www.douban.com','https://wallstreetcn.com'] # 验证ip有效性的指定url
+    targeturl = ['http://www.cnblogs.com/TurboWay/','http://www.baidu.com','http://www.zhihu.com','http://www.douban.com'] # 验证ip有效性的指定url
     getip(targeturl,path)

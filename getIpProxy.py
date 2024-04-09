@@ -76,14 +76,15 @@ def findip(type,pagenum,targeturl,path): # ip类型,页码,目标url,存放ip的
     headers = getheaders() # 定制请求头
     html=requests.get(url=url,headers=headers,timeout = 5).text
     soup=BeautifulSoup(html,'lxml')
-    all=soup.find_all('tr',class_='odd')
-    for i in all:
-        t=i.find_all('td')
-        ip=t[1].text+':'+t[2].text
-        is_avail = checkip(targeturl,ip)
-        if is_avail == True:
-            write(path=path,text=ip)
-            print(ip)
+    all=soup.find_all('tr',class_='person__full-name')
+    print(all)
+    # for i in all:
+    #     t=i.find_all('td')
+    #     ip=t[1].text+':'+t[2].text
+    #     is_avail = checkip(targeturl,ip)
+    #     if is_avail == True:
+    #         write(path=path,text=ip)
+    #         print(ip)
 
 #-----------------------------------------------------多线程抓取ip入口---------------------------------------------------
 def getip(targeturl,path):

@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import random
 import re
+import urllib.request
+from lxml import etree 
+
 
 # 写入文档
 def write(path,text):
@@ -102,23 +105,201 @@ def scrawlWeb (index, tarUrl):
 
 # 搜索维基百科
 def srawlWiki(data):
-    name = data[0]
+    name = data
     headers = getheaders()
-    wikiurl = 'https://wikipedia.lurkmore.com/wiki/' + name
-    wikihtml = requests.get(url=wikiurl,headers=headers,timeout = 5).text
-    wikiSoup = BeautifulSoup(wikihtml, 'lxml')
-    info = wikiSoup.find_all('table', class_='infobox')
-    print(info).encode('gb18030')
-    return info
+    born = ''
+    nationality = ''
+    citizenship = ''
+    occupation = ''
+    insititutions = ''
+    website = ''
+    okurl = ''
+    bsc = ''
+    phd = ''
+    try:
+        wikiurl = 'https://en.wikipedia.org/wiki/' + name
+        res = requests.get(url=wikiurl,headers=headers,timeout = 5).text
+        res = re.sub(r'[\u0600-\u06FF]+', '', res)
+        res = re.sub(r'[\u0500-\u05FF]+', '', res)
+        res = re.sub(r'[\u0b00-\u0bFF]+', '', res)
+        res = re.sub(r'[\u0c00-\u0cFF]+', '', res)
+        res = re.sub('\xf1', '', res)
+        res = re.sub('\xe7', '', res)
+        res = re.sub('\xae', '', res)
+        res = re.sub('\xa0', '', res)
+        res = re.sub('\xc9', '', res)
+
+        # print(res)
+        wikiSoup = BeautifulSoup(res, 'html.parser')
+
+        info = wikiSoup.find_all('table', class_='infobox')
+
+        tree = etree.HTML(res)  
+        target_element = tree.xpath('//th[@class="infobox-label"]')
+        for element in target_element: 
+            if 'Born' in etree.tostring(element, pretty_print=True).decode('utf-8'):
+                other_siblings = findSibling(element)
+                try:
+                    born = other_siblings[0].text
+                except:
+                    born = ''
+            if 'Nationality' in etree.tostring(element, pretty_print=True).decode('utf-8'):
+                other_siblings = findSibling(element)
+                nationality = other_siblings[0].text
+            if 'Occupation' in etree.tostring(element, pretty_print=True).decode('utf-8'):
+                other_siblings = findSibling(element)
+                occupation = other_siblings[0].text
+            if 'Alma' in etree.tostring(element, pretty_print=True).decode('utf-8'):
+                other_siblings = findSibling(element)
+                # try:
+                #     bsc = other_siblings[0].getchildren()[0].text
+                # except:
+                #     bsc = ''
+                # if (len(other_siblings[0].getchildren()) == 2):
+                #     try:
+                #         phd = other_siblings[0].getchildren()[-1].text
+                #     except:
+                #         phd = ''
+                # if (len(other_siblings[0].getchildren()) > 2):
+                #     try:
+                #         phd = other_siblings[0].getchildren()[-2].text
+                #         if ('Ph' in phd):
+                #             phd = other_siblings[0].getchildren()[-3].text
+                #     except:
+                #         phd = ''
+                try:
+                    eduList = other_siblings[0].getchildren()
+                    for i in eduList:
+                        if (i.text):
+                            if (len(i.text) < 30):
+                                bsc = bsc + i.text + ' '
+                except:
+                    bsc = ''
+            else:
+                if 'Education' in etree.tostring(element, pretty_print=True).decode('utf-8'):
+                    other_siblings = findSibling(element)
+                    try:
+                        eduList = other_siblings[0].getchildren()
+                        for i in eduList:
+                            if (i.text):
+                                if (len(i.text) < 30):
+                                    bsc = bsc + i.text + ' '
+                    except:
+                        bsc = ''
+                    # if (len(other_siblings[0].getchildren()) == 2):
+                    #     try:
+                    #         bsc = other_siblings[0].getchildren()[0].text
+                    #     except:
+                    #         bsc = ''
+                    # if (len(other_siblings[0].getchildren()) > 2):
+                    #     try:
+                    #         bsc = other_siblings[0].getchildren()[1].text
+                    #     except:
+                    #         bsc = ''
+                    # if (len(other_siblings[0].getchildren()) == 2):
+                    #     try:
+                    #         phd = other_siblings[0].getchildren()[-1].text
+                    #     except:
+                    #         phd = ''
+                    # if (len(other_siblings[0].getchildren()) > 2):
+                    #     try:
+                    #         phd = other_siblings[0].getchildren()[-2].text
+                    #         if ('Ph' in phd):
+                    #             phd = other_siblings[0].getchildren()[-3].text
+                    #     except:
+                    #         phd = ''
+            if 'Institutions' in etree.tostring(element, pretty_print=True).decode('utf-8'):
+                other_siblings = findSibling(element)
+                try:
+                    insititutions = other_siblings[0].getchildren()[0].text
+                except:
+                    insititutions = other_siblings[0].text
+            if 'Website' in etree.tostring(element, pretty_print=True).decode('utf-8'):
+                other_siblings = findSibling(element)
+                website = other_siblings[0].getchildren()[0].text or other_siblings[0].text
+        okurl = wikiurl
+    finally:
+        # wikiData.append([name, born, nationality, occupation, insititutions, website, okurl, bsc, phd])
+        wikiData.append([name, bsc, phd])
+
+def findSibling(element):
+    siblings = element.getparent().getchildren()
+    return [sib for sib in siblings if sib is not element]
+
+def checkMember(name):
+    headers = getheaders()
+    # DetailUrl = 'https://www.amacad.org/person/'+'maria-campbell'
+    DetailUrl = 'https://www.amacad.org/person/'+name
+    res = requests.get(url=DetailUrl,headers=headers,timeout = 5).text
+    res = re.sub(r'[\u0600-\u06FF]+', '', res)
+    res = re.sub(r'[\u0500-\u05FF]+', '', res)
+    res = re.sub(r'[\u0b00-\u0bFF]+', '', res)
+    res = re.sub(r'[\u0c00-\u0cFF]+', '', res)
+    res = re.sub('\xf1', '', res)
+    res = re.sub('\xe7', '', res)
+    res = re.sub('\xae', '', res)
+    res = re.sub('\xa0', '', res)
+    res = re.sub('\xe6', '', res)
+    res = re.sub('\xa9', '', res)
+    tree = etree.HTML(res)  
+    # target_element = tree.xpath('//div[@class="person__international"]')
+    # if len(target_element):
+    #     memberData.append([name, 'International Member'])
+    # else: 
+    #     memberData.append([name, 'Member'])
+    field_element = tree.xpath('//div[@class="field-item"]')
+    headImg = ''
+    personDetail = ''
+    if len(field_element):
+        try:
+            headImg = '	https://www.amacad.org' + field_element[0].getchildren()[0].get('src')
+        except:
+            headImg = ''
+    career_element = tree.xpath('//p')
+    try:
+        if len(career_element[1].text) < 60:
+            personDetail = field_element[-2].text
+        else:
+            personDetail = career_element[1].text
+    except:
+        personDetail = ''
+    # personData.append([name, headImg, personDetail, DetailUrl])
+    personData.append([name, personDetail])
+
 
 if __name__ == '__main__':
     data = []
-    for i in range(1):
-        print(str(i))
-        # scrawlWeb(str(i), 'https://www.amacad.org/directory?field_election_year=2023&field_class_section=All&field_class_section_1=All&field_deceased=All&sort_bef_combine=field_election_year_DESC&page=')
-        # print(data)
-        # for j in range(len(data)):
-        data = srawlWiki('Lila Abu-Lughod')
-            # data = srawlWiki(data[j])
-        # df = pd.DataFrame(data, columns = ['name', 'school', 'area', 'specialty', 'elected'])
-        # df.to_excel('result.xlsx')
+    wikiData = []
+    memberData = []
+    personData = []
+    # 原网站
+    # for i in range(9):
+    #     print(str(i))
+    #     scrawlWeb(str(i), 'https://www.amacad.org/directory?field_election_year=2023&field_class_section=All&field_class_section_1=All&field_deceased=All&sort_bef_combine=field_election_year_DESC&page=')
+    #     print(data)
+    #     df = pd.DataFrame(data, columns = ['name', 'school', 'area', 'specialty', 'elected'])
+    #     df.to_excel('result.xlsx')
+
+    # wiki(3段下载)
+    originData = pd.read_excel("result.xlsx")
+    # for j in range(100, 200):
+    for j in range(200, len(originData.values[:,2])):
+    # for j in range(0, len(originData.values[:,2])):
+        print(originData.values[:,2][j])
+        srawlWiki(originData.values[:,2][j].replace(' ', '_'))
+    print(wikiData)
+    # df = pd.DataFrame(wikiData, columns = ['name', 'born', 'nationality', 'occupation', 'insititutions', 'website', 'wikiUrl', 'bsc', 'phd'])
+    df = pd.DataFrame(wikiData, columns = ['name', 'bsc', 'phd'])
+    df.to_excel('wikiresult3.xlsx')
+
+    # 获取member字段、人物头像、人物简介(读取详情页)
+    # originData = pd.read_excel("result.xlsx")
+    # for j in range(0, len(originData.values[:,2])):
+    # # for j in range(0, 10):
+    #     print(originData.values[:,2][j])
+    #     checkMember(originData.values[:,2][j].replace(' ', '-').replace('.', '-').replace('--', '-'))
+    # # df = pd.DataFrame(memberData, columns = ['name', 'memberType'])
+    # # df.to_excel('member.xlsx')
+
+    # df = pd.DataFrame(personData, columns = ['name', 'detail'])
+    # df.to_excel('member.xlsx')

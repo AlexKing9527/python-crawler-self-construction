@@ -107,12 +107,13 @@ def scrawlWeb ():
             val = re.sub(pattern2, ' ', val)
             if ((len(val) >= 2) & (val[1] == ' ')):
                 val = val[:1] + val[2:]
+            val.replace('  ', ' ')
             if (" " in val):
-                valList = val.split(' ')
+                valList = val.split(' ', 1)
                 if (len(valList[1])) and (valList[1][0] == '有'):
                     data.append([cityName, warName, val, '', remark])
                 else:
-                    data.append([cityName, warName, valList[0].replace(" ", ""), valList[1], remark])
+                    data.append([cityName, warName, valList[0].replace(" ", ""), valList[1].replace(" ", ""), remark])
             else:
                 data.append([cityName, warName, val, '', remark])
         else:

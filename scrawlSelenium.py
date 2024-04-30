@@ -35,9 +35,11 @@ school_list = []
 index_num = 0
 
 
-def get_rankings(path, URL, roll_index):
+def get_rankings(path, URL, key):
     print(path, URL)
     options = Options()
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_experimental_option('excludeSwitches', ['enable-automation'])  # 隐藏 测试软件tab
     # options.add_argument('--headless')    # 静默执行
@@ -104,10 +106,10 @@ def get_rankings(path, URL, roll_index):
         except:
             rank = ''
         rank = rank if not rank is None else 'N/A'  # rank存在空情况
-        dataReturn.append({'排名': rank, '院校': name, '国家': loc, '区域': area, '学科评分': sub_score, '全球评分': global_score, '注册': enrollment, '网址': link, })
+        dataReturn.append({'subject_name': key, 'global_ranking': rank, 'school_name': name, 'country': loc, 'area': area, 'subject_score': sub_score, 'global_score': global_score, 'enrollment': enrollment, 'url': link })
     
     df = pd.DataFrame(dataReturn)
-    df.to_excel(path)
+    df.to_csv(path)
  
  
 def check_element_exists(driver, condition, element):
@@ -128,11 +130,12 @@ def check_element_exists(driver, condition, element):
  
 
 if __name__ == '__main__':
-    school_list = ['agricultural-sciences', 'artificial-intelligence', 'arts-and-humanities', 'biology-biochemistry', 'biotechnology-applied-microbiology', 'cardiac-cardiovascular', 'cell-biology', 'chemical-engineering', 'chemistry', 'civil-engineering', 'clinical-medicine', 'computer-science', 'condensed-matter-physics', 'economics-business', 'education-educational-research', 'electrical-electronic-engineering', 'endocrinology-metabolism', 'energy-fuels', 'engineering', 'environment-ecology', 'food-science-technology', 'gastroenterology-hepatology', 'geosciences', 'immunology', 'infectious-diseases', 'materials-science', 'mathematics', 'mechanical-engineering', 'meteorology-atmospheric-sciences', 'microbiology', 'molecular-biology-genetics', 'nanoscience-nanotechnology', 'neuroscience-behavior', 'oncology', 'optics', 'pharmacology-toxicology', 'physical-chemistry', 'physics', 'plant-animal-science', 'polymer-science', 'psychiatry-psychology', 'public-environmental-occupational-health', 'radiology-nuclear-medicine-medical-imaging', 'social-sciences-public-health', 'space-science', 'surgery', 'water-resources']
+    # 'agricultural-sciences', 'artificial-intelligence', 'arts-and-humanities', 'biology-biochemistry','biotechnology-applied-microbiology', 'cardiac-cardiovascular', 'cell-biology', 'chemical-engineering', 'chemistry', 'civil-engineering','clinical-medicine','computer-science', 'condensed-matter-physics', 'economics-business', 'education-educational-research', 'electrical-electronic-engineering', 'endocrinology-metabolism', 'energy-fuels', 'engineering', 'environment-ecology','food-science-technology', 'gastroenterology-hepatology', 'geosciences', 'immunology', 'infectious-diseases', 'materials-science', 'mathematics', 'mechanical-engineering','meteorology-atmospheric-sciences', 'microbiology', 'molecular-biology-genetics', 'nanoscience-nanotechnology', 'neuroscience-behavior', 'oncology', 'optics', 'pharmacology-toxicology', 'physical-chemistry', 'physics', 'plant-animal-science', 'polymer-science',
+    school_list = [ 'psychiatry-psychology', 'public-environmental-occupational-health', 'radiology-nuclear-medicine-medical-imaging', 'social-sciences-public-health', 'space-science', 'surgery', 'water-resources']
 
     for index, urlkey in enumerate(school_list) :
         # start_time = int(round(time.time()))
-        get_rankings('./usnews/' + urlkey + '.xlsx', 'https://www.usnews.com/education/best-global-universities/' + urlkey, index)
+        get_rankings('./usnews/' + urlkey + '.csv', 'https://www.usnews.com/education/best-global-universities/' + urlkey, urlkey)
         # print(f'\nElapsed:{round(time.clock() - start, 2)} Seconds for: {urlkey}')
 
     # print(f"Total time: {round(time.clock() - start, 2)} seconds.")

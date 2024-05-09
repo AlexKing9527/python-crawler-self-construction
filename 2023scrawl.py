@@ -126,7 +126,7 @@ def scrawlWeb ():
   
         # 使用列表推导式和str.replace方法去掉名字中的空格  
         names_without_spaces = [name.replace(" ", "") for name in names]
-        for index, name in enumerate(names_without_spaces)(names_without_spaces):
+        for index, name in enumerate(names_without_spaces):
             if ("全国" in val):
                 warName = val
             if (((len(val) < 9) & ("自治区" in val)) or ((len(val) < 4) & ("省" in val)) or ((len(val) < 4) & ("市" in val))):

@@ -1,0 +1,201 @@
+,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,mechanical-engineering,65,King Abdulaziz University,Saudi Arabia,Jeddah,100,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+2,mechanical-engineering,223,Ton Duc Thang University,Vietnam,Ho Chi Minh City,98.4,61.8,N/A,https://www.usnews.com/education/best-global-universities/ton-duc-thang-university-529637
+3,mechanical-engineering,219,Xi'an Jiaotong University,China,Xi'an,97.5,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+4,mechanical-engineering,394,Islamic Azad University,Iran,Tehran,95,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+5,mechanical-engineering,23,Tsinghua University,China,Beijing,91.6,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+6,mechanical-engineering,89,Shanghai Jiao Tong University,China,Shanghai,87.6,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+7,mechanical-engineering,317,Duy Tan University,Vietnam,Danang,82.8,57.6,N/A,https://www.usnews.com/education/best-global-universities/duy-tan-university-529795
+8,mechanical-engineering,196,Harbin Institute of Technology,China,Harbin,81.2,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+9,mechanical-engineering,333,Northwestern Polytechnical University,China,Xi'an,80.1,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+10,mechanical-engineering,168,Hunan University,China,Changsha,78.7,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+11,mechanical-engineering,598,Babol Noshirvani University of Technology,Iran,Babol,76.9,48.3,"6,180",https://www.usnews.com/education/best-global-universities/babol-noshirvani-university-of-technology-529310
+12,mechanical-engineering,109,Huazhong University of Science & Technology,China,Wuhan,76.2,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+13,mechanical-engineering,379,Chongqing University,China,Chongqing,76,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+14,mechanical-engineering,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,75.9,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+15,mechanical-engineering,93,Zhejiang University,China,Hangzhou,75.8,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+16,mechanical-engineering,653,Southwest Jiaotong University,China,Chengdu,75.5,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+17,mechanical-engineering,209,Central South University,China,Changsha,75.2,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+18,mechanical-engineering,253,Beihang University,China,Beijing,75,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+19,mechanical-engineering,379,Universiti Teknologi Malaysia,Malaysia,Johor,74.4,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+20,mechanical-engineering,13,Imperial College London,United Kingdom,London (U.K.),72.1,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+21,mechanical-engineering,260,Tianjin University,China,Tianjin,71.2,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+22,mechanical-engineering,392,Dalian University of Technology,China,Dalian,70.7,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+23,mechanical-engineering,186,University of Wollongong,Australia,Wollongong,69.9,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+24,mechanical-engineering,196,Tongji University,China,Shanghai,69.5,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+25,mechanical-engineering,329,University of Tehran,Iran,Tehran,67.9,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+26,mechanical-engineering,234,Southeast University - China,China,Nanjing,67,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+27,mechanical-engineering,298,Beijing Institute of Technology,China,Beijing,65.5,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+28,mechanical-engineering,219,South China University of Technology,China,Guangzhou,64.9,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+29,mechanical-engineering,30,Nanyang Technological University,Singapore,Singapore,64.3,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+30,mechanical-engineering,102,"University of Science & Technology of China, CAS",China,Hefei,63.3,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+31,mechanical-engineering,297,Polytechnic University of Milan,Italy,Milan,62.5,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+32,mechanical-engineering,633,Amirkabir University of Technology,Iran,Tehran,61.9,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+33,mechanical-engineering,37,University of New South Wales Sydney,Australia,Kensington,61.1,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+34,mechanical-engineering,441,University of Science & Technology Beijing,China,Beijing,60.4,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-science-technology-beijing-506176
+35,mechanical-engineering,140,Purdue University West Lafayette Campus,United States,West Lafayette,60.2,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+36,mechanical-engineering,231,University of Electronic Science & Technology of China,China,Chengdu,60,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+37,mechanical-engineering,421,Shanghai University,China,Shanghai,59.1,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+38,mechanical-engineering,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,58.6,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+39,mechanical-engineering,191,University of Waterloo,Canada,Waterloo,57.1,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+40,mechanical-engineering,26,National University of Singapore,Singapore,Singapore,56.9,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+41,mechanical-engineering,570,China University of Mining & Technology,China,Xuzhou,56.8,49.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-mining-technology-529045
+42,mechanical-engineering,51,Georgia Institute of Technology,United States,Atlanta,56.8,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+43,mechanical-engineering,28,University of Sydney,Australia,Sydney,56.6,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+44,mechanical-engineering,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,56.2,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+45,mechanical-engineering,625,University of Tabriz,Iran,Tabriz,55.7,47.7,"20,983",https://www.usnews.com/education/best-global-universities/university-of-tabriz-528957
+46,mechanical-engineering,400,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,55,54.4,N/A,https://www.usnews.com/education/best-global-universities/king-fahd-university-of-petroleum-minerals-506100
+47,mechanical-engineering,145,University of Nottingham,United Kingdom,Nottingham,54.7,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+48,mechanical-engineering,148,Texas A&M University College Station,United States,College Station,54.6,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+49,mechanical-engineering,598,Beijing Jiaotong University,China,Beijing,54.5,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+50,mechanical-engineering,50,KU Leuven,Belgium,Leuven,54.2,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+51,mechanical-engineering,618,Northeastern University - China,China,Shenyang,54,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931
+52,mechanical-engineering,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),53.9,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+53,mechanical-engineering,342,Wuhan University of Technology,China,Wuhan,53.9,56.4,"55,426",https://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361
+54,mechanical-engineering,304,Sichuan University,China,Chengdu,53.8,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+55,mechanical-engineering,844,Jiangsu University,China,Zhenjiang,53.6,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+56,mechanical-engineering,120,City University of Hong Kong,Hong Kong,Kowloon,53.2,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+57,mechanical-engineering,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,53.1,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+58,mechanical-engineering,165,Technical University of Denmark,Denmark,Kongens Lyngby,52.6,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+59,mechanical-engineering,19,University of Michigan,United States,Ann Arbor,52.3,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+60,mechanical-engineering,169,Delft University of Technology,Netherlands,Delft,52.1,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+61,mechanical-engineering,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,51.8,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+62,mechanical-engineering,74,University of Illinois Urbana-Champaign,United States,Champaign,51.5,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+63,mechanical-engineering,598,Sharif University of Technology,Iran,Tehran,51,48.3,N/A,https://www.usnews.com/education/best-global-universities/sharif-university-of-technology-502898
+64,mechanical-engineering,95,Ghent University,Belgium,Gent,50.9,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+65,mechanical-engineering,"1,463",Imam Khomeini International University,Iran,Qazvin,50.2,28.6,N/A,https://www.usnews.com/education/best-global-universities/imam-khomeini-international-university-529643
+66,mechanical-engineering,112,University of Technology Sydney,Australia,Ultimo,49.9,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+67,mechanical-engineering,512,China University of Petroleum,China,Qingdao,49.3,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+68,mechanical-engineering,708,Tarbiat Modares University,Iran,Tehran,49.2,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+69,mechanical-engineering,653,Hohai University,China,Nanjing,49.1,46.8,N/A,https://www.usnews.com/education/best-global-universities/hohai-university-528997
+70,mechanical-engineering,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),48.7,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+71,mechanical-engineering,739,North China Electric Power University,China,Beijing,47.9,44.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-electric-power-university-528965
+72,mechanical-engineering,29,ETH Zurich,Switzerland,Zurich,47.8,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+73,mechanical-engineering,879,Iran University Science & Technology,Iran,Tehran,47.6,41.3,"15,436",https://www.usnews.com/education/best-global-universities/iran-university-science-technology-505518
+74,mechanical-engineering,879,Tomsk Polytechnic University,Russia,Tomsk,47.4,41.3,N/A,https://www.usnews.com/education/best-global-universities/tomsk-polytechnic-university-529158
+75,mechanical-engineering,812,Hefei University of Technology,China,Hefei,46.9,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+76,mechanical-engineering,36,University of Queensland,Australia,Brisbane,46.9,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+77,mechanical-engineering,136,University of Alberta,Canada,Edmonton,46.6,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+78,mechanical-engineering,185,University of Naples Federico II,Italy,Naples,46,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+79,mechanical-engineering,368,Shandong University,China,Jinan,45.9,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+80,mechanical-engineering,643,Beijing University of Technology,China,Beijing,45.8,47.1,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-technology-505552
+81,mechanical-engineering,247,Universidade do Porto,Portugal,Porto,45.2,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+82,mechanical-engineering,794,Harbin Engineering University,China,Harbin,44.8,43.3,"29,861",https://www.usnews.com/education/best-global-universities/harbin-engineering-university-528986
+83,mechanical-engineering,199,RWTH Aachen University,Germany,Aachen,44.1,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+84,mechanical-engineering,37,Monash University,Australia,Clayton,43.9,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+85,mechanical-engineering,349,Kyushu University,Japan,Fukuoka,43.6,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+86,mechanical-engineering,146,University of Liverpool,United Kingdom,Liverpool,43.6,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+87,mechanical-engineering,54,McGill University,Canada,Montreal,43.5,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+88,mechanical-engineering,8,University of Cambridge,United Kingdom,Cambridge (U.K.),43.4,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+89,mechanical-engineering,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,43.3,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+90,mechanical-engineering,84,Pennsylvania State University,United States,University Park,42.4,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+91,mechanical-engineering,3,Stanford University,United States,Stanford,42.4,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+92,mechanical-engineering,4,University of California Berkeley,United States,Berkeley,42,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+93,mechanical-engineering,112,Lund University,Sweden,Lund,41.7,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+94,mechanical-engineering,531,Nanjing University of Science & Technology,China,Nanjing,41.7,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+95,mechanical-engineering,104,University of Southampton,United Kingdom,Southampton,41.2,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+96,mechanical-engineering,18,University of Toronto,Canada,Toronto,41.2,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+97,mechanical-engineering,57,University of Maryland College Park,United States,College Park,41.1,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+98,mechanical-engineering,"1,046",Ferdowsi University Mashhad,Iran,Mashhad,40.8,37.7,N/A,https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854
+99,mechanical-engineering,115,University of Padua,Italy,Padua,40.8,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+100,mechanical-engineering,"1,172",K. N. Toosi University of Technology,Iran,Tehran,40.6,34.8,N/A,https://www.usnews.com/education/best-global-universities/k-n-toosi-university-of-technology-529705
+101,mechanical-engineering,202,Universidade de Lisboa,Portugal,Lisbon,40.3,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+102,mechanical-engineering,710,Cranfield University,United Kingdom,Cranfield,40,45.4,N/A,https://www.usnews.com/education/best-global-universities/cranfield-university-500995
+103,mechanical-engineering,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,39.9,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+104,mechanical-engineering,60,Universite Paris Saclay,France,Saint-Aubin,39.8,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+105,mechanical-engineering,81,University of Tokyo,Japan,Tokyo,38.7,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+106,mechanical-engineering,150,Wuhan University,China,Wuhan,38.5,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+107,mechanical-engineering,134,University of Sheffield,United Kingdom,Sheffield,38.2,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+108,mechanical-engineering,485,Brunel University,United Kingdom,Uxbridge,38.1,51.9,"14,185",https://www.usnews.com/education/best-global-universities/brunel-university-502232
+109,mechanical-engineering,413,Universite de Lorraine,France,Nancy,37.6,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+110,mechanical-engineering,286,Tohoku University,Japan,Sendai,37.5,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+111,mechanical-engineering,74,University of Adelaide,Australia,Adelaide,37.5,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+112,mechanical-engineering,63,University of Manchester,United Kingdom,Manchester,37.5,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+113,mechanical-engineering,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,37.4,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+114,mechanical-engineering,240,Royal Institute of Technology,Sweden,Stockholm,37.2,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+115,mechanical-engineering,504,Polytechnic University of Turin,Italy,Turin,37,51.1,"29,428",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+116,mechanical-engineering,653,Guangdong University of Technology,China,Guangzhou,36.6,46.8,"46,040",https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270
+117,mechanical-engineering,35,University of British Columbia,Canada,Vancouver,36.5,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+118,mechanical-engineering,39,Peking University,China,Beijing,35.8,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+119,mechanical-engineering,55,Ohio State University,United States,Columbus,35.5,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+120,mechanical-engineering,160,Curtin University,Australia,Bentley,34.8,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+121,mechanical-engineering,16,Princeton University,United States,Princeton,34.8,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+122,mechanical-engineering,"1,251",University Kashan,Iran,Kashan,34.5,33.3,N/A,https://www.usnews.com/education/best-global-universities/university-kashan-529415
+123,mechanical-engineering,263,Iowa State University,United States,Ames,34.3,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+124,mechanical-engineering,618,Nanjing Tech University,China,Nanjing,34.3,47.9,"38,866",https://www.usnews.com/education/best-global-universities/nanjing-tech-university-501774
+125,mechanical-engineering,89,University of Birmingham,United Kingdom,Birmingham (U.K.),34.1,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+126,mechanical-engineering,379,University of Strathclyde,United Kingdom,Glasgow,33.7,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+127,mechanical-engineering,140,University of Leeds,United Kingdom,Leeds,33.6,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+128,mechanical-engineering,389,Universite de Lille,France,Lille,33.3,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+129,mechanical-engineering,605,Indian Institute of Technology (IIT) - Madras,India,Chennai,33.1,48.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278
+130,mechanical-engineering,"1,357",Taiyuan University of Technology,China,Taiyuan,32.8,31.1,N/A,https://www.usnews.com/education/best-global-universities/taiyuan-university-of-technology-529111
+131,mechanical-engineering,5,University of Oxford,United Kingdom,Oxford,32.8,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+132,mechanical-engineering,125,Sapienza University Rome,Italy,Rome,31.4,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+133,mechanical-engineering,615,Technical University of Darmstadt,Germany,Darmstadt,31.4,48,"15,526",https://www.usnews.com/education/best-global-universities/technical-university-of-darmstadt-506035
+134,mechanical-engineering,710,Lulea University of Technology,Sweden,Lulea,30.4,45.4,N/A,https://www.usnews.com/education/best-global-universities/lulea-university-of-technology-529025
+135,mechanical-engineering,129,Sun Yat Sen University,China,Guangzhou,30.4,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+136,mechanical-engineering,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,30.4,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+137,mechanical-engineering,290,Korea University,South Korea,Seoul,30.3,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+138,mechanical-engineering,673,Zhejiang University of Technology,China,Hangzhou,30.3,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+139,mechanical-engineering,629,University of Stuttgart,Germany,Stuttgart,30,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+140,mechanical-engineering,901,University of Shanghai for Science & Technology,China,Shanghai,29.8,40.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-shanghai-for-science-technology-529079
+141,mechanical-engineering,282,China University of Geosciences,China,Wuhan,28.9,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+142,mechanical-engineering,63,University of Wisconsin Madison,United States,Madison,28.8,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+143,mechanical-engineering,129,Seoul National University (SNU),South Korea,Seoul,28.4,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+144,mechanical-engineering,896,Indian Institute of Technology (IIT) - Roorkee,India,Roorkee,28,41,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-roorkee-528828
+145,mechanical-engineering,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,27.7,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+146,mechanical-engineering,120,Universidade de Sao Paulo,Brazil,Sao Paulo,27.5,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+147,mechanical-engineering,583,Indian Institute of Technology (IIT) - Bombay,India,Mumbai,27.2,48.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bombay-501259
+148,mechanical-engineering,79,Technical University of Munich,Germany,Munich,27.1,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+149,mechanical-engineering,739,Isfahan University of Technology,Iran,Isfahan,26.8,44.6,"11,323",https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590
+150,mechanical-engineering,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,26.6,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+151,mechanical-engineering,717,Indian Institute of Technology (IIT) - Delhi,India,New Delhi,26.2,45.3,"9,794",https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856
+152,mechanical-engineering,989,Chang'an University,China,Xi'an,25.9,39,N/A,https://www.usnews.com/education/best-global-universities/changan-university-529427
+153,mechanical-engineering,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,25.8,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+154,mechanical-engineering,570,Universitat Politecnica de Valencia,Spain,Valencia,25.6,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+155,mechanical-engineering,342,Eindhoven University of Technology,Netherlands,Eindhoven,24.9,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+156,mechanical-engineering,421,Jilin University,China,Changchun,24.9,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+157,mechanical-engineering,304,Technical University of Berlin,Germany,Berlin,23.9,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+158,mechanical-engineering,"1,372",Arts et Metiers Institute of Technology,France,Paris,22.8,30.7,N/A,https://www.usnews.com/education/best-global-universities/arts-et-metiers-institute-of-technology-529697
+159,mechanical-engineering,57,University of Minnesota Twin Cities,United States,Minneapolis,22.6,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+160,mechanical-engineering,912,Yeungnam University,South Korea,Gyeongsan,22.2,40.7,"19,345",https://www.usnews.com/education/best-global-universities/yeungnam-university-504367
+161,mechanical-engineering,643,East China University of Science & Technology,China,Shanghai,22,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+162,mechanical-engineering,377,Shandong University of Science & Technology,China,Qingdao,21.5,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+163,mechanical-engineering,400,University of Twente,Netherlands,Enschede,21.5,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+164,mechanical-engineering,"1,309",Wroclaw University of Science & Technology,Poland,Wroclaw,21.1,32,N/A,https://www.usnews.com/education/best-global-universities/wroclaw-university-of-science-technology-502904
+165,mechanical-engineering,"1,317",Ningbo University,China,Ningbo,20.7,31.8,N/A,https://www.usnews.com/education/best-global-universities/ningbo-university-529272
+166,mechanical-engineering,93,University of Bristol,United Kingdom,Bristol,20.6,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+167,mechanical-engineering,140,Kyoto University,Japan,Kyoto,19.9,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+168,mechanical-engineering,"1,354",Zhejiang Sci-Tech University,China,Hangzhou,19.7,31.2,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-sci-tech-university-529088
+169,mechanical-engineering,698,Pusan National University,South Korea,Busan,18.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+170,mechanical-engineering,"1,082",National University of Defense Technology - China,China,Changsha,18.7,37,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-defense-technology-china-505128
+171,mechanical-engineering,"1,489",Southwest Petroleum University,China,Chengdu,18.7,28,N/A,https://www.usnews.com/education/best-global-universities/southwest-petroleum-university-529461
+172,mechanical-engineering,"1,407",Yanshan University,China,Qinhuangdao,18.5,29.9,"38,649",https://www.usnews.com/education/best-global-universities/yanshan-university-529086
+173,mechanical-engineering,337,Chalmers University of Technology,Sweden,Gothenburg,18.3,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+174,mechanical-engineering,385,Polytechnic University of Catalonia,Spain,Barcelona,18.2,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+175,mechanical-engineering,"1,060",Dalian Maritime University,China,Dalian,18.1,37.4,N/A,https://www.usnews.com/education/best-global-universities/dalian-maritime-university-529341
+176,mechanical-engineering,450,University of Ljubljana,Slovenia,Ljubljana,18.1,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+177,mechanical-engineering,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,17.5,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+178,mechanical-engineering,879,Indian Institute of Technology (IIT) - Kanpur,India,Kanpur,16.5,41.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622
+179,mechanical-engineering,"1,498",Ecole Centrale de Lyon,France,Ecully,16,27.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-centrale-de-lyon-529054
+180,mechanical-engineering,564,Universidad Politecnica de Madrid,Spain,Madrid,15.6,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+181,mechanical-engineering,618,Universidade Federal de Santa Catarina (UFSC),Brazil,Florianopolis,14.7,47.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204
+182,mechanical-engineering,294,Universidade Estadual de Campinas,Brazil,Campinas,14.6,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+183,mechanical-engineering,732,Warsaw University of Technology,Poland,Warsaw,14.2,44.9,"26,482",https://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920
+184,mechanical-engineering,292,Yonsei University,South Korea,Seoul,14.2,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+185,mechanical-engineering,441,Hanyang University,South Korea,Seoul,14,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+186,mechanical-engineering,"1,106",Indian Institute of Technology (IIT) - Guwahati,India,Guwahati,13.5,36.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-guwahati-528994
+187,mechanical-engineering,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,13.2,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+188,mechanical-engineering,"1,327",National Institute of Technology Rourkela,India,Rourkela,12.8,31.7,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-rourkela-529700
+189,mechanical-engineering,"1,281",Xi'an University of Technology,China,Xi'an,10.5,32.6,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-technology-529477
+190,mechanical-engineering,"1,506",Indian Institute of Technology (Indian School of Mines) Dhanbad,India,Dhanbad,10.1,27.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-indian-school-of-mines-dhanbad-529410
+191,mechanical-engineering,263,Sungkyunkwan University (SKKU),South Korea,Seoul,9.3,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+192,mechanical-engineering,821,Shiraz University,Iran,Shiraz,9,42.5,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-500400
+193,mechanical-engineering,317,Technion Israel Institute of Technology,Israel,Haifa,9,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+194,mechanical-engineering,"1,140",Jiangsu University of Science & Technology,China,Zhenjiang,8.3,35.6,N/A,https://www.usnews.com/education/best-global-universities/jiangsu-university-of-science-technology-529475
+195,mechanical-engineering,178,Aix-Marseille Universite,France,Marseille,8.1,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+196,mechanical-engineering,526,Loughborough University,United Kingdom,Loughborough,8.1,50.3,"17,130",https://www.usnews.com/education/best-global-universities/loughborough-university-506503
+197,mechanical-engineering,"1,036",Chung Ang University,South Korea,Seoul,7.8,38,N/A,https://www.usnews.com/education/best-global-universities/chung-ang-university-500565
+198,mechanical-engineering,920,Universite de Poitiers,France,Poitiers,5.5,40.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-poitiers-501414
+199,mechanical-engineering,"1,734",Lanzhou University of Technology,China,Lanzhou,5.4,22.1,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-of-technology-529641
+200,mechanical-engineering,639,National Cheng Kung University,Taiwan,Tainan City,1,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356

@@ -1,0 +1,1001 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,clinical-medicine,1,Harvard University,United States,Cambridge (U.S.),100,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+2,clinical-medicine,10,Johns Hopkins University,United States,Baltimore,90.4,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+3,clinical-medicine,16,University of California San Francisco,United States,San Francisco,87.8,83.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699
+4,clinical-medicine,18,University of Toronto,Canada,Toronto,87.4,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+5,clinical-medicine,3,Stanford University,United States,Stanford,87.3,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+6,clinical-medicine,6,University of Washington Seattle,United States,Seattle,86.6,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+7,clinical-medicine,15,University of Pennsylvania,United States,Philadelphia,85.7,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+8,clinical-medicine,5,University of Oxford,United Kingdom,Oxford,84.8,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+9,clinical-medicine,7,Columbia University,United States,New York City,84.2,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+10,clinical-medicine,25,Duke University,United States,"Durham (North Carolina, U.S.)",83.9,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+11,clinical-medicine,19,University of Michigan,United States,Ann Arbor,83.9,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+12,clinical-medicine,14,University of California Los Angeles,United States,Los Angeles,83.7,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+13,clinical-medicine,11,Yale University,United States,New Haven,83.5,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+14,clinical-medicine,13,Imperial College London,United Kingdom,London (U.K.),83.3,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+15,clinical-medicine,12,University College London,United Kingdom,London (U.K.),82.9,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+16,clinical-medicine,45,University of Pittsburgh,United States,Pittsburgh,81.6,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+17,clinical-medicine,51,Karolinska Institutet,Sweden,Stockholm,81.4,74.9,"8,021",https://www.usnews.com/education/best-global-universities/karolinska-institutet-503151
+18,clinical-medicine,32,Washington University (WUSTL),United States,St. Louis,81.2,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+19,clinical-medicine,20,University of California San Diego,United States,La Jolla,80.6,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+20,clinical-medicine,28,University of Sydney,Australia,Sydney,79.9,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+21,clinical-medicine,72,Emory University,United States,Atlanta,79.7,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+22,clinical-medicine,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),79.6,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+23,clinical-medicine,78,Vanderbilt University,United States,Nashville,79.5,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+24,clinical-medicine,46,Icahn School of Medicine at Mount Sinai,United States,New York City,79.4,75.4,N/A,https://www.usnews.com/education/best-global-universities/icahn-school-of-medicine-at-mount-sinai-193405
+25,clinical-medicine,8,University of Cambridge,United Kingdom,Cambridge (U.K.),79.2,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+26,clinical-medicine,21,Cornell University,United States,Ithaca,79,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+27,clinical-medicine,50,KU Leuven,Belgium,Leuven,79,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+28,clinical-medicine,24,Northwestern University,United States,Evanston,79,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+29,clinical-medicine,41,University of North Carolina Chapel Hill,United States,Chapel Hill,79,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+30,clinical-medicine,48,Universite de Paris,France,Paris,78.9,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+31,clinical-medicine,42,University of Copenhagen,Denmark,Copenhagen,78.1,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+32,clinical-medicine,33,King's College London,United Kingdom,London (U.K.),78,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+33,clinical-medicine,27,University of Melbourne,Australia,Parkville,77.9,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+34,clinical-medicine,35,University of British Columbia,Canada,Vancouver,77.6,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+35,clinical-medicine,31,New York University,United States,New York City,77.5,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+36,clinical-medicine,138,McMaster University,Canada,Hamilton,77.3,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+37,clinical-medicine,86,University of Barcelona,Spain,Barcelona,77.3,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+38,clinical-medicine,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,77.2,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+39,clinical-medicine,65,Erasmus University Rotterdam,Netherlands,Rotterdam,76.8,73.4,N/A,https://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349
+40,clinical-medicine,39,University of Amsterdam,Netherlands,Amsterdam,76.7,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+41,clinical-medicine,54,McGill University,Canada,Montreal,76.2,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+42,clinical-medicine,160,University of Alabama Birmingham,United States,Birmingham (U.S.),76.1,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-alabama-birmingham-100663
+43,clinical-medicine,55,Ohio State University,United States,Columbus,75.9,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+44,clinical-medicine,22,University of Chicago,United States,Chicago,75.8,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+45,clinical-medicine,174,University of Colorado Anschutz Medical Campus,United States,Aurora,75.4,64.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-anschutz-medical-campus-529678
+46,clinical-medicine,26,National University of Singapore,Singapore,Singapore,75.2,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+47,clinical-medicine,129,Seoul National University (SNU),South Korea,Seoul,75.2,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+48,clinical-medicine,53,Chinese University of Hong Kong,Hong Kong,Shatin,74.6,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+49,clinical-medicine,48,Sorbonne Universite,France,Paris,74.6,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+50,clinical-medicine,136,Baylor College of Medicine,United States,Houston,74.5,67.1,N/A,https://www.usnews.com/education/best-global-universities/baylor-college-of-medicine-223223
+51,clinical-medicine,74,University of Glasgow,United Kingdom,Glasgow,74.5,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+52,clinical-medicine,133,University of Texas Southwestern Medical Center Dallas,United States,Dallas,74.3,67.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-southwestern-medical-center-dallas-228635
+53,clinical-medicine,47,University of Munich,Germany,Munich,74.2,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+54,clinical-medicine,37,Monash University,Australia,Clayton,74.1,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+55,clinical-medicine,34,University of Edinburgh,United Kingdom,Edinburgh,73.9,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+56,clinical-medicine,156,University of Milan,Italy,Milan,73.9,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+57,clinical-medicine,70,Boston University,United States,Boston,73.4,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+58,clinical-medicine,165,Oregon Health & Science University,United States,Portland,73.4,65.5,N/A,https://www.usnews.com/education/best-global-universities/oregon-health-science-university-209490
+59,clinical-medicine,63,University of Manchester,United Kingdom,Manchester,73.4,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+60,clinical-medicine,88,University of Groningen,Netherlands,Groningen,73.2,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+61,clinical-medicine,55,University of Hong Kong,Hong Kong,Pok Fu Lam,73.2,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+62,clinical-medicine,89,Shanghai Jiao Tong University,China,Shanghai,73,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+63,clinical-medicine,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,73,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+64,clinical-medicine,80,University of Southern California,United States,Los Angeles,72.9,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+65,clinical-medicine,89,University of Birmingham,United Kingdom,Birmingham (U.K.),72.8,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+66,clinical-medicine,61,Humboldt University of Berlin,Germany,Berlin,72.6,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+67,clinical-medicine,129,London School of Hygiene & Tropical Medicine,United Kingdom,London (U.K.),72.5,67.5,N/A,https://www.usnews.com/education/best-global-universities/london-school-of-hygiene-tropical-medicine-503353
+68,clinical-medicine,36,University of Queensland,Australia,Brisbane,72.5,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+69,clinical-medicine,39,Peking University,China,Beijing,72.4,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+70,clinical-medicine,60,Universite Paris Saclay,France,Saint-Aubin,72.4,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+71,clinical-medicine,107,University of Bern,Switzerland,Bern,72.4,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+72,clinical-medicine,57,University of Minnesota Twin Cities,United States,Minneapolis,72.3,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+73,clinical-medicine,116,Fudan University,China,Shanghai,72.2,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+74,clinical-medicine,89,University of Oslo,Norway,Oslo,72.2,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+75,clinical-medicine,152,Case Western Reserve University,United States,Cleveland,72,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+76,clinical-medicine,100,Queen Mary University London,United Kingdom,London (U.K.),71.8,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+77,clinical-medicine,206,Medical University of Vienna,Austria,Vienna,71.7,62.7,"7,274",https://www.usnews.com/education/best-global-universities/medical-university-of-vienna-504165
+78,clinical-medicine,120,Universidade de Sao Paulo,Brazil,Sao Paulo,71.7,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+79,clinical-medicine,74,Leiden University,Netherlands,Leiden,71.5,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+80,clinical-medicine,87,Free University of Berlin,Germany,Berlin,71.2,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+81,clinical-medicine,122,University of Bologna,Italy,Bologna,71.1,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+82,clinical-medicine,95,Ghent University,Belgium,Gent,70.8,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+83,clinical-medicine,136,University of Alberta,Canada,Edmonton,70.7,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+84,clinical-medicine,186,Maastricht University,Netherlands,Maastricht,70.6,63.6,N/A,https://www.usnews.com/education/best-global-universities/maastricht-university-505759
+85,clinical-medicine,109,Aarhus University,Denmark,Aarhus,70.5,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+86,clinical-medicine,140,Kyoto University,Japan,Kyoto,70.5,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+87,clinical-medicine,167,University of Utah,United States,Salt Lake City,70.4,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+88,clinical-medicine,156,Universite de Montreal,Canada,Montreal,70.3,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+89,clinical-medicine,99,University of Helsinki,Finland,Helsinki,70.3,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+90,clinical-medicine,175,University of Calgary,Canada,Calgary,69.8,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+91,clinical-medicine,146,University of Gothenburg,Sweden,Gothenburg,69.8,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+92,clinical-medicine,44,Utrecht University,Netherlands,Utrecht,69.8,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+93,clinical-medicine,112,Lund University,Sweden,Lund,69.7,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+94,clinical-medicine,119,University of Virginia,United States,Charlottesville,69.7,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+95,clinical-medicine,292,Yonsei University,South Korea,Seoul,69.6,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+96,clinical-medicine,81,University of Tokyo,Japan,Tokyo,69.5,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+97,clinical-medicine,98,University of Florida,United States,Gainesville,69.4,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+98,clinical-medicine,67,University of Zurich,Switzerland,Zurich,69.4,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+99,clinical-medicine,37,University of New South Wales Sydney,Australia,Kensington,69.2,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+100,clinical-medicine,115,University of Padua,Italy,Padua,69.1,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+101,clinical-medicine,106,Radboud University Nijmegen,Netherlands,Nijmegen,69,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+102,clinical-medicine,263,Sungkyunkwan University (SKKU),South Korea,Seoul,68.9,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+103,clinical-medicine,63,University of Wisconsin Madison,United States,Madison,68.9,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+104,clinical-medicine,203,National Taiwan University,Taiwan,Taipei,68.6,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+105,clinical-medicine,125,Sapienza University Rome,Italy,Rome,68.5,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+106,clinical-medicine,129,Sun Yat Sen University,China,Guangzhou,68.5,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+107,clinical-medicine,149,University of Hamburg,Germany,Hamburg,68.5,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+108,clinical-medicine,79,Technical University of Munich,Germany,Munich,68.3,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+109,clinical-medicine,215,University of Ottawa,Canada,Ottawa,68.3,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+110,clinical-medicine,125,University of Cape Town,South Africa,Cape Town,68.2,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+111,clinical-medicine,127,Uppsala University,Sweden,Uppsala,68.2,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+112,clinical-medicine,180,University of Iowa,United States,Iowa City,68.1,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+113,clinical-medicine,150,University of Basel,Switzerland,Basel,68,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+114,clinical-medicine,83,University of Western Australia,Australia,Crawley,68,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+115,clinical-medicine,146,University of Liverpool,United Kingdom,Liverpool,67.7,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+116,clinical-medicine,23,Tsinghua University,China,Beijing,67.6,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+117,clinical-medicine,253,University of Miami,United States,Coral Gables,67.5,60.5,"17,047",https://www.usnews.com/education/best-global-universities/university-of-miami-135726
+118,clinical-medicine,269,University of Texas Health Science Center Houston,United States,Houston,67.2,59.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-houston-229300
+119,clinical-medicine,109,University of Geneva,Switzerland,Geneva,67.1,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+120,clinical-medicine,104,University of Southampton,United Kingdom,Southampton,67.1,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+121,clinical-medicine,593,Peking Union Medical College,China,Beijing,66.9,48.4,N/A,https://www.usnews.com/education/best-global-universities/peking-union-medical-college-529794
+122,clinical-medicine,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),66.8,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+123,clinical-medicine,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,66.8,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+124,clinical-medicine,74,University of Adelaide,Australia,Adelaide,66.8,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+125,clinical-medicine,265,Yeshiva University,United States,New York City,66.8,59.9,N/A,https://www.usnews.com/education/best-global-universities/yeshiva-university-197708
+126,clinical-medicine,175,Tel Aviv University,Israel,Tel Aviv,66.7,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+127,clinical-medicine,129,Brown University,United States,Providence,66.5,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+128,clinical-medicine,226,Charles University Prague,Czech Republic,Prague,66.5,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+129,clinical-medicine,203,University of Cincinnati,United States,Cincinnati,66.4,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+130,clinical-medicine,140,University of Leeds,United Kingdom,Leeds,66.4,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+131,clinical-medicine,314,Vita-Salute San Raffaele University,Italy,Milan,66.3,57.7,N/A,https://www.usnews.com/education/best-global-universities/vita-salute-san-raffaele-university-501347
+132,clinical-medicine,439,Hannover Medical School,Germany,Hannover,66.2,53.5,N/A,https://www.usnews.com/education/best-global-universities/hannover-medical-school-503226
+133,clinical-medicine,349,University of Ibadan,Nigeria,Ibadan,66,56.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-ibadan-529052
+134,clinical-medicine,286,University of Maryland Baltimore,United States,Baltimore,65.9,59,N/A,https://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-163259
+135,clinical-medicine,170,University of Rochester,United States,Rochester,65.9,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+136,clinical-medicine,182,University of Lausanne,Switzerland,Lausanne,65.8,63.9,"13,402",https://www.usnews.com/education/best-global-universities/university-of-lausanne-505144
+137,clinical-medicine,405,Jefferson University,United States,Philadelphia,65.5,54.3,N/A,https://www.usnews.com/education/best-global-universities/jefferson-university-216366
+138,clinical-medicine,273,University of Milano-Bicocca,Italy,Milan,65.5,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+139,clinical-medicine,145,University of Nottingham,United Kingdom,Nottingham,65.5,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+140,clinical-medicine,143,Autonomous University of Barcelona,Spain,Barcelona,65.3,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+141,clinical-medicine,217,University of Leicester,United Kingdom,Leicester,65.3,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+142,clinical-medicine,73,University of California Davis,United States,Davis,65.2,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+143,clinical-medicine,93,University of Bristol,United Kingdom,Bristol,65.1,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+144,clinical-medicine,4,University of California Berkeley,United States,Berkeley,64.5,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+145,clinical-medicine,239,Tufts University,United States,Medford,64.4,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+146,clinical-medicine,108,University of Arizona,United States,Tucson,64.2,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+147,clinical-medicine,123,University of Auckland,New Zealand,Auckland,64.2,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+148,clinical-medicine,150,Wuhan University,China,Wuhan,64.2,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+149,clinical-medicine,432,Medical University of South Carolina,United States,Charleston,64.1,53.6,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-south-carolina-218335
+150,clinical-medicine,356,University of Colorado Denver,United States,Denver,64.1,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-denver-126562
+151,clinical-medicine,209,University of Turin,Italy,Turin,64,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+152,clinical-medicine,178,Aix-Marseille Universite,France,Marseille,63.9,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+153,clinical-medicine,261,University of Southern Denmark,Denmark,Odense,63.9,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+154,clinical-medicine,710,University of Ulsan,South Korea,Ulsan,63.9,45.4,"12,415",https://www.usnews.com/education/best-global-universities/university-of-ulsan-500178
+155,clinical-medicine,109,Huazhong University of Science & Technology,China,Wuhan,63.8,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+156,clinical-medicine,236,Goethe University Frankfurt,Germany,Frankfurt am Main,63.7,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+157,clinical-medicine,,University of the Philippines Manila,Philippines,Manila,63.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-philippines-manila-529741
+158,clinical-medicine,93,Zhejiang University,China,Hangzhou,63.7,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+159,clinical-medicine,182,Eberhard Karls University of Tubingen,Germany,Tubingen,63.6,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+160,clinical-medicine,372,Baylor University,United States,Waco,63.5,55.2,N/A,https://www.usnews.com/education/best-global-universities/baylor-university-223232
+161,clinical-medicine,366,Catholic University of the Sacred Heart,Italy,Milan,63.3,55.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-the-sacred-heart-503167
+162,clinical-medicine,333,Medical University of Graz,Austria,Graz,63.3,56.8,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-graz-501562
+163,clinical-medicine,84,University of California Irvine,United States,Irvine,63.3,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+164,clinical-medicine,286,Osaka University,Japan,Suita,63.2,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+165,clinical-medicine,439,Virginia Commonwealth University,United States,Richmond,63.2,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+166,clinical-medicine,300,Western University (University of Western Ontario),Canada,London (Canada),63.2,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+167,clinical-medicine,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,63.1,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+168,clinical-medicine,247,University of Otago,New Zealand,Dunedin,63.1,60.7,"18,508",https://www.usnews.com/education/best-global-universities/university-of-otago-506723
+169,clinical-medicine,421,University of Texas Health San Antonio,United States,San Antonio,63.1,53.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-san-antonio-228644
+170,clinical-medicine,554,Hacettepe University,Turkey,Ankara,62.9,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+171,clinical-medicine,339,Jagiellonian University,Poland,Krakow,62.9,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+172,clinical-medicine,84,Pennsylvania State University,United States,University Park,62.9,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+173,clinical-medicine,322,Ulm University,Germany,Ulm,62.9,57.4,"10,271",https://www.usnews.com/education/best-global-universities/ulm-university-502475
+174,clinical-medicine,199,University of Bergen,Norway,Bergen,62.9,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+175,clinical-medicine,209,Central South University,China,Changsha,62.8,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+176,clinical-medicine,241,Hebrew University of Jerusalem,Israel,Jerusalem,62.8,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+177,clinical-medicine,250,University of Illinois Chicago,United States,Chicago,62.8,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+178,clinical-medicine,134,University of Sheffield,United Kingdom,Sheffield,62.8,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+179,clinical-medicine,152,Cardiff University,United Kingdom,Cardiff,62.7,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+180,clinical-medicine,178,University of Freiburg,Germany,Freiburg,62.6,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+181,clinical-medicine,250,University of Florence,Italy,Florence,62.5,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+182,clinical-medicine,247,Universidade do Porto,Portugal,Porto,62.3,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+183,clinical-medicine,223,University of Antwerp,Belgium,Antwerp,62.3,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+184,clinical-medicine,219,University of Munster,Germany,Munster,62.3,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+185,clinical-medicine,244,University of Witwatersrand,South Africa,Johannesburg,62.3,60.8,"26,871",https://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909
+186,clinical-medicine,30,Nanyang Technological University,Singapore,Singapore,62.2,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+187,clinical-medicine,416,St Georges University London,United Kingdom,London (U.K.),62.1,54,"3,535",https://www.usnews.com/education/best-global-universities/st-georges-university-london-502037
+188,clinical-medicine,152,Indiana University Bloomington,United States,Bloomington,62,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+189,clinical-medicine,450,Tulane University,United States,New Orleans,61.9,53.2,"11,220",https://www.usnews.com/education/best-global-universities/tulane-university-160755
+190,clinical-medicine,194,Universite de Montpellier,France,Montpellier,61.9,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+191,clinical-medicine,138,University of Bonn,Germany,Bonn,61.9,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+192,clinical-medicine,517,Keio University,Japan,Tokyo,61.8,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+193,clinical-medicine,468,University of Verona,Italy,Verona,61.8,52.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-verona-503896
+194,clinical-medicine,219,University of Pisa,Italy,Pisa,61.7,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+195,clinical-medicine,478,Aga Khan University,Pakistan,Karachi,61.6,52.2,N/A,https://www.usnews.com/education/best-global-universities/aga-khan-university-528969
+196,clinical-medicine,194,Northeastern University,United States,Boston,61.6,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+197,clinical-medicine,290,Universite de Bordeaux,France,Talence,61.5,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+198,clinical-medicine,70,University of Colorado Boulder,United States,Boulder,61.5,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+199,clinical-medicine,256,University of Erlangen Nuremberg,Germany,Erlangen,61.5,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+200,clinical-medicine,280,University of Kiel,Germany,Kiel,61.5,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+201,clinical-medicine,261,Dartmouth College,United States,Hanover,61.4,60.1,"6,440",https://www.usnews.com/education/best-global-universities/dartmouth-college-182670
+202,clinical-medicine,304,Sichuan University,China,Chengdu,61.4,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+203,clinical-medicine,202,Universidade de Lisboa,Portugal,Lisbon,61.4,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+204,clinical-medicine,605,University of Oklahoma Health Sciences Center,United States,Oklahoma City,61.1,48.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oklahoma-health-sciences-center-207342
+205,clinical-medicine,487,University of Massachusetts Boston,United States,Boston,61,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-boston-166638
+206,clinical-medicine,186,Technische Universitat Dresden,Germany,Dresden,60.9,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+207,clinical-medicine,463,Wake Forest University,United States,Winston-Salem,60.9,52.8,N/A,https://www.usnews.com/education/best-global-universities/wake-forest-university-199847
+208,clinical-medicine,304,La Trobe University,Australia,Melbourne (Australia),60.8,58.1,"21,663",https://www.usnews.com/education/best-global-universities/la-trobe-university-501305
+209,clinical-medicine,884,Capital Medical University,China,Beijing,60.7,41.2,N/A,https://www.usnews.com/education/best-global-universities/capital-medical-university-504555
+210,clinical-medicine,512,Mahidol University,Thailand,Salaya,60.7,50.7,"28,477",https://www.usnews.com/education/best-global-universities/mahidol-university-503481
+211,clinical-medicine,517,Tehran University of Medical Sciences,Iran,Tehran,60.7,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+212,clinical-medicine,,Jimma University,Ethiopia,Jimma,60.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/jimma-university-529904
+213,clinical-medicine,615,Medical College of Wisconsin,United States,Milwaukee,60.5,48,N/A,https://www.usnews.com/education/best-global-universities/medical-college-of-wisconsin-239169
+214,clinical-medicine,304,Stellenbosch University,South Africa,Stellenbosch,60.5,58.1,"24,907",https://www.usnews.com/education/best-global-universities/stellenbosch-university-500980
+215,clinical-medicine,342,University of Turku,Finland,Turku,60.5,56.4,"12,919",https://www.usnews.com/education/best-global-universities/university-of-turku-504089
+216,clinical-medicine,152,University of Exeter,United Kingdom,Exeter,60.4,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+217,clinical-medicine,212,University of Valencia,Spain,Valencia,60.4,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+218,clinical-medicine,346,Leipzig University,Germany,Leipzig,60.3,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+219,clinical-medicine,,Alfaisal University,Saudi Arabia,Riyadh,60.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/alfaisal-university-529740
+220,clinical-medicine,185,University of Naples Federico II,Italy,Naples,60.1,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+221,clinical-medicine,472,Humanitas University,Italy,Milan,60,52.4,N/A,https://www.usnews.com/education/best-global-universities/humanitas-university-529627
+222,clinical-medicine,544,Jordan University of Science & Technology,Jordan,Irbid,59.9,49.9,N/A,https://www.usnews.com/education/best-global-universities/jordan-university-of-science-technology-511732
+223,clinical-medicine,213,King Saud University,Saudi Arabia,Riyadh,59.9,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+224,clinical-medicine,226,Universiti Malaya,Malaysia,Kuala Lumpur,59.9,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+225,clinical-medicine,314,Dalhousie University,Canada,Halifax,59.8,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+226,clinical-medicine,300,University of Duisburg Essen,Germany,Essen,59.8,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+227,clinical-medicine,372,University of Manitoba,Canada,Winnipeg,59.8,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+228,clinical-medicine,62,Australian National University,Australia,Canberra,59.7,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+229,clinical-medicine,337,Complutense University of Madrid,Spain,Madrid,59.7,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+230,clinical-medicine,397,Laval University,Canada,Quebec City,59.7,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+231,clinical-medicine,486,Rush University,United States,Chicago,59.7,51.8,N/A,https://www.usnews.com/education/best-global-universities/rush-university-148511
+232,clinical-medicine,236,University College Dublin,Ireland,Dublin,59.7,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+233,clinical-medicine,256,University of Tartu,Estonia,Tartu,59.7,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-tartu-502553
+234,clinical-medicine,573,Addis Ababa University,Ethiopia,Addis Ababa,59.6,49,N/A,https://www.usnews.com/education/best-global-universities/addis-ababa-university-529036
+235,clinical-medicine,215,Trinity College Dublin,Ireland,Dublin,59.6,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+236,clinical-medicine,163,University of Gottingen,Germany,Gottingen,59.6,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+237,clinical-medicine,360,University of Liege,Belgium,Liege,59.6,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+238,clinical-medicine,231,University of Newcastle,Australia,Callaghan,59.6,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+239,clinical-medicine,143,Rutgers State University New Brunswick,United States,Piscataway Township,59.5,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+240,clinical-medicine,286,State University of New York (SUNY) Buffalo,United States,Buffalo,59.5,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+241,clinical-medicine,116,Michigan State University,United States,East Lansing,59.4,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+242,clinical-medicine,286,Tohoku University,Japan,Sendai,59.4,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+243,clinical-medicine,292,Vrije Universiteit Brussel,Belgium,Elsene,59.4,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+244,clinical-medicine,500,Indiana University-Purdue University Indianapolis,United States,Indianapolis,59.3,51.3,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-purdue-university-indianapolis-151111
+245,clinical-medicine,389,University of Navarra,Spain,Pamplona,59.3,54.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-navarra-500141
+246,clinical-medicine,171,Queensland University of Technology (QUT),Australia,Brisbane,59.2,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+247,clinical-medicine,583,Universidade Federal de Sao Paulo (UNIFESP),Brazil,Sao Paulo,59.2,48.7,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-paulo-unifesp-501953
+248,clinical-medicine,300,University of Genoa,Italy,Genoa,59.2,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+249,clinical-medicine,241,Johannes Gutenberg University of Mainz,Germany,Mainz,59,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+250,clinical-medicine,493,Mekelle University,Ethiopia,Mekelle,59,51.6,N/A,https://www.usnews.com/education/best-global-universities/mekelle-university-530027
+251,clinical-medicine,405,Heinrich Heine University Dusseldorf,Germany,Dusseldorf,58.9,54.3,N/A,https://www.usnews.com/education/best-global-universities/heinrich-heine-university-dusseldorf-503659
+252,clinical-medicine,103,Rockefeller University,United States,New York City,58.9,70,255,https://www.usnews.com/education/best-global-universities/rockefeller-university-195049
+253,clinical-medicine,244,University of Cologne,Germany,Koln,58.9,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+254,clinical-medicine,295,University of Pavia,Italy,Pavia,58.9,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+255,clinical-medicine,"1,002",Carol Davila University of Medicine & Pharmacy,Romania,Bucharest,58.8,38.7,N/A,https://www.usnews.com/education/best-global-universities/carol-davila-university-of-medicine-pharmacy-529201
+256,clinical-medicine,290,Korea University,South Korea,Seoul,58.7,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+257,clinical-medicine,426,Flinders University South Australia,Australia,Bedford Park,58.6,53.8,"17,366",https://www.usnews.com/education/best-global-universities/flinders-university-south-australia-504837
+258,clinical-medicine,304,University of Kansas,United States,Lawrence,58.6,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+259,clinical-medicine,587,University of Lagos,Nigeria,Lagos,58.6,48.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-lagos-529618
+260,clinical-medicine,271,George Washington University,United States,"Washington, D.C.",58.5,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+261,clinical-medicine,231,Autonomous University of Madrid,Spain,Madrid,58.4,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+262,clinical-medicine,366,Umea University,Sweden,Umea,58.4,55.5,N/A,https://www.usnews.com/education/best-global-universities/umea-university-504031
+263,clinical-medicine,192,University of Wurzburg,Germany,Wurzburg,58.4,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+264,clinical-medicine,429,Queens University - Canada,Canada,Kingston (Canada),58.2,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+265,clinical-medicine,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,58.1,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+266,clinical-medicine,385,Wayne State University,United States,Detroit,58.1,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+267,clinical-medicine,826,All India Institute of Medical Sciences (AIIMS) New Delhi,India,New Delhi,58,42.4,N/A,https://www.usnews.com/education/best-global-universities/all-india-institute-of-medical-sciences-aiims-new-delhi-500492
+268,clinical-medicine,370,University of Kwazulu Natal,South Africa,Durban,58,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+269,clinical-medicine,217,Deakin University,Australia,Burwood,57.9,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+270,clinical-medicine,349,Kyushu University,Japan,Fukuoka,57.9,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+271,clinical-medicine,884,Tokyo Medical & Dental University (TMDU),Japan,Tokyo,57.9,41.2,N/A,https://www.usnews.com/education/best-global-universities/tokyo-medical-dental-university-tmdu-505893
+272,clinical-medicine,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,57.9,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+273,clinical-medicine,226,Universite Libre de Bruxelles,Belgium,Brussels,57.9,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+274,clinical-medicine,459,University of Belgrade,Serbia,Belgrade,57.9,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+275,clinical-medicine,160,Curtin University,Australia,Bentley,57.8,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+276,clinical-medicine,745,Istanbul University,Turkey,Istanbul,57.8,44.5,"59,250",https://www.usnews.com/education/best-global-universities/istanbul-university-502403
+277,clinical-medicine,736,Nanjing Medical University,China,Gulou,57.7,44.7,"19,277",https://www.usnews.com/education/best-global-universities/nanjing-medical-university-500938
+278,clinical-medicine,89,Wageningen University & Research,Netherlands,Wageningen,57.6,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+279,clinical-medicine,653,Semmelweis University,Hungary,Budapest,57.4,46.8,"9,860",https://www.usnews.com/education/best-global-universities/semmelweis-university-502811
+280,clinical-medicine,163,University of Warwick,United Kingdom,Coventry,57.4,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+281,clinical-medicine,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,57.3,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+282,clinical-medicine,860,Southern Medical University - China,China,Guangzhou,57.3,41.8,N/A,https://www.usnews.com/education/best-global-universities/southern-medical-university-china-529257
+283,clinical-medicine,199,RWTH Aachen University,Germany,Aachen,57.2,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+284,clinical-medicine,317,University of South Florida,United States,Tampa,57.2,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+285,clinical-medicine,379,Medical University of Innsbruck,Austria,Innsbruck,57.1,55,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-innsbruck-505463
+286,clinical-medicine,267,Aalborg University,Denmark,Aalborg,57,59.8,"16,818",https://www.usnews.com/education/best-global-universities/aalborg-university-501276
+287,clinical-medicine,835,Wroclaw Medical University,Poland,Wroclaw,57,42.3,"6,373",https://www.usnews.com/education/best-global-universities/wroclaw-medical-university-529400
+288,clinical-medicine,363,Cairo University,Egypt,Giza,56.9,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+289,clinical-medicine,182,Lancaster University,United Kingdom,Lancaster,56.9,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+290,clinical-medicine,372,Auckland University of Technology,New Zealand,Auckland,56.8,55.2,"18,837",https://www.usnews.com/education/best-global-universities/auckland-university-of-technology-528944
+291,clinical-medicine,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,56.8,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+292,clinical-medicine,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,56.7,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+293,clinical-medicine,662,Universidad Nacional de Colombia,Colombia,Bogota,56.6,46.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-nacional-de-colombia-505620
+294,clinical-medicine,43,University of Texas Austin,United States,Austin,56.6,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+295,clinical-medicine,653,Universite Paris-Est-Creteil-Val-de-Marne (UPEC),France,Creteil,56.4,46.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-est-creteil-val-de-marne-upec-528863
+296,clinical-medicine,234,Western Sydney University,Australia,Penrith,56.4,61.3,"36,033",https://www.usnews.com/education/best-global-universities/western-sydney-university-506826
+297,clinical-medicine,426,University of Buenos Aires,Argentina,Buenos Aires,56.3,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+298,clinical-medicine,203,Griffith University,Australia,Nathan,56.2,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+299,clinical-medicine,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,56.2,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+300,clinical-medicine,487,North West University - South Africa,South Africa,Potchefstroom,56.1,51.7,N/A,https://www.usnews.com/education/best-global-universities/north-west-university-south-africa-528970
+301,clinical-medicine,379,Friedrich Schiller University of Jena,Germany,Jena,56,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+302,clinical-medicine,294,Universidade Estadual de Campinas,Brazil,Campinas,56,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+303,clinical-medicine,472,American University of Beirut,Lebanon,Beirut,55.9,52.4,"9,267",https://www.usnews.com/education/best-global-universities/american-university-of-beirut-499994
+304,clinical-medicine,333,Nagoya University,Japan,Nagoya,55.8,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+305,clinical-medicine,633,Sechenov First Moscow State Medical University,Russia,Moscow (Russia),55.8,47.3,"16,575",https://www.usnews.com/education/best-global-universities/sechenov-first-moscow-state-medical-university-529709
+306,clinical-medicine,770,Christian Medical College & Hospital (CMCH) Vellore,India,Vellore,55.7,43.9,N/A,https://www.usnews.com/education/best-global-universities/christian-medical-college-hospital-cmch-vellore-529356
+307,clinical-medicine,625,University of Tennessee Health Science Center,United States,Memphis,55.7,47.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-tennessee-health-science-center-499917
+308,clinical-medicine,432,Hokkaido University,Japan,Sapporo,55.6,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+309,clinical-medicine,794,Iran University of Medical Sciences,Iran,Tehran,55.5,43.3,N/A,https://www.usnews.com/education/best-global-universities/iran-university-of-medical-sciences-529414
+310,clinical-medicine,447,Mansoura University,Egypt,Mansoura,55.5,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+311,clinical-medicine,722,Ankara University,Turkey,Ankara,55.4,45.2,"71,311",https://www.usnews.com/education/best-global-universities/ankara-university-503075
+312,clinical-medicine,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,55.4,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+313,clinical-medicine,309,University of Connecticut,United States,Storrs,55.4,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+314,clinical-medicine,324,Georgetown University,United States,"Washington, D.C.",55.3,57.3,"16,074",https://www.usnews.com/education/best-global-universities/georgetown-university-131496
+315,clinical-medicine,309,Temple University,United States,Philadelphia,55.3,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+316,clinical-medicine,277,Universite de Strasbourg,France,Strasbourg,55.3,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+317,clinical-medicine,356,University of Kentucky,United States,Lexington,55.3,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+318,clinical-medicine,510,University of Vermont,United States,Burlington,55.3,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-vermont-231174
+319,clinical-medicine,688,Kwame Nkrumah University Science & Technology,Ghana,Kumasi,55.2,46,N/A,https://www.usnews.com/education/best-global-universities/kwame-nkrumah-university-science-technology-529441
+320,clinical-medicine,236,London School Economics & Political Science,United Kingdom,London (U.K.),55.2,61.2,"11,310",https://www.usnews.com/education/best-global-universities/london-school-economics-political-science-502076
+321,clinical-medicine,400,Nantes Universite,France,Nantes,55.2,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+322,clinical-medicine,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,55.2,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+323,clinical-medicine,907,Taipei Medical University,Taiwan,Taipei City,55.2,40.8,N/A,https://www.usnews.com/education/best-global-universities/taipei-medical-university-501451
+324,clinical-medicine,649,Saint Louis University,United States,St. Louis,55.1,47,N/A,https://www.usnews.com/education/best-global-universities/saint-louis-university-179159
+325,clinical-medicine,618,Universidade Federal de Santa Catarina (UFSC),Brazil,Florianopolis,55,47.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204
+326,clinical-medicine,112,University of Technology Sydney,Australia,Ultimo,55,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+327,clinical-medicine,65,King Abdulaziz University,Saudi Arabia,Jeddah,54.9,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+328,clinical-medicine,561,Universita di Modena e Reggio Emilia,Italy,Modena,54.9,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+329,clinical-medicine,583,Kobe University,Japan,Kobe,54.8,48.7,"15,478",https://www.usnews.com/education/best-global-universities/kobe-university-504263
+330,clinical-medicine,429,Universidade de Coimbra,Portugal,Coimbra,54.8,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+331,clinical-medicine,413,Universite de Lorraine,France,Nancy,54.8,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+332,clinical-medicine,300,University of Rome Tor Vergata,Italy,Rome,54.8,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+333,clinical-medicine,295,Queens University Belfast,United Kingdom,Belfast,54.7,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+334,clinical-medicine,148,Texas A&M University College Station,United States,College Station,54.7,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+335,clinical-medicine,392,University of Mississippi,United States,University,54.7,54.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-mississippi-176017
+336,clinical-medicine,526,University of Brescia,Italy,Brescia,54.6,50.3,"15,134",https://www.usnews.com/education/best-global-universities/university-of-brescia-502286
+337,clinical-medicine,,International Medical University Malaysia,Malaysia,Kuala Lumpur,54.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/international-medical-university-malaysia-529742
+338,clinical-medicine,504,Universiti Sains Malaysia,Malaysia,Penang,54.5,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+339,clinical-medicine,"1,190",Catholic University of Korea,South Korea,Bucheon,54.4,34.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-korea-504494
+340,clinical-medicine,896,Mazandaran University Medical Sciences,Iran,Sari,54.4,41,N/A,https://www.usnews.com/education/best-global-universities/mazandaran-university-medical-sciences-529621
+341,clinical-medicine,317,Technion Israel Institute of Technology,Israel,Haifa,54.4,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+342,clinical-medicine,441,University of Massachusetts Worcester,United States,Worcester,54.4,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-worcester-166708
+343,clinical-medicine,432,University of Tsukuba,Japan,Tsukuba,54.4,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+344,clinical-medicine,29,ETH Zurich,Switzerland,Zurich,54.3,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+345,clinical-medicine,313,University of Granada,Spain,Granada,54.3,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+346,clinical-medicine,447,University of Oulu,Finland,Oulu,54.3,53.3,"10,134",https://www.usnews.com/education/best-global-universities/university-of-oulu-502651
+347,clinical-medicine,826,Shahid Beheshti University Medical Sciences,Iran,Tehran,54.2,42.4,N/A,https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-medical-sciences-501678
+348,clinical-medicine,,Sanjay Gandhi Postgraduate Institute of Medical Sciences,India,Lucknow,54.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/sanjay-gandhi-postgraduate-institute-of-medical-sciences-529743
+349,clinical-medicine,397,University College Cork,Ireland,Cork,54.1,54.5,"18,073",https://www.usnews.com/education/best-global-universities/university-college-cork-502427
+350,clinical-medicine,487,University of Bielefeld,Germany,Bielefeld,54,51.7,"24,875",https://www.usnews.com/education/best-global-universities/university-of-bielefeld-504564
+351,clinical-medicine,"1,113",China Medical University,China,Shenyang,53.9,36.3,N/A,https://www.usnews.com/education/best-global-universities/china-medical-university-506215
+352,clinical-medicine,920,New York Medical College,United States,Valhalla,53.9,40.5,N/A,https://www.usnews.com/education/best-global-universities/new-york-medical-college-193830
+353,clinical-medicine,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,53.9,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+354,clinical-medicine,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,53.8,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+355,clinical-medicine,416,Australian Catholic University,Australia,Melbourne (Australia),53.7,54,"23,728",https://www.usnews.com/education/best-global-universities/australian-catholic-university-529148
+356,clinical-medicine,"1,060","Post Graduate Institute of Medical Education & Research (PGIMER), Chandigarh",India,Chandigarh,53.7,37.4,N/A,https://www.usnews.com/education/best-global-universities/post-graduate-institute-of-medical-education-research-pgimer-chandigarh-529687
+357,clinical-medicine,835,Yokohama City University,Japan,Yokohama,53.5,42.3,N/A,https://www.usnews.com/education/best-global-universities/yokohama-city-university-529035
+358,clinical-medicine,540,Ain Shams University,Egypt,Cairo,53.4,50,"146,668",https://www.usnews.com/education/best-global-universities/ain-shams-university-500744
+359,clinical-medicine,"1,233",Juntendo University,Japan,Tokyo,53.4,33.7,N/A,https://www.usnews.com/education/best-global-universities/juntendo-university-502999
+360,clinical-medicine,702,University of Missouri Kansas City,United States,"Kansas City (Missouri, U.S.)",53.3,45.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-missouri-kansas-city-178402
+361,clinical-medicine,475,UiT The Arctic University of Tromso,Norway,Tromso,53.1,52.3,N/A,https://www.usnews.com/education/best-global-universities/uit-the-arctic-university-of-tromso-500047
+362,clinical-medicine,653,University of Lubeck,Germany,Lubeck,53.1,46.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-lubeck-528857
+363,clinical-medicine,330,University of East Anglia,United Kingdom,Norwich,53,57,"16,245",https://www.usnews.com/education/best-global-universities/university-of-east-anglia-503561
+364,clinical-medicine,"1,113",Air Force Military Medical University,China,Xi'an,52.8,36.3,N/A,https://www.usnews.com/education/best-global-universities/air-force-military-medical-university-506665
+365,clinical-medicine,,Hanoi Medical University,Vietnam,Hanoi,52.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/hanoi-medical-university-530157
+366,clinical-medicine,"1,027",Harbin Medical University,China,Harbin,52.7,38.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-medical-university-502045
+367,clinical-medicine,,Norwegian School of Sport Sciences,Norway,Olso,52.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/norwegian-school-of-sport-sciences-529358
+368,clinical-medicine,363,University of South Australia,Australia,Adelaide,52.7,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+369,clinical-medicine,551,Ollscoil na Gaillimhe-University of Galway,Ireland,Galway,52.6,49.6,N/A,https://www.usnews.com/education/best-global-universities/ollscoil-na-gaillimhe-university-of-galway-505038
+370,clinical-medicine,"1,180",Tokyo Medical University,Japan,Tokyo,52.6,34.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-medical-university-529058
+371,clinical-medicine,475,Justus Liebig University Giessen,Germany,Giessen,52.4,52.3,N/A,https://www.usnews.com/education/best-global-universities/justus-liebig-university-giessen-500790
+372,clinical-medicine,779,Mashhad University Medical Science,Iran,Mahshad,52.4,43.7,N/A,https://www.usnews.com/education/best-global-universities/mashhad-university-medical-science-529398
+373,clinical-medicine,123,Nanjing University,China,Nanjing,52.4,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+374,clinical-medicine,219,Xi'an Jiaotong University,China,Xi'an,52.4,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+375,clinical-medicine,"1,088",Chang Gung University,Taiwan,Taoyuan City,52.3,36.8,"7,016",https://www.usnews.com/education/best-global-universities/chang-gung-university-505417
+376,clinical-medicine,"1,275",Istanbul University - Cerrahpasa,Turkey,Istanbul,52.3,32.7,N/A,https://www.usnews.com/education/best-global-universities/istanbul-university-cerrahpasa-529526
+377,clinical-medicine,767,Howard University,United States,"Washington, D.C.",52.2,44,N/A,https://www.usnews.com/education/best-global-universities/howard-university-131520
+378,clinical-medicine,520,Martin Luther University Halle Wittenberg,Germany,Halle,52.2,50.5,N/A,https://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747
+379,clinical-medicine,452,University of Siena,Italy,Siena,52.2,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-siena-504323
+380,clinical-medicine,667,University of Texas Medical Branch Galveston,United States,Galveston,52.2,46.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-medical-branch-galveston-228653
+381,clinical-medicine,507,China Medical University Taiwan,Taiwan,Taichung,52.1,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+382,clinical-medicine,16,Princeton University,United States,Princeton,52.1,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+383,clinical-medicine,794,University of Nairobi,Kenya,Nairobi,52.1,43.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-nairobi-529444
+384,clinical-medicine,192,Macquarie University,Australia,North Ryde,52,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+385,clinical-medicine,441,University of Saskatchewan,Canada,Saskatoon,52,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+386,clinical-medicine,517,University of Zagreb,Croatia,Zagreb,52,50.6,"65,436",https://www.usnews.com/education/best-global-universities/university-of-zagreb-502783
+387,clinical-medicine,667,Hiroshima University,Japan,Hiroshima,51.9,46.5,"14,612",https://www.usnews.com/education/best-global-universities/hiroshima-university-502589
+388,clinical-medicine,547,Chulalongkorn University,Thailand,Bangkok,51.8,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+389,clinical-medicine,750,Okayama University,Japan,Okayama City,51.8,44.4,N/A,https://www.usnews.com/education/best-global-universities/okayama-university-504249
+390,clinical-medicine,127,Stockholm University,Sweden,Stockholm,51.8,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+391,clinical-medicine,405,State University of New York (SUNY) Albany,United States,Albany,51.7,54.3,"16,090",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-albany-196060
+392,clinical-medicine,277,University of Aberdeen,United Kingdom,Aberdeen,51.6,59.3,"13,010",https://www.usnews.com/education/best-global-universities/university-of-aberdeen-501749
+393,clinical-medicine,74,University of Illinois Urbana-Champaign,United States,Champaign,51.6,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+394,clinical-medicine,213,Southern University of Science & Technology,China,Shenzhen,51.5,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+395,clinical-medicine,196,Pompeu Fabra University,Spain,Barcelona,51.4,63.2,"11,965",https://www.usnews.com/education/best-global-universities/pompeu-fabra-university-504748
+396,clinical-medicine,346,University of South Carolina Columbia,United States,Columbia,51.4,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+397,clinical-medicine,679,United Arab Emirates University,United Arab Emirates,Al-Ain,51.3,46.2,N/A,https://www.usnews.com/education/best-global-universities/united-arab-emirates-university-514827
+398,clinical-medicine,593,University of Canberra,Australia,Canberra,51.2,48.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-canberra-529147
+399,clinical-medicine,339,University of Dundee,United Kingdom,Dundee,51.2,56.6,"13,550",https://www.usnews.com/education/best-global-universities/university-of-dundee-506606
+400,clinical-medicine,826,Banaras Hindu University (BHU),India,Varanasi,51.1,42.4,N/A,https://www.usnews.com/education/best-global-universities/banaras-hindu-university-bhu-503462
+401,clinical-medicine,"1,042",King Saud Bin Abdulaziz University for Health Sciences,Saudi Arabia,Riyadh,51.1,37.8,N/A,https://www.usnews.com/education/best-global-universities/king-saud-bin-abdulaziz-university-for-health-sciences-514629
+402,clinical-medicine,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,51.1,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+403,clinical-medicine,346,Ruhr University Bochum,Germany,Bochum,51,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+404,clinical-medicine,389,Universite de Lille,France,Lille,51,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+405,clinical-medicine,930,University of Gondar,Ethiopia,Gondar,51,40.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-gondar-529442
+406,clinical-medicine,643,University of Louisville,United States,Louisville,51,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-louisville-157289
+407,clinical-medicine,970,University of Indonesia,Indonesia,Depok,50.9,39.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-indonesia-529367
+408,clinical-medicine,452,University of Missouri Columbia,United States,Columbia,50.9,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+409,clinical-medicine,"1,032",Manipal Academy of Higher Education (MAHE),India,Manipal,50.7,38.1,"23,002",https://www.usnews.com/education/best-global-universities/manipal-academy-of-higher-education-mahe-528886
+410,clinical-medicine,639,National Cheng Kung University,Taiwan,Tainan City,50.7,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+411,clinical-medicine,901,Universidade Federal de Pelotas,Brazil,Pelotas,50.7,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pelotas-528834
+412,clinical-medicine,400,Universidad de Chile,Chile,Santiago,50.6,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+413,clinical-medicine,368,Shandong University,China,Jinan,50.5,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+414,clinical-medicine,"1,037",University of Arkansas Medical Sciences,United States,Little Rock,50.5,37.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-arkansas-medical-sciences-106263
+415,clinical-medicine,191,University of Waterloo,Canada,Waterloo,50.5,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+416,clinical-medicine,977,Shiraz University of Medical Science,Iran,Shiraz,50.3,39.2,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-of-medical-science-529286
+417,clinical-medicine,280,University of York - UK,United Kingdom,York,50.3,59.2,"17,965",https://www.usnews.com/education/best-global-universities/university-of-york-uk-505776
+418,clinical-medicine,835,Chiba University,Japan,Chiba-shi,50.2,42.3,N/A,https://www.usnews.com/education/best-global-universities/chiba-university-503793
+419,clinical-medicine,860,Loyola University Chicago,United States,Chicago,50.2,41.8,N/A,https://www.usnews.com/education/best-global-universities/loyola-university-chicago-146719
+420,clinical-medicine,"1,066",Niigata University,Japan,Niigata,50.2,37.3,N/A,https://www.usnews.com/education/best-global-universities/niigata-university-504351
+421,clinical-medicine,"1,167",Tianjin Medical University,China,Tianjin,50.2,34.9,N/A,https://www.usnews.com/education/best-global-universities/tianjin-medical-university-529011
+422,clinical-medicine,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,50.2,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+423,clinical-medicine,311,University of New Mexico,United States,Albuquerque,50.2,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+424,clinical-medicine,385,University of Perugia,Italy,Perugia,50.1,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+425,clinical-medicine,611,Alexandria University,Egypt,Alexandria,50,48.1,N/A,https://www.usnews.com/education/best-global-universities/alexandria-university-509708
+426,clinical-medicine,330,Linkoping University,Sweden,Linkoping,50,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+427,clinical-medicine,,Marshall University,United States,Huntington,50,N/A,N/A,https://www.usnews.com/education/best-global-universities/marshall-university-237525
+428,clinical-medicine,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,50,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+429,clinical-medicine,"1,163",Kindai University (Kinki University),Japan,Higashiosaka,49.9,35,N/A,https://www.usnews.com/education/best-global-universities/kindai-university-kinki-university-505855
+430,clinical-medicine,450,University of Ljubljana,Slovenia,Ljubljana,49.9,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+431,clinical-medicine,501,University of Parma,Italy,Parma,49.9,51.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-parma-501495
+432,clinical-medicine,426,York University - Canada,Canada,Toronto,49.9,53.8,"44,036",https://www.usnews.com/education/best-global-universities/york-university-canada-499962
+433,clinical-medicine,547,Philipps University Marburg,Germany,Marburg,49.8,49.8,N/A,https://www.usnews.com/education/best-global-universities/philipps-university-marburg-502174
+434,clinical-medicine,463,Swansea University,United Kingdom,Swansea,49.8,52.8,"17,745",https://www.usnews.com/education/best-global-universities/swansea-university-505583
+435,clinical-medicine,725,University of Zambia,Zambia,Lusaka,49.8,45.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-zambia-529619
+436,clinical-medicine,593,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,49.7,48.4,N/A,https://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289
+437,clinical-medicine,409,University of Bath,United Kingdom,Bath,49.7,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+438,clinical-medicine,789,University of Brighton,United Kingdom,Brighton,49.7,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-brighton-528973
+439,clinical-medicine,992,University of Yaounde I,Cameroon,Yaounde,49.7,38.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-yaounde-i-529161
+440,clinical-medicine,757,Makerere University,Uganda,Kampala,49.5,44.3,N/A,https://www.usnews.com/education/best-global-universities/makerere-university-528833
+441,clinical-medicine,953,Augusta University,United States,Augusta,49.4,39.8,N/A,https://www.usnews.com/education/best-global-universities/augusta-university-482149
+442,clinical-medicine,540,Jinan University,China,Guangzhou,49.4,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+443,clinical-medicine,"1,208",Kaohsiung Medical University,Taiwan,Kaohsiung City,49.4,34.2,"6,490",https://www.usnews.com/education/best-global-universities/kaohsiung-medical-university-505935
+444,clinical-medicine,389,Louisiana State University,United States,Baton Rouge,49.4,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+445,clinical-medicine,"1,103",Athens Medical School,Greece,Athens (Greece),49.3,36.5,N/A,https://www.usnews.com/education/best-global-universities/athens-medical-school-529124
+446,clinical-medicine,739,Chiang Mai University,Thailand,Chiang Mai,49.3,44.6,"34,110",https://www.usnews.com/education/best-global-universities/chiang-mai-university-500257
+447,clinical-medicine,"1,106",Medical University of Warsaw,Poland,Warsaw,49.3,36.4,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-warsaw-529008
+448,clinical-medicine,564,University of Ferrara,Italy,Ferrara,49.3,49.2,"20,507",https://www.usnews.com/education/best-global-universities/university-of-ferrara-503123
+449,clinical-medicine,"1,060",Kanazawa University,Japan,Kanazawa,49.2,37.4,"9,888",https://www.usnews.com/education/best-global-universities/kanazawa-university-503283
+450,clinical-medicine,"1,106",Kermanshah University of Medical Sciences,Iran,Kermanshah,49.1,36.4,N/A,https://www.usnews.com/education/best-global-universities/kermanshah-university-of-medical-sciences-529623
+451,clinical-medicine,"1,431",Jikei University,Japan,Tokyo,49,29.3,N/A,https://www.usnews.com/education/best-global-universities/jikei-university-529126
+452,clinical-medicine,461,University of Catania,Italy,Catania,49,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+453,clinical-medicine,590,Ben Gurion University,Israel,Beer-Sheva,48.9,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+454,clinical-medicine,"1,129",Guangzhou Medical University,China,Guangzhou,48.9,35.9,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-medical-university-529307
+455,clinical-medicine,"1,106",Nova Southeastern University,United States,Ft. Lauderdale,48.9,36.4,N/A,https://www.usnews.com/education/best-global-universities/nova-southeastern-university-136215
+456,clinical-medicine,"1,151",Ege University,Turkey,Izmir,48.8,35.4,"33,062",https://www.usnews.com/education/best-global-universities/ege-university-500691
+457,clinical-medicine,"1,155",Medical University Gdansk,Poland,Gdansk,48.8,35.2,N/A,https://www.usnews.com/education/best-global-universities/medical-university-gdansk-529056
+458,clinical-medicine,605,University of Crete,Greece,Rethymnon,48.8,48.2,"13,808",https://www.usnews.com/education/best-global-universities/university-of-crete-501556
+459,clinical-medicine,667,Kyungpook National University,South Korea,Daegu,48.7,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+460,clinical-medicine,"1,275",Universidad Autonoma Metropolitana - Mexico,Mexico,Mexico City,48.7,32.7,"59,709",https://www.usnews.com/education/best-global-universities/universidad-autonoma-metropolitana-mexico-500675
+461,clinical-medicine,497,Universidade Estadual Paulista,Brazil,Sao Paulo,48.7,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+462,clinical-medicine,160,University of Massachusetts Amherst,United States,Amherst,48.7,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+463,clinical-medicine,520,University of Sevilla,Spain,Seville,48.7,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+464,clinical-medicine,134,Weizmann Institute of Science,Israel,Rehovot,48.7,67.3,N/A,https://www.usnews.com/education/best-global-universities/weizmann-institute-of-science-506795
+465,clinical-medicine,"1,243",Medical University Sofia,Bulgaria,Sofia,48.6,33.5,N/A,https://www.usnews.com/education/best-global-universities/medical-university-sofia-529176
+466,clinical-medicine,,Dalarna University,Sweden,Falun,48.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/dalarna-university-529630
+467,clinical-medicine,"1,425",Tokyo Women's Medical University,Japan,Tokyo,48.5,29.5,N/A,https://www.usnews.com/education/best-global-universities/tokyo-womens-medical-university-529047
+468,clinical-medicine,452,University of Iceland,Iceland,Reykjavik,48.5,53.1,"10,642",https://www.usnews.com/education/best-global-universities/university-of-iceland-528847
+469,clinical-medicine,618,University of Udine,Italy,Udine,48.4,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-udine-504338
+470,clinical-medicine,989,Loma Linda University,United States,Loma Linda,48.3,39,N/A,https://www.usnews.com/education/best-global-universities/loma-linda-university-117636
+471,clinical-medicine,"1,291",Medical University Lodz,Poland,Lodz,48.3,32.3,N/A,https://www.usnews.com/education/best-global-universities/medical-university-lodz-529195
+472,clinical-medicine,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),48.3,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+473,clinical-medicine,520,Kyung Hee University,South Korea,Seoul,48.2,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+474,clinical-medicine,352,Drexel University,United States,Philadelphia,48.1,56,N/A,https://www.usnews.com/education/best-global-universities/drexel-university-212054
+475,clinical-medicine,866,Universite d'Angers,France,Angers,48.1,41.7,N/A,https://www.usnews.com/education/best-global-universities/universite-dangers-528967
+476,clinical-medicine,935,State University of New York (SUNY) Upstate Medical Center,United States,Syracuse,48,40.1,N/A,https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-upstate-medical-center-529713
+477,clinical-medicine,901,Universidad Autonoma de Chile,Chile,Temuco,48,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidad-autonoma-de-chile-529688
+478,clinical-medicine,273,University of Tasmania,Australia,Hobart,48,59.5,"18,264",https://www.usnews.com/education/best-global-universities/university-of-tasmania-502985
+479,clinical-medicine,"1,136",Nagasaki University,Japan,Nagasaki,47.9,35.7,N/A,https://www.usnews.com/education/best-global-universities/nagasaki-university-503741
+480,clinical-medicine,400,Tampere University,Finland,Tampere,47.9,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+481,clinical-medicine,385,Zhengzhou University,China,Zhengzhou,47.9,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+482,clinical-medicine,564,University of Sharjah,United Arab Emirates,Sharjah University City,47.8,49.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-sharjah-529769
+483,clinical-medicine,51,Georgia Institute of Technology,United States,Atlanta,47.7,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+484,clinical-medicine,667,Orebro University,Sweden,Orebro,47.7,46.5,N/A,https://www.usnews.com/education/best-global-universities/orebro-university-528966
+485,clinical-medicine,"1,184",Tokai University,Japan,Hiratsuka,47.7,34.6,N/A,https://www.usnews.com/education/best-global-universities/tokai-university-505943
+486,clinical-medicine,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,47.7,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+487,clinical-medicine,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,47.5,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+488,clinical-medicine,156,Arizona State University-Tempe,United States,Tempe,47.4,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+489,clinical-medicine,"1,088",Obafemi Awolowo University,Nigeria,Ile-Ife,47.4,36.8,N/A,https://www.usnews.com/education/best-global-universities/obafemi-awolowo-university-529694
+490,clinical-medicine,992,Marmara University,Turkey,Istanbul,47.3,38.9,"62,045",https://www.usnews.com/education/best-global-universities/marmara-university-502695
+491,clinical-medicine,311,Soochow University - China,China,Suzhou,47.3,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+492,clinical-medicine,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,47.2,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+493,clinical-medicine,"1,172",University of Occupational & Environmental Health - Japan,Japan,Fukuoka,47.2,34.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-occupational-environmental-health---japan-529360
+494,clinical-medicine,,Bahir Dar University,Ethiopia,Bahir Dar,47.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/bahir-dar-university-530158
+495,clinical-medicine,487,University of Eastern Finland,Finland,Joensuu,47.1,51.7,"11,898",https://www.usnews.com/education/best-global-universities/university-of-eastern-finland-504471
+496,clinical-medicine,175,University of Sussex,United Kingdom,Brighton,47.1,64.2,"18,015",https://www.usnews.com/education/best-global-universities/university-of-sussex-503906
+497,clinical-medicine,196,Tongji University,China,Shanghai,46.9,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+498,clinical-medicine,537,Universite Clermont Auvergne (UCA),France,Clermont-Ferrand,46.9,50.1,N/A,https://www.usnews.com/education/best-global-universities/universite-clermont-auvergne-uca-529156
+499,clinical-medicine,324,James Cook University,Australia,Townsville City,46.8,57.3,"12,825",https://www.usnews.com/education/best-global-universities/james-cook-university-506320
+500,clinical-medicine,679,Koc University,Turkey,Istanbul,46.8,46.2,"5,882",https://www.usnews.com/education/best-global-universities/koc-university-528923
+501,clinical-medicine,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,46.8,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+502,clinical-medicine,"1,291",Wenzhou Medical University,China,Wenzhou,46.8,32.3,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-medical-university-529262
+503,clinical-medicine,"1,198",Dokuz Eylul University,Turkey,Izmir,46.7,34.4,N/A,https://www.usnews.com/education/best-global-universities/dokuz-eylul-university-503998
+504,clinical-medicine,"1,258",Army Medical University,China,Shapingba,46.6,33.1,N/A,https://www.usnews.com/education/best-global-universities/army-medical-university-503729
+505,clinical-medicine,"1,567",Showa University,Japan,Tokyo,46.5,26.3,N/A,https://www.usnews.com/education/best-global-universities/showa-university-529125
+506,clinical-medicine,573,University of Palermo,Italy,Palermo,46.5,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+507,clinical-medicine,478,George Mason University,United States,Fairfax,46.4,52.2,"32,140",https://www.usnews.com/education/best-global-universities/george-mason-university-232186
+508,clinical-medicine,710,Universidade de Brasilia,Brazil,Brasilia,46.4,45.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217
+509,clinical-medicine,964,University of Thessaly,Greece,Volos,46.4,39.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-thessaly-529034
+510,clinical-medicine,495,Edith Cowan University,Australia,Joondalup,46.3,51.5,"18,759",https://www.usnews.com/education/best-global-universities/edith-cowan-university-528941
+511,clinical-medicine,"1,088",Universite Paris 13,France,Villetaneuse,46.3,36.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-13-528858
+512,clinical-medicine,452,University of Pretoria,South Africa,Hatfied (South Africa),46.3,53.1,"36,493",https://www.usnews.com/education/best-global-universities/university-of-pretoria-501543
+513,clinical-medicine,57,University of Maryland College Park,United States,College Park,46.2,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+514,clinical-medicine,"1,357",Fujita Health University,Japan,Toyoake,46.1,31.1,"3,431",https://www.usnews.com/education/best-global-universities/fujita-health-university-529208
+515,clinical-medicine,561,Liverpool School of Tropical Medicine,United Kingdom,Liverpool,46.1,49.3,N/A,https://www.usnews.com/education/best-global-universities/liverpool-school-of-tropical-medicine-529389
+516,clinical-medicine,917,Pontificia Universidad Javeriana,Colombia,Bogota,46.1,40.6,N/A,https://www.usnews.com/education/best-global-universities/pontificia-universidad-javeriana-529596
+517,clinical-medicine,698,Pusan National University,South Korea,Busan,45.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+518,clinical-medicine,662,Szeged University,Hungary,Szeged,45.8,46.6,"20,023",https://www.usnews.com/education/best-global-universities/szeged-university-501065
+519,clinical-medicine,977,University of Kragujevac,Serbia,Kragujevac,45.7,39.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kragujevac-529278
+520,clinical-medicine,"1,309",Nanjing University of Chinese Medicine,China,Nanjing,45.6,32,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-chinese-medicine-529308
+521,clinical-medicine,554,Universita della Campania Vanvitelli,Italy,Caserta,45.6,49.5,N/A,https://www.usnews.com/education/best-global-universities/universita-della-campania-vanvitelli-529545
+522,clinical-medicine,"1,140",University of Pecs,Hungary,Pecs,45.4,35.6,"17,711",https://www.usnews.com/education/best-global-universities/university-of-pecs-529028
+523,clinical-medicine,416,University of Trieste,Italy,Trieste,45.4,54,"16,677",https://www.usnews.com/education/best-global-universities/university-of-trieste-500914
+524,clinical-medicine,441,Hanyang University,South Korea,Seoul,45.3,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+525,clinical-medicine,"1,381",Nihon University,Japan,Tokyo,45.3,30.5,N/A,https://www.usnews.com/education/best-global-universities/nihon-university-504934
+526,clinical-medicine,,University of Colombo,Sri Lanka,Colombo,45.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-colombo-529748
+527,clinical-medicine,750,Anglia Ruskin University,United Kingdom,Cambridge (U.K.),45.2,44.4,N/A,https://www.usnews.com/education/best-global-universities/anglia-ruskin-university-529443
+528,clinical-medicine,801,Otto von Guericke University,Germany,Magdeburg,45.2,43.2,N/A,https://www.usnews.com/education/best-global-universities/otto-von-guericke-university-528861
+529,clinical-medicine,593,San Diego State University,United States,San Diego,45.1,48.4,"31,340",https://www.usnews.com/education/best-global-universities/san-diego-state-university-122409
+530,clinical-medicine,643,University of Cyprus,Cyprus,Nicosia,45.1,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cyprus-528848
+531,clinical-medicine,966,University of Insubria,Italy,Varese,45.1,39.5,"9,789",https://www.usnews.com/education/best-global-universities/university-of-insubria-528983
+532,clinical-medicine,618,University of Messina,Italy,Messina,45.1,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-messina-500522
+533,clinical-medicine,355,Lomonosov Moscow State University,Russia,Moscow (Russia),45,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+534,clinical-medicine,625,University of the Western Cape,South Africa,Belville,45,47.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-western-cape-528949
+535,clinical-medicine,"1,129",Isfahan University Medical Science,Iran,Isfahan,44.9,35.9,N/A,https://www.usnews.com/education/best-global-universities/isfahan-university-medical-science-529419
+536,clinical-medicine,"1,032",Pontificia Universidade Catolica Do Rio Grande Do Sul,Brazil,Porto Alegre,44.9,38.1,"14,096",https://www.usnews.com/education/best-global-universities/pontificia-universidade-catolica-do-rio-grande-do-sul-529583
+537,clinical-medicine,866,Universidad de Malaga,Spain,Malaga,44.9,41.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-malaga-503965
+538,clinical-medicine,948,Universidad Peruana Cayetano Heredia,Peru,Lima,44.9,39.9,N/A,https://www.usnews.com/education/best-global-universities/universidad-peruana-cayetano-heredia-529357
+539,clinical-medicine,463,University of Salerno,Italy,Fisciano,44.9,52.8,"26,289",https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+540,clinical-medicine,"1,389",Naval Medical University,China,Shanghai,44.8,30.3,N/A,https://www.usnews.com/education/best-global-universities/naval-medical-university-505505
+541,clinical-medicine,140,Purdue University West Lafayette Campus,United States,West Lafayette,44.8,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+542,clinical-medicine,317,Simon Fraser University,Canada,Burnaby,44.8,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+543,clinical-medicine,852,"Universidad de la Republica, Uruguay",Uruguay,Montevideo,44.7,42,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-la-republica-uruguay-530030
+544,clinical-medicine,400,University of Twente,Netherlands,Enschede,44.7,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+545,clinical-medicine,"1,489",Beijing University of Chinese Medicine,China,Beijing,44.5,28,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chinese-medicine-529730
+546,clinical-medicine,750,Sultan Qaboos University,Oman,Muscat,44.5,44.4,N/A,https://www.usnews.com/education/best-global-universities/sultan-qaboos-university-507300
+547,clinical-medicine,478,Universite Cote d'Azur,France,Nice,44.5,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+548,clinical-medicine,844,Chonnam National University,South Korea,Gwangju,44.4,42.2,"24,436",https://www.usnews.com/education/best-global-universities/chonnam-national-university-503755
+549,clinical-medicine,"1,225",Universidad de Las Palmas de Gran Canaria,Spain,Las Palmas de Gran Canaria,44.4,33.8,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-las-palmas-de-gran-canaria-529049
+550,clinical-medicine,920,Universite de Tunis-El-Manar,Tunisia,Tunis,44.4,40.5,"26,325",https://www.usnews.com/education/best-global-universities/universite-de-tunis-el-manar-529027
+551,clinical-medicine,510,University of Regensburg,Germany,Regensburg,44.4,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-regensburg-500220
+552,clinical-medicine,"1,271",Eastern Virginia Medical School,United States,Norfolk,44.3,32.8,N/A,https://www.usnews.com/education/best-global-universities/eastern-virginia-medical-school-529600
+553,clinical-medicine,271,Shenzhen University,China,Shenzhen,44.3,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+554,clinical-medicine,349,University of Texas Dallas,United States,Richardson,44.3,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+555,clinical-medicine,230,North Carolina State University,United States,Raleigh,44.2,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+556,clinical-medicine,"1,002",Universidade Federal da Bahia,Brazil,Cruz Das Almas,44.2,38.7,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-da-bahia-528977
+557,clinical-medicine,352,University of Delaware,United States,Newark,44.2,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+558,clinical-medicine,633,University of Haifa,Israel,Haifa,44.2,47.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-haifa-501200
+559,clinical-medicine,"1,085",Osaka Metropolitan University,Japan,Osaka,44,36.9,"15,782",https://www.usnews.com/education/best-global-universities/osaka-metropolitan-university-530032
+560,clinical-medicine,977,Universiti Teknologi MARA,Malaysia,Darul Ehsan,44,39.2,"60,563",https://www.usnews.com/education/best-global-universities/universiti-teknologi-mara-529194
+561,clinical-medicine,"1,327",Fahrenheit Universities,Poland,Gda¨½sk,43.9,31.7,N/A,https://www.usnews.com/education/best-global-universities/fahrenheit-universities-530044
+562,clinical-medicine,370,University of Surrey,United Kingdom,Surrey,43.9,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+563,clinical-medicine,"1,581",Kyoto Prefectural University of Medicine,Japan,Kyoto,43.8,26,N/A,https://www.usnews.com/education/best-global-universities/kyoto-prefectural-university-of-medicine-529120
+564,clinical-medicine,"1,386",Gachon University,South Korea,Seongnam,43.7,30.4,N/A,https://www.usnews.com/education/best-global-universities/gachon-university-529167
+565,clinical-medicine,"1,225",Gazi University,Turkey,Ankara,43.7,33.8,"41,372",https://www.usnews.com/education/best-global-universities/gazi-university-506852
+566,clinical-medicine,421,Jilin University,China,Changchun,43.6,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+567,clinical-medicine,247,Xiamen University,China,Xiamen,43.6,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+568,clinical-medicine,"1,106",Uniformed Services University of the Health Sciences - USA,United States,Bethesda,43.5,36.4,N/A,https://www.usnews.com/education/best-global-universities/uniformed-services-university-of-the-health-sciences-usa-528993
+569,clinical-medicine,"1,261",Universidade Federal de Sergipe,Brazil,Sao Cristovao,43.4,33,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sergipe-529586
+570,clinical-medicine,920,Universite de Poitiers,France,Poitiers,43.4,40.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-poitiers-501414
+571,clinical-medicine,907,University of Ghana,Ghana,Legon,43.4,40.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-ghana-529375
+572,clinical-medicine,884,Bournemouth University,United Kingdom,Poole,43.3,41.2,N/A,https://www.usnews.com/education/best-global-universities/bournemouth-university-529060
+573,clinical-medicine,807,Hasselt University,Belgium,Hasselt,43.3,43,N/A,https://www.usnews.com/education/best-global-universities/hasselt-university-528960
+574,clinical-medicine,"1,498",Pomeranian Medical University,Poland,Szczecin,43.3,27.8,N/A,https://www.usnews.com/education/best-global-universities/pomeranian-medical-university-529424
+575,clinical-medicine,717,University of Delhi,India,New Delhi,43.3,45.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-delhi-504916
+576,clinical-medicine,432,University of Houston,United States,Houston,43.3,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+577,clinical-medicine,520,University of Jyvaskyla,Finland,Jyvaskyla,43.3,50.5,"10,434",https://www.usnews.com/education/best-global-universities/university-of-jyvaskyla-500627
+578,clinical-medicine,,A.T. Still University of Health Sciences,United States,Kirksville,43.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/at-still-university-of-health-sciences-529745
+579,clinical-medicine,"1,203",Creighton University,United States,Omaha,43.2,34.3,"9,641",https://www.usnews.com/education/best-global-universities/creighton-university-181002
+580,clinical-medicine,821,Universite de Bourgogne,France,Dijon,43.2,42.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-bourgogne-505886
+581,clinical-medicine,794,University of Debrecen,Hungary,Debrecen,43.2,43.3,"29,045",https://www.usnews.com/education/best-global-universities/university-of-debrecen-504230
+582,clinical-medicine,"1,705",Medical University Silesia,Poland,Katowice,43.1,22.9,N/A,https://www.usnews.com/education/best-global-universities/medical-university-silesia-529276
+583,clinical-medicine,708,Northumbria University,United Kingdom,Newcastle upon Tyne,43.1,45.5,"23,495",https://www.usnews.com/education/best-global-universities/northumbria-university-529055
+584,clinical-medicine,"1,153",Paracelsus Private Medical University,Austria,Salzburg,43.1,35.3,N/A,https://www.usnews.com/education/best-global-universities/paracelsus-private-medical-university-529224
+585,clinical-medicine,"1,147",Kuwait University,Kuwait,Kuwait City,43,35.5,"24,680",https://www.usnews.com/education/best-global-universities/kuwait-university-512713
+586,clinical-medicine,497,Liverpool John Moores University,United Kingdom,Liverpool,43,51.4,N/A,https://www.usnews.com/education/best-global-universities/liverpool-john-moores-university-504028
+587,clinical-medicine,493,Universite de Rennes 1,France,Rennes,43,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+588,clinical-medicine,732,University of Hull,United Kingdom,Hull,43,44.9,"12,725",https://www.usnews.com/education/best-global-universities/university-of-hull-505254
+589,clinical-medicine,959,Imam Abdulrahman Bin Faisal University,Saudi Arabia,Dammam,42.9,39.7,N/A,https://www.usnews.com/education/best-global-universities/imam-abdulrahman-bin-faisal-university-529721
+590,clinical-medicine,,Universitats Herzzentrum Freiburg,Germany,Freiburg,42.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/universitats-herzzentrum-freiburg-529629
+591,clinical-medicine,"1,251",Institute of Tropical Medicine (ITM),Belgium,Antwerp,42.8,33.3,N/A,https://www.usnews.com/education/best-global-universities/institute-of-tropical-medicine-itm-529905
+592,clinical-medicine,953,Keele University,United Kingdom,Staffordshire,42.8,39.8,"9,195",https://www.usnews.com/education/best-global-universities/keele-university-504593
+593,clinical-medicine,,Muhimbili University of Health & Allied Sciences,Tanzania,Dar es Salaam,42.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/muhimbili-university-of-health-allied-sciences-529617
+594,clinical-medicine,816,Universidade Federal do Parana,Brazil,Curitiba,42.8,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-parana-503933
+595,clinical-medicine,"1,327",Baqiyatallah University of Medical Sciences (BMSU),Iran,Tehran,42.7,31.7,N/A,https://www.usnews.com/education/best-global-universities/baqiyatallah-university-of-medical-sciences-bmsu-529531
+596,clinical-medicine,"1,394",Guangzhou University of Chinese Medicine,China,Guangzhou,42.7,30.2,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-of-chinese-medicine-529492
+597,clinical-medicine,478,Qatar University,Qatar,Doha,42.7,52.2,"9,084",https://www.usnews.com/education/best-global-universities/qatar-university-529146
+598,clinical-medicine,770,University of Salamanca,Spain,Salamanca,42.7,43.9,"27,920",https://www.usnews.com/education/best-global-universities/university-of-salamanca-502705
+599,clinical-medicine,324,University of Georgia,United States,"Athens (Georgia, U.S.)",42.6,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+600,clinical-medicine,"1,049",Kumamoto University,Japan,Kumamoto,42.5,37.6,"9,536",https://www.usnews.com/education/best-global-universities/kumamoto-university-505102
+601,clinical-medicine,"1,431",Shanghai University of Traditional Chinese Medicine,China,Shanghai,42.5,29.3,"11,937",https://www.usnews.com/education/best-global-universities/shanghai-university-of-traditional-chinese-medicine-529292
+602,clinical-medicine,186,University of Wollongong,Australia,Wollongong,42.5,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+603,clinical-medicine,639,Comenius University Bratislava,Slovakia,Bratislava,42.4,47.2,"21,788",https://www.usnews.com/education/best-global-universities/comenius-university-bratislava-500702
+604,clinical-medicine,"1,675",Nagoya City University,Japan,Nagoya,42.4,23.8,N/A,https://www.usnews.com/education/best-global-universities/nagoya-city-university-529121
+605,clinical-medicine,"1,116",Ajou University,South Korea,Suwon,42.3,36.2,"7,574",https://www.usnews.com/education/best-global-universities/ajou-university-504876
+606,clinical-medicine,935,G d'Annunzio University of Chieti-Pescara,Italy,Chieti,42.3,40.1,N/A,https://www.usnews.com/education/best-global-universities/g-dannunzio-university-of-chieti-pescara-529183
+607,clinical-medicine,413,University of Central Florida,United States,Orlando,42.3,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+608,clinical-medicine,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,42.3,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+609,clinical-medicine,"1,567",Shandong First Medical University & Shandong Academy of Medical Sciences,China,Taian,42.2,26.3,N/A,https://www.usnews.com/education/best-global-universities/shandong-first-medical-university-shandong-academy-of-medical-sciences-529729
+610,clinical-medicine,605,Masaryk University Brno,Czech Republic,Brno,42.1,48.2,"32,271",https://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917
+611,clinical-medicine,234,Southeast University - China,China,Nanjing,42.1,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+612,clinical-medicine,537,West Virginia University,United States,Morgantown,42.1,50.1,N/A,https://www.usnews.com/education/best-global-universities/west-virginia-university-238032
+613,clinical-medicine,625,Universitat Rovira i Virgili,Spain,Tarragona,42,47.7,"12,975",https://www.usnews.com/education/best-global-universities/universitat-rovira-i-virgili-506486
+614,clinical-medicine,662,Marche Polytechnic University,Italy,Ancona,41.9,46.6,N/A,https://www.usnews.com/education/best-global-universities/marche-polytechnic-university-503536
+615,clinical-medicine,649,Victoria University,Australia,Footscray,41.9,47,"14,387",https://www.usnews.com/education/best-global-universities/victoria-university-528927
+616,clinical-medicine,"1,741",Nippon Medical School,Japan,Tokyo,41.8,21.9,N/A,https://www.usnews.com/education/best-global-universities/nippon-medical-school-529119
+617,clinical-medicine,487,Universidade Nova de Lisboa,Portugal,Lisbon,41.8,51.7,"20,996",https://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121
+618,clinical-medicine,"1,589",Gunma University,Japan,Maebashi,41.7,25.8,N/A,https://www.usnews.com/education/best-global-universities/gunma-university-504586
+619,clinical-medicine,"1,431",Poznan University of Medical Sciences,Poland,Poznan,41.7,29.3,N/A,https://www.usnews.com/education/best-global-universities/poznan-university-of-medical-sciences-529261
+620,clinical-medicine,379,University of Strathclyde,United Kingdom,Glasgow,41.7,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+621,clinical-medicine,"1,438",Iuliu Hatieganu University of Medicine & Pharmacy,Romania,Cluj-Napoca,41.6,29.2,N/A,https://www.usnews.com/education/best-global-universities/iuliu-hatieganu-university-of-medicine-pharmacy-529214
+622,clinical-medicine,"1,163",Albany Medical College,United States,Albany,41.5,35,N/A,https://www.usnews.com/education/best-global-universities/albany-medical-college-529365
+623,clinical-medicine,"1,535",Dalian Medical University,China,Dalian,41.5,27,N/A,https://www.usnews.com/education/best-global-universities/dalian-medical-university-529283
+624,clinical-medicine,,Qazvin University of Medical Sciences (QUMS),Iran,Qazvin,41.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/qazvin-university-of-medical-sciences-qums-530159
+625,clinical-medicine,676,University of North Carolina Charlotte,United States,Charlotte,41.5,46.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-carolina-charlotte-199139
+626,clinical-medicine,"1,407",Chongqing Medical University,China,Yuzhong,41.4,29.9,N/A,https://www.usnews.com/education/best-global-universities/chongqing-medical-university-529043
+627,clinical-medicine,"1,126",University Campus Bio-Medico - Rome Italy,Italy,Rome,41.4,36,N/A,https://www.usnews.com/education/best-global-universities/university-campus-bio-medico-rome-italy-528992
+628,clinical-medicine,558,University of Plymouth,United Kingdom,Plymouth,41.4,49.4,"16,180",https://www.usnews.com/education/best-global-universities/university-of-plymouth-500972
+629,clinical-medicine,299,Oregon State University,United States,Corvallis,41.3,58.3,N/A,https://www.usnews.com/education/best-global-universities/oregon-state-university-209542
+630,clinical-medicine,"1,254",Royal College of Surgeons - Ireland,Ireland,Dublin,41.3,33.2,N/A,https://www.usnews.com/education/best-global-universities/royal-college-of-surgeons-ireland-528990
+631,clinical-medicine,"1,032",University of Eastern Piedmont Amedeo Avogadro,Italy,Vercelli,41.3,38.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-eastern-piedmont-amedeo-avogadro-528952
+632,clinical-medicine,"1,438",Anhui Medical University,China,Hefei,41.2,29.2,N/A,https://www.usnews.com/education/best-global-universities/anhui-medical-university-529269
+633,clinical-medicine,"1,553",Lithuanian University of Health Sciences,Lithuania,Kaunas,41.2,26.7,N/A,https://www.usnews.com/education/best-global-universities/lithuanian-university-of-health-sciences-529363
+634,clinical-medicine,531,University of Santiago De Compostela,Spain,Santiago de Compostela,41.2,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+635,clinical-medicine,801,Vilnius University,Lithuania,Vilnius,41.2,43.2,N/A,https://www.usnews.com/education/best-global-universities/vilnius-university-503315
+636,clinical-medicine,"1,350",Kagoshima University,Japan,Kagoshima,41,31.3,N/A,https://www.usnews.com/education/best-global-universities/kagoshima-university-500650
+637,clinical-medicine,801,Universidade do Estado do Rio de Janeiro,Brazil,Maracana,41,43.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-do-estado-do-rio-de-janeiro-502771
+638,clinical-medicine,"1,190",Greifswald Medical School,Germany,Greifswald,40.9,34.5,N/A,https://www.usnews.com/education/best-global-universities/greifswald-medical-school-529553
+639,clinical-medicine,253,Beihang University,China,Beijing,40.7,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+640,clinical-medicine,,Babol University of Medical Sciences,Iran,Babol,40.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/babol-university-of-medical-sciences-530160
+641,clinical-medicine,"1,455",Jazan University,Saudi Arabia,Jazan,40.6,28.7,N/A,https://www.usnews.com/education/best-global-universities/jazan-university-514902
+642,clinical-medicine,186,University of California Riverside,United States,Riverside,40.6,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+643,clinical-medicine,676,University of Zaragoza,Spain,Zaragoza,40.6,46.3,"28,083",https://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343
+644,clinical-medicine,"1,691",Chung Shan Medical University,Taiwan,Taichung City,40.5,23.2,"6,833",https://www.usnews.com/education/best-global-universities/chung-shan-medical-university-529116
+645,clinical-medicine,394,Islamic Azad University,Iran,Tehran,40.5,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+646,clinical-medicine,"1,222",Khon Kaen University,Thailand,Khon Kaen,40.5,33.9,"32,857",https://www.usnews.com/education/best-global-universities/khon-kaen-university-529024
+647,clinical-medicine,526,Loughborough University,United Kingdom,Loughborough,40.5,50.3,"17,130",https://www.usnews.com/education/best-global-universities/loughborough-university-506503
+648,clinical-medicine,598,Rutgers State University Newark,United States,Newark,40.5,48.3,N/A,https://www.usnews.com/education/best-global-universities/rutgers-state-university-newark-186399
+649,clinical-medicine,920,Saarland University,Germany,Saarbrucken,40.4,40.5,N/A,https://www.usnews.com/education/best-global-universities/saarland-university-504282
+650,clinical-medicine,789,University of Sherbrooke,Canada,Sherbrooke,40.4,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-sherbrooke-506839
+651,clinical-medicine,"1,857",Nara Medical University,Japan,Kashihara,40.3,17.8,N/A,https://www.usnews.com/education/best-global-universities/nara-medical-university-529626
+652,clinical-medicine,165,Technical University of Denmark,Denmark,Kongens Lyngby,40.2,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+653,clinical-medicine,208,University of Vienna,Austria,Vienna,40.2,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+654,clinical-medicine,"1,190",University of Zimbabwe,Zimbabwe,Harare,40.2,34.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-zimbabwe-529992
+655,clinical-medicine,547,Universiti Putra Malaysia,Malaysia,Serdang,40.1,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+656,clinical-medicine,"1,465",Hofstra University,United States,Hempstead,40,28.5,N/A,https://www.usnews.com/education/best-global-universities/hofstra-university-191649
+657,clinical-medicine,779,University of Rostock,Germany,Rostock,40,43.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-rostock-500634
+658,clinical-medicine,"1,132",Universidad Miguel Hernandez de Elche,Spain,Alicante,39.9,35.8,N/A,https://www.usnews.com/education/best-global-universities/universidad-miguel-hernandez-de-elche-529033
+659,clinical-medicine,"1,705",Wakayama Medical University,Japan,Wakayama,39.9,22.9,N/A,https://www.usnews.com/education/best-global-universities/wakayama-medical-university-529624
+660,clinical-medicine,"1,718",Hamamatsu University School of Medicine,Japan,Hamamatsu,39.8,22.6,N/A,https://www.usnews.com/education/best-global-universities/hamamatsu-university-school-of-medicine-529625
+661,clinical-medicine,576,University of Texas at San Antonio (UTSA),United States,San Antonio,39.8,48.9,"27,187",https://www.usnews.com/education/best-global-universities/university-of-texas-at-san-antonio-utsa-229027
+662,clinical-medicine,"1,190",Prince of Songkla University,Thailand,Songkhla,39.7,34.5,"32,779",https://www.usnews.com/education/best-global-universities/prince-of-songkla-university-529017
+663,clinical-medicine,693,University of Ioannina,Greece,Ioannina,39.7,45.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-ioannina-501360
+664,clinical-medicine,"1,407",Kerman University of Medical Sciences,Iran,Kerman,39.6,29.9,N/A,https://www.usnews.com/education/best-global-universities/kerman-university-of-medical-sciences-529929
+665,clinical-medicine,866,University of Jordan,Jordan,Amman,39.6,41.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-jordan-512144
+666,clinical-medicine,"1,805","Victor Babes University of Medicine & Pharmacy, Timisoara",Romania,Timisoara,39.6,19.8,N/A,https://www.usnews.com/education/best-global-universities/victor-babes-university-of-medicine-pharmacy-timisoara-529547
+667,clinical-medicine,504,Georgia State University,United States,Atlanta,39.5,51.1,N/A,https://www.usnews.com/education/best-global-universities/georgia-state-university-139940
+668,clinical-medicine,"1,291",Universidad de La Frontera,Chile,Temuco,39.5,32.3,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-la-frontera-529409
+669,clinical-medicine,"1,301",Universidade Federal de Uberlandia,Brazil,Uberlandia,39.5,32.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-uberlandia-529244
+670,clinical-medicine,"1,723",Jichi Medical University,Japan,Shimotsuke,39.4,22.4,N/A,https://www.usnews.com/education/best-global-universities/jichi-medical-university-529127
+671,clinical-medicine,739,Universite de Bretagne Occidentale,France,Brittany,39.4,44.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-bretagne-occidentale-529145
+672,clinical-medicine,"1,088",Magna Graecia University of Catanzaro,Italy,Catanzaro,39.3,36.8,N/A,https://www.usnews.com/education/best-global-universities/magna-graecia-university-of-catanzaro-529254
+673,clinical-medicine,"1,218",Universite de Picardie Jules Verne (UPJV),France,Amiens,39.3,34,N/A,https://www.usnews.com/education/best-global-universities/universite-de-picardie-jules-verne-upjv-528959
+674,clinical-medicine,466,University of Basque Country,Spain,Leioa,39.3,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+675,clinical-medicine,"1,489",Teikyo University,Japan,Tokyo,39.2,28,N/A,https://www.usnews.com/education/best-global-universities/teikyo-university-529123
+676,clinical-medicine,337,Chalmers University of Technology,Sweden,Gothenburg,39,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+677,clinical-medicine,"1,758",Fujian Medical University,China,Fuzhou,39,21.4,N/A,https://www.usnews.com/education/best-global-universities/fujian-medical-university-529622
+678,clinical-medicine,"1,570",Kitasato University,Japan,Tokyo,39,26.2,N/A,https://www.usnews.com/education/best-global-universities/kitasato-university-505240
+679,clinical-medicine,844,Universidad de Alcala,Spain,Madrid,39,42.2,"15,941",https://www.usnews.com/education/best-global-universities/universidad-de-alcala-528978
+680,clinical-medicine,421,Shanghai University,China,Shanghai,38.9,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+681,clinical-medicine,"1,049",Universidad de Extremadura,Spain,Merida,38.9,37.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-extremadura-529022
+682,clinical-medicine,,"Institute of Post Graduate Medical Education & Research (IPGMER), Kolkata",India,Kolkata,38.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/institute-of-post-graduate-medical-education-research-ipgmer-kolkata-529911
+683,clinical-medicine,708,Tarbiat Modares University,Iran,Tehran,38.8,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+684,clinical-medicine,750,Bar Ilan University,Israel,Ramat Gan,38.7,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+685,clinical-medicine,"1,589",Medical University of Lublin,Poland,Lublin,38.7,25.8,"7,004",https://www.usnews.com/education/best-global-universities/medical-university-of-lublin-529305
+686,clinical-medicine,684,Ohio University,United States,"Athens (Ohio, U.S.)",38.7,46.1,N/A,https://www.usnews.com/education/best-global-universities/ohio-university-204857
+687,clinical-medicine,"1,653",Saga University,Japan,Saga,38.7,24.4,N/A,https://www.usnews.com/education/best-global-universities/saga-university-529232
+688,clinical-medicine,710,Assiut University,Egypt,Assiut,38.6,45.4,N/A,https://www.usnews.com/education/best-global-universities/assiut-university-513421
+689,clinical-medicine,"1,718",Kurume University,Japan,Kurume,38.6,22.6,N/A,https://www.usnews.com/education/best-global-universities/kurume-university-529122
+690,clinical-medicine,"1,354",Pontificia Universidade Catolica do Parana,Brazil,Curitiba,38.6,31.2,N/A,https://www.usnews.com/education/best-global-universities/pontificia-universidade-catolica-do-parana-529597
+691,clinical-medicine,"1,812",Saitama Medical University,Japan,Iruma,38.6,19.4,N/A,https://www.usnews.com/education/best-global-universities/saitama-medical-university-529373
+692,clinical-medicine,997,Universite de Caen Normandie,France,Caen,38.6,38.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-caen-normandie-528879
+693,clinical-medicine,485,Brunel University,United Kingdom,Uxbridge,38.5,51.9,"14,185",https://www.usnews.com/education/best-global-universities/brunel-university-502232
+694,clinical-medicine,324,University of Victoria,Canada,Victoria,38.5,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+695,clinical-medicine,579,Waseda University,Japan,Tokyo,38.5,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+696,clinical-medicine,"1,288",Federation University Australia,Australia,Mt. Helen,38.4,32.5,N/A,https://www.usnews.com/education/best-global-universities/federation-university-australia-529602
+697,clinical-medicine,889,University of Limerick,Ireland,Limerick,38.4,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-limerick-528976
+698,clinical-medicine,975,Tabriz University of Medical Science,Iran,Tabriz,38.3,39.3,N/A,https://www.usnews.com/education/best-global-universities/tabriz-university-of-medical-science-529423
+699,clinical-medicine,"1,106",Universidade da Coruna,Spain,Coruna,38.3,36.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-da-coruna-529162
+700,clinical-medicine,"1,376",East Carolina University,United States,Greenville,38.2,30.6,"25,459",https://www.usnews.com/education/best-global-universities/east-carolina-university-198464
+701,clinical-medicine,"1,338",Oslo Metropolitan University (OsloMet),Norway,Olso,38.2,31.6,N/A,https://www.usnews.com/education/best-global-universities/oslo-metropolitan-university-oslomet-529371
+702,clinical-medicine,856,Ewha Womans University,South Korea,Seoul,38.1,41.9,"14,746",https://www.usnews.com/education/best-global-universities/ewha-womans-university-504624
+703,clinical-medicine,576,University of Kent,United Kingdom,Canterbury,38,48.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-kent-500018
+704,clinical-medicine,977,Universidade Federal do Ceara,Brazil,Fortaleza,37.9,39.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-ceara-503817
+705,clinical-medicine,"1,198",University of Nigeria,Nigeria,Nsukka,37.9,34.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-nigeria-529471
+706,clinical-medicine,"1,036",Chung Ang University,South Korea,Seoul,37.8,38,N/A,https://www.usnews.com/education/best-global-universities/chung-ang-university-500565
+707,clinical-medicine,"1,774",Guangxi Medical University,China,Nanning,37.8,21,N/A,https://www.usnews.com/education/best-global-universities/guangxi-medical-university-529620
+708,clinical-medicine,959,Charles Darwin University,Australia,Casuarina,37.7,39.7,N/A,https://www.usnews.com/education/best-global-universities/charles-darwin-university-528963
+709,clinical-medicine,241,Florida State University,United States,Tallahassee,37.7,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+710,clinical-medicine,472,Texas Tech University,United States,Lubbock,37.7,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+711,clinical-medicine,"1,585",Inje University,South Korea,Gimhae-si,37.6,25.9,N/A,https://www.usnews.com/education/best-global-universities/inje-university-500285
+712,clinical-medicine,,Harokopio University Athens,Greece,Kallithea,37.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/harokopio-university-athens-529364
+713,clinical-medicine,"1,621",State University of New York (SUNY) Downstate Medical Center,United States,Brooklyn,37.5,25,N/A,https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-downstate-medical-center-529728
+714,clinical-medicine,835,Tanta University,Egypt,Tanta,37.5,42.3,"129,209",https://www.usnews.com/education/best-global-universities/tanta-university-529188
+715,clinical-medicine,759,Universitat de Girona,Spain,Girona,37.5,44.2,N/A,https://www.usnews.com/education/best-global-universities/universitat-de-girona-528856
+716,clinical-medicine,"1,376",University of Malawi,Malawi,Zomba,37.5,30.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-malawi-529362
+717,clinical-medicine,912,University of Sassari,Italy,Sassari,37.5,40.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-sassari-528880
+718,clinical-medicine,"1,609",Hallym University,South Korea,Chuncheon,37.4,25.4,"7,947",https://www.usnews.com/education/best-global-universities/hallym-university-529236
+719,clinical-medicine,794,Qingdao University,China,Qingdao,37.4,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+720,clinical-medicine,896,Universidad de Antioquia,Colombia,Antioquia,37.4,41,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-antioquia-528980
+721,clinical-medicine,"1,478",Toho University,Japan,Tokyo,37.3,28.2,N/A,https://www.usnews.com/education/best-global-universities/toho-university-529265
+722,clinical-medicine,860,University of Patras,Greece,Rio Achaia,37.3,41.8,"29,393",https://www.usnews.com/education/best-global-universities/university-of-patras-503205
+723,clinical-medicine,256,University of Trento,Italy,Trento,37.3,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+724,clinical-medicine,328,Washington State University,United States,Pullman,37.3,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+725,clinical-medicine,807,Suez Canal University,Egypt,Ismailia,37.2,43,N/A,https://www.usnews.com/education/best-global-universities/suez-canal-university-513862
+726,clinical-medicine,611,Palacky University Olomouc,Czech Republic,Olomouc,37,48.1,"18,774",https://www.usnews.com/education/best-global-universities/palacky-university-olomouc-506534
+727,clinical-medicine,759,Tecnologico de Monterrey,Mexico,Monterrey,37,44.2,"49,696",https://www.usnews.com/education/best-global-universities/tecnologico-de-monterrey-529343
+728,clinical-medicine,564,Universidad Politecnica de Madrid,Spain,Madrid,37,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+729,clinical-medicine,277,Durham University,United Kingdom,Durham (U.K.),36.9,59.3,"18,715",https://www.usnews.com/education/best-global-universities/durham-university-501717
+730,clinical-medicine,,University of Medicine & Pharmacy of Craiova,Romania,Craiova,36.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-medicine-pharmacy-of-craiova-530161
+731,clinical-medicine,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),36.9,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+732,clinical-medicine,333,University of Reading,United Kingdom,Reading,36.9,56.8,"16,195",https://www.usnews.com/education/best-global-universities/university-of-reading-504198
+733,clinical-medicine,"1,603",Universidad Catolica de Murcia,Spain,Murcia,36.8,25.5,"11,986",https://www.usnews.com/education/best-global-universities/universidad-catolica-de-murcia-529906
+734,clinical-medicine,684,University of Cagliari,Italy,Cagliari,36.6,46.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cagliari-506894
+735,clinical-medicine,"1,095",Tokyo University of Science,Japan,Tokyo,36.5,36.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-science-503707
+736,clinical-medicine,782,University of Murcia,Spain,Murcia,36.5,43.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-murcia-503573
+737,clinical-medicine,679,University of North Texas Denton,United States,Denton,36.5,46.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-texas-denton-227216
+738,clinical-medicine,,Urmia University of Medical Sciences,Iran,Urmia,36.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/urmia-university-of-medical-sciences-530162
+739,clinical-medicine,673,Murdoch University,Australia,Murdoch,36.3,46.4,"16,641",https://www.usnews.com/education/best-global-universities/murdoch-university-528818
+740,clinical-medicine,745,Nanchang University,China,Nanchang,36.3,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+741,clinical-medicine,,Centre of Postgraduate Medical Education - Poland,Poland,Warsaw,36.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/centre-of-postgraduate-medical-education-poland-529907
+742,clinical-medicine,"1,013",Ernst Moritz Arndt Universitat Greifswald,Germany,Greifswald,36.2,38.5,N/A,https://www.usnews.com/education/best-global-universities/ernst-moritz-arndt-universitat-greifswald-501842
+743,clinical-medicine,,Kanazawa Medical University,Japan,Kahoku,36.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/kanazawa-medical-university-529368
+744,clinical-medicine,"1,338",Malmo University,Sweden,Malmo,36.2,31.6,N/A,https://www.usnews.com/education/best-global-universities/malmo-university-529366
+745,clinical-medicine,"1,861",Shiga University of Medical Science,Japan,Otsu,36.2,17.7,N/A,https://www.usnews.com/education/best-global-universities/shiga-university-of-medical-science-529486
+746,clinical-medicine,531,Institut Agro,France,Paris,36.1,50.2,N/A,https://www.usnews.com/education/best-global-universities/institut-agro-530029
+747,clinical-medicine,,Kawasaki Medical School,Japan,Kurashiki,36.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/kawasaki-medical-school-529359
+748,clinical-medicine,,University of the West Indies,Jamaica,Kingston 7,36.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-west-indies-529749
+749,clinical-medicine,,Riga Stradins University,Latvia,Riga,36,N/A,N/A,https://www.usnews.com/education/best-global-universities/riga-stradins-university-530163
+750,clinical-medicine,507,Universidade do Minho,Portugal,Braga,36,51,"19,922",https://www.usnews.com/education/best-global-universities/universidade-do-minho-506228
+751,clinical-medicine,"1,361",Universidade Federal do Espirito Santo,Brazil,Vitoria,36,31,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-espirito-santo-529299
+752,clinical-medicine,468,Florida International University,United States,Miami,35.9,52.6,"35,590",https://www.usnews.com/education/best-global-universities/florida-international-university-133951
+753,clinical-medicine,"1,753",Kunming Medical University,China,Kunming,35.9,21.5,N/A,https://www.usnews.com/education/best-global-universities/kunming-medical-university-529921
+754,clinical-medicine,452,University of Potsdam,Germany,Potsdam (Germany),35.8,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-potsdam-505430
+755,clinical-medicine,102,"University of Science & Technology of China, CAS",China,Hefei,35.8,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+756,clinical-medicine,"1,854",Hubei University of Medicine,China,Hubei,35.7,17.9,N/A,https://www.usnews.com/education/best-global-universities/hubei-university-of-medicine-530078
+757,clinical-medicine,"1,350",Thammasat University,Thailand,Bangkok,35.7,31.3,"30,995",https://www.usnews.com/education/best-global-universities/thammasat-university-529510
+758,clinical-medicine,"1,636",Ahvaz Jundishapur University of Medical Sciences (AJUMS),Iran,Ahvaz,35.6,24.6,N/A,https://www.usnews.com/education/best-global-universities/ahvaz-jundishapur-university-of-medical-sciences-ajums-529917
+759,clinical-medicine,"1,049",Middlesex University,United Kingdom,London (U.K.),35.6,37.6,"16,415",https://www.usnews.com/education/best-global-universities/middlesex-university-528885
+760,clinical-medicine,984,Shinshu University,Japan,Matsumoto,35.6,39.1,"10,603",https://www.usnews.com/education/best-global-universities/shinshu-university-505095
+761,clinical-medicine,676,Universita della Svizzera Italiana,Switzerland,Lugano,35.6,46.3,"3,266",https://www.usnews.com/education/best-global-universities/universita-della-svizzera-italiana-529681
+762,clinical-medicine,497,University of Guelph,Canada,Guelph,35.6,51.4,"22,763",https://www.usnews.com/education/best-global-universities/university-of-guelph-499974
+763,clinical-medicine,263,Iowa State University,United States,Ames,35.5,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+764,clinical-medicine,"1,844",Pochon Cha University,South Korea,Pocheon,35.5,18.2,N/A,https://www.usnews.com/education/best-global-universities/pochon-cha-university-529476
+765,clinical-medicine,"1,758",Medical University of Bialystok,Poland,Bialystok,35.4,21.4,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-bialystok-529631
+766,clinical-medicine,219,South China University of Technology,China,Guangzhou,35.4,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+767,clinical-medicine,"1,686",University of Yamanashi,Japan,Kofu,35.4,23.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-yamanashi-529231
+768,clinical-medicine,750,Manchester Metropolitan University,United Kingdom,Manchester,35.3,44.4,"29,830",https://www.usnews.com/education/best-global-universities/manchester-metropolitan-university-528968
+769,clinical-medicine,912,Yeungnam University,South Korea,Gyeongsan,35.3,40.7,"19,345",https://www.usnews.com/education/best-global-universities/yeungnam-university-504367
+770,clinical-medicine,710,Brigham Young University,United States,Provo,35.2,45.4,N/A,https://www.usnews.com/education/best-global-universities/brigham-young-university-230038
+771,clinical-medicine,"1,636",European University of Madrid,Spain,Madrid,35.2,24.6,N/A,https://www.usnews.com/education/best-global-universities/european-university-of-madrid-529746
+772,clinical-medicine,879,Universidad de la Laguna,Spain,La Laguna,35.2,41.3,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-la-laguna-502362
+773,clinical-medicine,653,University of Stirling,United Kingdom,Stirling,35.2,46.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-stirling-528876
+774,clinical-medicine,935,China Pharmaceutical University,China,Nanjing,35.1,40.1,"24,270",https://www.usnews.com/education/best-global-universities/china-pharmaceutical-university-502614
+775,clinical-medicine,"1,526",Fu Jen Catholic University,Taiwan,Taipei,35.1,27.1,"18,619",https://www.usnews.com/education/best-global-universities/fu-jen-catholic-university-529258
+776,clinical-medicine,379,University of Macau,Macau,Taipa,35.1,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+777,clinical-medicine,"1,920",Grigore T Popa University of Medicine & Pharmacy,Romania,Iasi,35,14.2,"9,605",https://www.usnews.com/education/best-global-universities/grigore-t-popa-university-of-medicine-pharmacy-529245
+778,clinical-medicine,297,Polytechnic University of Milan,Italy,Milan,35,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+779,clinical-medicine,,Zahedan University of Medical Sciences,Iran,Zahedan,35,N/A,N/A,https://www.usnews.com/education/best-global-universities/zahedan-university-of-medical-sciences-529935
+780,clinical-medicine,698,Memorial University Newfoundland,Canada,St. John's,34.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985
+781,clinical-medicine,"1,002",Mohammed V University in Rabat,Morocco,Rabat,34.9,38.7,N/A,https://www.usnews.com/education/best-global-universities/mohammed-v-university-in-rabat-528985
+782,clinical-medicine,512,University of Alabama Tuscaloosa,United States,Tuscaloosa,34.9,50.7,"44,133",https://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751
+783,clinical-medicine,"1,049",University of Maribor,Slovenia,Maribor,34.9,37.6,"12,403",https://www.usnews.com/education/best-global-universities/university-of-maribor-528882
+784,clinical-medicine,912,Universidad de Cordoba,Spain,Cordoba (Spain),34.8,40.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cordoba-505807
+785,clinical-medicine,"1,327",Universite de Reims Champagne-Ardenne,France,Reims,34.8,31.7,N/A,https://www.usnews.com/education/best-global-universities/universite-de-reims-champagne-ardenne-529182
+786,clinical-medicine,"1,184",Universite de Tours,France,Tours,34.8,34.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-tours-505177
+787,clinical-medicine,"1,132",Cukurova University,Turkey,Adana,34.7,35.8,N/A,https://www.usnews.com/education/best-global-universities/cukurova-university-528939
+788,clinical-medicine,"1,745",German Sport University Cologne,Germany,Cologne,34.7,21.8,N/A,https://www.usnews.com/education/best-global-universities/german-sport-university-cologne-529747
+789,clinical-medicine,"1,771",Kansai Medical University,Japan,Hirakata,34.7,21.1,N/A,https://www.usnews.com/education/best-global-universities/kansai-medical-university-529913
+790,clinical-medicine,789,University of Split,Croatia,Split,34.7,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-split-528851
+791,clinical-medicine,"1,425",Universidad Autonoma de Nuevo Leon,Mexico,Monterrey,34.6,29.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-autonoma-de-nuevo-leon-529185
+792,clinical-medicine,896,Universidade Federal de Sao Carlos,Brazil,Sao Carlos,34.5,41,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-carlos-505014
+793,clinical-medicine,889,City University London,United Kingdom,London (U.K.),34.4,41.1,N/A,https://www.usnews.com/education/best-global-universities/city-university-london-503692
+794,clinical-medicine,"1,095",University of Salford,United Kingdom,Salford,34.4,36.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-salford-529039
+795,clinical-medicine,739,Al Azhar University,Egypt,Cairo,34.3,44.6,N/A,https://www.usnews.com/education/best-global-universities/al-azhar-university-508017
+796,clinical-medicine,"1,140",Chungnam National University,South Korea,Daejeon,34.3,35.6,N/A,https://www.usnews.com/education/best-global-universities/chungnam-national-university-502760
+797,clinical-medicine,487,University of Hannover,Germany,Hannover,34.3,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-hannover-503676
+798,clinical-medicine,225,University of Tennessee Knoxville,United States,Knoxville,34.3,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+799,clinical-medicine,"1,506",Witten Herdecke University,Germany,Witten,34.3,27.7,N/A,https://www.usnews.com/education/best-global-universities/witten-herdecke-university-529274
+800,clinical-medicine,540,Lanzhou University,China,Lanzhou,34.2,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+801,clinical-medicine,260,Tianjin University,China,Tianjin,34.2,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+802,clinical-medicine,"1,258",Universite de Limoges,France,Limoges,34.1,33.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-limoges-529157
+803,clinical-medicine,"1,884",Saint Marianna University,Japan,Kawasaki City,34,16.5,N/A,https://www.usnews.com/education/best-global-universities/saint-marianna-university-529908
+804,clinical-medicine,276,Colorado State University,United States,Fort Collins,33.9,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+805,clinical-medicine,"1,381",Gifu University,Japan,Gifu,33.9,30.5,"7,417",https://www.usnews.com/education/best-global-universities/gifu-university-506304
+806,clinical-medicine,889,Jeonbuk National University,South Korea,Jeonju,33.9,41.1,"21,782",https://www.usnews.com/education/best-global-universities/jeonbuk-national-university-503088
+807,clinical-medicine,"1,190",Universidad Rey Juan Carlos,Spain,Madrid,33.9,34.5,"42,869",https://www.usnews.com/education/best-global-universities/universidad-rey-juan-carlos-529015
+808,clinical-medicine,"1,609",University of Foggia,Italy,Foggia,33.9,25.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-foggia-529562
+809,clinical-medicine,"1,553",Chungbuk National University,South Korea,Cheongju,33.8,26.7,N/A,https://www.usnews.com/education/best-global-universities/chungbuk-national-university-503344
+810,clinical-medicine,"1,636",Fukuoka University,Japan,Fukuoka,33.8,24.6,N/A,https://www.usnews.com/education/best-global-universities/fukuoka-university-529259
+811,clinical-medicine,583,Hong Kong Baptist University,Hong Kong,Hong Kong,33.8,48.7,"8,358",https://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544
+812,clinical-medicine,429,University of Innsbruck,Austria,Innsbruck,33.7,53.7,"13,918",https://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813
+813,clinical-medicine,"1,813",Keimyung University,South Korea,Daegu,33.6,19.3,N/A,https://www.usnews.com/education/best-global-universities/keimyung-university-529536
+814,clinical-medicine,"1,407",Oakland University,United States,Rochester,33.6,29.9,"15,413",https://www.usnews.com/education/best-global-universities/oakland-university-171571
+815,clinical-medicine,"1,327",University of Rijeka,Croatia,Rijeka,33.6,31.7,"13,155",https://www.usnews.com/education/best-global-universities/university-of-rijeka-529405
+816,clinical-medicine,"1,705",International University of Health & Welfare,Japan,Otawara,33.5,22.9,N/A,https://www.usnews.com/education/best-global-universities/international-university-of-health-welfare-529920
+817,clinical-medicine,180,Rice University,United States,Houston,33.5,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+818,clinical-medicine,"1,832",Soonchunhyang University,South Korea,Asan,33.5,18.6,N/A,https://www.usnews.com/education/best-global-universities/soonchunhyang-university-529275
+819,clinical-medicine,"1,455",Bond University,Australia,Robina,33.4,28.7,N/A,https://www.usnews.com/education/best-global-universities/bond-university-529370
+820,clinical-medicine,118,Carnegie Mellon University,United States,Pittsburgh,33.4,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+821,clinical-medicine,,King George's Medical University,India,Lucknow,33.4,N/A,N/A,https://www.usnews.com/education/best-global-universities/king-georges-medical-university-529744
+822,clinical-medicine,"1,203",Universidade Federal de Goias,Brazil,Goiania,33.4,34.3,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-goias-529175
+823,clinical-medicine,342,Eindhoven University of Technology,Netherlands,Eindhoven,33.3,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+824,clinical-medicine,329,University of Tehran,Iran,Tehran,33.3,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+825,clinical-medicine,"1,705",Pirogov Russian National Research Medical University,Russia,Moscow (Russia),33.2,22.9,N/A,https://www.usnews.com/education/best-global-universities/pirogov-russian-national-research-medical-university-529909
+826,clinical-medicine,"1,225",Shantou University,China,Shantou,33.2,33.8,N/A,https://www.usnews.com/education/best-global-universities/shantou-university-529179
+827,clinical-medicine,"1,017",Universidade Federal Fluminense,Brazil,Niteroi,33.2,38.4,"49,554",https://www.usnews.com/education/best-global-universities/universidade-federal-fluminense-506244
+828,clinical-medicine,693,University of Graz,Austria,Graz,33.2,45.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-graz-505072
+829,clinical-medicine,"1,930",Acibadem University,Turkey,Istanbul,33.1,13.3,N/A,https://www.usnews.com/education/best-global-universities/acibadem-university-529928
+830,clinical-medicine,"1,907",Hebei Medical University,China,Shijiazhuang,33.1,15.2,N/A,https://www.usnews.com/education/best-global-universities/hebei-medical-university-529919
+831,clinical-medicine,"1,813",Kyorin University,Japan,Tokyo,33.1,19.3,N/A,https://www.usnews.com/education/best-global-universities/kyorin-university-529361
+832,clinical-medicine,,Slovak Medical University Bratislava,Slovakia,Bratislava,33.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/slovak-medical-university-bratislava-529912
+833,clinical-medicine,"1,147",Glasgow Caledonian University,United Kingdom,Glasgow,33,35.5,"15,010",https://www.usnews.com/education/best-global-universities/glasgow-caledonian-university-529566
+834,clinical-medicine,"1,317",Sheffield Hallam University,United Kingdom,Sheffield,33,31.8,"26,355",https://www.usnews.com/education/best-global-universities/sheffield-hallam-university-529220
+835,clinical-medicine,"1,208",Tribhuvan University,Nepal,Kirtipur,33,34.2,N/A,https://www.usnews.com/education/best-global-universities/tribhuvan-university-530037
+836,clinical-medicine,"1,243",Universidad del Desarrollo,Chile,Concepcion,33,33.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-del-desarrollo-529632
+837,clinical-medicine,"1,919",Iwate Medical University,Japan,Morioka,32.9,14.3,N/A,https://www.usnews.com/education/best-global-universities/iwate-medical-university-529372
+838,clinical-medicine,"1,561",Universitat Internacional de Catalunya (UIC),Spain,Barcelona,32.9,26.5,"5,172",https://www.usnews.com/education/best-global-universities/universitat-internacional-de-catalunya-uic-529916
+839,clinical-medicine,717,Aston University,United Kingdom,Birmingham (U.K.),32.8,45.3,"13,230",https://www.usnews.com/education/best-global-universities/aston-university-528938
+840,clinical-medicine,394,University of Hawaii Manoa,United States,Honolulu,32.8,54.6,"14,722",https://www.usnews.com/education/best-global-universities/university-of-hawaii-manoa-141574
+841,clinical-medicine,"1,827",Shanxi Medical University,China,Jinzhong,32.7,18.8,N/A,https://www.usnews.com/education/best-global-universities/shanxi-medical-university-529915
+842,clinical-medicine,"1,960",Dokkyo Medical University,Japan,Shimotsugagun,32.6,11.5,N/A,https://www.usnews.com/education/best-global-universities/dokkyo-medical-university-529918
+843,clinical-medicine,,Dow University of Health Sciences,Pakistan,Karachi,32.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/dow-university-of-health-sciences-529934
+844,clinical-medicine,"1,876",I Shou University,Taiwan,Kaohsiung City,32.6,17,"11,691",https://www.usnews.com/education/best-global-universities/i-shou-university-529910
+845,clinical-medicine,"1,059",Universidade Federal de Juiz de Fora,Brazil,Juiz de Fora,32.6,37.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-juiz-de-fora-529150
+846,clinical-medicine,"1,891",Hyogo College of Medicine,Japan,Nishinomiya,32.5,16.1,N/A,https://www.usnews.com/education/best-global-universities/hyogo-college-of-medicine-529298
+847,clinical-medicine,,Northern Ontario School of Medicine,Canada,Thunder Bay,32.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/northern-ontario-school-of-medicine-529914
+848,clinical-medicine,702,Scuola Superiore Sant'Anna,Italy,Pisa,32.5,45.6,N/A,https://www.usnews.com/education/best-global-universities/scuola-superiore-santanna-529393
+849,clinical-medicine,"1,239",University of Central Lancashire,United Kingdom,Preston,32.5,33.6,"20,030",https://www.usnews.com/education/best-global-universities/university-of-central-lancashire-529003
+850,clinical-medicine,"1,208",University of North Dakota Grand Forks,United States,Grand Forks,32.5,34.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-dakota-grand-forks-200280
+851,clinical-medicine,"1,589",Akdeniz University,Turkey,Antalya,32.4,25.8,N/A,https://www.usnews.com/education/best-global-universities/akdeniz-university-529050
+852,clinical-medicine,"1,922",Baskent University,Turkey,Ankara,32.4,13.8,N/A,https://www.usnews.com/education/best-global-universities/baskent-university-529924
+853,clinical-medicine,901,Universidade Federal de Pernambuco,Brazil,Recife,32.4,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pernambuco-506633
+854,clinical-medicine,199,Swinburne University of Technology,Australia,Hawthorn,32.3,63,"15,327",https://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823
+855,clinical-medicine,"1,167",Umm Al Qura University,Saudi Arabia,Makkah,32.3,34.9,N/A,https://www.usnews.com/education/best-global-universities/umm-al-qura-university-510156
+856,clinical-medicine,"1,389",Universidad de Leon,Spain,Leon,32.3,30.3,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-leon-529228
+857,clinical-medicine,,Universidad El Bosque,Colombia,Bogot¨¢,32.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/universidad-el-bosque-530164
+858,clinical-medicine,"1,049",Konkuk University,South Korea,Seoul,32.2,37.6,N/A,https://www.usnews.com/education/best-global-universities/konkuk-university-503911
+859,clinical-medicine,,Meharry Medical College,United States,Nashville,32.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/meharry-medical-college-530165
+860,clinical-medicine,321,East China Normal University,China,Shanghai,32.1,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+861,clinical-medicine,"1,225",University of L'Aquila,Italy,L'Aquila,32.1,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-laquila-528961
+862,clinical-medicine,722,University of Oviedo,Spain,Oviedo,32.1,45.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oviedo-503830
+863,clinical-medicine,"1,489",Erciyes University,Turkey,Kayseri,32,28,"50,212",https://www.usnews.com/education/best-global-universities/erciyes-university-503419
+864,clinical-medicine,"1,417",Nantong University,China,Nantong,32,29.7,N/A,https://www.usnews.com/education/best-global-universities/nantong-university-529473
+865,clinical-medicine,"1,798",Fukushima Medical University,Japan,Fukushima City,31.9,20.1,N/A,https://www.usnews.com/education/best-global-universities/fukushima-medical-university-529542
+866,clinical-medicine,"1,369",Universite de Franche-Comte,France,Besan?on,31.9,30.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-franche-comte-529386
+867,clinical-medicine,884,Bangor University,United Kingdom,Bangor,31.8,41.2,N/A,https://www.usnews.com/education/best-global-universities/bangor-university-528852
+868,clinical-medicine,544,University of Wisconsin Milwaukee,United States,Milwaukee,31.8,49.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-wisconsin-milwaukee-240453
+869,clinical-medicine,"1,483",Amrita Vishwa Vidyapeetham,India,Coimbatore,31.7,28.1,N/A,https://www.usnews.com/education/best-global-universities/amrita-vishwa-vidyapeetham-529695
+870,clinical-medicine,"1,455",Democritus University of Thrace,Greece,Komotini,31.7,28.7,"20,747",https://www.usnews.com/education/best-global-universities/democritus-university-of-thrace-529213
+871,clinical-medicine,"1,716",Louisiana State University Health Sciences Center at Shreveport,United States,Shreveport,31.7,22.7,N/A,https://www.usnews.com/education/best-global-universities/louisiana-state-university-health-sciences-center-at-shreveport-529937
+872,clinical-medicine,"1,399",Universite de Rouen Normandie,France,Mont-Saint-Aignan,31.7,30.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rouen-normandie-528984
+873,clinical-medicine,"1,046",Dongguk University,South Korea,Seoul,31.6,37.7,N/A,https://www.usnews.com/education/best-global-universities/dongguk-university-529173
+874,clinical-medicine,"1,795",Guangdong Medical University,China,Zhanjiang,31.6,20.2,N/A,https://www.usnews.com/education/best-global-universities/guangdong-medical-university-529485
+875,clinical-medicine,"1,190",Universidad de Cadiz,Spain,Cadiz,31.4,34.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cadiz-500766
+876,clinical-medicine,"1,511",University of Notre Dame Australia,Australia,Fremantle,31.4,27.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-notre-dame-australia-529708
+877,clinical-medicine,"1,208",Gyeongsang National University,South Korea,Jinju City,31.1,34.2,N/A,https://www.usnews.com/education/best-global-universities/gyeongsang-national-university-500897
+878,clinical-medicine,992,Johannes Kepler University Linz,Austria,Linz,31.1,38.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-kepler-university-linz-528837
+879,clinical-medicine,"1,767",Louisiana State University Health Sciences Center New Orleans,United States,New Orleans,31.1,21.2,N/A,https://www.usnews.com/education/best-global-universities/louisiana-state-university-health-sciences-center-new-orleans-159373
+880,clinical-medicine,"1,647",Mie University,Japan,Tsu,31.1,24.5,N/A,https://www.usnews.com/education/best-global-universities/mie-university-529216
+881,clinical-medicine,821,University of New England,Australia,Armidale,31.1,42.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-new-england-528095
+882,clinical-medicine,661,Zagazig University,Egypt,Zagazig,31.1,46.7,N/A,https://www.usnews.com/education/best-global-universities/zagazig-university-514033
+883,clinical-medicine,"1,945",Aichi Medical University,Japan,Nagakute,31,12.6,N/A,https://www.usnews.com/education/best-global-universities/aichi-medical-university-529374
+884,clinical-medicine,"1,369",Gadjah Mada University,Indonesia,Yogyakarta,31,30.8,N/A,https://www.usnews.com/education/best-global-universities/gadjah-mada-university-529706
+885,clinical-medicine,"1,172",Marquette University,United States,Milwaukee,31,34.8,"10,661",https://www.usnews.com/education/best-global-universities/marquette-university-239105
+886,clinical-medicine,814,Ulster University,United Kingdom,Coleraine,31,42.8,"19,680",https://www.usnews.com/education/best-global-universities/ulster-university-528872
+887,clinical-medicine,"1,002",University of Toledo,United States,Toledo,31,38.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-toledo-206084
+888,clinical-medicine,"1,425",Asia University Taiwan,Taiwan,Taichung City,30.9,29.5,"11,421",https://www.usnews.com/education/best-global-universities/asia-university-taiwan-529037
+889,clinical-medicine,"1,718",Eskisehir Osmangazi University,Turkey,Meselik Yerleskesi,30.9,22.6,"30,822",https://www.usnews.com/education/best-global-universities/eskisehir-osmangazi-university-529293
+890,clinical-medicine,"1,827",Guizhou Medical University,China,Guiyang,30.9,18.8,N/A,https://www.usnews.com/education/best-global-universities/guizhou-medical-university-529927
+891,clinical-medicine,970,Henan University,China,Kaifeng,30.9,39.4,N/A,https://www.usnews.com/education/best-global-universities/henan-university-529507
+892,clinical-medicine,,National Defense Medical College - Japan,Japan,Tokorozawa,30.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/national-defense-medical-college-japan-529925
+893,clinical-medicine,807,Nottingham Trent University,United Kingdom,Nottingham,30.9,43,N/A,https://www.usnews.com/education/best-global-universities/nottingham-trent-university-529163
+894,clinical-medicine,240,Royal Institute of Technology,Sweden,Stockholm,30.9,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+895,clinical-medicine,"1,431",Tokushima University,Japan,Tokushima,30.9,29.3,N/A,https://www.usnews.com/education/best-global-universities/tokushima-university-503027
+896,clinical-medicine,"1,027",University of Malta,Malta,Msida,30.9,38.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-malta-529548
+897,clinical-medicine,231,University of Electronic Science & Technology of China,China,Chengdu,30.8,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+898,clinical-medicine,495,Victoria University Wellington,New Zealand,Wellington,30.8,51.5,"17,883",https://www.usnews.com/education/best-global-universities/victoria-university-wellington-504111
+899,clinical-medicine,"1,303",Conservatoire National Arts & Metiers (CNAM),France,Paris,30.7,32.1,N/A,https://www.usnews.com/education/best-global-universities/conservatoire-national-arts-metiers-cnam-529693
+900,clinical-medicine,"1,694",Xuzhou Medical University,China,Xuzhou,30.7,23.1,N/A,https://www.usnews.com/education/best-global-universities/xuzhou-medical-university-529926
+901,clinical-medicine,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,30.6,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+902,clinical-medicine,"1,911",Osaka Medical College,Japan,Osaka,30.6,15,N/A,https://www.usnews.com/education/best-global-universities/osaka-medical-college-529369
+903,clinical-medicine,"1,266",Universidad Publica de Navarra,Spain,Pamplona,30.6,32.9,N/A,https://www.usnews.com/education/best-global-universities/universidad-publica-de-navarra-529169
+904,clinical-medicine,633,University of Essex,United Kingdom,Colchester,30.6,47.3,"15,075",https://www.usnews.com/education/best-global-universities/university-of-essex-502672
+905,clinical-medicine,"1,317",Ningbo University,China,Ningbo,30.5,31.8,N/A,https://www.usnews.com/education/best-global-universities/ningbo-university-529272
+906,clinical-medicine,"1,399",Selcuk University,Turkey,Selcuklu-Konya,30.5,30.1,N/A,https://www.usnews.com/education/best-global-universities/selcuk-university-505792
+907,clinical-medicine,"1,438",Universidade Estadual de Londrina,Brazil,Londrina,30.5,29.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-de-londrina-529115
+908,clinical-medicine,"1,771",Texas Tech University Health Science Center,United States,Lubbock,30.4,21.1,N/A,https://www.usnews.com/education/best-global-universities/texas-tech-university-health-science-center-229337
+909,clinical-medicine,750,University of Arkansas Fayetteville,United States,Fayetteville,30.4,44.4,"25,207",https://www.usnews.com/education/best-global-universities/university-of-arkansas-fayetteville-106397
+910,clinical-medicine,"1,082",Western Norway University of Applied Sciences,Norway,Bergen,30.4,37,N/A,https://www.usnews.com/education/best-global-universities/western-norway-university-of-applied-sciences-529923
+911,clinical-medicine,482,Quaid I Azam University,Pakistan,Islamabad,30.2,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+912,clinical-medicine,452,University of Southern Queensland,Australia,Toowoomba,30.2,53.1,"12,150",https://www.usnews.com/education/best-global-universities/university-of-southern-queensland-529601
+913,clinical-medicine,"1,095",Central Queensland University,Australia,Rockhampton North,30.1,36.7,N/A,https://www.usnews.com/education/best-global-universities/central-queensland-university-529603
+914,clinical-medicine,816,Universidad de Concepcion,Chile,Concepcion,30.1,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-concepcion-506070
+915,clinical-medicine,598,Jiangnan University,China,Wuxi,30,48.3,"29,899",https://www.usnews.com/education/best-global-universities/jiangnan-university-504800
+916,clinical-medicine,"1,792",Southwest Medical University,China,Luzhou,30,20.3,N/A,https://www.usnews.com/education/best-global-universities/southwest-medical-university-529931
+917,clinical-medicine,"1,758",University of South China,China,Hengyang,30,21.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-china-529496
+918,clinical-medicine,"1,886",Istanbul Medipol University,Turkey,"Beykoz, ?stanbul",29.9,16.3,"37,108",https://www.usnews.com/education/best-global-universities/istanbul-medipol-university-529950
+919,clinical-medicine,256,Nankai University,China,Nankai,29.9,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+920,clinical-medicine,"1,082",Nicolaus Copernicus University,Poland,Torun,29.9,37,"19,684",https://www.usnews.com/education/best-global-universities/nicolaus-copernicus-university-502450
+921,clinical-medicine,"1,798",Oita University,Japan,Oita City,29.9,20.1,N/A,https://www.usnews.com/education/best-global-universities/oita-university-529501
+922,clinical-medicine,"1,422",Universidad del Valle,Colombia,Cali,29.9,29.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-del-valle-529595
+923,clinical-medicine,"1,861",Yeditepe University,Turkey,Istanbul,29.9,17.7,"17,038",https://www.usnews.com/education/best-global-universities/yeditepe-university-529952
+924,clinical-medicine,,Cardiff Metropolitan University,United Kingdom,Cardiff,29.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/cardiff-metropolitan-university-529938
+925,clinical-medicine,"1,132",University of Novi Sad,Serbia,Novi Sad,29.8,35.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-novi-sad-529165
+926,clinical-medicine,"1,357",University of Toyama,Japan,Toyama,29.8,31.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-toyama-501284
+927,clinical-medicine,,Tokyo Dental College,Japan,Chiyoda,29.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/tokyo-dental-college-530166
+928,clinical-medicine,618,Boston College,United States,Chestnut Hill,29.6,47.9,"12,755",https://www.usnews.com/education/best-global-universities/boston-college-164924
+929,clinical-medicine,844,Jiangsu University,China,Zhenjiang,29.6,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+930,clinical-medicine,948,Minia University,Egypt,Minya,29.6,39.9,N/A,https://www.usnews.com/education/best-global-universities/minia-university-514678
+931,clinical-medicine,531,Tilburg University,Netherlands,Tilburg,29.6,50.2,"11,876",https://www.usnews.com/education/best-global-universities/tilburg-university-499980
+932,clinical-medicine,461,University of Oklahoma - Norman,United States,Norman,29.6,52.9,"26,450",https://www.usnews.com/education/best-global-universities/university-of-oklahoma-norman-207500
+933,clinical-medicine,"1,317",University of South Alabama,United States,Mobile,29.6,31.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-alabama-102094
+934,clinical-medicine,"1,803",Ningxia Medical University,China,Yinchuan,29.5,20,N/A,https://www.usnews.com/education/best-global-universities/ningxia-medical-university-529941
+935,clinical-medicine,"1,958",Xinjiang Medical University,China,¨¹r¨¹mqi,29.5,11.8,N/A,https://www.usnews.com/education/best-global-universities/xinjiang-medical-university-529930
+936,clinical-medicine,"1,535",Arizona State University-Downtown Phoenix,United States,Phoenix,29.4,27,N/A,https://www.usnews.com/education/best-global-universities/arizona-state-university-downtown-phoenix-529933
+937,clinical-medicine,"1,831",Binzhou Medical University,China,Shandong,29.4,18.7,N/A,https://www.usnews.com/education/best-global-universities/binzhou-medical-university-530074
+938,clinical-medicine,"1,346",Ehime University,Japan,Matsuyama,29.4,31.4,N/A,https://www.usnews.com/education/best-global-universities/ehime-university-505737
+939,clinical-medicine,"1,013",Universidad de Castilla-La Mancha,Spain,Real,29.4,38.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-castilla-la-mancha-505673
+940,clinical-medicine,,"George Emil Palade University of Medicine, Pharmacy, Science, & Technology of Targu Mures",Romania,Targu Mure?,29.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/george-emil-palade-university-of-medicine-pharmacy-science-technology-of-targu-mures-530167
+941,clinical-medicine,"1,080",Coventry University,United Kingdom,Coventry,29.2,37.1,"33,395",https://www.usnews.com/education/best-global-universities/coventry-university-529401
+942,clinical-medicine,943,Taibah University,Saudi Arabia,Medina,29.2,40,N/A,https://www.usnews.com/education/best-global-universities/taibah-university-512768
+943,clinical-medicine,598,Massey University,New Zealand,Palmerston North,29.1,48.3,"18,570",https://www.usnews.com/education/best-global-universities/massey-university-503390
+944,clinical-medicine,"1,126",Southern Illinois University,United States,Carbondale,29.1,36,N/A,https://www.usnews.com/education/best-global-universities/southern-illinois-university-149222
+945,clinical-medicine,"1,983",Tzu Chi University,Taiwan,Hualien,29.1,8.9,N/A,https://www.usnews.com/education/best-global-universities/tzu-chi-university-529922
+946,clinical-medicine,322,University of Notre Dame,United States,Notre Dame,29.1,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+947,clinical-medicine,"1,712",Shimane University,Japan,Matsue,29,22.8,N/A,https://www.usnews.com/education/best-global-universities/shimane-university-529295
+948,clinical-medicine,611,Universidad de Cantabria,Spain,Santander,29,48.1,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cantabria-501803
+949,clinical-medicine,"1,849",Yanbian University,China,Yanji,29,18,N/A,https://www.usnews.com/education/best-global-universities/yanbian-university-529511
+950,clinical-medicine,943,King Khalid University,Saudi Arabia,Abha,28.9,40,N/A,https://www.usnews.com/education/best-global-universities/king-khalid-university-529704
+951,clinical-medicine,,Maulana Azad Medical College,India,New Delhi,28.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/maulana-azad-medical-college-530168
+952,clinical-medicine,"1,080",Universidade Federal de Santa Maria (UFSM),Brazil,Santa Maria,28.9,37.1,"27,242",https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-maria-ufsm-500881
+953,clinical-medicine,"1,136",University of Massachusetts Lowell,United States,Lowell,28.9,35.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-lowell-166513
+954,clinical-medicine,"1,954",National Defense Medical Center,Taiwan,Taipei,28.7,12,N/A,https://www.usnews.com/education/best-global-universities/national-defense-medical-center-529936
+955,clinical-medicine,"1,147",University of Jinan,China,Jinan,28.7,35.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-jinan-529252
+956,clinical-medicine,"1,716",Dong A University,South Korea,Busan,28.6,22.7,N/A,https://www.usnews.com/education/best-global-universities/dong-a-university-529242
+957,clinical-medicine,"1,821",Zhejiang Chinese Medical University,China,Hangzhou,28.6,19,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-chinese-medical-university-529949
+958,clinical-medicine,,Tohoku Medical & Pharmaceutical University,Japan,Sendai,28.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/tohoku-medical-pharmaceutical-university-529932
+959,clinical-medicine,"1,072",University of Veterinary Medicine Vienna,Austria,Vienna,28.5,37.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-veterinary-medicine-vienna-528974
+960,clinical-medicine,352,University of St Andrews,United Kingdom,Fife,28.4,56,"9,645",https://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328
+961,clinical-medicine,"1,945",Chang Gung University of Science & Technology,Taiwan,Taoyuan City,28.3,12.6,N/A,https://www.usnews.com/education/best-global-universities/chang-gung-university-of-science-technology-529942
+962,clinical-medicine,745,University of Quebec Montreal,Canada,Montreal,28.3,44.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-quebec-montreal-504868
+963,clinical-medicine,"1,689",University of Rzeszow,Poland,Rzeszow,28.3,23.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-rzeszow-529560
+964,clinical-medicine,169,Delft University of Technology,Netherlands,Delft,28.2,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+965,clinical-medicine,,Seth Gordhandas Sunderdas Medical College & King Edward Memorial Hospital,India,Mumbai,28.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/seth-gordhandas-sunderdas-medical-college-king-edward-memorial-hospital-529944
+966,clinical-medicine,"1,027",University of West England,United Kingdom,Bristol,28.2,38.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-west-england-529164
+967,clinical-medicine,,Northeast Ohio Medical University (NEOMED),United States,Rootstown,28.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/northeast-ohio-medical-university-neomed-529939
+968,clinical-medicine,"1,561",University of South Dakota,United States,Vermillion,28,26.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-dakota-219471
+969,clinical-medicine,930,Carl von Ossietzky Universitat Oldenburg,Germany,Oldenburg,27.9,40.2,N/A,https://www.usnews.com/education/best-global-universities/carl-von-ossietzky-universitat-oldenburg-528947
+970,clinical-medicine,"1,514",Uludag University,Turkey,Gorukle,27.9,27.5,N/A,https://www.usnews.com/education/best-global-universities/uludag-university-529206
+971,clinical-medicine,"1,072",Universitat d'Alacant,Spain,Alicante,27.9,37.2,N/A,https://www.usnews.com/education/best-global-universities/universitat-dalacant-503239
+972,clinical-medicine,"1,266",University of Bradford,United Kingdom,Bradford,27.9,32.9,"8,415",https://www.usnews.com/education/best-global-universities/university-of-bradford-528905
+973,clinical-medicine,871,University of Nevada Las Vegas,United States,Las Vegas,27.9,41.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-nevada-las-vegas-182281
+974,clinical-medicine,702,University of Rhode Island,United States,Kingston (U.S.),27.9,45.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-rhode-island-217484
+975,clinical-medicine,576,University of Texas Arlington,United States,Arlington,27.9,48.9,"33,537",https://www.usnews.com/education/best-global-universities/university-of-texas-arlington-228769
+976,clinical-medicine,,Asahikawa Medical College,Japan,Asahikawa,27.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/asahikawa-medical-college-529946
+977,clinical-medicine,"1,925",Xi'an Medical University,China,Xi'an,27.7,13.5,N/A,https://www.usnews.com/education/best-global-universities/xian-medical-university-529947
+978,clinical-medicine,"1,198",Universidad de Valladolid,Spain,Valladolid,27.6,34.4,"21,780",https://www.usnews.com/education/best-global-universities/universidad-de-valladolid-501268
+979,clinical-medicine,"1,106",Universitat de Lleida,Spain,Lleida,27.6,36.4,N/A,https://www.usnews.com/education/best-global-universities/universitat-de-lleida-504927
+980,clinical-medicine,984,Universitat Jaume I,Spain,Castellon,27.6,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-jaume-i-528868
+981,clinical-medicine,"1,088",University of Memphis,United States,Memphis,27.6,36.8,"16,922",https://www.usnews.com/education/best-global-universities/university-of-memphis-220862
+982,clinical-medicine,"1,758",University of Puerto Rico Medical Sciences Campus,United States,San Juan,27.6,21.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-puerto-rico-medical-sciences-campus-243203
+983,clinical-medicine,"1,805",Xinxiang Medical University,China,Xinxiang,27.6,19.8,N/A,https://www.usnews.com/education/best-global-universities/xinxiang-medical-university-529948
+984,clinical-medicine,379,Chongqing University,China,Chongqing,27.5,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+985,clinical-medicine,564,Ecole Normale Superieure de Lyon (ENS de LYON),France,Lyon,27.5,49.2,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-de-lyon-ens-de-lyon-503874
+986,clinical-medicine,"1,549",Istanbul Medeniyet University,Turkey,?stanbul,27.5,26.8,N/A,https://www.usnews.com/education/best-global-universities/istanbul-medeniyet-university-529954
+987,clinical-medicine,928,Menofia University,Egypt,Shebin El Koum,27.5,40.3,N/A,https://www.usnews.com/education/best-global-universities/menofia-university-529235
+988,clinical-medicine,"1,452",Universidade Estadual de Maringa,Brazil,Maringa,27.4,28.8,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-de-maringa-529117
+989,clinical-medicine,531,University of Bremen,Germany,Bremen,27.4,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+990,clinical-medicine,"1,847",Chosun University,South Korea,Gwangju,27.3,18.1,N/A,https://www.usnews.com/education/best-global-universities/chosun-university-529249
+991,clinical-medicine,,Foro Italico University of Rome,Italy,Rome,27.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/foro-italico-university-of-rome-529955
+992,clinical-medicine,,National Taipei University of Nursing & Health Science (NTUNHS),Taiwan,Taipei,27.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/national-taipei-university-of-nursing-health-science-ntunhs-529945
+993,clinical-medicine,"1,668",Rowan University,United States,Glassboro,27.2,24,N/A,https://www.usnews.com/education/best-global-universities/rowan-university-184782
+994,clinical-medicine,,Universidad de los Andes - Chile,Chile,Santiago,27.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-los-andes-chile-529953
+995,clinical-medicine,871,Universidade Federal do Rio Grande do Norte,Brazil,Natal/RN,27.2,41.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-norte-529407
+996,clinical-medicine,782,University of Nevada Reno,United States,Reno,27.2,43.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-nevada-reno-182290
+997,clinical-medicine,"1,549",University of Ryukyus,Japan,Nishihara,27.2,26.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-ryukyus-529099
+998,clinical-medicine,"1,494",Yamaguchi University,Japan,Yamaguchi City,27.2,27.9,N/A,https://www.usnews.com/education/best-global-universities/yamaguchi-university-505526
+999,clinical-medicine,"1,072",Yangzhou University,China,Yangzhou,27.2,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+1000,clinical-medicine,"1,494",Kagawa University,Japan,Takamatsu,27.1,27.9,N/A,https://www.usnews.com/education/best-global-universities/kagawa-university-529279

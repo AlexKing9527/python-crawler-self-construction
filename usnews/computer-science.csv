@@ -1,0 +1,751 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,computer-science,23,Tsinghua University,China,Beijing,100,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+2,computer-science,3,Stanford University,United States,Stanford,96.3,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+3,computer-science,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),94.5,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+4,computer-science,118,Carnegie Mellon University,United States,Pittsburgh,93.1,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+5,computer-science,4,University of California Berkeley,United States,Berkeley,90.9,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+6,computer-science,30,Nanyang Technological University,Singapore,Singapore,90.8,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+7,computer-science,26,National University of Singapore,Singapore,Singapore,90.8,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+8,computer-science,29,ETH Zurich,Switzerland,Zurich,88.9,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+9,computer-science,39,Peking University,China,Beijing,88.3,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+10,computer-science,53,Chinese University of Hong Kong,Hong Kong,Shatin,86.8,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+11,computer-science,5,University of Oxford,United Kingdom,Oxford,85,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+12,computer-science,93,Zhejiang University,China,Hangzhou,84.5,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+13,computer-science,89,Shanghai Jiao Tong University,China,Shanghai,84.4,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+14,computer-science,6,University of Washington Seattle,United States,Seattle,82.4,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+15,computer-science,112,University of Technology Sydney,Australia,Ultimo,82.1,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+16,computer-science,231,University of Electronic Science & Technology of China,China,Chengdu,81.5,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+17,computer-science,1,Harvard University,United States,Cambridge (U.S.),81.2,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+18,computer-science,79,Technical University of Munich,Germany,Munich,81.2,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+19,computer-science,109,Huazhong University of Science & Technology,China,Wuhan,80.1,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+20,computer-science,150,Wuhan University,China,Wuhan,80.1,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+21,computer-science,74,University of Illinois Urbana-Champaign,United States,Champaign,80,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+22,computer-science,51,Georgia Institute of Technology,United States,Atlanta,79.9,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+23,computer-science,21,Cornell University,United States,Ithaca,79.4,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+24,computer-science,57,University of Maryland College Park,United States,College Park,79.1,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+25,computer-science,12,University College London,United Kingdom,London (U.K.),79,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+26,computer-science,196,Harbin Institute of Technology,China,Harbin,78.9,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+27,computer-science,18,University of Toronto,Canada,Toronto,78.7,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+28,computer-science,102,"University of Science & Technology of China, CAS",China,Hefei,78.6,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+29,computer-science,28,University of Sydney,Australia,Sydney,78.5,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+30,computer-science,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,78.3,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+31,computer-science,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,78,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+32,computer-science,19,University of Michigan,United States,Ann Arbor,77.9,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+33,computer-science,13,Imperial College London,United Kingdom,London (U.K.),77.6,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+34,computer-science,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,77.4,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+35,computer-science,65,King Abdulaziz University,Saudi Arabia,Jeddah,77.3,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+36,computer-science,20,University of California San Diego,United States,La Jolla,77.2,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+37,computer-science,120,City University of Hong Kong,Hong Kong,Kowloon,77,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+38,computer-science,643,Xidian University,China,Xi'an,76.7,47.1,N/A,https://www.usnews.com/education/best-global-universities/xidian-university-506871
+39,computer-science,123,Nanjing University,China,Nanjing,76.5,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+40,computer-science,16,Princeton University,United States,Princeton,75.9,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+41,computer-science,74,University of Adelaide,Australia,Adelaide,75.6,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+42,computer-science,8,University of Cambridge,United Kingdom,Cambridge (U.K.),75.6,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+43,computer-science,253,Beihang University,China,Beijing,75.1,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+44,computer-science,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,74.7,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+45,computer-science,7,Columbia University,United States,New York City,74.2,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+46,computer-science,129,Sun Yat Sen University,China,Guangzhou,73.9,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+47,computer-science,14,University of California Los Angeles,United States,Los Angeles,73.9,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+48,computer-science,37,University of New South Wales Sydney,Australia,Kensington,72.8,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+49,computer-science,80,University of Southern California,United States,Los Angeles,72.6,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+50,computer-science,333,Northwestern Polytechnical University,China,Xi'an,72.1,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+51,computer-science,234,Southeast University - China,China,Nanjing,72,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+52,computer-science,191,University of Waterloo,Canada,Waterloo,72,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+53,computer-science,34,University of Edinburgh,United Kingdom,Edinburgh,71.5,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+54,computer-science,43,University of Texas Austin,United States,Austin,70.4,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+55,computer-science,31,New York University,United States,New York City,70.1,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+56,computer-science,35,University of British Columbia,Canada,Vancouver,70,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+57,computer-science,219,Xi'an Jiaotong University,China,Xi'an,69.8,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+58,computer-science,10,Johns Hopkins University,United States,Baltimore,69.5,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+59,computer-science,679,Beijing University of Posts & Telecommunications,China,Beijing,69.3,46.2,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-posts-telecommunications-502130
+60,computer-science,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,68.9,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+61,computer-science,37,Monash University,Australia,Clayton,68.9,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+62,computer-science,50,KU Leuven,Belgium,Leuven,68.8,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+63,computer-science,298,Beijing Institute of Technology,China,Beijing,68.4,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+64,computer-science,62,Australian National University,Australia,Canberra,68.2,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+65,computer-science,169,Delft University of Technology,Netherlands,Delft,68.1,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+66,computer-science,116,Fudan University,China,Shanghai,67.9,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+67,computer-science,27,University of Melbourne,Australia,Parkville,67.9,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+68,computer-science,140,Purdue University West Lafayette Campus,United States,West Lafayette,67.8,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+69,computer-science,63,University of Wisconsin Madison,United States,Madison,67.4,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+70,computer-science,213,King Saud University,Saudi Arabia,Riyadh,67.1,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+71,computer-science,273,Aalto University,Finland,Esbo,66.5,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+72,computer-science,60,Universite Paris Saclay,France,Saint-Aubin,66.4,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+73,computer-science,116,Michigan State University,United States,East Lansing,66.3,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+74,computer-science,156,Universite de Montreal,Canada,Montreal,65.9,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+75,computer-science,129,Seoul National University (SNU),South Korea,Seoul,65.8,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+76,computer-science,36,University of Queensland,Australia,Brisbane,65.6,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+77,computer-science,55,University of Hong Kong,Hong Kong,Pok Fu Lam,65,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+78,computer-science,9,California Institute of Technology,United States,Pasadena,64.7,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+79,computer-science,84,Pennsylvania State University,United States,University Park,64.6,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+80,computer-science,219,South China University of Technology,China,Guangzhou,64.6,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+81,computer-science,15,University of Pennsylvania,United States,Philadelphia,64.6,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+82,computer-science,81,University of Tokyo,Japan,Tokyo,64.5,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+83,computer-science,199,Swinburne University of Technology,Australia,Hawthorn,64.3,63,"15,327",https://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823
+84,computer-science,48,Universite de Paris,France,Paris,64.2,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+85,computer-science,143,Rutgers State University New Brunswick,United States,Piscataway Township,64,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+86,computer-science,226,Universiti Malaya,Malaysia,Kuala Lumpur,64,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+87,computer-science,156,Arizona State University-Tempe,United States,Tempe,63.9,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+88,computer-science,392,Dalian University of Technology,China,Dalian,63.9,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+89,computer-science,297,Polytechnic University of Milan,Italy,Milan,63.9,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+90,computer-science,41,University of North Carolina Chapel Hill,United States,Chapel Hill,63.7,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+91,computer-science,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,63.6,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+92,computer-science,209,Central South University,China,Changsha,63.4,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+93,computer-science,313,University of Granada,Spain,Granada,63.3,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+94,computer-science,25,Duke University,United States,"Durham (North Carolina, U.S.)",62.9,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+95,computer-science,84,University of California Irvine,United States,Irvine,62.8,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+96,computer-science,240,Royal Institute of Technology,Sweden,Stockholm,62.7,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+97,computer-science,468,Nanjing University of Information Science & Technology,China,Nanjing,62.5,52.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-information-science-technology-529160
+98,computer-science,416,Technische Universitat Wien,Austria,Vienna,61.8,54,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-wien-502163
+99,computer-science,67,University of Zurich,Switzerland,Zurich,61.7,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+100,computer-science,136,University of Alberta,Canada,Edmonton,61.5,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+101,computer-science,329,University of Tehran,Iran,Tehran,61.5,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+102,computer-science,194,Northeastern University,United States,Boston,61.2,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+103,computer-science,"1,082",National University of Defense Technology - China,China,Changsha,60.8,37,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-defense-technology-china-505128
+104,computer-science,67,University of California Santa Barbara,United States,Santa Barbara,60.6,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+105,computer-science,385,Polytechnic University of Catalonia,Spain,Barcelona,60.4,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+106,computer-science,48,Sorbonne Universite,France,Paris,60.4,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+107,computer-science,260,Tianjin University,China,Tianjin,60.4,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+108,computer-science,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),60.3,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+109,computer-science,39,University of Amsterdam,Netherlands,Amsterdam,60.3,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+110,computer-science,271,Shenzhen University,China,Shenzhen,60.2,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+111,computer-science,54,McGill University,Canada,Montreal,60.1,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+112,computer-science,304,Technical University of Berlin,Germany,Berlin,60.1,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+113,computer-science,57,University of Minnesota Twin Cities,United States,Minneapolis,60.1,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+114,computer-science,290,Korea University,South Korea,Seoul,60,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+115,computer-science,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,60,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+116,computer-science,397,Sejong University,South Korea,Seoul,59.7,54.5,N/A,https://www.usnews.com/education/best-global-universities/sejong-university-528964
+117,computer-science,217,Deakin University,Australia,Burwood,59.6,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+118,computer-science,55,Ohio State University,United States,Columbus,59.6,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+119,computer-science,247,Xiamen University,China,Xiamen,59.6,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+120,computer-science,168,Hunan University,China,Changsha,59.5,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+121,computer-science,182,Lancaster University,United Kingdom,Lancaster,59.4,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+122,computer-science,256,University of Trento,Italy,Trento,59.4,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+123,computer-science,342,Eindhoven University of Technology,Netherlands,Eindhoven,59,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+124,computer-science,370,University of Surrey,United Kingdom,Surrey,59,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+125,computer-science,100,Queen Mary University London,United Kingdom,London (U.K.),58.8,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+126,computer-science,997,Thapar Institute of Engineering & Technology,India,Patiala,58.8,38.8,N/A,https://www.usnews.com/education/best-global-universities/thapar-institute-of-engineering-technology-529291
+127,computer-science,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,58.7,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+128,computer-science,531,Nanjing University of Science & Technology,China,Nanjing,58.7,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+129,computer-science,576,University of Texas at San Antonio (UTSA),United States,San Antonio,58.5,48.9,"27,187",https://www.usnews.com/education/best-global-universities/university-of-texas-at-san-antonio-utsa-229027
+130,computer-science,165,Technical University of Denmark,Denmark,Kongens Lyngby,58.3,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+131,computer-science,175,Tel Aviv University,Israel,Tel Aviv,58.3,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+132,computer-science,196,Tongji University,China,Shanghai,58.3,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+133,computer-science,63,University of Manchester,United Kingdom,Manchester,57.9,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+134,computer-science,250,University of Illinois Chicago,United States,Chicago,57.7,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+135,computer-science,11,Yale University,United States,New Haven,57.6,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+136,computer-science,129,Brown University,United States,Providence,57.5,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+137,computer-science,70,Boston University,United States,Boston,57.4,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+138,computer-science,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,57.4,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+139,computer-science,89,University of Oslo,Norway,Oslo,57.1,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+140,computer-science,73,University of California Davis,United States,Davis,56.8,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+141,computer-science,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,56.6,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+142,computer-science,317,Technion Israel Institute of Technology,Israel,Haifa,56.6,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+143,computer-science,282,China University of Geosciences,China,Wuhan,56.5,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+144,computer-science,844,Vellore Institute of Technology,India,Tamil Nadu,56.5,42.2,"33,416",https://www.usnews.com/education/best-global-universities/vellore-institute-of-technology-529209
+145,computer-science,47,University of Munich,Germany,Munich,56.3,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+146,computer-science,160,University of Massachusetts Amherst,United States,Amherst,56.2,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+147,computer-science,122,University of Bologna,Italy,Bologna,56,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+148,computer-science,93,University of Bristol,United Kingdom,Bristol,56,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+149,computer-science,125,Sapienza University Rome,Italy,Rome,55.5,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+150,computer-science,89,University of Birmingham,United Kingdom,Birmingham (U.K.),55.4,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+151,computer-science,267,Aalborg University,Denmark,Aalborg,55.3,59.8,"16,818",https://www.usnews.com/education/best-global-universities/aalborg-university-501276
+152,computer-science,98,University of Florida,United States,Gainesville,55.2,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+153,computer-science,104,University of Southampton,United Kingdom,Southampton,55.2,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+154,computer-science,203,Griffith University,Australia,Nathan,55.1,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+155,computer-science,33,King's College London,United Kingdom,London (U.K.),55.1,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+156,computer-science,478,Qatar University,Qatar,Doha,55.1,52.2,"9,084",https://www.usnews.com/education/best-global-universities/qatar-university-529146
+157,computer-science,120,Universidade de Sao Paulo,Brazil,Sao Paulo,55.1,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+158,computer-science,95,Ghent University,Belgium,Gent,55,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+159,computer-science,821,Nanjing University of Posts & Telecommunications,China,Nanjing,54.9,42.5,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-posts-telecommunications-529215
+160,computer-science,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,54.9,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+161,computer-science,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,54.8,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+162,computer-science,615,Technical University of Darmstadt,Germany,Darmstadt,54.5,48,"15,526",https://www.usnews.com/education/best-global-universities/technical-university-of-darmstadt-506035
+163,computer-science,379,Universiti Teknologi Malaysia,Malaysia,Johor,54.5,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+164,computer-science,45,University of Pittsburgh,United States,Pittsburgh,54.3,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+165,computer-science,70,University of Colorado Boulder,United States,Boulder,54.2,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+166,computer-science,24,Northwestern University,United States,Evanston,54.1,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+167,computer-science,317,Simon Fraser University,Canada,Burnaby,54.1,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+168,computer-science,140,Kyoto University,Japan,Kyoto,54,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+169,computer-science,123,University of Auckland,New Zealand,Auckland,53.8,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+170,computer-science,618,Northeastern University - China,China,Shenyang,53.6,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931
+171,computer-science,432,Singapore University of Technology & Design,Singapore,Singapore,53.6,53.6,N/A,https://www.usnews.com/education/best-global-universities/singapore-university-of-technology-design-529432
+172,computer-science,551,Guangzhou University,China,Guangzhou,53.4,49.6,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-529537
+173,computer-science,202,Universidade de Lisboa,Portugal,Lisbon,53.3,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+174,computer-science,199,RWTH Aachen University,Germany,Aachen,53.2,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+175,computer-science,826,New Jersey Institute of Technology,United States,Newark,53.1,42.4,"9,757",https://www.usnews.com/education/best-global-universities/new-jersey-institute-of-technology-185828
+176,computer-science,564,Universidad Politecnica de Madrid,Spain,Madrid,53,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+177,computer-science,115,University of Padua,Italy,Padua,53,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+178,computer-science,337,Chalmers University of Technology,Sweden,Gothenburg,52.9,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+179,computer-science,292,Yonsei University,South Korea,Seoul,52.9,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+180,computer-science,570,Universitat Politecnica de Valencia,Spain,Valencia,52.8,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+181,computer-science,309,Temple University,United States,Philadelphia,52.7,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+182,computer-science,186,University of Wollongong,Australia,Wollongong,52.7,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+183,computer-science,317,Duy Tan University,Vietnam,Danang,52.6,57.6,N/A,https://www.usnews.com/education/best-global-universities/duy-tan-university-529795
+184,computer-science,304,Sichuan University,China,Chengdu,52.5,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+185,computer-science,286,State University of New York (SUNY) Buffalo,United States,Buffalo,52.5,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+186,computer-science,171,Queensland University of Technology (QUT),Australia,Brisbane,52.3,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+187,computer-science,145,University of Nottingham,United Kingdom,Nottingham,52.3,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+188,computer-science,400,University of Twente,Netherlands,Enschede,52.3,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+189,computer-science,203,National Taiwan University,Taiwan,Taipei,52.2,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+190,computer-science,152,Indiana University Bloomington,United States,Bloomington,52.1,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+191,computer-science,459,Institut National Polytechnique de Grenoble,France,Grenoble,52.1,53,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-grenoble-504372
+192,computer-science,256,Nankai University,China,Nankai,52.1,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+193,computer-science,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,52,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+194,computer-science,148,Texas A&M University College Station,United States,College Station,52,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+195,computer-science,42,University of Copenhagen,Denmark,Copenhagen,52,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+196,computer-science,570,University of Luxembourg,Luxembourg,Esch-sur-Alzette,51.9,49.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-luxembourg-528945
+197,computer-science,583,Hong Kong Baptist University,Hong Kong,Hong Kong,51.8,48.7,"8,358",https://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544
+198,computer-science,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,51.8,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+199,computer-science,379,Chongqing University,China,Chongqing,51.7,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+200,computer-science,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,51.7,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+201,computer-science,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,51.6,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+202,computer-science,192,Macquarie University,Australia,North Ryde,51.6,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+203,computer-science,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,51.6,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+204,computer-science,22,University of Chicago,United States,Chicago,51.5,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+205,computer-science,146,University of Liverpool,United Kingdom,Liverpool,51.5,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+206,computer-science,812,Hefei University of Technology,China,Hefei,51.4,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+207,computer-science,598,Beijing Jiaotong University,China,Beijing,51.2,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+208,computer-science,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,51.2,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+209,computer-science,230,North Carolina State University,United States,Raleigh,51.1,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+210,computer-science,653,Guangdong University of Technology,China,Guangzhou,51,46.8,"46,040",https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270
+211,computer-science,263,Sungkyunkwan University (SKKU),South Korea,Seoul,50.9,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+212,computer-science,74,University of Glasgow,United Kingdom,Glasgow,50.9,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+213,computer-science,866,University of Jordan,Jordan,Amman,50.9,41.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-jordan-512144
+214,computer-science,629,Hamad Bin Khalifa University-Qatar,Qatar,Doha,50.8,47.6,N/A,https://www.usnews.com/education/best-global-universities/hamad-bin-khalifa-university-qatar-510873
+215,computer-science,213,Southern University of Science & Technology,China,Shenzhen,50.7,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+216,computer-science,163,University of Warwick,United Kingdom,Coventry,50.6,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+217,computer-science,119,University of Virginia,United States,Charlottesville,50.5,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+218,computer-science,368,Shandong University,China,Jinan,50.4,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+219,computer-science,504,Polytechnic University of Turin,Italy,Turin,50.3,51.1,"29,428",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+220,computer-science,134,University of Sheffield,United Kingdom,Sheffield,50.2,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+221,computer-science,816,Graz University of Technology,Austria,Graz,50,42.6,N/A,https://www.usnews.com/education/best-global-universities/graz-university-of-technology-506184
+222,computer-science,99,University of Helsinki,Finland,Helsinki,49.9,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+223,computer-science,598,Sharif University of Technology,Iran,Tehran,49.8,48.3,N/A,https://www.usnews.com/education/best-global-universities/sharif-university-of-technology-502898
+224,computer-science,725,Singapore Management University,Singapore,Singapore,49.8,45.1,N/A,https://www.usnews.com/education/best-global-universities/singapore-management-university-502117
+225,computer-science,109,Aarhus University,Denmark,Aarhus,49.7,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+226,computer-science,185,University of Naples Federico II,Italy,Naples,49.7,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+227,computer-science,74,Leiden University,Netherlands,Leiden,49.6,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+228,computer-science,770,National University of Sciences & Technology - Pakistan,Pakistan,Islamabad,49.6,43.9,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-sciences-technology---pakistan-529152
+229,computer-science,447,University of Oulu,Finland,Oulu,49.6,53.3,"10,134",https://www.usnews.com/education/best-global-universities/university-of-oulu-502651
+230,computer-science,520,Kyung Hee University,South Korea,Seoul,49.5,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+231,computer-science,400,Tampere University,Finland,Tampere,49.5,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+232,computer-science,44,Utrecht University,Netherlands,Utrecht,49.5,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+233,computer-science,170,University of Rochester,United States,Rochester,49.3,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+234,computer-science,394,Islamic Azad University,Iran,Tehran,49.2,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+235,computer-science,108,University of Arizona,United States,Tucson,49.1,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+236,computer-science,349,University of Texas Dallas,United States,Richardson,49.1,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+237,computer-science,61,Humboldt University of Berlin,Germany,Berlin,49,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+238,computer-science,286,Tohoku University,Japan,Sendai,48.9,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+239,computer-science,394,National Tsing Hua University,Taiwan,Hsinchu,48.8,54.6,"13,030",https://www.usnews.com/education/best-global-universities/national-tsing-hua-university-501245
+240,computer-science,363,University of South Australia,Australia,Adelaide,48.7,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+241,computer-science,485,Brunel University,United Kingdom,Uxbridge,48.5,51.9,"14,185",https://www.usnews.com/education/best-global-universities/brunel-university-502232
+242,computer-science,360,Tokyo Institute of Technology,Japan,Tokyo,48.5,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+243,computer-science,379,University of Macau,Macau,Taipa,48.5,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+244,computer-science,441,University of Science & Technology Beijing,China,Beijing,48.5,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-science-technology-beijing-506176
+245,computer-science,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,48.4,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+246,computer-science,294,Universidade Estadual de Campinas,Brazil,Campinas,48.2,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+247,computer-science,330,Linkoping University,Sweden,Linkoping,47.9,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+248,computer-science,590,Ben Gurion University,Israel,Beer-Sheva,47.8,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+249,computer-science,583,Indian Institute of Technology (IIT) - Bombay,India,Mumbai,47.8,48.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bombay-501259
+250,computer-science,106,Radboud University Nijmegen,Netherlands,Nijmegen,47.8,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+251,computer-science,236,University College Dublin,Ireland,Dublin,47.8,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+252,computer-science,643,Beijing University of Technology,China,Beijing,47.7,47.1,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-technology-505552
+253,computer-science,698,Czech Technical University Prague,Czech Republic,Prague,47.7,45.7,N/A,https://www.usnews.com/education/best-global-universities/czech-technical-university-prague-502255
+254,computer-science,286,Osaka University,Japan,Suita,47.7,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+255,computer-science,178,University of Freiburg,Germany,Freiburg,47.7,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+256,computer-science,576,University of Texas Arlington,United States,Arlington,47.6,48.9,"33,537",https://www.usnews.com/education/best-global-universities/university-of-texas-arlington-228769
+257,computer-science,413,University of Central Florida,United States,Orlando,47.5,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+258,computer-science,717,Indian Institute of Technology (IIT) - Delhi,India,New Delhi,47.4,45.3,"9,794",https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856
+259,computer-science,"1,350",Indian Statistical Institute Kolkata,India,Kolkata,47.4,31.3,N/A,https://www.usnews.com/education/best-global-universities/indian-statistical-institute-kolkata-529534
+260,computer-science,504,Georgia State University,United States,Atlanta,47.3,51.1,N/A,https://www.usnews.com/education/best-global-universities/georgia-state-university-139940
+261,computer-science,244,Ecole Normale Superieure (ENS),France,Paris,47.2,60.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-ens-505721
+262,computer-science,269,Beijing Normal University,China,Beijing,47.1,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+263,computer-science,247,Universidade do Porto,Portugal,Porto,46.8,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+264,computer-science,432,University of Houston,United States,Houston,46.8,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+265,computer-science,710,Lulea University of Technology,Sweden,Lulea,46.7,45.4,N/A,https://www.usnews.com/education/best-global-universities/lulea-university-of-technology-529025
+266,computer-science,186,University of California Riverside,United States,Riverside,46.6,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+267,computer-science,372,Changsha University of Science & Technology,China,Changsha,46.3,55.2,N/A,https://www.usnews.com/education/best-global-universities/changsha-university-of-science-technology-529522
+268,computer-science,605,Indian Institute of Technology (IIT) - Madras,India,Chennai,46.1,48.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278
+269,computer-science,180,Rice University,United States,Houston,46.1,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+270,computer-science,653,Southwest Jiaotong University,China,Chengdu,46,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+271,computer-science,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,46,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+272,computer-science,400,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,45.9,54.4,N/A,https://www.usnews.com/education/best-global-universities/king-fahd-university-of-petroleum-minerals-506100
+273,computer-science,143,Autonomous University of Barcelona,Spain,Barcelona,45.8,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+274,computer-science,889,National Taiwan University of Science & Technology,Taiwan,Taipei City,45.8,41.1,"8,907",https://www.usnews.com/education/best-global-universities/national-taiwan-university-of-science-technology-501875
+275,computer-science,186,Technische Universitat Dresden,Germany,Dresden,45.8,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+276,computer-science,219,University of Pisa,Italy,Pisa,45.8,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+277,computer-science,547,Middle East Technical University,Turkey,Ankara,45.7,49.8,"17,151",https://www.usnews.com/education/best-global-universities/middle-east-technical-university-503271
+278,computer-science,223,Ton Duc Thang University,Vietnam,Ho Chi Minh City,45.6,61.8,N/A,https://www.usnews.com/education/best-global-universities/ton-duc-thang-university-529637
+279,computer-science,852,Universidad Carlos III de Madrid,Spain,Madrid,45.5,42,"18,133",https://www.usnews.com/education/best-global-universities/universidad-carlos-iii-de-madrid-500603
+280,computer-science,140,University of Leeds,United Kingdom,Leeds,45.3,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+281,computer-science,83,University of Western Australia,Australia,Crawley,45.3,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+282,computer-science,"1,261",De Montfort University,United Kingdom,Leicester,45.1,33,N/A,https://www.usnews.com/education/best-global-universities/de-montfort-university-529563
+283,computer-science,321,East China Normal University,China,Shanghai,45.1,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+284,computer-science,649,Victoria University,Australia,Footscray,45.1,47,"14,387",https://www.usnews.com/education/best-global-universities/victoria-university-528927
+285,computer-science,526,Carleton University,Canada,Ottawa,45,50.3,N/A,https://www.usnews.com/education/best-global-universities/carleton-university-499991
+286,computer-science,241,Hebrew University of Jerusalem,Israel,Jerusalem,45,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+287,computer-science,263,Iowa State University,United States,Ames,45,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+288,computer-science,400,Universidad de Chile,Chile,Santiago,45,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+289,computer-science,345,University of Warsaw,Poland,Warsaw,45,56.3,"37,090",https://www.usnews.com/education/best-global-universities/university-of-warsaw-502726
+290,computer-science,"1,163",Hangzhou Dianzi University,China,Hangzhou,44.9,35,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-dianzi-university-529256
+291,computer-science,879,New York University Tandon School of Engineering,United States,Brooklyn,44.9,41.3,N/A,https://www.usnews.com/education/best-global-universities/new-york-university-tandon-school-of-engineering-529686
+292,computer-science,667,Southwest University - China,China,Chongqing,44.9,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+293,computer-science,633,Amirkabir University of Technology,Iran,Tehran,44.8,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+294,computer-science,794,Harbin Engineering University,China,Harbin,44.8,43.3,"29,861",https://www.usnews.com/education/best-global-universities/harbin-engineering-university-528986
+295,computer-science,295,Queens University Belfast,United Kingdom,Belfast,44.7,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+296,computer-science,217,University of Leicester,United Kingdom,Leicester,44.7,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+297,computer-science,256,University of Tartu,Estonia,Tartu,44.7,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-tartu-502553
+298,computer-science,377,Shandong University of Science & Technology,China,Qingdao,44.4,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+299,computer-science,215,University of Ottawa,Canada,Ottawa,44.4,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+300,computer-science,463,University of Salerno,Italy,Fisciano,44.4,52.8,"26,289",https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+301,computer-science,363,Cairo University,Egypt,Giza,44.3,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+302,computer-science,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,44.3,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+303,computer-science,349,Kyushu University,Japan,Fukuoka,44.2,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+304,computer-science,196,Pompeu Fabra University,Spain,Barcelona,44.1,63.2,"11,965",https://www.usnews.com/education/best-global-universities/pompeu-fabra-university-504748
+305,computer-science,482,Quaid I Azam University,Pakistan,Islamabad,44.1,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+306,computer-science,662,Khalifa University of Science & Technology,United Arab Emirates,Abu Dhabi,43.9,46.6,N/A,https://www.usnews.com/education/best-global-universities/khalifa-university-of-science-technology-529390
+307,computer-science,667,Kyungpook National University,South Korea,Daegu,43.9,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+308,computer-science,"1,002",Macau University of Science & Technology,Macau,Taipa,43.9,38.7,"11,993",https://www.usnews.com/education/best-global-universities/macau-university-of-science-technology-529500
+309,computer-science,"1,338",Ecole de Technologie Superieure - Canada,Canada,Montreal,43.8,31.6,N/A,https://www.usnews.com/education/best-global-universities/ecole-de-technologie-superieure-canada-529339
+310,computer-science,167,University of Utah,United States,Salt Lake City,43.8,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+311,computer-science,653,Concordia University - Canada,Canada,Montreal,43.7,46.8,"35,592",https://www.usnews.com/education/best-global-universities/concordia-university-canada-499961
+312,computer-science,696,ITMO University,Russia,St. Petersburg,43.6,45.8,N/A,https://www.usnews.com/education/best-global-universities/itmo-university-529154
+313,computer-science,879,Indian Institute of Technology (IIT) - Kanpur,India,Kanpur,43.4,41.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622
+314,computer-science,441,Hanyang University,South Korea,Seoul,43.2,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+315,computer-science,421,Shanghai University,China,Shanghai,43.2,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+316,computer-science,256,University of Erlangen Nuremberg,Germany,Erlangen,43.2,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+317,computer-science,346,University of South Carolina Columbia,United States,Columbia,43.2,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+318,computer-science,661,Zagazig University,Egypt,Zagazig,43.1,46.7,N/A,https://www.usnews.com/education/best-global-universities/zagazig-university-514033
+319,computer-science,346,Ruhr University Bochum,Germany,Bochum,43,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+320,computer-science,426,York University - Canada,Canada,Toronto,43,53.8,"44,036",https://www.usnews.com/education/best-global-universities/york-university-canada-499962
+321,computer-science,152,University of Exeter,United Kingdom,Exeter,42.7,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+322,computer-science,86,University of Barcelona,Spain,Barcelona,42.6,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+323,computer-science,"1,180",Wenzhou University,China,Wenzhou,42.6,34.7,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-university-529301
+324,computer-science,290,Universite de Bordeaux,France,Talence,42.4,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+325,computer-science,629,University of Stuttgart,Germany,Stuttgart,42.4,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+326,computer-science,794,Qingdao University,China,Qingdao,42.3,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+327,computer-science,138,University of Bonn,Germany,Bonn,42.3,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+328,computer-science,992,Johannes Kepler University Linz,Austria,Linz,42.2,38.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-kepler-university-linz-528837
+329,computer-science,112,Lund University,Sweden,Lund,42.2,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+330,computer-science,409,Pohang University of Science & Technology (POSTECH),South Korea,Pohang,42.2,54.2,"3,260",https://www.usnews.com/education/best-global-universities/pohang-university-of-science-technology-postech-503003
+331,computer-science,447,ShanghaiTech University,China,Pudong,42.2,53.3,N/A,https://www.usnews.com/education/best-global-universities/shanghaitech-university-529508
+332,computer-science,912,Yeungnam University,South Korea,Gyeongsan,42.1,40.7,"19,345",https://www.usnews.com/education/best-global-universities/yeungnam-university-504367
+333,computer-science,504,Universiti Sains Malaysia,Malaysia,Penang,42,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+334,computer-science,322,University of Notre Dame,United States,Notre Dame,42,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+335,computer-science,520,Renmin University of China,China,Beijing,41.9,50.5,N/A,https://www.usnews.com/education/best-global-universities/renmin-university-of-china-528921
+336,computer-science,953,Qufu Normal University,China,Qufu,41.8,39.8,N/A,https://www.usnews.com/education/best-global-universities/qufu-normal-university-529543
+337,computer-science,413,Universite de Lorraine,France,Nancy,41.7,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+338,computer-science,896,Indian Institute of Technology (IIT) - Roorkee,India,Roorkee,41.5,41,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-roorkee-528828
+339,computer-science,421,Jilin University,China,Changchun,41.4,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+340,computer-science,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,41.4,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+341,computer-science,493,Universite de Rennes 1,France,Rennes,41.3,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+342,computer-science,175,University of Calgary,Canada,Calgary,41.2,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+343,computer-science,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,41.1,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+344,computer-science,194,Universite de Montpellier,France,Montpellier,41.1,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+345,computer-science,676,Universita della Svizzera Italiana,Switzerland,Lugano,41,46.3,"3,266",https://www.usnews.com/education/best-global-universities/universita-della-svizzera-italiana-529681
+346,computer-science,89,Wageningen University & Research,Netherlands,Wageningen,41,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+347,computer-science,653,Hohai University,China,Nanjing,40.8,46.8,N/A,https://www.usnews.com/education/best-global-universities/hohai-university-528997
+348,computer-science,138,McMaster University,Canada,Hamilton,40.6,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+349,computer-science,"1,060",Dalian Maritime University,China,Dalian,40.5,37.4,N/A,https://www.usnews.com/education/best-global-universities/dalian-maritime-university-529341
+350,computer-science,698,Rensselaer Polytechnic Institute,United States,Troy,40.5,45.7,N/A,https://www.usnews.com/education/best-global-universities/rensselaer-polytechnic-institute-194824
+351,computer-science,389,Universite de Lille,France,Lille,40.5,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+352,computer-science,745,University of Quebec Montreal,Canada,Montreal,40.5,44.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-quebec-montreal-504868
+353,computer-science,78,Vanderbilt University,United States,Nashville,40.5,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+354,computer-science,495,Victoria University Wellington,New Zealand,Wellington,40.5,51.5,"17,883",https://www.usnews.com/education/best-global-universities/victoria-university-wellington-504111
+355,computer-science,450,University of Ljubljana,Slovenia,Ljubljana,40.4,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+356,computer-science,208,University of Vienna,Austria,Vienna,40.3,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+357,computer-science,280,University of York - UK,United Kingdom,York,40,59.2,"17,965",https://www.usnews.com/education/best-global-universities/university-of-york-uk-505776
+358,computer-science,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,39.9,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+359,computer-science,356,University of Kentucky,United States,Lexington,39.9,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+360,computer-science,"1,422",Huaqiao University,China,Xiamen,39.8,29.6,N/A,https://www.usnews.com/education/best-global-universities/huaqiao-university-529488
+361,computer-science,149,University of Hamburg,Germany,Hamburg,39.8,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+362,computer-science,570,China University of Mining & Technology,China,Xuzhou,39.7,49.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-mining-technology-529045
+363,computer-science,688,University of Calabria,Italy,Arcavacata di Rende,39.7,46,N/A,https://www.usnews.com/education/best-global-universities/university-of-calabria-505594
+364,computer-science,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,39.6,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+365,computer-science,544,Jordan University of Science & Technology,Jordan,Irbid,39.3,49.9,N/A,https://www.usnews.com/education/best-global-universities/jordan-university-of-science-technology-511732
+366,computer-science,429,Universidade de Coimbra,Portugal,Coimbra,39.3,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+367,computer-science,"1,072",Yangzhou University,China,Yangzhou,39.3,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+368,computer-science,520,University of Sevilla,Spain,Seville,39.1,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+369,computer-science,447,Mansoura University,Egypt,Mansoura,39,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+370,computer-science,87,Free University of Berlin,Germany,Berlin,38.9,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+371,computer-science,324,University of Victoria,Canada,Victoria,38.9,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+372,computer-science,32,Washington University (WUSTL),United States,St. Louis,38.8,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+373,computer-science,152,Cardiff University,United Kingdom,Cardiff,38.7,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+374,computer-science,226,Charles University Prague,Czech Republic,Prague,38.7,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+375,computer-science,639,National Cheng Kung University,Taiwan,Tainan City,38.7,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+376,computer-science,273,University of Milano-Bicocca,Italy,Milan,38.7,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+377,computer-science,192,University of Wurzburg,Germany,Wurzburg,38.7,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+378,computer-science,215,Trinity College Dublin,Ireland,Dublin,38.6,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+379,computer-science,478,George Mason University,United States,Fairfax,38.5,52.2,"32,140",https://www.usnews.com/education/best-global-universities/george-mason-university-232186
+380,computer-science,708,Northumbria University,United Kingdom,Newcastle upon Tyne,38.5,45.5,"23,495",https://www.usnews.com/education/best-global-universities/northumbria-university-529055
+381,computer-science,525,Universidade de Aveiro,Portugal,Aveiro,38.4,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+382,computer-science,693,Clemson University,United States,Clemson,38.3,45.9,N/A,https://www.usnews.com/education/best-global-universities/clemson-university-217882
+383,computer-science,920,Saarland University,Germany,Saarbrucken,38.3,40.5,N/A,https://www.usnews.com/education/best-global-universities/saarland-university-504282
+384,computer-science,759,University of Maryland Baltimore County,United States,Baltimore,38.3,44.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-county-163268
+385,computer-science,531,Fuzhou University,China,Fuzhou,38.2,50.2,"39,987",https://www.usnews.com/education/best-global-universities/fuzhou-university-528832
+386,computer-science,"1,163",Anhui University,China,Hefei,38.1,35,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-529110
+387,computer-science,512,China University of Petroleum,China,Qingdao,38,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+388,computer-science,"1,225",Stevens Institute of Technology,United States,Hoboken,38,33.8,"6,624",https://www.usnews.com/education/best-global-universities/stevens-institute-of-technology-186867
+389,computer-science,152,Case Western Reserve University,United States,Cleveland,37.9,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+390,computer-science,633,University of Essex,United Kingdom,Colchester,37.9,47.3,"15,075",https://www.usnews.com/education/best-global-universities/university-of-essex-502672
+391,computer-science,300,University of Rome Tor Vergata,Italy,Rome,37.9,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+392,computer-science,579,Waseda University,Japan,Tokyo,37.9,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+393,computer-science,231,University of Newcastle,Australia,Callaghan,37.7,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+394,computer-science,732,Warsaw University of Technology,Poland,Warsaw,37.7,44.9,"26,482",https://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920
+395,computer-science,475,Moscow Institute of Physics & Technology,Russia,Dolgoprudny,37.6,52.3,"6,083",https://www.usnews.com/education/best-global-universities/moscow-institute-of-physics-technology-528929
+396,computer-science,"1,184",Jadavpur University,India,Kolkata,37.4,34.6,N/A,https://www.usnews.com/education/best-global-universities/jadavpur-university-505474
+397,computer-science,901,Universidade Federal de Pernambuco,Brazil,Recife,37.4,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pernambuco-506633
+398,computer-science,676,University of North Carolina Charlotte,United States,Charlotte,37.4,46.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-carolina-charlotte-199139
+399,computer-science,615,Dortmund University of Technology,Germany,Dortmund,37.2,48,N/A,https://www.usnews.com/education/best-global-universities/dortmund-university-of-technology-504395
+400,computer-science,199,University of Bergen,Norway,Bergen,37.1,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+401,computer-science,466,University of Basque Country,Spain,Leioa,37,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+402,computer-science,300,Western University (University of Western Ontario),Canada,London (Canada),37,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+403,computer-science,"1,147",Universidad de Jaen,Spain,Jaen,36.9,35.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-jaen-529044
+404,computer-science,920,Mississippi State University,United States,Mississippi State,36.8,40.5,"22,035",https://www.usnews.com/education/best-global-universities/mississippi-state-university-176080
+405,computer-science,997,Bohai University,China,Jinzhou,36.5,38.8,N/A,https://www.usnews.com/education/best-global-universities/bohai-university-529457
+406,computer-science,"1,399",Chongqing University of Posts & Telecommunications,China,Chongqing,36.5,30.1,N/A,https://www.usnews.com/education/best-global-universities/chongqing-university-of-posts-telecommunications-529515
+407,computer-science,684,Ihsan Dogramaci Bilkent University,Turkey,Ankara,36.4,46.1,"9,682",https://www.usnews.com/education/best-global-universities/ihsan-dogramaci-bilkent-university-506575
+408,computer-science,360,Ulsan National Institute of Science & Technology (UNIST),South Korea,Ulsan,36.4,55.7,N/A,https://www.usnews.com/education/best-global-universities/ulsan-national-institute-of-science-technology-unist-528883
+409,computer-science,452,University of Potsdam,Germany,Potsdam (Germany),36.3,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-potsdam-505430
+410,computer-science,127,Uppsala University,Sweden,Uppsala,36.2,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+411,computer-science,452,University of Missouri Columbia,United States,Columbia,36,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+412,computer-science,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,35.9,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+413,computer-science,377,Bogazici University,Turkey,Istanbul,35.8,55.1,N/A,https://www.usnews.com/education/best-global-universities/bogazici-university-504066
+414,computer-science,750,Bar Ilan University,Israel,Ramat Gan,35.7,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+415,computer-science,333,Nagoya University,Japan,Nagoya,35.6,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+416,computer-science,"1,233",Nara Institute of Science & Technology,Japan,Ikoma,35.6,33.7,N/A,https://www.usnews.com/education/best-global-universities/nara-institute-of-science-technology-528981
+417,computer-science,88,University of Groningen,Netherlands,Groningen,35.6,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+418,computer-science,212,University of Valencia,Spain,Valencia,35.6,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+419,computer-science,311,Soochow University - China,China,Suzhou,35.4,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+420,computer-science,261,Dartmouth College,United States,Hanover,35.2,60.1,"6,440",https://www.usnews.com/education/best-global-universities/dartmouth-college-182670
+421,computer-science,352,Drexel University,United States,Philadelphia,35.2,56,N/A,https://www.usnews.com/education/best-global-universities/drexel-university-212054
+422,computer-science,643,Istanbul Technical University,Turkey,Istanbul,35.2,47.1,"18,562",https://www.usnews.com/education/best-global-universities/istanbul-technical-university-503684
+423,computer-science,429,University of Innsbruck,Austria,Innsbruck,35.2,53.7,"13,918",https://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813
+424,computer-science,441,University of Saskatchewan,Canada,Saskatoon,35.2,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+425,computer-science,"1,514","Shanmugha Arts, Science, Technology & Research Academy (SASTRA)",India,Thanjavur,35.1,27.5,N/A,https://www.usnews.com/education/best-global-universities/shanmugha-arts-science-technology-research-academy-sastra-529523
+426,computer-science,"1,017",Universite de Sfax,Tunisia,Sfax,35.1,38.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-sfax-529029
+427,computer-science,317,University of South Florida,United States,Tampa,35,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+428,computer-science,314,Dalhousie University,Canada,Halifax,34.9,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+429,computer-science,355,Lomonosov Moscow State University,Russia,Moscow (Russia),34.9,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+430,computer-science,441,National Technical University of Athens,Greece,Athens (Greece),34.9,53.4,N/A,https://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449
+431,computer-science,"1,254",Birla Institute of Technology & Science Pilani (BITS Pilani),India,Pilani,34.8,33.2,N/A,https://www.usnews.com/education/best-global-universities/birla-institute-of-technology-science-pilani-bits-pilani-528900
+432,computer-science,879,Iran University Science & Technology,Iran,Tehran,34.8,41.3,"15,436",https://www.usnews.com/education/best-global-universities/iran-university-science-technology-505518
+433,computer-science,920,University of Idaho,United States,Moscow (U.S.),34.8,40.5,"9,263",https://www.usnews.com/education/best-global-universities/university-of-idaho-142285
+434,computer-science,673,Zhejiang University of Technology,China,Hangzhou,34.8,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+435,computer-science,385,Zhengzhou University,China,Zhengzhou,34.8,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+436,computer-science,337,Complutense University of Madrid,Spain,Madrid,34.7,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+437,computer-science,487,Universidade Nova de Lisboa,Portugal,Lisbon,34.7,51.7,"20,996",https://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121
+438,computer-science,759,Tecnologico de Monterrey,Mexico,Monterrey,34.6,44.2,"49,696",https://www.usnews.com/education/best-global-universities/tecnologico-de-monterrey-529343
+439,computer-science,679,University of North Texas Denton,United States,Denton,34.5,46.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-texas-denton-227216
+440,computer-science,"1,243",Zhejiang Gongshang University,China,Xiasha University Town,34.3,33.5,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-gongshang-university-529420
+441,computer-science,643,East China University of Science & Technology,China,Shanghai,34.2,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+442,computer-science,605,Masaryk University Brno,Czech Republic,Brno,34.2,48.2,"32,271",https://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917
+443,computer-science,782,Shandong Normal University,China,Jinan,34.2,43.6,N/A,https://www.usnews.com/education/best-global-universities/shandong-normal-university-529300
+444,computer-science,547,Universiti Putra Malaysia,Malaysia,Serdang,34.2,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+445,computer-science,849,IMT Atlantique,France,Toulouse,34.1,42.1,"1,436",https://www.usnews.com/education/best-global-universities/imt-atlantique-529450
+446,computer-science,461,University of Oklahoma - Norman,United States,Norman,34.1,52.9,"26,450",https://www.usnews.com/education/best-global-universities/university-of-oklahoma-norman-207500
+447,computer-science,698,Memorial University Newfoundland,Canada,St. John's,33.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985
+448,computer-science,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),33.8,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+449,computer-science,"1,095",Instituto Politecnico Nacional - Mexico,Mexico,Mexico City,33.7,36.7,N/A,https://www.usnews.com/education/best-global-universities/instituto-politecnico-nacional-mexico-506818
+450,computer-science,497,Universidade Estadual Paulista,Brazil,Sao Paulo,33.7,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+451,computer-science,735,Illinois Institute of Technology,United States,Chicago,33.6,44.8,N/A,https://www.usnews.com/education/best-global-universities/illinois-institute-of-technology-145725
+452,computer-science,105,University of California Santa Cruz,United States,Santa Cruz,33.6,69.5,"19,494",https://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714
+453,computer-science,160,Curtin University,Australia,Bentley,33.5,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+454,computer-science,"1,060",Brno University of Technology,Czech Republic,Brno,33.4,37.4,N/A,https://www.usnews.com/education/best-global-universities/brno-university-of-technology-529040
+455,computer-science,"1,049",Universidad de Extremadura,Spain,Merida,33.4,37.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-extremadura-529022
+456,computer-science,180,University of Iowa,United States,Iowa City,33.4,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+457,computer-science,"1,239",Xi'an Jiaotong-Liverpool University,China,Suzhou,33.4,33.6,N/A,https://www.usnews.com/education/best-global-universities/xian-jiaotong-liverpool-university-529807
+458,computer-science,203,University of Cincinnati,United States,Cincinnati,33.3,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+459,computer-science,342,University of Turku,Finland,Turku,33.3,56.4,"12,919",https://www.usnews.com/education/best-global-universities/university-of-turku-504089
+460,computer-science,292,Vrije Universiteit Brussel,Belgium,Elsene,33.3,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+461,computer-science,540,Jinan University,China,Guangzhou,33.2,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+462,computer-science,821,Shiraz University,Iran,Shiraz,33.2,42.5,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-500400
+463,computer-science,739,Universite de Bretagne Occidentale,France,Brittany,33.1,44.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-bretagne-occidentale-529145
+464,computer-science,"1,042",Fujian Normal University,China,Fuzhou,33,37.8,N/A,https://www.usnews.com/education/best-global-universities/fujian-normal-university-529517
+465,computer-science,717,Southwestern University of Finance & Economics - China,China,Chengdu,32.9,45.3,N/A,https://www.usnews.com/education/best-global-universities/southwestern-university-of-finance-economics---china-529633
+466,computer-science,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,32.9,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+467,computer-science,531,University of Bremen,Germany,Bremen,32.9,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+468,computer-science,564,Ecole Normale Superieure de Lyon (ENS de LYON),France,Lyon,32.8,49.2,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-de-lyon-ens-de-lyon-503874
+469,computer-science,309,University of Connecticut,United States,Storrs,32.8,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+470,computer-science,816,Universidade Federal do Parana,Brazil,Curitiba,32.7,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-parana-503933
+471,computer-science,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),32.5,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+472,computer-science,468,Florida International University,United States,Miami,32.4,52.6,"35,590",https://www.usnews.com/education/best-global-universities/florida-international-university-133951
+473,computer-science,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,32.4,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+474,computer-science,127,Stockholm University,Sweden,Stockholm,32.3,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+475,computer-science,920,Universite de Tunis-El-Manar,Tunisia,Tunis,32.3,40.5,"26,325",https://www.usnews.com/education/best-global-universities/universite-de-tunis-el-manar-529027
+476,computer-science,226,Universite Libre de Bruxelles,Belgium,Brussels,32.3,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+477,computer-science,633,University of Haifa,Israel,Haifa,32.3,47.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-haifa-501200
+478,computer-science,342,Wuhan University of Technology,China,Wuhan,32.2,56.4,"55,426",https://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361
+479,computer-science,928,Menofia University,Egypt,Shebin El Koum,32.1,40.3,N/A,https://www.usnews.com/education/best-global-universities/menofia-university-529235
+480,computer-science,299,Oregon State University,United States,Corvallis,32,58.3,N/A,https://www.usnews.com/education/best-global-universities/oregon-state-university-209542
+481,computer-science,639,Rochester Institute of Technology,United States,Rochester,32,47.2,N/A,https://www.usnews.com/education/best-global-universities/rochester-institute-of-technology-195003
+482,computer-science,866,Universidad de Malaga,Spain,Malaga,32,41.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-malaga-503965
+483,computer-science,107,University of Bern,Switzerland,Bern,32,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+484,computer-science,163,University of Gottingen,Germany,Gottingen,32,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+485,computer-science,182,Eberhard Karls University of Tubingen,Germany,Tubingen,31.9,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+486,computer-science,459,University of Belgrade,Serbia,Belgrade,31.9,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+487,computer-science,"1,151",Budapest University of Technology & Economics,Hungary,Budapest,31.8,35.4,N/A,https://www.usnews.com/education/best-global-universities/budapest-university-of-technology-economics-502324
+488,computer-science,907,Universite Gustave-Eiffel,France,Marne-la-Vall¨¦e,31.8,40.8,N/A,https://www.usnews.com/education/best-global-universities/universite-gustave-eiffel-529800
+489,computer-science,109,University of Geneva,Switzerland,Geneva,31.8,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+490,computer-science,593,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,31.7,48.4,N/A,https://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289
+491,computer-science,225,University of Tennessee Knoxville,United States,Knoxville,31.7,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+492,computer-science,432,University of Tsukuba,Japan,Tsukuba,31.7,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+493,computer-science,579,Auburn University,United States,Auburn,31.6,48.8,"27,512",https://www.usnews.com/education/best-global-universities/auburn-university-100858
+494,computer-science,526,Loughborough University,United Kingdom,Loughborough,31.6,50.3,"17,130",https://www.usnews.com/education/best-global-universities/loughborough-university-506503
+495,computer-science,277,Durham University,United Kingdom,Durham (U.K.),31.5,59.3,"18,715",https://www.usnews.com/education/best-global-universities/durham-university-501717
+496,computer-science,901,Shaanxi Normal University,China,Xi'an,31.5,40.9,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-normal-university-529190
+497,computer-science,517,University of Zagreb,Croatia,Zagreb,31.5,50.6,"65,436",https://www.usnews.com/education/best-global-universities/university-of-zagreb-502783
+498,computer-science,"1,037",Shanghai Maritime University,China,Shanghai,31.3,37.9,"23,263",https://www.usnews.com/education/best-global-universities/shanghai-maritime-university-529346
+499,computer-science,702,Nanjing Normal University,China,Nanjing,31.2,45.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-normal-university-528982
+500,computer-science,209,University of Turin,Italy,Turin,31.2,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+501,computer-science,835,Missouri University of Science & Technology,United States,Rolla,31.1,42.3,N/A,https://www.usnews.com/education/best-global-universities/missouri-university-of-science-technology-178411
+502,computer-science,725,Heriot Watt University,United Kingdom,Edinburgh,31,45.1,"9,885",https://www.usnews.com/education/best-global-universities/heriot-watt-university-506192
+503,computer-science,"1,106",Indian Institute of Technology (IIT) - Guwahati,India,Guwahati,31,36.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-guwahati-528994
+504,computer-science,51,Karolinska Institutet,Sweden,Stockholm,31,74.9,"8,021",https://www.usnews.com/education/best-global-universities/karolinska-institutet-503151
+505,computer-science,"1,049",National Sun Yat Sen University,Taiwan,Kaohsiung,31,37.6,"7,992",https://www.usnews.com/education/best-global-universities/national-sun-yat-sen-university-505080
+506,computer-science,,University of Aizu,Japan,Aizuwakamatsu,31,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-aizu-530177
+507,computer-science,324,University of Georgia,United States,"Athens (Georgia, U.S.)",31,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+508,computer-science,"1,116",Hunan University of Science & Technology,China,Xiangtan,30.9,36.2,N/A,https://www.usnews.com/education/best-global-universities/hunan-university-of-science-technology-529481
+509,computer-science,"1,452",Toronto Metropolitan University,Canada,Toronto,30.9,28.8,N/A,https://www.usnews.com/education/best-global-universities/toronto-metropolitan-university-499982
+510,computer-science,452,University of Pretoria,South Africa,Hatfied (South Africa),30.9,53.1,"36,493",https://www.usnews.com/education/best-global-universities/university-of-pretoria-501543
+511,computer-science,231,Autonomous University of Madrid,Spain,Madrid,30.8,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+512,computer-science,598,Jiangnan University,China,Wuxi,30.8,48.3,"29,899",https://www.usnews.com/education/best-global-universities/jiangnan-university-504800
+513,computer-science,517,Keio University,Japan,Tokyo,30.8,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+514,computer-science,400,Nantes Universite,France,Nantes,30.7,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+515,computer-science,372,University of Manitoba,Canada,Winnipeg,30.7,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+516,computer-science,276,Colorado State University,United States,Fort Collins,30.6,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+517,computer-science,"1,088",Florida Atlantic University,United States,Boca Raton,30.4,36.8,"26,794",https://www.usnews.com/education/best-global-universities/florida-atlantic-university-133669
+518,computer-science,782,AGH University of Science & Technology,Poland,Krakow,30.3,43.6,N/A,https://www.usnews.com/education/best-global-universities/agh-university-of-science-technology-504859
+519,computer-science,156,University of Milan,Italy,Milan,30.3,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+520,computer-science,"1,425",Asia University Taiwan,Taiwan,Taichung City,30.2,29.5,"11,421",https://www.usnews.com/education/best-global-universities/asia-university-taiwan-529037
+521,computer-science,65,Erasmus University Rotterdam,Netherlands,Rotterdam,30.2,73.4,N/A,https://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349
+522,computer-science,512,Central China Normal University,China,Wuhan,30.1,50.7,N/A,https://www.usnews.com/education/best-global-universities/central-china-normal-university-501632
+523,computer-science,"1,116",Ajou University,South Korea,Suwon,30,36.2,"7,574",https://www.usnews.com/education/best-global-universities/ajou-university-504876
+524,computer-science,421,Beijing University of Chemical Technology,China,Beijing,30,53.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chemical-technology-501098
+525,computer-science,901,University of Shanghai for Science & Technology,China,Shanghai,30,40.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-shanghai-for-science-technology-529079
+526,computer-science,"1,049",Middlesex University,United Kingdom,London (U.K.),29.9,37.6,"16,415",https://www.usnews.com/education/best-global-universities/middlesex-university-528885
+527,computer-science,223,University of Antwerp,Belgium,Antwerp,29.9,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+528,computer-science,352,University of Delaware,United States,Newark,29.9,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+529,computer-science,"1,631",Guilin University of Electronic Technology,China,Guilin,29.8,24.7,N/A,https://www.usnews.com/education/best-global-universities/guilin-university-of-electronic-technology-529505
+530,computer-science,739,North China Electric Power University,China,Beijing,29.8,44.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-electric-power-university-528965
+531,computer-science,662,Ocean University of China,China,Qingdao,29.8,46.6,N/A,https://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491
+532,computer-science,463,Swansea University,United Kingdom,Swansea,29.8,52.8,"17,745",https://www.usnews.com/education/best-global-universities/swansea-university-505583
+533,computer-science,300,University of Genoa,Italy,Genoa,29.8,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+534,computer-science,770,University of Salamanca,Spain,Salamanca,29.8,43.9,"27,920",https://www.usnews.com/education/best-global-universities/university-of-salamanca-502705
+535,computer-science,304,La Trobe University,Australia,Melbourne (Australia),29.7,58.1,"21,663",https://www.usnews.com/education/best-global-universities/la-trobe-university-501305
+536,computer-science,497,Liverpool John Moores University,United Kingdom,Liverpool,29.7,51.4,N/A,https://www.usnews.com/education/best-global-universities/liverpool-john-moores-university-504028
+537,computer-science,385,Wayne State University,United States,Detroit,29.6,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+538,computer-science,835,Northwest University Xi'an,China,Xi'an,29.5,42.3,N/A,https://www.usnews.com/education/best-global-universities/northwest-university-xian-500540
+539,computer-science,219,University of Munster,Germany,Munster,29.5,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+540,computer-science,561,HSE University (National Research University Higher School of Economics),Russia,Moscow (Russia),29.4,49.3,N/A,https://www.usnews.com/education/best-global-universities/hse-university-national-research-university-higher-school-of-economics-529129
+541,computer-science,540,Lanzhou University,China,Lanzhou,29.4,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+542,computer-science,684,University of Cagliari,Italy,Cagliari,29.3,46.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cagliari-506894
+543,computer-science,311,University of New Mexico,United States,Albuquerque,29.3,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+544,computer-science,"1,140",Indian Institute of Technology (IIT) - Indore,India,Indore,29.2,35.6,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-indore-529453
+545,computer-science,389,Louisiana State University,United States,Baton Rouge,29.2,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+546,computer-science,"1,190",Universidad Rey Juan Carlos,Spain,Madrid,29.2,34.5,"42,869",https://www.usnews.com/education/best-global-universities/universidad-rey-juan-carlos-529015
+547,computer-science,966,Gwangju Institute of Science & Technology (GIST),South Korea,Gwangju,29,39.5,"1,808",https://www.usnews.com/education/best-global-universities/gwangju-institute-of-science-technology-gist-506847
+548,computer-science,250,University of Florence,Italy,Florence,28.9,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+549,computer-science,,Fujian University of Technology,China,Fuzhou,28.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/fujian-university-of-technology-530178
+550,computer-science,271,George Washington University,United States,"Washington, D.C.",28.7,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+551,computer-science,487,University of Hannover,Germany,Hannover,28.7,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-hannover-503676
+552,computer-science,750,Manchester Metropolitan University,United Kingdom,Manchester,28.6,44.4,"29,830",https://www.usnews.com/education/best-global-universities/manchester-metropolitan-university-528968
+553,computer-science,497,University of Guelph,Canada,Guelph,28.6,51.4,"22,763",https://www.usnews.com/education/best-global-universities/university-of-guelph-499974
+554,computer-science,"1,116",Zhongnan University of Economics & Law,China,Wuhan,28.6,36.2,N/A,https://www.usnews.com/education/best-global-universities/zhongnan-university-of-economics-law-530034
+555,computer-science,801,Otto von Guericke University,Germany,Magdeburg,28.5,43.2,N/A,https://www.usnews.com/education/best-global-universities/otto-von-guericke-university-528861
+556,computer-science,"1,376",Dongguan University of Technology,China,Dongguan,28.4,30.6,N/A,https://www.usnews.com/education/best-global-universities/dongguan-university-of-technology-529804
+557,computer-science,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,28.4,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+558,computer-science,"1,216",Universite de Carthage,Tunisia,Tunis,28.4,34.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-carthage-529240
+559,computer-science,"1,314",Centrale Lille,France,Villeneuve d'Ascq,28.2,31.9,N/A,https://www.usnews.com/education/best-global-universities/centrale-lille-529696
+560,computer-science,507,Universidade do Minho,Portugal,Braga,28,51,"19,922",https://www.usnews.com/education/best-global-universities/universidade-do-minho-506228
+561,computer-science,739,Isfahan University of Technology,Iran,Isfahan,27.9,44.6,"11,323",https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590
+562,computer-science,72,Emory University,United States,Atlanta,27.8,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+563,computer-science,186,Maastricht University,Netherlands,Maastricht,27.8,63.6,N/A,https://www.usnews.com/education/best-global-universities/maastricht-university-505759
+564,computer-science,598,Massey University,New Zealand,Palmerston North,27.8,48.3,"18,570",https://www.usnews.com/education/best-global-universities/massey-university-503390
+565,computer-science,322,Ulm University,Germany,Ulm,27.8,57.4,"10,271",https://www.usnews.com/education/best-global-universities/ulm-university-502475
+566,computer-science,688,Donghua University,China,Shanghai,27.7,46,"23,598",https://www.usnews.com/education/best-global-universities/donghua-university-500299
+567,computer-science,989,Old Dominion University,United States,Norfolk,27.7,39,"18,705",https://www.usnews.com/education/best-global-universities/old-dominion-university-232982
+568,computer-science,866,Universidade de Vigo,Spain,Vigo,27.7,41.7,"18,146",https://www.usnews.com/education/best-global-universities/universidade-de-vigo-505924
+569,computer-science,421,University of Johannesburg,South Africa,Johannesburg,27.7,53.9,"29,167",https://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854
+570,computer-science,429,Queens University - Canada,Canada,Kingston (Canada),27.6,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+571,computer-science,478,Universite Cote d'Azur,France,Nice,27.6,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+572,computer-science,"1,132",Xiangtan University,China,Xiangtan,27.6,35.8,N/A,https://www.usnews.com/education/best-global-universities/xiangtan-university-529020
+573,computer-science,507,China Medical University Taiwan,Taiwan,Taichung,27.5,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+574,computer-science,241,Florida State University,United States,Tallahassee,27.5,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+575,computer-science,"1,317",Ningbo University,China,Ningbo,27.5,31.8,N/A,https://www.usnews.com/education/best-global-universities/ningbo-university-529272
+576,computer-science,889,Universiti Teknologi Petronas,Malaysia,Darul Ridzuan,27.4,41.1,N/A,https://www.usnews.com/education/best-global-universities/universiti-teknologi-petronas-529338
+577,computer-science,328,Washington State University,United States,Pullman,27.4,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+578,computer-science,"1,132",University of Novi Sad,Serbia,Novi Sad,27.3,35.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-novi-sad-529165
+579,computer-science,"1,483","International Islamic University, Pakistan",Pakistan,Islamabad,27.2,28.1,N/A,https://www.usnews.com/education/best-global-universities/international-islamic-university-pakistan-530049
+580,computer-science,844,Jiangsu University,China,Zhenjiang,27.2,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+581,computer-science,"1,158",Qingdao University of Science & Technology,China,Qingdao,27.2,35.1,N/A,https://www.usnews.com/education/best-global-universities/qingdao-university-of-science-technology-529234
+582,computer-science,"1,361",Anna University Chennai,India,Chennai,27.1,31,N/A,https://www.usnews.com/education/best-global-universities/anna-university-chennai-529021
+583,computer-science,379,University of Strathclyde,United Kingdom,Glasgow,27,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+584,computer-science,146,University of Gothenburg,Sweden,Gothenburg,26.9,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+585,computer-science,372,Auckland University of Technology,New Zealand,Auckland,26.8,55.2,"18,837",https://www.usnews.com/education/best-global-universities/auckland-university-of-technology-528944
+586,computer-science,649,Zhejiang Normal University,China,Jinhua,26.7,47,"28,025",https://www.usnews.com/education/best-global-universities/zhejiang-normal-university-529076
+587,computer-science,"1,167",Umm Al Qura University,Saudi Arabia,Makkah,26.6,34.9,N/A,https://www.usnews.com/education/best-global-universities/umm-al-qura-university-510156
+588,computer-science,745,Nanchang University,China,Nanchang,26.5,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+589,computer-science,826,National Central University,Taiwan,Jhongli City,26.5,42.4,"10,853",https://www.usnews.com/education/best-global-universities/national-central-university-504757
+590,computer-science,426,University of Buenos Aires,Argentina,Buenos Aires,26.5,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+591,computer-science,676,University of Zaragoza,Spain,Zaragoza,26.5,46.3,"28,083",https://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343
+592,computer-science,"1,309",Wroclaw University of Science & Technology,Poland,Wroclaw,26.5,32,N/A,https://www.usnews.com/education/best-global-universities/wroclaw-university-of-science-technology-502904
+593,computer-science,702,South China Agricultural University,China,Guangzhou,26.4,45.6,N/A,https://www.usnews.com/education/best-global-universities/south-china-agricultural-university-529032
+594,computer-science,461,University of Catania,Italy,Catania,26.4,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+595,computer-science,"1,008",Polytechnic University of Bucharest,Romania,Bucharest,26.3,38.6,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-bucharest-506097
+596,computer-science,"1,042",Shahid Beheshti University,Iran,Tehran,26.3,37.8,"19,695",https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-502879
+597,computer-science,"1,597",Universite de la Manouba,Tunisia,Manouba,26.3,25.7,"16,315",https://www.usnews.com/education/best-global-universities/universite-de-la-manouba-529717
+598,computer-science,710,Cranfield University,United Kingdom,Cranfield,26.2,45.4,N/A,https://www.usnews.com/education/best-global-universities/cranfield-university-500995
+599,computer-science,16,University of California San Francisco,United States,San Francisco,26.2,83.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699
+600,computer-science,970,Henan University,China,Kaifeng,25.9,39.4,N/A,https://www.usnews.com/education/best-global-universities/henan-university-529507
+601,computer-science,273,University of Tasmania,Australia,Hobart,25.9,59.5,"18,264",https://www.usnews.com/education/best-global-universities/university-of-tasmania-502985
+602,computer-science,277,Universite de Strasbourg,France,Strasbourg,25.6,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+603,computer-science,625,University of Tabriz,Iran,Tabriz,25.6,47.7,"20,983",https://www.usnews.com/education/best-global-universities/university-of-tabriz-528957
+604,computer-science,,Shandong University of Finance & Economics,China,Jinan,25.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-finance-economics-530179
+605,computer-science,710,Universidade de Brasilia,Brazil,Brasilia,25.2,45.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217
+606,computer-science,633,Oklahoma State University - Stillwater,United States,Stillwater,25.1,47.3,"21,250",https://www.usnews.com/education/best-global-universities/oklahoma-state-university-stillwater-207388
+607,computer-science,708,Tarbiat Modares University,Iran,Tehran,25.1,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+608,computer-science,"1,281",Xi'an University of Technology,China,Xi'an,25.1,32.6,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-technology-529477
+609,computer-science,439,Virginia Commonwealth University,United States,Richmond,25,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+610,computer-science,472,Texas Tech University,United States,Lubbock,24.8,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+611,computer-science,409,University of Bath,United Kingdom,Bath,24.8,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+612,computer-science,"1,443",Poznan University of Technology,Poland,Poznan,24.7,29.1,"14,502",https://www.usnews.com/education/best-global-universities/poznan-university-of-technology-529181
+613,computer-science,178,Aix-Marseille Universite,France,Marseille,24.6,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+614,computer-science,"1,309",Henan Polytechnic University,China,Jiaozuo,24.6,32,N/A,https://www.usnews.com/education/best-global-universities/henan-polytechnic-university-529521
+615,computer-science,483,Nanjing Agricultural University,China,Nanjing,24.6,52,"28,184",https://www.usnews.com/education/best-global-universities/nanjing-agricultural-university-506399
+616,computer-science,300,University of Duisburg Essen,Germany,Essen,24.6,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+617,computer-science,789,University of Sherbrooke,Canada,Sherbrooke,24.6,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-sherbrooke-506839
+618,computer-science,856,Braunschweig University of Technology,Germany,Braunschweig,24.5,41.9,N/A,https://www.usnews.com/education/best-global-universities/braunschweig-university-of-technology-505131
+619,computer-science,"1,446",Silesian University of Technology,Poland,Gliwice,24.5,29,N/A,https://www.usnews.com/education/best-global-universities/silesian-university-of-technology-529268
+620,computer-science,"1,258",Capital Normal University,China,Beijing,24.2,33.1,N/A,https://www.usnews.com/education/best-global-universities/capital-normal-university-529223
+621,computer-science,253,University of Miami,United States,Coral Gables,24.2,60.5,"17,047",https://www.usnews.com/education/best-global-universities/university-of-miami-135726
+622,computer-science,698,Pusan National University,South Korea,Busan,24.1,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+623,computer-science,948,University of New Brunswick,Canada,Fredericton,24.1,39.9,"8,307",https://www.usnews.com/education/best-global-universities/university-of-new-brunswick-499973
+624,computer-science,860,University of Patras,Greece,Rio Achaia,24.1,41.8,"29,393",https://www.usnews.com/education/best-global-universities/university-of-patras-503205
+625,computer-science,576,University of Kent,United Kingdom,Canterbury,23.9,48.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-kent-500018
+626,computer-science,618,Universidade Federal de Santa Catarina (UFSC),Brazil,Florianopolis,23.8,47.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204
+627,computer-science,332,China Agricultural University,China,Beijing,23.7,56.9,N/A,https://www.usnews.com/education/best-global-universities/china-agricultural-university-500688
+628,computer-science,"1,049",University of Maribor,Slovenia,Maribor,23.6,37.6,"12,403",https://www.usnews.com/education/best-global-universities/university-of-maribor-528882
+629,computer-science,"1,116",Vietnam National University Hochiminh City,Vietnam,Ho Chi Minh City,23.6,36.2,N/A,https://www.usnews.com/education/best-global-universities/vietnam-national-university-hochiminh-city-529532
+630,computer-science,"1,603",Universidade Tecnologica Federal do Parana,Brazil,Curitiba,23.5,25.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-tecnologica-federal-do-parana-529590
+631,computer-science,"1,172",K. N. Toosi University of Technology,Iran,Tehran,23.4,34.8,N/A,https://www.usnews.com/education/best-global-universities/k-n-toosi-university-of-technology-529705
+632,computer-science,889,University of Peshawar,Pakistan,Peshawar,23.4,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-peshawar-529479
+633,computer-science,"1,027",University of West England,United Kingdom,Bristol,23.2,38.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-west-england-529164
+634,computer-science,554,Hacettepe University,Turkey,Ankara,23,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+635,computer-science,"1,002",Mohammed V University in Rabat,Morocco,Rabat,23,38.7,N/A,https://www.usnews.com/education/best-global-universities/mohammed-v-university-in-rabat-528985
+636,computer-science,295,University of Pavia,Italy,Pavia,23,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+637,computer-science,468,University of Verona,Italy,Verona,23,52.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-verona-503896
+638,computer-science,964,Wuhan University of Science & Technology,China,Wuhan,23,39.6,"32,312",https://www.usnews.com/education/best-global-universities/wuhan-university-of-science-technology-529350
+639,computer-science,397,Laval University,Canada,Quebec City,22.9,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+640,computer-science,770,South China Normal University,China,Guangzhou,22.9,43.9,N/A,https://www.usnews.com/education/best-global-universities/south-china-normal-university-501607
+641,computer-science,807,Hasselt University,Belgium,Hasselt,22.8,43,N/A,https://www.usnews.com/education/best-global-universities/hasselt-university-528960
+642,computer-science,"1,350",Shiraz University of Technology,Iran,Shiraz,22.8,31.3,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-of-technology-529462
+643,computer-science,385,University of Perugia,Italy,Perugia,22.8,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+644,computer-science,558,University of Portsmouth,United Kingdom,Portsmouth,22.8,49.4,"23,595",https://www.usnews.com/education/best-global-universities/university-of-portsmouth-505745
+645,computer-science,"1,327",National Institute of Technology Rourkela,India,Rourkela,22.7,31.7,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-rourkela-529700
+646,computer-science,,Jiangxi University of Finance & Economics,China,Nanchang,22.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-university-of-finance-economics-530180
+647,computer-science,261,University of Southern Denmark,Denmark,Odense,22.6,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+648,computer-science,"1,895",Xi'an University of Posts & Telecommunications,China,Xi'an,22.6,15.8,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-posts-telecommunications-529862
+649,computer-science,750,University of Arkansas Fayetteville,United States,Fayetteville,22.5,44.4,"25,207",https://www.usnews.com/education/best-global-universities/university-of-arkansas-fayetteville-106397
+650,computer-science,500,Indiana University-Purdue University Indianapolis,United States,Indianapolis,22.4,51.3,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-purdue-university-indianapolis-151111
+651,computer-science,896,Universidade Federal de Sao Carlos,Brazil,Sao Carlos,22.4,41,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-carlos-505014
+652,computer-science,943,Institut National Polytechnique de Toulouse,France,Toulouse,22.2,40,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-toulouse-505784
+653,computer-science,590,Northwest A&F University - China,China,Shaanxi,22.2,48.5,N/A,https://www.usnews.com/education/best-global-universities/northwest-af-university-china-503600
+654,computer-science,"1,225",University of Paderborn,Germany,Paderborn,22.2,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-paderborn-529396
+655,computer-science,"1,190",University of Kaiserslautern,Germany,Kaiserslautern,22.1,34.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-kaiserslautern-528867
+656,computer-science,"1,553",Seoul National University of Science & Technology,South Korea,Seoul,22,26.7,N/A,https://www.usnews.com/education/best-global-universities/seoul-national-university-of-science-technology-529227
+657,computer-science,"1,506",Indian Institute of Technology (Indian School of Mines) Dhanbad,India,Dhanbad,21.8,27.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-indian-school-of-mines-dhanbad-529410
+658,computer-science,"1,008",Northeast Normal University - China,China,Changchun,21.7,38.6,"30,310",https://www.usnews.com/education/best-global-universities/northeast-normal-university-china-503882
+659,computer-science,"1,589",Technical University of Ostrava,Czech Republic,Ostrava - Poruba,21.5,25.8,N/A,https://www.usnews.com/education/best-global-universities/technical-university-of-ostrava-529411
+660,computer-science,512,University of Alabama Tuscaloosa,United States,Tuscaloosa,21.5,50.7,"44,133",https://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751
+661,computer-science,"1,535",University of Electro-Communications - Japan,Japan,Tokyo,21.5,27,"4,662",https://www.usnews.com/education/best-global-universities/university-of-electro-communications-japan-529005
+662,computer-science,"1,662",Guangxi Normal University,China,Guilin,21.3,24.2,N/A,https://www.usnews.com/education/best-global-universities/guangxi-normal-university-529504
+663,computer-science,537,Universite Clermont Auvergne (UCA),France,Clermont-Ferrand,21.3,50.1,N/A,https://www.usnews.com/education/best-global-universities/universite-clermont-auvergne-uca-529156
+664,computer-science,"1,691",University Science & Technology Houari Boumediene,Algeria,Algiers,21.3,23.2,N/A,https://www.usnews.com/education/best-global-universities/university-science-technology-houari-boumediene-529820
+665,computer-science,346,Leipzig University,Germany,Leipzig,21.2,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+666,computer-science,561,Universita di Modena e Reggio Emilia,Italy,Modena,21.2,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+667,computer-science,643,University of Cyprus,Cyprus,Nicosia,21,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cyprus-528848
+668,computer-science,"1,036",Chung Ang University,South Korea,Seoul,20.9,38,N/A,https://www.usnews.com/education/best-global-universities/chung-ang-university-500565
+669,computer-science,870,Universite Paul-Valery,France,Montpellier,20.9,41.6,N/A,https://www.usnews.com/education/best-global-universities/universite-paul-valery-506008
+670,computer-science,912,Universidad de Cordoba,Spain,Cordoba (Spain),20.8,40.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cordoba-505807
+671,computer-science,"1,581",Hebei University of Technology,China,Tianjin,20.6,26,N/A,https://www.usnews.com/education/best-global-universities/hebei-university-of-technology-529604
+672,computer-science,304,University of Kansas,United States,Lawrence,20.6,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+673,computer-science,"1,327",Inha University,South Korea,Incheon,20.5,31.7,"17,103",https://www.usnews.com/education/best-global-universities/inha-university-504761
+674,computer-science,"1,417",Nantong University,China,Nantong,20.5,29.7,N/A,https://www.usnews.com/education/best-global-universities/nantong-university-529473
+675,computer-science,"1,664",Feng Chia University,Taiwan,Taichung,20.2,24.1,"19,298",https://www.usnews.com/education/best-global-universities/feng-chia-university-529287
+676,computer-science,"1,013",Universidad de Castilla-La Mancha,Spain,Real,20.2,38.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-castilla-la-mancha-505673
+677,computer-science,"1,303",Universite Perpignan Via Domitia,France,Perpignan,20.2,32.1,N/A,https://www.usnews.com/education/best-global-universities/universite-perpignan-via-domitia-529018
+678,computer-science,269,University of Texas Health Science Center Houston,United States,Houston,20.2,59.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-houston-229300
+679,computer-science,"1,080",Coventry University,United Kingdom,Coventry,20.1,37.1,"33,395",https://www.usnews.com/education/best-global-universities/coventry-university-529401
+680,computer-science,"1,446",Qilu University of Technology,China,Jinan,20.1,29,N/A,https://www.usnews.com/education/best-global-universities/qilu-university-of-technology-529482
+681,computer-science,844,Universidad de Alcala,Spain,Madrid,20.1,42.2,"15,941",https://www.usnews.com/education/best-global-universities/universidad-de-alcala-528978
+682,computer-science,,University of Engineering & Technology Taxila,Pakistan,Taxila,20.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-engineering-technology-taxila-529768
+683,computer-science,977,Universidade Federal do Ceara,Brazil,Fortaleza,20,39.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-ceara-503817
+684,computer-science,333,University of Reading,United Kingdom,Reading,20,56.8,"16,195",https://www.usnews.com/education/best-global-universities/university-of-reading-504198
+685,computer-science,370,University of Kwazulu Natal,South Africa,Durban,19.9,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+686,computer-science,782,University of Murcia,Spain,Murcia,19.9,43.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-murcia-503573
+687,computer-science,"1,072",Universitat d'Alacant,Spain,Alicante,19.8,37.2,N/A,https://www.usnews.com/education/best-global-universities/universitat-dalacant-503239
+688,computer-science,"1,218",Gdansk University of Technology,Poland,Gdansk,19.7,34,"14,312",https://www.usnews.com/education/best-global-universities/gdansk-university-of-technology-529186
+689,computer-science,710,University of Ulsan,South Korea,Ulsan,19.7,45.4,"12,415",https://www.usnews.com/education/best-global-universities/university-of-ulsan-500178
+690,computer-science,593,San Diego State University,United States,San Diego,19.6,48.4,"31,340",https://www.usnews.com/education/best-global-universities/san-diego-state-university-122409
+691,computer-science,821,Universite de Bourgogne,France,Dijon,19.6,42.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-bourgogne-505886
+692,computer-science,"1,088",University of Memphis,United States,Memphis,19.5,36.8,"16,922",https://www.usnews.com/education/best-global-universities/university-of-memphis-220862
+693,computer-science,"1,868",Xiamen University of Technology,China,Xiamen,19.5,17.4,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-of-technology-529817
+694,computer-science,"1,449",Hunan Normal University,China,Changsha,19.4,28.9,N/A,https://www.usnews.com/education/best-global-universities/hunan-normal-university-529497
+695,computer-science,"1,027",Shanxi University,China,Taiyuan,19.4,38.2,N/A,https://www.usnews.com/education/best-global-universities/shanxi-university-529038
+696,computer-science,"1,996",PLA Information Engineering University,China,Zhengzhou City,19.3,7.1,N/A,https://www.usnews.com/education/best-global-universities/pla-information-engineering-university-530148
+697,computer-science,573,University of Palermo,Italy,Palermo,19.3,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+698,computer-science,814,Ulster University,United Kingdom,Coleraine,19.2,42.8,"19,680",https://www.usnews.com/education/best-global-universities/ulster-university-528872
+699,computer-science,"1,498",Slovak University of Technology Bratislava,Slovakia,Bratislava,19.1,27.8,N/A,https://www.usnews.com/education/best-global-universities/slovak-university-of-technology-bratislava-529184
+700,computer-science,"1,945",Army Engineering University of PLA,China,Nanjing,19,12.6,N/A,https://www.usnews.com/education/best-global-universities/army-engineering-university-of-pla-529776
+701,computer-science,625,Universitat Rovira i Virgili,Spain,Tarragona,19,47.7,"12,975",https://www.usnews.com/education/best-global-universities/universitat-rovira-i-virgili-506486
+702,computer-science,"1,121",University of Windsor,Canada,Windsor,19,36.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-windsor-499964
+703,computer-science,"1,046",Ferdowsi University Mashhad,Iran,Mashhad,18.8,37.7,N/A,https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854
+704,computer-science,432,Hokkaido University,Japan,Sapporo,18.6,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+705,computer-science,"1,106",Universidade da Coruna,Spain,Coruna,18.6,36.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-da-coruna-529162
+706,computer-science,"1,832",Soonchunhyang University,South Korea,Asan,18.3,18.6,N/A,https://www.usnews.com/education/best-global-universities/soonchunhyang-university-529275
+707,computer-science,"1,140",University of Punjab,Pakistan,Lahore,18.3,35.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-punjab-529178
+708,computer-science,989,Chang'an University,China,Xi'an,18.1,39,N/A,https://www.usnews.com/education/best-global-universities/changan-university-529427
+709,computer-science,"1,291",Indian Institute of Technology (IIT BHU) - Varanasi,India,Varanasi,18.1,32.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bhu-varanasi-529539
+710,computer-science,"1,218",Tianjin University of Technology,China,Tianjin,18,34,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-of-technology-529674
+711,computer-science,"1,017",Universidade Federal Fluminense,Brazil,Niteroi,18,38.4,"49,554",https://www.usnews.com/education/best-global-universities/universidade-federal-fluminense-506244
+712,computer-science,"1,361",Universidad de Guadalajara,Mexico,Guadalajara,17.9,31,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-guadalajara-529203
+713,computer-science,"1,407",Yanshan University,China,Qinhuangdao,17.9,29.9,"38,649",https://www.usnews.com/education/best-global-universities/yanshan-university-529086
+714,computer-science,"1,473",University of Isfahan,Iran,Isfahan,17.6,28.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-isfahan-529204
+715,computer-science,"1,180",Kunming University of Science & Technology,China,Kunming,17.4,34.7,N/A,https://www.usnews.com/education/best-global-universities/kunming-university-of-science-technology-529089
+716,computer-science,"1,153",Yildiz Technical University,Turkey,Istanbul,16.9,35.3,"25,532",https://www.usnews.com/education/best-global-universities/yildiz-technical-university-528878
+717,computer-science,"1,233",National Chung Hsing University,Taiwan,Taichung,16.8,33.7,"15,150",https://www.usnews.com/education/best-global-universities/national-chung-hsing-university-506137
+718,computer-science,975,Shanghai University of Finance & Economics,China,Shanghai,16.8,39.3,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-finance-economics-529139
+719,computer-science,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,16.8,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+720,computer-science,"1,066",Yunnan University,China,Kunming,16.8,37.3,N/A,https://www.usnews.com/education/best-global-universities/yunnan-university-529189
+721,computer-science,"1,327",Fahrenheit Universities,Poland,Gda¨½sk,16.7,31.7,N/A,https://www.usnews.com/education/best-global-universities/fahrenheit-universities-530044
+722,computer-science,"1,198",Universidad de Valladolid,Spain,Valladolid,16.5,34.4,"21,780",https://www.usnews.com/education/best-global-universities/universidad-de-valladolid-501268
+723,computer-science,984,Universitat Jaume I,Spain,Castellon,16.5,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-jaume-i-528868
+724,computer-science,"1,483",Amrita Vishwa Vidyapeetham,India,Coimbatore,16.4,28.1,N/A,https://www.usnews.com/education/best-global-universities/amrita-vishwa-vidyapeetham-529695
+725,computer-science,"1,413",National Institute of Technology Tiruchirappalli,India,Tiruchirappalli,16.3,29.8,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-tiruchirappalli-529710
+726,computer-science,"1,140",Jiangsu University of Science & Technology,China,Zhenjiang,16,35.6,N/A,https://www.usnews.com/education/best-global-universities/jiangsu-university-of-science-technology-529475
+727,computer-science,"1,847",Chosun University,South Korea,Gwangju,15.9,18.1,N/A,https://www.usnews.com/education/best-global-universities/chosun-university-529249
+728,computer-science,722,University of Oviedo,Spain,Oviedo,15.8,45.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oviedo-503830
+729,computer-science,"1,795",East China Jiaotong University,China,Nanchang,15.7,20.2,N/A,https://www.usnews.com/education/best-global-universities/east-china-jiaotong-university-529827
+730,computer-science,"1,520",Incheon National University,South Korea,Yeonsu-gu,15.6,27.3,N/A,https://www.usnews.com/education/best-global-universities/incheon-national-university-529412
+731,computer-science,"1,167",National Taipei University of Technology,Taiwan,Taipei City,15.3,34.9,"9,873",https://www.usnews.com/education/best-global-universities/national-taipei-university-of-technology-529069
+732,computer-science,"1,885",Yuan Ze University,Taiwan,Taoyuan City,15.3,16.4,"7,339",https://www.usnews.com/education/best-global-universities/yuan-ze-university-529068
+733,computer-science,"1,381",Sogang University,South Korea,Seoul,15.1,30.5,"9,625",https://www.usnews.com/education/best-global-universities/sogang-university-529014
+734,computer-science,,Netaji Subhas University of Technology,India,Delhi,15,N/A,N/A,https://www.usnews.com/education/best-global-universities/netaji-subhas-university-of-technology-530181
+735,computer-science,"1,746",Indian Institute of Technology (IIT) - Patna,India,Patna,14.7,21.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-patna-529821
+736,computer-science,"1,526",Universite de Technologie de Belfort-Montbeliard (UTBM),France,Belfort,14.5,27.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-technologie-de-belfort-montbeliard-utbm-529767
+737,computer-science,"1,489",Southwest Petroleum University,China,Chengdu,14,28,N/A,https://www.usnews.com/education/best-global-universities/southwest-petroleum-university-529461
+738,computer-science,"1,317",University of Yazd,Iran,Yazd,14,31.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-yazd-529540
+739,computer-science,"1,303",Guizhou University,China,Guiyang,13.7,32.1,N/A,https://www.usnews.com/education/best-global-universities/guizhou-university-529303
+740,computer-science,"1,813",National Kaohsiung University of Science & Technology,Taiwan,Ciaotou,13.4,19.3,"28,128",https://www.usnews.com/education/best-global-universities/national-kaohsiung-university-of-science-technology-529460
+741,computer-science,"1,705",National Chung Cheng University,Taiwan,Min-Hsiung,13.3,22.9,"8,867",https://www.usnews.com/education/best-global-universities/national-chung-cheng-university-529192
+742,computer-science,"1,617",National Yunlin University Science & Technology,Taiwan,Yunlin,13.3,25.1,"9,135",https://www.usnews.com/education/best-global-universities/national-yunlin-university-science-technology-529818
+743,computer-science,759,Nanjing Forestry University,China,Nanjing,13.2,44.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-forestry-university-529506
+744,computer-science,"1,805",National Institute of Technology Durgapur,India,West Bengal,13.1,19.8,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-durgapur-529772
+745,computer-science,"1,880",Chengdu University of Information Technology,China,Chengdu,13,16.7,N/A,https://www.usnews.com/education/best-global-universities/chengdu-university-of-information-technology-530085
+746,computer-science,"1,609",Harbin University of Science & Technology,China,Harbin,12.9,25.4,N/A,https://www.usnews.com/education/best-global-universities/harbin-university-of-science-technology-529815
+747,computer-science,"1,046",Dongguk University,South Korea,Seoul,12.7,37.7,N/A,https://www.usnews.com/education/best-global-universities/dongguk-university-529173
+748,computer-science,531,University of Santiago De Compostela,Spain,Santiago de Compostela,12.2,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+749,computer-science,"1,553",Chungbuk National University,South Korea,Cheongju,12.1,26.7,N/A,https://www.usnews.com/education/best-global-universities/chungbuk-national-university-503344
+750,computer-science,"1,473",Xinjiang University,China,Xinjiang,12,28.4,N/A,https://www.usnews.com/education/best-global-universities/xinjiang-university-529284

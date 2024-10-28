@@ -1,0 +1,1001 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,engineering,23,Tsinghua University,China,Beijing,100,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+2,engineering,30,Nanyang Technological University,Singapore,Singapore,94.6,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+3,engineering,26,National University of Singapore,Singapore,Singapore,91.4,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+4,engineering,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),89.7,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+5,engineering,196,Harbin Institute of Technology,China,Harbin,89.5,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+6,engineering,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,88.5,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+7,engineering,89,Shanghai Jiao Tong University,China,Shanghai,88.5,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+8,engineering,109,Huazhong University of Science & Technology,China,Wuhan,88.3,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+9,engineering,3,Stanford University,United States,Stanford,88.1,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+10,engineering,93,Zhejiang University,China,Hangzhou,88,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+11,engineering,267,Aalborg University,Denmark,Aalborg,87.3,59.8,"16,818",https://www.usnews.com/education/best-global-universities/aalborg-university-501276
+12,engineering,4,University of California Berkeley,United States,Berkeley,87.3,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+13,engineering,234,Southeast University - China,China,Nanjing,86.1,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+14,engineering,196,Tongji University,China,Shanghai,84.9,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+15,engineering,29,ETH Zurich,Switzerland,Zurich,84.4,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+16,engineering,219,Xi'an Jiaotong University,China,Xi'an,84.3,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+17,engineering,168,Hunan University,China,Changsha,83.3,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+18,engineering,120,City University of Hong Kong,Hong Kong,Kowloon,83.2,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+19,engineering,51,Georgia Institute of Technology,United States,Atlanta,83.2,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+20,engineering,13,Imperial College London,United Kingdom,London (U.K.),82.8,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+21,engineering,37,University of New South Wales Sydney,Australia,Kensington,82.5,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+22,engineering,112,University of Technology Sydney,Australia,Ultimo,81.6,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+23,engineering,329,University of Tehran,Iran,Tehran,81.6,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+24,engineering,209,Central South University,China,Changsha,80.9,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+25,engineering,253,Beihang University,China,Beijing,80.4,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+26,engineering,169,Delft University of Technology,Netherlands,Delft,80.4,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+27,engineering,28,University of Sydney,Australia,Sydney,80.4,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+28,engineering,39,Peking University,China,Beijing,79.6,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+29,engineering,219,South China University of Technology,China,Guangzhou,79.6,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+30,engineering,55,University of Hong Kong,Hong Kong,Pok Fu Lam,79.6,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+31,engineering,19,University of Michigan,United States,Ann Arbor,79.6,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+32,engineering,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,79.5,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+33,engineering,102,"University of Science & Technology of China, CAS",China,Hefei,79.5,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+34,engineering,298,Beijing Institute of Technology,China,Beijing,79.4,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+35,engineering,297,Polytechnic University of Milan,Italy,Milan,79.2,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+36,engineering,231,University of Electronic Science & Technology of China,China,Chengdu,79.1,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+37,engineering,1,Harvard University,United States,Cambridge (U.S.),79,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+38,engineering,394,Islamic Azad University,Iran,Tehran,79,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+39,engineering,379,Chongqing University,China,Chongqing,78.9,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+40,engineering,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,78.9,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+41,engineering,226,Universiti Malaya,Malaysia,Kuala Lumpur,78.9,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+42,engineering,260,Tianjin University,China,Tianjin,78.7,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+43,engineering,379,Universiti Teknologi Malaysia,Malaysia,Johor,77.8,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+44,engineering,191,University of Waterloo,Canada,Waterloo,77.6,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+45,engineering,165,Technical University of Denmark,Denmark,Kongens Lyngby,77.2,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+46,engineering,53,Chinese University of Hong Kong,Hong Kong,Shatin,76.4,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+47,engineering,333,Northwestern Polytechnical University,China,Xi'an,76.4,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+48,engineering,74,University of Adelaide,Australia,Adelaide,76.4,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+49,engineering,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,76.3,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+50,engineering,118,Carnegie Mellon University,United States,Pittsburgh,75.3,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+51,engineering,392,Dalian University of Technology,China,Dalian,75.1,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+52,engineering,240,Royal Institute of Technology,Sweden,Stockholm,75,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+53,engineering,74,University of Illinois Urbana-Champaign,United States,Champaign,74.8,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+54,engineering,43,University of Texas Austin,United States,Austin,74.7,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+55,engineering,18,University of Toronto,Canada,Toronto,74.5,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+56,engineering,8,University of Cambridge,United Kingdom,Cambridge (U.K.),74.4,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+57,engineering,512,China University of Petroleum,China,Qingdao,74,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+58,engineering,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),74,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+59,engineering,213,King Saud University,Saudi Arabia,Riyadh,73.9,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+60,engineering,123,Nanjing University,China,Nanjing,73.6,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+61,engineering,223,Ton Duc Thang University,Vietnam,Ho Chi Minh City,73.5,61.8,N/A,https://www.usnews.com/education/best-global-universities/ton-duc-thang-university-529637
+62,engineering,5,University of Oxford,United Kingdom,Oxford,73.1,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+63,engineering,140,Purdue University West Lafayette Campus,United States,West Lafayette,72.6,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+64,engineering,598,Beijing Jiaotong University,China,Beijing,72,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+65,engineering,150,Wuhan University,China,Wuhan,71.9,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+66,engineering,79,Technical University of Munich,Germany,Munich,71.7,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+67,engineering,14,University of California Los Angeles,United States,Los Angeles,71.6,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+68,engineering,400,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,71.4,54.4,N/A,https://www.usnews.com/education/best-global-universities/king-fahd-university-of-petroleum-minerals-506100
+69,engineering,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,71.4,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+70,engineering,35,University of British Columbia,Canada,Vancouver,71.4,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+71,engineering,50,KU Leuven,Belgium,Leuven,71.3,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+72,engineering,739,North China Electric Power University,China,Beijing,71.2,44.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-electric-power-university-528965
+73,engineering,81,University of Tokyo,Japan,Tokyo,71.2,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+74,engineering,20,University of California San Diego,United States,La Jolla,71.1,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+75,engineering,282,China University of Geosciences,China,Wuhan,71,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+76,engineering,304,Sichuan University,China,Chengdu,71,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+77,engineering,148,Texas A&M University College Station,United States,College Station,71,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+78,engineering,63,University of Manchester,United Kingdom,Manchester,71,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+79,engineering,570,China University of Mining & Technology,China,Xuzhou,70.7,49.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-mining-technology-529045
+80,engineering,37,Monash University,Australia,Clayton,70.7,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+81,engineering,145,University of Nottingham,United Kingdom,Nottingham,70.5,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+82,engineering,6,University of Washington Seattle,United States,Seattle,70.4,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+83,engineering,84,Pennsylvania State University,United States,University Park,70.3,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+84,engineering,618,Northeastern University - China,China,Shenyang,70.2,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931
+85,engineering,12,University College London,United Kingdom,London (U.K.),70.1,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+86,engineering,136,University of Alberta,Canada,Edmonton,70.1,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+87,engineering,9,California Institute of Technology,United States,Pasadena,70,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+88,engineering,199,RWTH Aachen University,Germany,Aachen,70,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+89,engineering,653,Southwest Jiaotong University,China,Chengdu,70,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+90,engineering,129,Sun Yat Sen University,China,Guangzhou,69.9,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+91,engineering,57,University of Maryland College Park,United States,College Park,69.9,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+92,engineering,160,Curtin University,Australia,Bentley,69.1,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+93,engineering,60,Universite Paris Saclay,France,Saint-Aubin,69.1,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+94,engineering,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,69,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+95,engineering,337,Chalmers University of Technology,Sweden,Gothenburg,68.9,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+96,engineering,199,Swinburne University of Technology,Australia,Hawthorn,68.9,63,"15,327",https://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823
+97,engineering,36,University of Queensland,Australia,Brisbane,68.8,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+98,engineering,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,68.8,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+99,engineering,290,Korea University,South Korea,Seoul,68.7,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+100,engineering,202,Universidade de Lisboa,Portugal,Lisbon,68.7,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+101,engineering,156,Arizona State University-Tempe,United States,Tempe,68.6,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+102,engineering,342,Eindhoven University of Technology,Netherlands,Eindhoven,68.6,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+103,engineering,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,68.5,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+104,engineering,441,University of Science & Technology Beijing,China,Beijing,68.4,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-science-technology-beijing-506176
+105,engineering,504,Polytechnic University of Turin,Italy,Turin,68.3,51.1,"29,428",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+106,engineering,16,Princeton University,United States,Princeton,68.2,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+107,engineering,593,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,68,48.4,N/A,https://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289
+108,engineering,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,67.8,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+109,engineering,653,Guangdong University of Technology,China,Guangzhou,67.6,46.8,"46,040",https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270
+110,engineering,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,67.1,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+111,engineering,21,Cornell University,United States,Ithaca,67,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+112,engineering,478,Qatar University,Qatar,Doha,67,52.2,"9,084",https://www.usnews.com/education/best-global-universities/qatar-university-529146
+113,engineering,186,University of Wollongong,Australia,Wollongong,66.8,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+114,engineering,273,Aalto University,Finland,Esbo,66.7,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+115,engineering,27,University of Melbourne,Australia,Parkville,66.6,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+116,engineering,625,University of Tabriz,Iran,Tabriz,66.6,47.7,"20,983",https://www.usnews.com/education/best-global-universities/university-of-tabriz-528957
+117,engineering,342,Wuhan University of Technology,China,Wuhan,66.6,56.4,"55,426",https://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361
+118,engineering,485,Brunel University,United Kingdom,Uxbridge,66.5,51.9,"14,185",https://www.usnews.com/education/best-global-universities/brunel-university-502232
+119,engineering,598,Sharif University of Technology,Iran,Tehran,66.5,48.3,N/A,https://www.usnews.com/education/best-global-universities/sharif-university-of-technology-502898
+120,engineering,80,University of Southern California,United States,Los Angeles,66.4,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+121,engineering,24,Northwestern University,United States,Evanston,66.3,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+122,engineering,129,Seoul National University (SNU),South Korea,Seoul,66.3,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+123,engineering,62,Australian National University,Australia,Canberra,66.2,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+124,engineering,653,Hohai University,China,Nanjing,66.1,46.8,N/A,https://www.usnews.com/education/best-global-universities/hohai-university-528997
+125,engineering,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,66.1,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+126,engineering,125,Sapienza University Rome,Italy,Rome,65.8,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+127,engineering,633,Amirkabir University of Technology,Iran,Tehran,65.7,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+128,engineering,311,Soochow University - China,China,Suzhou,65.7,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+129,engineering,360,Tokyo Institute of Technology,Japan,Tokyo,65.7,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+130,engineering,7,Columbia University,United States,New York City,65.6,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+131,engineering,385,Polytechnic University of Catalonia,Spain,Barcelona,65.5,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+132,engineering,185,University of Naples Federico II,Italy,Naples,65.5,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+133,engineering,304,Technical University of Berlin,Germany,Berlin,65.4,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+134,engineering,531,Nanjing University of Science & Technology,China,Nanjing,65.3,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+135,engineering,55,Ohio State University,United States,Columbus,65.3,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+136,engineering,247,Universidade do Porto,Portugal,Porto,65.3,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+137,engineering,421,Shanghai University,China,Shanghai,65.2,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+138,engineering,225,University of Tennessee Knoxville,United States,Knoxville,65.1,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+139,engineering,116,Fudan University,China,Shanghai,65,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+140,engineering,271,Shenzhen University,China,Shenzhen,64.8,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+141,engineering,63,University of Wisconsin Madison,United States,Madison,64.8,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+142,engineering,10,Johns Hopkins University,United States,Baltimore,64.5,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+143,engineering,123,University of Auckland,New Zealand,Auckland,64.5,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+144,engineering,643,Xidian University,China,Xi'an,64.4,47.1,N/A,https://www.usnews.com/education/best-global-universities/xidian-university-506871
+145,engineering,717,Indian Institute of Technology (IIT) - Delhi,India,New Delhi,64.3,45.3,"9,794",https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856
+146,engineering,54,McGill University,Canada,Montreal,64.2,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+147,engineering,230,North Carolina State University,United States,Raleigh,64.2,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+148,engineering,57,University of Minnesota Twin Cities,United States,Minneapolis,64.2,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+149,engineering,317,Duy Tan University,Vietnam,Danang,64.1,57.6,N/A,https://www.usnews.com/education/best-global-universities/duy-tan-university-529795
+150,engineering,794,Harbin Engineering University,China,Harbin,64,43.3,"29,861",https://www.usnews.com/education/best-global-universities/harbin-engineering-university-528986
+151,engineering,441,National Technical University of Athens,Greece,Athens (Greece),64,53.4,N/A,https://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449
+152,engineering,98,University of Florida,United States,Gainesville,63.9,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+153,engineering,598,Babol Noshirvani University of Technology,Iran,Babol,63.8,48.3,"6,180",https://www.usnews.com/education/best-global-universities/babol-noshirvani-university-of-technology-529310
+154,engineering,643,Beijing University of Technology,China,Beijing,63.7,47.1,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-technology-505552
+155,engineering,735,Illinois Institute of Technology,United States,Chicago,63.6,44.8,N/A,https://www.usnews.com/education/best-global-universities/illinois-institute-of-technology-145725
+156,engineering,662,Khalifa University of Science & Technology,United Arab Emirates,Abu Dhabi,63.5,46.6,N/A,https://www.usnews.com/education/best-global-universities/khalifa-university-of-science-technology-529390
+157,engineering,115,University of Padua,Italy,Padua,63.5,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+158,engineering,269,Beijing Normal University,China,Beijing,63.3,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+159,engineering,368,Shandong University,China,Jinan,63.3,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+160,engineering,213,Southern University of Science & Technology,China,Shenzhen,63.3,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+161,engineering,95,Ghent University,Belgium,Gent,63.2,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+162,engineering,377,Shandong University of Science & Technology,China,Qingdao,63.2,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+163,engineering,112,Lund University,Sweden,Lund,62.8,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+164,engineering,104,University of Southampton,United Kingdom,Southampton,62.8,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+165,engineering,679,Beijing University of Posts & Telecommunications,China,Beijing,62.7,46.2,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-posts-telecommunications-502130
+166,engineering,70,University of Colorado Boulder,United States,Boulder,62.6,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+167,engineering,247,Xiamen University,China,Xiamen,62.6,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+168,engineering,140,University of Leeds,United Kingdom,Leeds,62.5,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+169,engineering,379,University of Strathclyde,United Kingdom,Glasgow,62.5,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+170,engineering,140,Kyoto University,Japan,Kyoto,62.4,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+171,engineering,146,University of Liverpool,United Kingdom,Liverpool,62.4,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+172,engineering,134,University of Sheffield,United Kingdom,Sheffield,62.3,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+173,engineering,879,Iran University Science & Technology,Iran,Tehran,62.2,41.3,"15,436",https://www.usnews.com/education/best-global-universities/iran-university-science-technology-505518
+174,engineering,286,Tohoku University,Japan,Sendai,62.2,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+175,engineering,120,Universidade de Sao Paulo,Brazil,Sao Paulo,62.1,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+176,engineering,171,Queensland University of Technology (QUT),Australia,Brisbane,62,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+177,engineering,653,Concordia University - Canada,Canada,Montreal,61.9,46.8,"35,592",https://www.usnews.com/education/best-global-universities/concordia-university-canada-499961
+178,engineering,73,University of California Davis,United States,Davis,61.5,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+179,engineering,67,University of California Santa Barbara,United States,Santa Barbara,61.5,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+180,engineering,186,University of California Riverside,United States,Riverside,61.4,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+181,engineering,397,Sejong University,South Korea,Seoul,61.3,54.5,N/A,https://www.usnews.com/education/best-global-universities/sejong-university-528964
+182,engineering,710,Cranfield University,United Kingdom,Cranfield,61.2,45.4,N/A,https://www.usnews.com/education/best-global-universities/cranfield-university-500995
+183,engineering,292,Yonsei University,South Korea,Seoul,61.2,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+184,engineering,441,Hanyang University,South Korea,Seoul,61.1,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+185,engineering,203,Griffith University,Australia,Nathan,61,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+186,engineering,583,Indian Institute of Technology (IIT) - Bombay,India,Mumbai,60.9,48.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bombay-501259
+187,engineering,520,University of Sevilla,Spain,Seville,60.9,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+188,engineering,83,University of Western Australia,Australia,Crawley,60.9,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+189,engineering,,Universiti Tenaga Nasional,Malaysia,Selangor,60.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/universiti-tenaga-nasional-529638
+190,engineering,349,Kyushu University,Japan,Fukuoka,60.7,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+191,engineering,379,University of Macau,Macau,Taipa,60.6,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+192,engineering,256,Nankai University,China,Nankai,60.5,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+193,engineering,,University Djillali Liabes Sidi Bel Abbes,Algeria,Sidi Bel Abbes,60.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-djillali-liabes-sidi-bel-abbes-513540
+194,engineering,109,Aarhus University,Denmark,Aarhus,60.4,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+195,engineering,122,University of Bologna,Italy,Bologna,60.4,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+196,engineering,844,Jiangsu University,China,Zhenjiang,60.2,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+197,engineering,31,New York University,United States,New York City,60.2,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+198,engineering,203,National Taiwan University,Taiwan,Taipei,60,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+199,engineering,34,University of Edinburgh,United Kingdom,Edinburgh,60,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+200,engineering,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,59.9,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+201,engineering,452,University of Southern Queensland,Australia,Toowoomba,59.9,53.1,"12,150",https://www.usnews.com/education/best-global-universities/university-of-southern-queensland-529601
+202,engineering,217,Deakin University,Australia,Burwood,59.7,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+203,engineering,889,Universiti Teknologi Petronas,Malaysia,Darul Ridzuan,59.7,41.1,N/A,https://www.usnews.com/education/best-global-universities/universiti-teknologi-petronas-529338
+204,engineering,261,University of Southern Denmark,Denmark,Odense,59.7,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+205,engineering,89,University of Oslo,Norway,Oslo,59.5,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+206,engineering,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,59.4,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+207,engineering,89,University of Birmingham,United Kingdom,Birmingham (U.K.),59.4,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+208,engineering,25,Duke University,United States,"Durham (North Carolina, U.S.)",59.1,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+209,engineering,564,Universidad Politecnica de Madrid,Spain,Madrid,58.9,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+210,engineering,84,University of California Irvine,United States,Irvine,58.9,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+211,engineering,203,University of Cincinnati,United States,Cincinnati,58.9,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+212,engineering,152,Cardiff University,United Kingdom,Cardiff,58.8,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+213,engineering,507,China Medical University Taiwan,Taiwan,Taichung,58.8,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+214,engineering,708,Tarbiat Modares University,Iran,Tehran,58.8,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+215,engineering,11,Yale University,United States,New Haven,58.8,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+216,engineering,163,University of Warwick,United Kingdom,Coventry,58.7,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+217,engineering,564,Colorado School of Mines,United States,Golden,58.6,49.2,"6,350",https://www.usnews.com/education/best-global-universities/colorado-school-of-mines-126775
+218,engineering,770,National University of Sciences & Technology - Pakistan,Pakistan,Islamabad,58.6,43.9,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-sciences-technology---pakistan-529152
+219,engineering,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,58.5,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+220,engineering,504,Universiti Sains Malaysia,Malaysia,Penang,58.5,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+221,engineering,400,University of Twente,Netherlands,Enschede,58.5,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+222,engineering,"1,121",Ontario Tech University,Canada,Oshawa,58.4,36.1,N/A,https://www.usnews.com/education/best-global-universities/ontario-tech-university-529067
+223,engineering,263,Sungkyunkwan University (SKKU),South Korea,Seoul,58.4,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+224,engineering,413,University of Central Florida,United States,Orlando,58.4,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+225,engineering,564,University of Sharjah,United Arab Emirates,Sharjah University City,58.4,49.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-sharjah-529769
+226,engineering,639,National Cheng Kung University,Taiwan,Tainan City,58.3,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+227,engineering,667,Southwest University - China,China,Chongqing,58.3,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+228,engineering,570,Universitat Politecnica de Valencia,Spain,Valencia,58.3,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+229,engineering,432,University of Houston,United States,Houston,58.2,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+230,engineering,156,Universite de Montreal,Canada,Montreal,58.1,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+231,engineering,15,University of Pennsylvania,United States,Philadelphia,58.1,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+232,engineering,180,Rice University,United States,Houston,58,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+233,engineering,93,University of Bristol,United Kingdom,Bristol,58,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+234,engineering,547,Universiti Putra Malaysia,Malaysia,Serdang,57.8,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+235,engineering,643,East China University of Science & Technology,China,Shanghai,57.7,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+236,engineering,551,Guangzhou University,China,Guangzhou,57.7,49.6,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-529537
+237,engineering,526,Loughborough University,United Kingdom,Loughborough,57.7,50.3,"17,130",https://www.usnews.com/education/best-global-universities/loughborough-university-506503
+238,engineering,231,University of Newcastle,Australia,Callaghan,57.7,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+239,engineering,661,Zagazig University,Egypt,Zagazig,57.7,46.7,N/A,https://www.usnews.com/education/best-global-universities/zagazig-university-514033
+240,engineering,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,57.6,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+241,engineering,416,Technische Universitat Wien,Austria,Vienna,57.6,54,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-wien-502163
+242,engineering,605,Indian Institute of Technology (IIT) - Madras,India,Chennai,57.4,48.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278
+243,engineering,896,Indian Institute of Technology (IIT) - Roorkee,India,Roorkee,57.4,41,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-roorkee-528828
+244,engineering,143,Rutgers State University New Brunswick,United States,Piscataway Township,57.3,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+245,engineering,531,Fuzhou University,China,Fuzhou,57.2,50.2,"39,987",https://www.usnews.com/education/best-global-universities/fuzhou-university-528832
+246,engineering,182,Lancaster University,United Kingdom,Lancaster,57,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+247,engineering,116,Michigan State University,United States,East Lansing,57,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+248,engineering,525,Universidade de Aveiro,Portugal,Aveiro,57,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+249,engineering,363,Cairo University,Egypt,Giza,56.9,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+250,engineering,372,Changsha University of Science & Technology,China,Changsha,56.7,55.2,N/A,https://www.usnews.com/education/best-global-universities/changsha-university-of-science-technology-529522
+251,engineering,"1,060",Dalian Maritime University,China,Dalian,56.7,37.4,N/A,https://www.usnews.com/education/best-global-universities/dalian-maritime-university-529341
+252,engineering,263,Iowa State University,United States,Ames,56.7,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+253,engineering,"1,172",K. N. Toosi University of Technology,Iran,Tehran,56.7,34.8,N/A,https://www.usnews.com/education/best-global-universities/k-n-toosi-university-of-technology-529705
+254,engineering,370,University of Surrey,United Kingdom,Surrey,56.7,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+255,engineering,234,Western Sydney University,Australia,Penrith,56.7,61.3,"36,033",https://www.usnews.com/education/best-global-universities/western-sydney-university-506826
+256,engineering,992,Universiti Malaysia Pahang,Malaysia,Pahang,56.6,38.9,"8,140",https://www.usnews.com/education/best-global-universities/universiti-malaysia-pahang-529458
+257,engineering,385,Zhengzhou University,China,Zhengzhou,56.5,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+258,engineering,192,Macquarie University,Australia,North Ryde,56.4,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+259,engineering,794,Qingdao University,China,Qingdao,56.2,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+260,engineering,812,Hefei University of Technology,China,Hefei,56.1,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+261,engineering,459,Institut National Polytechnique de Grenoble,France,Grenoble,56.1,53,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-grenoble-504372
+262,engineering,108,University of Arizona,United States,Tucson,56.1,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+263,engineering,33,King's College London,United Kingdom,London (U.K.),55.8,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+264,engineering,48,Sorbonne Universite,France,Paris,55.8,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+265,engineering,74,University of Glasgow,United Kingdom,Glasgow,55.8,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+266,engineering,629,University of Stuttgart,Germany,Stuttgart,55.8,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+267,engineering,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,55.7,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+268,engineering,739,Isfahan University of Technology,Iran,Isfahan,55.6,44.6,"11,323",https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590
+269,engineering,330,Linkoping University,Sweden,Linkoping,55.6,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+270,engineering,175,University of Calgary,Canada,Calgary,55.6,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+271,engineering,44,Utrecht University,Netherlands,Utrecht,55.6,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+272,engineering,844,Vellore Institute of Technology,India,Tamil Nadu,55.6,42.2,"33,416",https://www.usnews.com/education/best-global-universities/vellore-institute-of-technology-529209
+273,engineering,317,Technion Israel Institute of Technology,Israel,Haifa,55,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+274,engineering,413,Universite de Lorraine,France,Nancy,55,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+275,engineering,989,Chang'an University,China,Xi'an,54.9,39,N/A,https://www.usnews.com/education/best-global-universities/changan-university-529427
+276,engineering,256,University of Erlangen Nuremberg,Germany,Erlangen,54.9,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+277,engineering,649,Victoria University,Australia,Footscray,54.9,47,"14,387",https://www.usnews.com/education/best-global-universities/victoria-university-528927
+278,engineering,432,Singapore University of Technology & Design,Singapore,Singapore,54.8,53.6,N/A,https://www.usnews.com/education/best-global-universities/singapore-university-of-technology-design-529432
+279,engineering,725,Heriot Watt University,United Kingdom,Edinburgh,54.7,45.1,"9,885",https://www.usnews.com/education/best-global-universities/heriot-watt-university-506192
+280,engineering,"1,046",Ferdowsi University Mashhad,Iran,Mashhad,54.5,37.7,N/A,https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854
+281,engineering,194,Northeastern University,United States,Boston,54.3,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+282,engineering,409,Pohang University of Science & Technology (POSTECH),South Korea,Pohang,54.3,54.2,"3,260",https://www.usnews.com/education/best-global-universities/pohang-university-of-science-technology-postech-503003
+283,engineering,912,Yeungnam University,South Korea,Gyeongsan,54.3,40.7,"19,345",https://www.usnews.com/education/best-global-universities/yeungnam-university-504367
+284,engineering,186,Technische Universitat Dresden,Germany,Dresden,54.1,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+285,engineering,88,University of Groningen,Netherlands,Groningen,54.1,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+286,engineering,710,Lulea University of Technology,Sweden,Lulea,54,45.4,N/A,https://www.usnews.com/education/best-global-universities/lulea-university-of-technology-529025
+287,engineering,547,Middle East Technical University,Turkey,Ankara,54,49.8,"17,151",https://www.usnews.com/education/best-global-universities/middle-east-technical-university-503271
+288,engineering,100,Queen Mary University London,United Kingdom,London (U.K.),53.9,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+289,engineering,349,University of Texas Dallas,United States,Richardson,53.8,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+290,engineering,997,Bohai University,China,Jinzhou,53.7,38.8,N/A,https://www.usnews.com/education/best-global-universities/bohai-university-529457
+291,engineering,879,Indian Institute of Technology (IIT) - Kanpur,India,Kanpur,53.7,41.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622
+292,engineering,662,Ocean University of China,China,Qingdao,53.7,46.6,N/A,https://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491
+293,engineering,643,Istanbul Technical University,Turkey,Istanbul,53.6,47.1,"18,562",https://www.usnews.com/education/best-global-universities/istanbul-technical-university-503684
+294,engineering,"1,158",Qingdao University of Science & Technology,China,Qingdao,53.5,35.1,N/A,https://www.usnews.com/education/best-global-universities/qingdao-university-of-science-technology-529234
+295,engineering,294,Universidade Estadual de Campinas,Brazil,Campinas,53.5,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+296,engineering,688,Donghua University,China,Shanghai,53.4,46,"23,598",https://www.usnews.com/education/best-global-universities/donghua-university-500299
+297,engineering,194,Universite de Montpellier,France,Montpellier,53.4,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+298,engineering,400,Tampere University,Finland,Tampere,53.1,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+299,engineering,"1,008",King Mongkuts University of Technology Thonburi,Thailand,Bangkok,53,38.6,"15,116",https://www.usnews.com/education/best-global-universities/king-mongkuts-university-of-technology-thonburi-529070
+300,engineering,889,National Taiwan University of Science & Technology,Taiwan,Taipei City,53,41.1,"8,907",https://www.usnews.com/education/best-global-universities/national-taiwan-university-of-science-technology-501875
+301,engineering,313,University of Granada,Spain,Granada,53,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+302,engineering,849,IMT Atlantique,France,Toulouse,52.8,42.1,"1,436",https://www.usnews.com/education/best-global-universities/imt-atlantique-529450
+303,engineering,639,Kafrelsheikh University,Egypt,Kafr el-sheikh,52.8,47.2,N/A,https://www.usnews.com/education/best-global-universities/kafrelsheikh-university-529690
+304,engineering,295,Queens University Belfast,United Kingdom,Belfast,52.8,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+305,engineering,547,Chulalongkorn University,Thailand,Bangkok,52.6,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+306,engineering,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,52.6,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+307,engineering,696,ITMO University,Russia,St. Petersburg,52.5,45.8,N/A,https://www.usnews.com/education/best-global-universities/itmo-university-529154
+308,engineering,835,Missouri University of Science & Technology,United States,Rolla,52.5,42.3,N/A,https://www.usnews.com/education/best-global-universities/missouri-university-of-science-technology-178411
+309,engineering,468,Nanjing University of Information Science & Technology,China,Nanjing,52.4,52.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-information-science-technology-529160
+310,engineering,286,Osaka University,Japan,Suita,52.4,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+311,engineering,"1,037",Shanghai Maritime University,China,Shanghai,52.4,37.9,"23,263",https://www.usnews.com/education/best-global-universities/shanghai-maritime-university-529346
+312,engineering,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,52.3,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+313,engineering,977,Universiti Teknologi MARA,Malaysia,Darul Ehsan,52.3,39.2,"60,563",https://www.usnews.com/education/best-global-universities/universiti-teknologi-mara-529194
+314,engineering,421,Jilin University,China,Changchun,52.2,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+315,engineering,540,Lanzhou University,China,Lanzhou,52.2,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+316,engineering,219,University of Pisa,Italy,Pisa,52.2,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+317,engineering,717,Aston University,United Kingdom,Birmingham (U.K.),52.1,45.3,"13,230",https://www.usnews.com/education/best-global-universities/aston-university-528938
+318,engineering,138,McMaster University,Canada,Hamilton,52.1,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+319,engineering,256,University of Trento,Italy,Trento,52.1,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+320,engineering,"1,082",National University of Defense Technology - China,China,Changsha,52,37,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-defense-technology-china-505128
+321,engineering,615,Technical University of Darmstadt,Germany,Darmstadt,52,48,"15,526",https://www.usnews.com/education/best-global-universities/technical-university-of-darmstadt-506035
+322,engineering,389,Universite de Lille,France,Lille,52,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+323,engineering,330,University of East Anglia,United Kingdom,Norwich,51.9,57,"16,245",https://www.usnews.com/education/best-global-universities/university-of-east-anglia-503561
+324,engineering,45,University of Pittsburgh,United States,Pittsburgh,51.8,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+325,engineering,507,Universidade do Minho,Portugal,Braga,51.7,51,"19,922",https://www.usnews.com/education/best-global-universities/universidade-do-minho-506228
+326,engineering,618,Universidade Federal de Santa Catarina (UFSC),Brazil,Florianopolis,51.6,47.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204
+327,engineering,409,University of Bath,United Kingdom,Bath,51.6,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+328,engineering,421,Beijing University of Chemical Technology,China,Beijing,51.5,53.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chemical-technology-501098
+329,engineering,41,University of North Carolina Chapel Hill,United States,Chapel Hill,51.5,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+330,engineering,89,Wageningen University & Research,Netherlands,Wageningen,51.5,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+331,engineering,152,Case Western Reserve University,United States,Cleveland,51.4,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+332,engineering,708,Northumbria University,United Kingdom,Newcastle upon Tyne,51.4,45.5,"23,495",https://www.usnews.com/education/best-global-universities/northumbria-university-529055
+333,engineering,236,University College Dublin,Ireland,Dublin,51.4,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+334,engineering,250,University of Illinois Chicago,United States,Chicago,51.3,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+335,engineering,463,University of Salerno,Italy,Fisciano,51.3,52.8,"26,289",https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+336,engineering,948,Minia University,Egypt,Minya,51.2,39.9,N/A,https://www.usnews.com/education/best-global-universities/minia-university-514678
+337,engineering,360,Ulsan National Institute of Science & Technology (UNIST),South Korea,Ulsan,51.2,55.7,N/A,https://www.usnews.com/education/best-global-universities/ulsan-national-institute-of-science-technology-unist-528883
+338,engineering,328,Washington State University,United States,Pullman,51.2,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+339,engineering,"1,153",Yildiz Technical University,Turkey,Istanbul,51.2,35.3,"25,532",https://www.usnews.com/education/best-global-universities/yildiz-technical-university-528878
+340,engineering,696,Lappeenranta University of Technology,Finland,Lappeenranta,51.1,45.8,"4,609",https://www.usnews.com/education/best-global-universities/lappeenranta-university-of-technology-528924
+341,engineering,835,Tanta University,Egypt,Tanta,51,42.3,"129,209",https://www.usnews.com/education/best-global-universities/tanta-university-529188
+342,engineering,526,Carleton University,Canada,Ottawa,50.9,50.3,N/A,https://www.usnews.com/education/best-global-universities/carleton-university-499991
+343,engineering,520,Kyung Hee University,South Korea,Seoul,50.9,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+344,engineering,821,Shiraz University,Iran,Shiraz,50.9,42.5,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-500400
+345,engineering,309,Temple University,United States,Philadelphia,50.9,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+346,engineering,332,China Agricultural University,China,Beijing,50.8,56.9,N/A,https://www.usnews.com/education/best-global-universities/china-agricultural-university-500688
+347,engineering,400,Nantes Universite,France,Nantes,50.8,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+348,engineering,482,Quaid I Azam University,Pakistan,Islamabad,50.8,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+349,engineering,497,Universidade Estadual Paulista,Brazil,Sao Paulo,50.8,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+350,engineering,317,University of South Florida,United States,Tampa,50.8,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+351,engineering,901,University of Shanghai for Science & Technology,China,Shanghai,50.7,40.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-shanghai-for-science-technology-529079
+352,engineering,732,Warsaw University of Technology,Poland,Warsaw,50.7,44.9,"26,482",https://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920
+353,engineering,452,University of Pretoria,South Africa,Hatfied (South Africa),50.6,53.1,"36,493",https://www.usnews.com/education/best-global-universities/university-of-pretoria-501543
+354,engineering,300,Western University (University of Western Ontario),Canada,London (Canada),50.6,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+355,engineering,321,East China Normal University,China,Shanghai,50.5,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+356,engineering,299,Oregon State University,United States,Corvallis,50.5,58.3,N/A,https://www.usnews.com/education/best-global-universities/oregon-state-university-209542
+357,engineering,576,University of Texas Arlington,United States,Arlington,50.4,48.9,"33,537",https://www.usnews.com/education/best-global-universities/university-of-texas-arlington-228769
+358,engineering,698,Czech Technical University Prague,Czech Republic,Prague,50.2,45.7,N/A,https://www.usnews.com/education/best-global-universities/czech-technical-university-prague-502255
+359,engineering,286,State University of New York (SUNY) Buffalo,United States,Buffalo,50.2,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+360,engineering,324,University of Victoria,Canada,Victoria,50.2,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+361,engineering,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,50.1,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+362,engineering,322,University of Notre Dame,United States,Notre Dame,50,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+363,engineering,517,University of Zagreb,Croatia,Zagreb,50,50.6,"65,436",https://www.usnews.com/education/best-global-universities/university-of-zagreb-502783
+364,engineering,"1,060",Brno University of Technology,Czech Republic,Brno,49.9,37.4,N/A,https://www.usnews.com/education/best-global-universities/brno-university-of-technology-529040
+365,engineering,551,Ollscoil na Gaillimhe-University of Galway,Ireland,Galway,49.9,49.6,N/A,https://www.usnews.com/education/best-global-universities/ollscoil-na-gaillimhe-university-of-galway-505038
+366,engineering,587,Tomsk State University,Russia,Tomsk,49.9,48.6,"7,806",https://www.usnews.com/education/best-global-universities/tomsk-state-university-529019
+367,engineering,160,University of Massachusetts Amherst,United States,Amherst,49.9,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+368,engineering,598,Jiangnan University,China,Wuxi,49.8,48.3,"29,899",https://www.usnews.com/education/best-global-universities/jiangnan-university-504800
+369,engineering,"1,271",Worcester Polytechnic Institute,United States,Worcester,49.8,32.8,"5,949",https://www.usnews.com/education/best-global-universities/worcester-polytechnic-institute-168421
+370,engineering,673,Zhejiang University of Technology,China,Hangzhou,49.8,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+371,engineering,782,AGH University of Science & Technology,Poland,Krakow,49.7,43.6,N/A,https://www.usnews.com/education/best-global-universities/agh-university-of-science-technology-504859
+372,engineering,698,Pusan National University,South Korea,Busan,49.7,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+373,engineering,48,Universite de Paris,France,Paris,49.7,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+374,engineering,215,University of Ottawa,Canada,Ottawa,49.7,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+375,engineering,,Prince Mohammad Bin Fahd University,Saudi Arabia,Dhahran,49.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/prince-mohammad-bin-fahd-university-530183
+376,engineering,579,Waseda University,Japan,Tokyo,49.6,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+377,engineering,860,University of Patras,Greece,Rio Achaia,49.5,41.8,"29,393",https://www.usnews.com/education/best-global-universities/university-of-patras-503205
+378,engineering,394,National Tsing Hua University,Taiwan,Hsinchu,49.4,54.6,"13,030",https://www.usnews.com/education/best-global-universities/national-tsing-hua-university-501245
+379,engineering,573,University of Palermo,Italy,Palermo,49.3,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+380,engineering,676,University of Zaragoza,Spain,Zaragoza,49.1,46.3,"28,083",https://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343
+381,engineering,292,Vrije Universiteit Brussel,Belgium,Elsene,49.1,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+382,engineering,540,Ain Shams University,Egypt,Cairo,49,50,"146,668",https://www.usnews.com/education/best-global-universities/ain-shams-university-500744
+383,engineering,710,Assiut University,Egypt,Assiut,49,45.4,N/A,https://www.usnews.com/education/best-global-universities/assiut-university-513421
+384,engineering,70,Boston University,United States,Boston,49,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+385,engineering,693,Clemson University,United States,Clemson,49,45.9,N/A,https://www.usnews.com/education/best-global-universities/clemson-university-217882
+386,engineering,487,University of Hannover,Germany,Hannover,49,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-hannover-503676
+387,engineering,779,Michigan Technological University,United States,Houghton,48.9,43.7,N/A,https://www.usnews.com/education/best-global-universities/michigan-technological-university-171128
+388,engineering,558,University of Plymouth,United Kingdom,Plymouth,48.9,49.4,"16,180",https://www.usnews.com/education/best-global-universities/university-of-plymouth-500972
+389,engineering,540,Jinan University,China,Guangzhou,48.7,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+390,engineering,447,Mansoura University,Egypt,Mansoura,48.7,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+391,engineering,"1,066",Southwest University of Science & Technology - China,China,Mianyang,48.7,37.3,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-of-science-technology---china-529731
+392,engineering,152,University of Exeter,United Kingdom,Exeter,48.7,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+393,engineering,702,University of Rhode Island,United States,Kingston (U.S.),48.7,45.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-rhode-island-217484
+394,engineering,997,MINES ParisTech,France,Paris,48.6,38.8,N/A,https://www.usnews.com/education/best-global-universities/mines-paristech-528931
+395,engineering,"1,251",University Kashan,Iran,Kashan,48.6,33.3,N/A,https://www.usnews.com/education/best-global-universities/university-kashan-529415
+396,engineering,143,Autonomous University of Barcelona,Spain,Barcelona,48.5,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+397,engineering,879,Tomsk Polytechnic University,Russia,Tomsk,48.5,41.3,N/A,https://www.usnews.com/education/best-global-universities/tomsk-polytechnic-university-529158
+398,engineering,759,Tecnologico de Monterrey,Mexico,Monterrey,48.4,44.2,"49,696",https://www.usnews.com/education/best-global-universities/tecnologico-de-monterrey-529343
+399,engineering,300,University of Duisburg Essen,Germany,Essen,48.4,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+400,engineering,816,Graz University of Technology,Austria,Graz,48.3,42.6,N/A,https://www.usnews.com/education/best-global-universities/graz-university-of-technology-506184
+401,engineering,618,Nanjing Tech University,China,Nanjing,48.3,47.9,"38,866",https://www.usnews.com/education/best-global-universities/nanjing-tech-university-501774
+402,engineering,"1,106",Indian Institute of Technology (IIT) - Guwahati,India,Guwahati,48.2,36.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-guwahati-528994
+403,engineering,"1,042",Shahid Beheshti University,Iran,Tehran,48.2,37.8,"19,695",https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-502879
+404,engineering,400,Universidad de Chile,Chile,Santiago,48.2,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+405,engineering,673,University of California Merced,United States,Merced,48.2,46.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-merced-445188
+406,engineering,826,New Jersey Institute of Technology,United States,Newark,48.1,42.4,"9,757",https://www.usnews.com/education/best-global-universities/new-jersey-institute-of-technology-185828
+407,engineering,"1,072",Yangzhou University,China,Yangzhou,48.1,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+408,engineering,"1,218",Gdansk University of Technology,Poland,Gdansk,47.9,34,"14,312",https://www.usnews.com/education/best-global-universities/gdansk-university-of-technology-529186
+409,engineering,"1,167",National Taipei University of Technology,Taiwan,Taipei City,47.9,34.9,"9,873",https://www.usnews.com/education/best-global-universities/national-taipei-university-of-technology-529069
+410,engineering,573,Politecnico di Bari,Italy,Bari,47.9,49,N/A,https://www.usnews.com/education/best-global-universities/politecnico-di-bari-528918
+411,engineering,429,Universidade de Coimbra,Portugal,Coimbra,47.9,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+412,engineering,363,University of South Australia,Australia,Adelaide,47.9,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+413,engineering,"1,216",Xi'an University of Architecture & Technology,China,Xi'an,47.9,34.1,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-architecture-technology-529487
+414,engineering,997,Thapar Institute of Engineering & Technology,India,Patiala,47.8,38.8,N/A,https://www.usnews.com/education/best-global-universities/thapar-institute-of-engineering-technology-529291
+415,engineering,629,Hamad Bin Khalifa University-Qatar,Qatar,Doha,47.7,47.6,N/A,https://www.usnews.com/education/best-global-universities/hamad-bin-khalifa-university-qatar-510873
+416,engineering,759,Nanjing Forestry University,China,Nanjing,47.7,44.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-forestry-university-529506
+417,engineering,590,Northwest A&F University - China,China,Shaanxi,47.7,48.5,N/A,https://www.usnews.com/education/best-global-universities/northwest-af-university-china-503600
+418,engineering,421,University of Johannesburg,South Africa,Johannesburg,47.7,53.9,"29,167",https://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854
+419,engineering,167,University of Utah,United States,Salt Lake City,47.7,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+420,engineering,576,University of Texas at San Antonio (UTSA),United States,San Antonio,47.6,48.9,"27,187",https://www.usnews.com/education/best-global-universities/university-of-texas-at-san-antonio-utsa-229027
+421,engineering,119,University of Virginia,United States,Charlottesville,47.6,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+422,engineering,447,University of Oulu,Finland,Oulu,47.5,53.3,"10,134",https://www.usnews.com/education/best-global-universities/university-of-oulu-502651
+423,engineering,463,Swansea University,United Kingdom,Swansea,47.4,52.8,"17,745",https://www.usnews.com/education/best-global-universities/swansea-university-505583
+424,engineering,309,University of Connecticut,United States,Storrs,47.4,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+425,engineering,466,University of Basque Country,Spain,Leioa,47.3,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+426,engineering,821,Nanjing University of Posts & Telecommunications,China,Nanjing,47.2,42.5,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-posts-telecommunications-529215
+427,engineering,300,University of Rome Tor Vergata,Italy,Rome,47.2,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+428,engineering,"1,361",Anna University Chennai,India,Chennai,47.1,31,N/A,https://www.usnews.com/education/best-global-universities/anna-university-chennai-529021
+429,engineering,346,University of South Carolina Columbia,United States,Columbia,47.1,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+430,engineering,745,Nanchang University,China,Nanchang,47,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+431,engineering,702,Scuola Superiore Sant'Anna,Italy,Pisa,46.8,45.6,N/A,https://www.usnews.com/education/best-global-universities/scuola-superiore-santanna-529393
+432,engineering,295,University of Pavia,Italy,Pavia,46.8,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+433,engineering,333,Nagoya University,Japan,Nagoya,46.7,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+434,engineering,175,Tel Aviv University,Israel,Tel Aviv,46.7,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+435,engineering,"1,301",University of Baghdad,Iraq,Baghdad,46.7,32.2,"73,873",https://www.usnews.com/education/best-global-universities/university-of-baghdad-513204
+436,engineering,,Bangladesh University of Engineering & Technology (BUET),Bangladesh,Bentley,46.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/bangladesh-university-of-engineering-technology-buet-530184
+437,engineering,"1,151",Budapest University of Technology & Economics,Hungary,Budapest,46.6,35.4,N/A,https://www.usnews.com/education/best-global-universities/budapest-university-of-technology-economics-502324
+438,engineering,948,Near East University,Turkey,Nicosia,46.6,39.9,N/A,https://www.usnews.com/education/best-global-universities/near-east-university-529702
+439,engineering,215,Trinity College Dublin,Ireland,Dublin,46.6,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+440,engineering,426,York University - Canada,Canada,Toronto,46.5,53.8,"44,036",https://www.usnews.com/education/best-global-universities/york-university-canada-499962
+441,engineering,377,Bogazici University,Turkey,Istanbul,46.4,55.1,N/A,https://www.usnews.com/education/best-global-universities/bogazici-university-504066
+442,engineering,943,King Khalid University,Saudi Arabia,Abha,46.4,40,N/A,https://www.usnews.com/education/best-global-universities/king-khalid-university-529704
+443,engineering,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,46.4,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+444,engineering,459,University of Belgrade,Serbia,Belgrade,46.3,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+445,engineering,576,University of Kent,United Kingdom,Canterbury,46.3,48.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-kent-500018
+446,engineering,,University of Tun Hussein Onn Malaysia,Malaysia,Batu Pahat,46.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-tun-hussein-onn-malaysia-529797
+447,engineering,314,Dalhousie University,Canada,Halifax,46.2,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+448,engineering,468,Florida International University,United States,Miami,46.2,52.6,"35,590",https://www.usnews.com/education/best-global-universities/florida-international-university-133951
+449,engineering,127,Uppsala University,Sweden,Uppsala,46.2,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+450,engineering,432,Hokkaido University,Japan,Sapporo,46.1,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+451,engineering,750,Sultan Qaboos University,Oman,Muscat,46.1,44.4,N/A,https://www.usnews.com/education/best-global-universities/sultan-qaboos-university-507300
+452,engineering,385,Wayne State University,United States,Detroit,46.1,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+453,engineering,579,Auburn University,United States,Auburn,46,48.8,"27,512",https://www.usnews.com/education/best-global-universities/auburn-university-100858
+454,engineering,32,Washington University (WUSTL),United States,St. Louis,46,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+455,engineering,570,University of Luxembourg,Luxembourg,Esch-sur-Alzette,45.9,49.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-luxembourg-528945
+456,engineering,483,Nanjing Agricultural University,China,Nanjing,45.8,52,"28,184",https://www.usnews.com/education/best-global-universities/nanjing-agricultural-university-506399
+457,engineering,389,Louisiana State University,United States,Baton Rouge,45.7,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+458,engineering,564,Roma Tre University,Italy,Rome,45.7,49.2,"33,264",https://www.usnews.com/education/best-global-universities/roma-tre-university-504483
+459,engineering,"1,455",Shahrood University of Technology,Iran,Shahrood,45.7,28.7,N/A,https://www.usnews.com/education/best-global-universities/shahrood-university-of-technology-529465
+460,engineering,450,University of Ljubljana,Slovenia,Ljubljana,45.7,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+461,engineering,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,45.6,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+462,engineering,461,University of Oklahoma - Norman,United States,Norman,45.6,52.9,"26,450",https://www.usnews.com/education/best-global-universities/university-of-oklahoma-norman-207500
+463,engineering,928,Menofia University,Egypt,Shebin El Koum,45.5,40.3,N/A,https://www.usnews.com/education/best-global-universities/menofia-university-529235
+464,engineering,866,Universidade de Vigo,Spain,Vigo,45.5,41.7,"18,146",https://www.usnews.com/education/best-global-universities/universidade-de-vigo-505924
+465,engineering,750,Manchester Metropolitan University,United Kingdom,Manchester,45.4,44.4,"29,830",https://www.usnews.com/education/best-global-universities/manchester-metropolitan-university-528968
+466,engineering,702,Nanjing Normal University,China,Nanjing,45.4,45.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-normal-university-528982
+467,engineering,852,Universidad Carlos III de Madrid,Spain,Madrid,45.4,42,"18,133",https://www.usnews.com/education/best-global-universities/universidad-carlos-iii-de-madrid-500603
+468,engineering,745,University of Quebec Montreal,Canada,Montreal,45.3,44.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-quebec-montreal-504868
+469,engineering,"1,180",Kunming University of Science & Technology,China,Kunming,45.2,34.7,N/A,https://www.usnews.com/education/best-global-universities/kunming-university-of-science-technology-529089
+470,engineering,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,45.2,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+471,engineering,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),45.2,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+472,engineering,964,Wuhan University of Science & Technology,China,Wuhan,45.2,39.6,"32,312",https://www.usnews.com/education/best-global-universities/wuhan-university-of-science-technology-529350
+473,engineering,129,Brown University,United States,Providence,45.1,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+474,engineering,"1,002",Macau University of Science & Technology,Macau,Taipa,45.1,38.7,"11,993",https://www.usnews.com/education/best-global-universities/macau-university-of-science-technology-529500
+475,engineering,"1,443",Poznan University of Technology,Poland,Poznan,45.1,29.1,"14,502",https://www.usnews.com/education/best-global-universities/poznan-university-of-technology-529181
+476,engineering,698,Rensselaer Polytechnic Institute,United States,Troy,45.1,45.7,N/A,https://www.usnews.com/education/best-global-universities/rensselaer-polytechnic-institute-194824
+477,engineering,"1,116",Qingdao University of Technology,China,Qingdao,45,36.2,N/A,https://www.usnews.com/education/best-global-universities/qingdao-university-of-technology-529642
+478,engineering,"1,225",Stevens Institute of Technology,United States,Hoboken,45,33.8,"6,624",https://www.usnews.com/education/best-global-universities/stevens-institute-of-technology-186867
+479,engineering,300,University of Genoa,Italy,Genoa,45,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+480,engineering,372,University of Manitoba,Canada,Winnipeg,44.9,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+481,engineering,441,University of Saskatchewan,Canada,Saskatoon,44.9,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+482,engineering,,Dongbei University of Finance & Economics,China,Dalian,44.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/dongbei-university-of-finance-economics-530185
+483,engineering,"1,266",Prince Sattam Bin Abdulaziz University,Saudi Arabia,Al Kharj,44.8,32.9,N/A,https://www.usnews.com/education/best-global-universities/prince-sattam-bin-abdulaziz-university-530003
+484,engineering,429,Queens University - Canada,Canada,Kingston (Canada),44.8,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+485,engineering,"1,314",Centrale Lille,France,Villeneuve d'Ascq,44.6,31.9,N/A,https://www.usnews.com/education/best-global-universities/centrale-lille-529696
+486,engineering,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,44.6,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+487,engineering,717,Babes Bolyai University from Cluj,Romania,Cluj-Napoca,44.5,45.3,"39,811",https://www.usnews.com/education/best-global-universities/babes-bolyai-university-from-cluj-504529
+488,engineering,"1,184",Jadavpur University,India,Kolkata,44.5,34.6,N/A,https://www.usnews.com/education/best-global-universities/jadavpur-university-505474
+489,engineering,544,Jordan University of Science & Technology,Jordan,Irbid,44.5,49.9,N/A,https://www.usnews.com/education/best-global-universities/jordan-university-of-science-technology-511732
+490,engineering,917,Lehigh University,United States,Bethlehem,44.4,40.6,"6,459",https://www.usnews.com/education/best-global-universities/lehigh-university-213543
+491,engineering,487,Universidade Nova de Lisboa,Portugal,Lisbon,44.4,51.7,"20,996",https://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121
+492,engineering,782,University of Nevada Reno,United States,Reno,44.4,43.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-nevada-reno-182290
+493,engineering,276,Colorado State University,United States,Fort Collins,44.3,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+494,engineering,"1,060",Guangxi University,China,Nanning,44.3,37.4,N/A,https://www.usnews.com/education/best-global-universities/guangxi-university-529243
+495,engineering,86,University of Barcelona,Spain,Barcelona,44.2,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+496,engineering,856,Braunschweig University of Technology,Germany,Braunschweig,44,41.9,N/A,https://www.usnews.com/education/best-global-universities/braunschweig-university-of-technology-505131
+497,engineering,879,New York University Tandon School of Engineering,United States,Brooklyn,44,41.3,N/A,https://www.usnews.com/education/best-global-universities/new-york-university-tandon-school-of-engineering-529686
+498,engineering,953,Qufu Normal University,China,Qufu,44,39.8,N/A,https://www.usnews.com/education/best-global-universities/qufu-normal-university-529543
+499,engineering,"1,309",Wroclaw University of Science & Technology,Poland,Wroclaw,44,32,N/A,https://www.usnews.com/education/best-global-universities/wroclaw-university-of-science-technology-502904
+500,engineering,"1,155",Xi'an University of Science & Technology,China,Xi’an,44,35.2,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-science-technology-529798
+501,engineering,"1,581",Hebei University of Technology,China,Tianjin,43.9,26,N/A,https://www.usnews.com/education/best-global-universities/hebei-university-of-technology-529604
+502,engineering,,Malardalen University,Sweden,Västerås,43.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/malardalen-university-529796
+503,engineering,"1,350",Shiraz University of Technology,Iran,Shiraz,43.9,31.3,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-of-technology-529462
+504,engineering,920,Universite de Tunis-El-Manar,Tunisia,Tunis,43.9,40.5,"26,325",https://www.usnews.com/education/best-global-universities/universite-de-tunis-el-manar-529027
+505,engineering,,University of Engineering & Technology Taxila,Pakistan,Taxila,43.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-engineering-technology-taxila-529768
+506,engineering,866,University of Jordan,Jordan,Amman,43.9,41.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-jordan-512144
+507,engineering,397,Laval University,Canada,Quebec City,43.8,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+508,engineering,698,Memorial University Newfoundland,Canada,St. John's,43.8,45.7,N/A,https://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985
+509,engineering,"1,413",National Institute of Technology Tiruchirappalli,India,Tiruchirappalli,43.8,29.8,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-tiruchirappalli-529710
+510,engineering,352,University of Delaware,United States,Newark,43.8,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+511,engineering,"1,281",Xi'an University of Technology,China,Xi'an,43.8,32.6,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-technology-529477
+512,engineering,241,Florida State University,United States,Tallahassee,43.7,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+513,engineering,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,43.7,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+514,engineering,,Kermanshah University of Technology,Iran,Kermanshah,43.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/kermanshah-university-of-technology-530186
+515,engineering,"1,017",Universite de Sfax,Tunisia,Sfax,43.5,38.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-sfax-529029
+516,engineering,"1,158",University of Mohaghegh Ardabili,Iran,Ardabil,43.5,35.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-mohaghegh-ardabili-529803
+517,engineering,935,Wuhan Institute of Technology,China,Wuhan,43.5,40.1,"33,153",https://www.usnews.com/education/best-global-universities/wuhan-institute-of-technology-529516
+518,engineering,178,Aix-Marseille Universite,France,Marseille,43.4,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+519,engineering,"1,372",Arts et Metiers Institute of Technology,France,Paris,43.4,30.7,N/A,https://www.usnews.com/education/best-global-universities/arts-et-metiers-institute-of-technology-529697
+520,engineering,667,Hiroshima University,Japan,Hiroshima,43.4,46.5,"14,612",https://www.usnews.com/education/best-global-universities/hiroshima-university-502589
+521,engineering,461,University of Catania,Italy,Catania,43.3,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+522,engineering,889,Jeonbuk National University,South Korea,Jeonju,43.2,41.1,"21,782",https://www.usnews.com/education/best-global-universities/jeonbuk-national-university-503088
+523,engineering,178,University of Freiburg,Germany,Freiburg,43.2,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+524,engineering,"1,394",Lodz University of Technology,Poland,Lodz,43.1,30.2,"12,642",https://www.usnews.com/education/best-global-universities/lodz-university-of-technology-529225
+525,engineering,920,Mississippi State University,United States,Mississippi State,43.1,40.5,"22,035",https://www.usnews.com/education/best-global-universities/mississippi-state-university-176080
+526,engineering,472,Texas Tech University,United States,Lubbock,43.1,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+527,engineering,649,Zhejiang Normal University,China,Jinhua,43.1,47,"28,025",https://www.usnews.com/education/best-global-universities/zhejiang-normal-university-529076
+528,engineering,"1,080",Coventry University,United Kingdom,Coventry,43,37.1,"33,395",https://www.usnews.com/education/best-global-universities/coventry-university-529401
+529,engineering,745,Parthenope University Naples,Italy,Naples,43,44.5,N/A,https://www.usnews.com/education/best-global-universities/parthenope-university-naples-529142
+530,engineering,782,Shandong Normal University,China,Jinan,43,43.6,N/A,https://www.usnews.com/education/best-global-universities/shandong-normal-university-529300
+531,engineering,466,University of Canterbury,New Zealand,Christchurch,43,52.7,"15,245",https://www.usnews.com/education/best-global-universities/university-of-canterbury-504532
+532,engineering,676,University of North Carolina Charlotte,United States,Charlotte,42.9,46.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-carolina-charlotte-199139
+533,engineering,"1,476",Beijing University of Civil Engineering & Architecture,China,Beijing,42.8,28.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-civil-engineering-architecture-529765
+534,engineering,679,Koc University,Turkey,Istanbul,42.8,46.2,"5,882",https://www.usnews.com/education/best-global-universities/koc-university-528923
+535,engineering,497,Liverpool John Moores University,United Kingdom,Liverpool,42.8,51.4,N/A,https://www.usnews.com/education/best-global-universities/liverpool-john-moores-university-504028
+536,engineering,984,State University of New York (SUNY) Binghamton,United States,Binghamton,42.8,39.1,"18,852",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-binghamton-196079
+537,engineering,"1,049",National Sun Yat Sen University,Taiwan,Kaohsiung,42.7,37.6,"7,992",https://www.usnews.com/education/best-global-universities/national-sun-yat-sen-university-505080
+538,engineering,"1,446",Silesian University of Technology,Poland,Gliwice,42.7,29,N/A,https://www.usnews.com/education/best-global-universities/silesian-university-of-technology-529268
+539,engineering,814,Ulster University,United Kingdom,Coleraine,42.7,42.8,"19,680",https://www.usnews.com/education/best-global-universities/ulster-university-528872
+540,engineering,"1,452",Toronto Metropolitan University,Canada,Toronto,42.6,28.8,N/A,https://www.usnews.com/education/best-global-universities/toronto-metropolitan-university-499982
+541,engineering,"1,281",Universidade da Beira Interior,Portugal,Covilha,42.6,32.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-da-beira-interior-529266
+542,engineering,273,University of Tasmania,Australia,Hobart,42.6,59.5,"18,264",https://www.usnews.com/education/best-global-universities/university-of-tasmania-502985
+543,engineering,"1,254",Birla Institute of Technology & Science Pilani (BITS Pilani),India,Pilani,42.5,33.2,N/A,https://www.usnews.com/education/best-global-universities/birla-institute-of-technology-science-pilani-bits-pilani-528900
+544,engineering,"1,478",Semnan University,Iran,Semnan,42.5,28.2,N/A,https://www.usnews.com/education/best-global-universities/semnan-university-529459
+545,engineering,277,University of Aberdeen,United Kingdom,Aberdeen,42.5,59.3,"13,010",https://www.usnews.com/education/best-global-universities/university-of-aberdeen-501749
+546,engineering,"1,163",Hangzhou Dianzi University,China,Hangzhou,42.4,35,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-dianzi-university-529256
+547,engineering,"1,147",University of Jinan,China,Jinan,42.4,35.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-jinan-529252
+548,engineering,517,Keio University,Japan,Tokyo,42.3,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+549,engineering,684,University of Cagliari,Italy,Cagliari,42.3,46.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cagliari-506894
+550,engineering,889,University of Peshawar,Pakistan,Peshawar,42.3,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-peshawar-529479
+551,engineering,"1,489",Southwest Petroleum University,China,Chengdu,42.2,28,N/A,https://www.usnews.com/education/best-global-universities/southwest-petroleum-university-529461
+552,engineering,688,University of Calabria,Italy,Arcavacata di Rende,42.2,46,N/A,https://www.usnews.com/education/best-global-universities/university-of-calabria-505594
+553,engineering,452,University of Missouri Columbia,United States,Columbia,42.2,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+554,engineering,352,Drexel University,United States,Philadelphia,42,56,N/A,https://www.usnews.com/education/best-global-universities/drexel-university-212054
+555,engineering,"1,261",Universite de Monastir,Tunisia,Monastir,42,33,"19,203",https://www.usnews.com/education/best-global-universities/universite-de-monastir-529198
+556,engineering,"1,526",Universite de Technologie de Belfort-Montbeliard (UTBM),France,Belfort,42,27.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-technologie-de-belfort-montbeliard-utbm-529767
+557,engineering,"1,281",SRM Institute of Science & Technology Chennai,India,Chengalpattu,41.9,32.6,N/A,https://www.usnews.com/education/best-global-universities/srm-institute-of-science-technology-chennai-529816
+558,engineering,"1,338",Ecole de Technologie Superieure - Canada,Canada,Montreal,41.8,31.6,N/A,https://www.usnews.com/education/best-global-universities/ecole-de-technologie-superieure-canada-529339
+559,engineering,"1,327",National Institute of Technology Rourkela,India,Rourkela,41.8,31.7,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-rourkela-529700
+560,engineering,679,United Arab Emirates University,United Arab Emirates,Al-Ain,41.8,46.2,N/A,https://www.usnews.com/education/best-global-universities/united-arab-emirates-university-514827
+561,engineering,667,Kyungpook National University,South Korea,Daegu,41.7,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+562,engineering,"1,017",Tallinn University of Technology,Estonia,Tallinn,41.7,38.4,N/A,https://www.usnews.com/education/best-global-universities/tallinn-university-of-technology-529002
+563,engineering,432,University of Tsukuba,Japan,Tsukuba,41.7,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+564,engineering,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,41.6,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+565,engineering,"1,357",Taiyuan University of Technology,China,Taiyuan,41.6,31.1,N/A,https://www.usnews.com/education/best-global-universities/taiyuan-university-of-technology-529111
+566,engineering,180,University of Iowa,United States,Iowa City,41.6,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+567,engineering,943,Institut National Polytechnique de Toulouse,France,Toulouse,41.5,40,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-toulouse-505784
+568,engineering,208,University of Vienna,Austria,Vienna,41.5,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+569,engineering,662,Universidad Nacional de Colombia,Colombia,Bogota,41.4,46.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-nacional-de-colombia-505620
+570,engineering,789,Universidad Tecnica Federico Santa Maria,Chile,Valparaiso,41.4,43.4,N/A,https://www.usnews.com/education/best-global-universities/universidad-tecnica-federico-santa-maria-528919
+571,engineering,948,University of New Brunswick,Canada,Fredericton,41.4,39.9,"8,307",https://www.usnews.com/education/best-global-universities/university-of-new-brunswick-499973
+572,engineering,61,Humboldt University of Berlin,Germany,Berlin,41.3,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+573,engineering,250,University of Florence,Italy,Florence,41.2,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+574,engineering,943,Benha University,Egypt,Benha,41.1,40,N/A,https://www.usnews.com/education/best-global-universities/benha-university-514104
+575,engineering,"1,417",University of Engineering & Technology Lahore,Pakistan,Lahore,41.1,29.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-engineering-technology-lahore-529774
+576,engineering,280,University of York - UK,United Kingdom,York,41.1,59.2,"17,965",https://www.usnews.com/education/best-global-universities/university-of-york-uk-505776
+577,engineering,175,University of Sussex,United Kingdom,Brighton,41,64.2,"18,015",https://www.usnews.com/education/best-global-universities/university-of-sussex-503906
+578,engineering,78,Vanderbilt University,United States,Nashville,41,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+579,engineering,618,University of Messina,Italy,Messina,40.9,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-messina-500522
+580,engineering,"1,116",Vietnam National University Hochiminh City,Vietnam,Ho Chi Minh City,40.9,36.2,N/A,https://www.usnews.com/education/best-global-universities/vietnam-national-university-hochiminh-city-529532
+581,engineering,"1,167",Firat University,Turkey,Elazig,40.7,34.9,N/A,https://www.usnews.com/education/best-global-universities/firat-university-528830
+582,engineering,"1,180",Wenzhou University,China,Wenzhou,40.7,34.7,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-university-529301
+583,engineering,"1,317",Aswan University,Egypt,Sahara City,40.6,31.8,N/A,https://www.usnews.com/education/best-global-universities/aswan-university-508412
+584,engineering,"1,376",Dongguan University of Technology,China,Dongguan,40.6,30.6,N/A,https://www.usnews.com/education/best-global-universities/dongguan-university-of-technology-529804
+585,engineering,"1,291",Indian Institute of Technology (IIT BHU) - Varanasi,India,Varanasi,40.6,32.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bhu-varanasi-529539
+586,engineering,662,Marche Polytechnic University,Italy,Ancona,40.6,46.6,N/A,https://www.usnews.com/education/best-global-universities/marche-polytechnic-university-503536
+587,engineering,"1,243",Shanghai University of Electric Power,China,Shanghai,40.6,33.5,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-electric-power-529644
+588,engineering,"1,080",Universidade Federal de Santa Maria (UFSM),Brazil,Santa Maria,40.6,37.1,"27,242",https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-maria-ufsm-500881
+589,engineering,333,University of Reading,United Kingdom,Reading,40.6,56.8,"16,195",https://www.usnews.com/education/best-global-universities/university-of-reading-504198
+590,engineering,,University Teknikal Malaysia Melaka,Malaysia,Durian Tunggal,40.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-teknikal-malaysia-melaka-529808
+591,engineering,732,Southern Methodist University,United States,Dallas,40.5,44.9,N/A,https://www.usnews.com/education/best-global-universities/southern-methodist-university-228246
+592,engineering,"1,027",University of West England,United Kingdom,Bristol,40.5,38.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-west-england-529164
+593,engineering,495,Edith Cowan University,Australia,Joondalup,40.4,51.5,"18,759",https://www.usnews.com/education/best-global-universities/edith-cowan-university-528941
+594,engineering,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),40.4,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+595,engineering,346,Ruhr University Bochum,Germany,Bochum,40.4,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+596,engineering,"1,002",Tshwane University of Technology,South Africa,Pretoria,40.4,38.7,N/A,https://www.usnews.com/education/best-global-universities/tshwane-university-of-technology-529469
+597,engineering,99,University of Helsinki,Finland,Helsinki,40.2,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+598,engineering,370,University of Kwazulu Natal,South Africa,Durban,40.2,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+599,engineering,787,Aligarh Muslim University,India,Aligarh,40.1,43.5,N/A,https://www.usnews.com/education/best-global-universities/aligarh-muslim-university-528840
+600,engineering,"1,172",Hamburg University of Technology,Germany,Hamburg,40.1,34.8,N/A,https://www.usnews.com/education/best-global-universities/hamburg-university-of-technology-529340
+601,engineering,953,Sabanci University,Turkey,Tuzla,40.1,39.8,"3,819",https://www.usnews.com/education/best-global-universities/sabanci-university-529533
+602,engineering,943,Taibah University,Saudi Arabia,Medina,40.1,40,N/A,https://www.usnews.com/education/best-global-universities/taibah-university-512768
+603,engineering,966,Gwangju Institute of Science & Technology (GIST),South Korea,Gwangju,40,39.5,"1,808",https://www.usnews.com/education/best-global-universities/gwangju-institute-of-science-technology-gist-506847
+604,engineering,643,University of Cyprus,Cyprus,Nicosia,40,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cyprus-528848
+605,engineering,"1,498",Vilnius Gediminas Technical University,Lithuania,Vilnius,40,27.8,N/A,https://www.usnews.com/education/best-global-universities/vilnius-gediminas-technical-university-529345
+606,engineering,844,Chonnam National University,South Korea,Gwangju,39.9,42.2,"24,436",https://www.usnews.com/education/best-global-universities/chonnam-national-university-503755
+607,engineering,684,Ihsan Dogramaci Bilkent University,Turkey,Ankara,39.9,46.1,"9,682",https://www.usnews.com/education/best-global-universities/ihsan-dogramaci-bilkent-university-506575
+608,engineering,156,University of Milan,Italy,Milan,39.9,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+609,engineering,611,Alexandria University,Egypt,Alexandria,39.8,48.1,N/A,https://www.usnews.com/education/best-global-universities/alexandria-university-509708
+610,engineering,512,University of Alabama Tuscaloosa,United States,Tuscaloosa,39.8,50.7,"44,133",https://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751
+611,engineering,732,University of Hull,United Kingdom,Hull,39.8,44.9,"12,725",https://www.usnews.com/education/best-global-universities/university-of-hull-505254
+612,engineering,356,University of Kentucky,United States,Lexington,39.7,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+613,engineering,385,University of Perugia,Italy,Perugia,39.7,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+614,engineering,"1,261",De Montfort University,United Kingdom,Leicester,39.6,33,N/A,https://www.usnews.com/education/best-global-universities/de-montfort-university-529563
+615,engineering,"1,042",Fujian Normal University,China,Fuzhou,39.6,37.8,N/A,https://www.usnews.com/education/best-global-universities/fujian-normal-university-529517
+616,engineering,"1,617",National Yunlin University Science & Technology,Taiwan,Yunlin,39.6,25.1,"9,135",https://www.usnews.com/education/best-global-universities/national-yunlin-university-science-technology-529818
+617,engineering,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,39.6,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+618,engineering,497,University of Guelph,Canada,Guelph,39.6,51.4,"22,763",https://www.usnews.com/education/best-global-universities/university-of-guelph-499974
+619,engineering,,Bauhaus-Universitat Weimar,Germany,Weimar,39.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/bauhaus-universitat-weimar-530187
+620,engineering,,"University of Technology, Iraq",Iraq,Baghdad,39.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-iraq-510905
+621,engineering,"1,428",Urmia University,Iran,Urmia,39.5,29.4,N/A,https://www.usnews.com/education/best-global-universities/urmia-university-529525
+622,engineering,633,Oklahoma State University - Stillwater,United States,Stillwater,39.4,47.3,"21,250",https://www.usnews.com/education/best-global-universities/oklahoma-state-university-stillwater-207388
+623,engineering,801,Otto von Guericke University,Germany,Magdeburg,39.4,43.2,N/A,https://www.usnews.com/education/best-global-universities/otto-von-guericke-university-528861
+624,engineering,360,University of Liege,Belgium,Liege,39.4,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+625,engineering,472,American University of Beirut,Lebanon,Beirut,39.3,52.4,"9,267",https://www.usnews.com/education/best-global-universities/american-university-of-beirut-499994
+626,engineering,"1,225",Gazi University,Turkey,Ankara,39.2,33.8,"41,372",https://www.usnews.com/education/best-global-universities/gazi-university-506852
+627,engineering,"1,275",Nazarbayev University,Kazakhstan,Nur-Sultan,39.2,32.7,N/A,https://www.usnews.com/education/best-global-universities/nazarbayev-university-529806
+628,engineering,"1,327",Tiangong University,China,Tianjin,39.2,31.7,N/A,https://www.usnews.com/education/best-global-universities/tiangong-university-529130
+629,engineering,"1,049",Universitetet i Stavanger,Norway,Stavanger,39.2,37.6,N/A,https://www.usnews.com/education/best-global-universities/universitetet-i-stavanger-529549
+630,engineering,531,University of Bremen,Germany,Bremen,39.2,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+631,engineering,789,University of Sherbrooke,Canada,Sherbrooke,39.2,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-sherbrooke-506839
+632,engineering,970,Henan University,China,Kaifeng,39.1,39.4,N/A,https://www.usnews.com/education/best-global-universities/henan-university-529507
+633,engineering,"1,473",Jiangxi University of Science & Technology,China,Jiangxi,39.1,28.4,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-university-of-science-technology-529889
+634,engineering,355,Lomonosov Moscow State University,Russia,Moscow (Russia),39.1,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+635,engineering,702,South China Agricultural University,China,Guangzhou,39.1,45.6,N/A,https://www.usnews.com/education/best-global-universities/south-china-agricultural-university-529032
+636,engineering,907,Universite Gustave-Eiffel,France,Marne-la-Vallée,39,40.8,N/A,https://www.usnews.com/education/best-global-universities/universite-gustave-eiffel-529800
+637,engineering,970,Vietnam National University Hanoi,Vietnam,Hanoi,39,39.4,N/A,https://www.usnews.com/education/best-global-universities/vietnam-national-university-hanoi-529331
+638,engineering,"1,684",Nanchang Hangkong University,China,Nanchang,38.9,23.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-hangkong-university-529611
+639,engineering,"1,121",University of Windsor,Canada,Windsor,38.9,36.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-windsor-499964
+640,engineering,"1,140",Jiangsu University of Science & Technology,China,Zhenjiang,38.8,35.6,N/A,https://www.usnews.com/education/best-global-universities/jiangsu-university-of-science-technology-529475
+641,engineering,,Polytechnic University of Timisoara,Romania,Timisoara,38.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-timisoara-529464
+642,engineering,"1,465",Universite Polytechnique Hauts-de-France,France,Valenciennes,38.8,28.5,N/A,https://www.usnews.com/education/best-global-universities/universite-polytechnique-hauts-de-france-529196
+643,engineering,304,Stellenbosch University,South Africa,Stellenbosch,38.7,58.1,"24,907",https://www.usnews.com/education/best-global-universities/stellenbosch-university-500980
+644,engineering,526,University of Brescia,Italy,Brescia,38.7,50.3,"15,134",https://www.usnews.com/education/best-global-universities/university-of-brescia-502286
+645,engineering,"1,422",Huaqiao University,China,Xiamen,38.6,29.6,N/A,https://www.usnews.com/education/best-global-universities/huaqiao-university-529488
+646,engineering,"1,570",Shahid Chamran University of Ahvaz,Iran,Ahvaz,38.6,26.2,N/A,https://www.usnews.com/education/best-global-universities/shahid-chamran-university-of-ahvaz-529810
+647,engineering,280,University of Kiel,Germany,Kiel,38.6,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+648,engineering,"1,473",Xinjiang University,China,Xinjiang,38.6,28.4,N/A,https://www.usnews.com/education/best-global-universities/xinjiang-university-529284
+649,engineering,"1,372",Chongqing Technology & Business University,China,Chongqing,38.5,30.7,N/A,https://www.usnews.com/education/best-global-universities/chongqing-technology-business-university-529956
+650,engineering,"1,514",Karadeniz Technical University,Turkey,Ortahisar,38.5,27.5,N/A,https://www.usnews.com/education/best-global-universities/karadeniz-technical-university-529187
+651,engineering,277,Durham University,United Kingdom,Durham (U.K.),38.4,59.3,"18,715",https://www.usnews.com/education/best-global-universities/durham-university-501717
+652,engineering,478,George Mason University,United States,Fairfax,38.3,52.2,"32,140",https://www.usnews.com/education/best-global-universities/george-mason-university-232186
+653,engineering,"1,372",Hubei University of Technology,China,Wuhan,38.3,30.7,N/A,https://www.usnews.com/education/best-global-universities/hubei-university-of-technology-529727
+654,engineering,487,North West University - South Africa,South Africa,Potchefstroom,38.3,51.7,N/A,https://www.usnews.com/education/best-global-universities/north-west-university-south-africa-528970
+655,engineering,"1,225",Shantou University,China,Shantou,38.3,33.8,N/A,https://www.usnews.com/education/best-global-universities/shantou-university-529179
+656,engineering,372,Auckland University of Technology,New Zealand,Auckland,38.2,55.2,"18,837",https://www.usnews.com/education/best-global-universities/auckland-university-of-technology-528944
+657,engineering,"1,506",Indian Institute of Technology (Indian School of Mines) Dhanbad,India,Dhanbad,38.2,27.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-indian-school-of-mines-dhanbad-529410
+658,engineering,816,Universidade Federal do Parana,Brazil,Curitiba,38.2,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-parana-503933
+659,engineering,"1,535",Anhui University of Technology,China,Ma'anshan,38.1,27,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-of-technology-529084
+660,engineering,875,Indian Institute of Technology (IIT) - Hyderabad,India,Teangana,38.1,41.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-hyderabad-529636
+661,engineering,"1,216",Universite de Carthage,Tunisia,Tunis,38.1,34.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-carthage-529240
+662,engineering,"1,239",Xi'an Jiaotong-Liverpool University,China,Suzhou,38.1,33.6,N/A,https://www.usnews.com/education/best-global-universities/xian-jiaotong-liverpool-university-529807
+663,engineering,"1,013",Universidad de Castilla-La Mancha,Spain,Real,38,38.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-castilla-la-mancha-505673
+664,engineering,"1,106",Universitat de Lleida,Spain,Lleida,37.9,36.4,N/A,https://www.usnews.com/education/best-global-universities/universitat-de-lleida-504927
+665,engineering,935,University of Regina,Canada,Regina,37.9,40.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-regina-499970
+666,engineering,590,Ben Gurion University,Israel,Beer-Sheva,37.8,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+667,engineering,"1,399",Chongqing University of Posts & Telecommunications,China,Chongqing,37.7,30.1,N/A,https://www.usnews.com/education/best-global-universities/chongqing-university-of-posts-telecommunications-529515
+668,engineering,"1,116",Hunan University of Science & Technology,China,Xiangtan,37.7,36.2,N/A,https://www.usnews.com/education/best-global-universities/hunan-university-of-science-technology-529481
+669,engineering,"1,266",Universidad Publica de Navarra,Spain,Pamplona,37.7,32.9,N/A,https://www.usnews.com/education/best-global-universities/universidad-publica-de-navarra-529169
+670,engineering,537,West Virginia University,United States,Morgantown,37.7,50.1,N/A,https://www.usnews.com/education/best-global-universities/west-virginia-university-238032
+671,engineering,173,Cankaya University,Turkey,Ankara,37.6,64.6,N/A,https://www.usnews.com/education/best-global-universities/cankaya-university-529758
+672,engineering,"1,303",Guizhou University,China,Guiyang,37.6,32.1,N/A,https://www.usnews.com/education/best-global-universities/guizhou-university-529303
+673,engineering,"1,233",National Chung Hsing University,Taiwan,Taichung,37.6,33.7,"15,150",https://www.usnews.com/education/best-global-universities/national-chung-hsing-university-506137
+674,engineering,835,Ecole des Ponts ParisTech,France,Marne-la-Vallee,37.5,42.3,N/A,https://www.usnews.com/education/best-global-universities/ecole-des-ponts-paristech-529342
+675,engineering,"1,140",Indian Institute of Technology (IIT) - Indore,India,Indore,37.5,35.6,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-indore-529453
+676,engineering,"1,407",Yanshan University,China,Qinhuangdao,37.5,29.9,"38,649",https://www.usnews.com/education/best-global-universities/yanshan-university-529086
+677,engineering,"1,478",Liaocheng University,China,Liaocheng,37.4,28.2,N/A,https://www.usnews.com/education/best-global-universities/liaocheng-university-529802
+678,engineering,"1,218",Tianjin University of Technology,China,Tianjin,37.4,34,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-of-technology-529674
+679,engineering,277,Universite de Strasbourg,France,Strasbourg,37.4,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+680,engineering,"1,136",University of Massachusetts Lowell,United States,Lowell,37.4,35.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-lowell-166513
+681,engineering,"1,465",Central South University of Forestry & Technology,China,Changsha,37.3,28.5,N/A,https://www.usnews.com/education/best-global-universities/central-south-university-of-forestry-technology-529997
+682,engineering,856,Jamia Millia Islamia,India,New Delhi,37.3,41.9,"10,481",https://www.usnews.com/education/best-global-universities/jamia-millia-islamia-529538
+683,engineering,"1,022",Jiangsu Normal University,China,Xuzhou,37.3,38.3,"23,978",https://www.usnews.com/education/best-global-universities/jiangsu-normal-university-529282
+684,engineering,223,University of Antwerp,Belgium,Antwerp,37.3,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+685,engineering,"1,036",Chung Ang University,South Korea,Seoul,37.2,38,N/A,https://www.usnews.com/education/best-global-universities/chung-ang-university-500565
+686,engineering,"1,431",Kyushu Institute of Technology,Japan,Fukuoka,37.2,29.3,N/A,https://www.usnews.com/education/best-global-universities/kyushu-institute-of-technology-529222
+687,engineering,896,Universidade Federal de Sao Carlos,Brazil,Sao Carlos,37.2,41,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-carlos-505014
+688,engineering,"1,225",University of L'Aquila,Italy,L'Aquila,37.2,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-laquila-528961
+689,engineering,304,La Trobe University,Australia,Melbourne (Australia),37.1,58.1,"21,663",https://www.usnews.com/education/best-global-universities/la-trobe-university-501305
+690,engineering,"1,535",Majmaah University,Saudi Arabia,Al Majma'ah,37.1,27,N/A,https://www.usnews.com/education/best-global-universities/majmaah-university-513835
+691,engineering,"1,008",Polytechnic University of Bucharest,Romania,Bucharest,37.1,38.6,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-bucharest-506097
+692,engineering,"1,317",Ningbo University,China,Ningbo,37,31.8,N/A,https://www.usnews.com/education/best-global-universities/ningbo-university-529272
+693,engineering,"1,514","Shanmugha Arts, Science, Technology & Research Academy (SASTRA)",India,Thanjavur,37,27.5,N/A,https://www.usnews.com/education/best-global-universities/shanmugha-arts-science-technology-research-academy-sastra-529523
+694,engineering,554,Universita della Campania Vanvitelli,Italy,Caserta,37,49.5,N/A,https://www.usnews.com/education/best-global-universities/universita-della-campania-vanvitelli-529545
+695,engineering,"1,422",University of Guilan,Iran,Rasht,37,29.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-guilan-529421
+696,engineering,149,University of Hamburg,Germany,Hamburg,37,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+697,engineering,304,University of Kansas,United States,Lawrence,37,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+698,engineering,679,University of North Texas Denton,United States,Denton,37,46.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-texas-denton-227216
+699,engineering,"1,163",Anhui University,China,Hefei,36.9,35,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-529110
+700,engineering,889,City University London,United Kingdom,London (U.K.),36.9,41.1,N/A,https://www.usnews.com/education/best-global-universities/city-university-london-503692
+701,engineering,"1,478",Shahid Bahonar University of Kerman (SBUK),Iran,Kerman,36.9,28.2,N/A,https://www.usnews.com/education/best-global-universities/shahid-bahonar-university-of-kerman-sbuk-529425
+702,engineering,317,Simon Fraser University,Canada,Burnaby,36.9,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+703,engineering,633,University of Essex,United Kingdom,Colchester,36.9,47.3,"15,075",https://www.usnews.com/education/best-global-universities/university-of-essex-502672
+704,engineering,"1,498",University of Kurdistan,Iran,Sanandaj,36.9,27.8,"12,258",https://www.usnews.com/education/best-global-universities/university-of-kurdistan-529983
+705,engineering,"1,726",National Institute of Technology Warangal,India,Warangal,36.8,22.3,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-warangal-529770
+706,engineering,520,Renmin University of China,China,Beijing,36.8,50.5,N/A,https://www.usnews.com/education/best-global-universities/renmin-university-of-china-528921
+707,engineering,717,Southwestern University of Finance & Economics - China,China,Chengdu,36.8,45.3,N/A,https://www.usnews.com/education/best-global-universities/southwestern-university-of-finance-economics---china-529633
+708,engineering,,Technical University of Crete,Greece,Akrotiri,36.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/technical-university-of-crete-529336
+709,engineering,239,Tufts University,United States,Medford,36.8,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+710,engineering,920,University of Idaho,United States,Moscow (U.S.),36.8,40.5,"9,263",https://www.usnews.com/education/best-global-universities/university-of-idaho-142285
+711,engineering,,Egypt-Japan University of Science & Technology,Egypt,Alexandria,36.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/egypt-japan-university-of-science-technology-530188
+712,engineering,"1,818",National Institute of Technology Silchar,India,Silchar,36.7,19.1,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-silchar-529775
+713,engineering,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,36.7,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+714,engineering,561,Universita di Modena e Reggio Emilia,Italy,Modena,36.6,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+715,engineering,217,University of Leicester,United Kingdom,Leicester,36.6,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+716,engineering,"1,570",Hanoi University of Science & Technology,Vietnam,Hanoi,36.5,26.2,N/A,https://www.usnews.com/education/best-global-universities/hanoi-university-of-science-technology-529712
+717,engineering,231,Autonomous University of Madrid,Spain,Madrid,36.4,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+718,engineering,"1,520",Incheon National University,South Korea,Yeonsu-gu,36.4,27.3,N/A,https://www.usnews.com/education/best-global-universities/incheon-national-university-529412
+719,engineering,826,National Central University,Taiwan,Jhongli City,36.4,42.4,"10,853",https://www.usnews.com/education/best-global-universities/national-central-university-504757
+720,engineering,"1,354",Pontificia Universidade Catolica do Parana,Brazil,Curitiba,36.4,31.2,N/A,https://www.usnews.com/education/best-global-universities/pontificia-universidade-catolica-do-parana-529597
+721,engineering,501,University of Parma,Italy,Parma,36.4,51.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-parma-501495
+722,engineering,531,University of Santiago De Compostela,Spain,Santiago de Compostela,36.4,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+723,engineering,812,University of Seoul,South Korea,Seoul,36.4,42.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-seoul-528845
+724,engineering,337,Complutense University of Madrid,Spain,Madrid,36.3,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+725,engineering,866,Universidad de Malaga,Spain,Malaga,36.3,41.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-malaga-503965
+726,engineering,948,Beijing Forestry University,China,Beijing,36.2,39.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-forestry-university-528815
+727,engineering,,Liaoning University of Technology,China,Jinzhou,36.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/liaoning-university-of-technology-529801
+728,engineering,"1,066",Polytechnic Institute of Porto,Portugal,Porto,36.2,37.3,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-institute-of-porto-529555
+729,engineering,782,Eastern Mediterranean University,Turkey,Famagusta,36.1,43.6,N/A,https://www.usnews.com/education/best-global-universities/eastern-mediterranean-university-529692
+730,engineering,290,Universite de Bordeaux,France,Talence,36,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+731,engineering,397,University College Cork,Ireland,Cork,35.9,54.5,"18,073",https://www.usnews.com/education/best-global-universities/university-college-cork-502427
+732,engineering,"1,049",University of Maribor,Slovenia,Maribor,35.9,37.6,"12,403",https://www.usnews.com/education/best-global-universities/university-of-maribor-528882
+733,engineering,501,Huazhong Agricultural University,China,Wuhan,35.8,51.2,N/A,https://www.usnews.com/education/best-global-universities/huazhong-agricultural-university-503034
+734,engineering,"1,735",Lublin University of Technology,Poland,Lublin,35.8,22,N/A,https://www.usnews.com/education/best-global-universities/lublin-university-of-technology-529771
+735,engineering,,North China University of Technology,China,Beijing,35.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/north-china-university-of-technology-529799
+736,engineering,311,University of New Mexico,United States,Albuquerque,35.8,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+737,engineering,789,University of Split,Croatia,Split,35.8,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-split-528851
+738,engineering,"1,309",Henan Polytechnic University,China,Jiaozuo,35.7,32,N/A,https://www.usnews.com/education/best-global-universities/henan-polytechnic-university-529521
+739,engineering,"1,647",Lovely Professional University,India,Phagwara,35.7,24.5,N/A,https://www.usnews.com/education/best-global-universities/lovely-professional-university-530057
+740,engineering,"1,465",Shaanxi University of Science & Technology,China,Xi'an,35.7,28.5,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-university-of-science-technology-529882
+741,engineering,625,Universitat Rovira i Virgili,Spain,Tarragona,35.7,47.7,"12,975",https://www.usnews.com/education/best-global-universities/universitat-rovira-i-virgili-506486
+742,engineering,710,University of Ulsan,South Korea,Ulsan,35.7,45.4,"12,415",https://www.usnews.com/education/best-global-universities/university-of-ulsan-500178
+743,engineering,"1,317",University of Yazd,Iran,Yazd,35.7,31.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-yazd-529540
+744,engineering,"1,425",Asia University Taiwan,Taiwan,Taichung City,35.6,29.5,"11,421",https://www.usnews.com/education/best-global-universities/asia-university-taiwan-529037
+745,engineering,"1,243",Zhejiang Gongshang University,China,Xiasha University Town,35.6,33.5,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-gongshang-university-529420
+746,engineering,871,University of Nevada Las Vegas,United States,Las Vegas,35.5,41.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-nevada-las-vegas-182281
+747,engineering,,Opole University of Technology,Poland,Opole,35.4,N/A,N/A,https://www.usnews.com/education/best-global-universities/opole-university-of-technology-530189
+748,engineering,"1,473",University of Isfahan,Iran,Isfahan,35.4,28.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-isfahan-529204
+749,engineering,"1,522",Sahand University of Technology,Iran,Tabriz,35.3,27.2,N/A,https://www.usnews.com/education/best-global-universities/sahand-university-of-technology-529513
+750,engineering,416,University of Trieste,Italy,Trieste,35.3,54,"16,677",https://www.usnews.com/education/best-global-universities/university-of-trieste-500914
+751,engineering,615,Dortmund University of Technology,Germany,Dortmund,35.2,48,N/A,https://www.usnews.com/education/best-global-universities/dortmund-university-of-technology-504395
+752,engineering,"1,327",Fahrenheit Universities,Poland,Gdańsk,35.2,31.7,N/A,https://www.usnews.com/education/best-global-universities/fahrenheit-universities-530044
+753,engineering,930,Fujian Agriculture & Forestry University,China,Fuzhou,35.2,40.2,N/A,https://www.usnews.com/education/best-global-universities/fujian-agriculture-forestry-university-529097
+754,engineering,"1,832",Northeast Electric Power University,China,Jilin City,35.2,18.6,N/A,https://www.usnews.com/education/best-global-universities/northeast-electric-power-university-529809
+755,engineering,"1,564",Technical University of Cluj Napoca,Romania,Cluj-Napoca,35.2,26.4,"18,650",https://www.usnews.com/education/best-global-universities/technical-university-of-cluj-napoca-529805
+756,engineering,"1,266",University of Bradford,United Kingdom,Bradford,35.2,32.9,"8,415",https://www.usnews.com/education/best-global-universities/university-of-bradford-528905
+757,engineering,730,University of Salento,Italy,Lecce,35.2,45,"13,608",https://www.usnews.com/education/best-global-universities/university-of-salento-528853
+758,engineering,"1,132",University of Novi Sad,Serbia,Novi Sad,35.1,35.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-novi-sad-529165
+759,engineering,722,University of Oviedo,Spain,Oviedo,35.1,45.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oviedo-503830
+760,engineering,722,Utah State University,United States,Logan,35.1,45.2,N/A,https://www.usnews.com/education/best-global-universities/utah-state-university-230728
+761,engineering,554,Hacettepe University,Turkey,Ankara,34.9,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+762,engineering,493,Universite de Rennes 1,France,Rennes,34.9,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+763,engineering,"1,417",Nantong University,China,Nantong,34.7,29.7,N/A,https://www.usnews.com/education/best-global-universities/nantong-university-529473
+764,engineering,226,Universite Libre de Bruxelles,Belgium,Brussels,34.7,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+765,engineering,42,University of Copenhagen,Denmark,Copenhagen,34.7,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+766,engineering,244,University of Witwatersrand,South Africa,Johannesburg,34.7,60.8,"26,871",https://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909
+767,engineering,"1,190",Prince of Songkla University,Thailand,Songkhla,34.6,34.5,"32,779",https://www.usnews.com/education/best-global-universities/prince-of-songkla-university-529017
+768,engineering,901,Shaanxi Normal University,China,Xi'an,34.5,40.9,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-normal-university-529190
+769,engineering,"1,167",Umm Al Qura University,Saudi Arabia,Makkah,34.5,34.9,N/A,https://www.usnews.com/education/best-global-universities/umm-al-qura-university-510156
+770,engineering,170,University of Rochester,United States,Rochester,34.5,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+771,engineering,"1,489",Erciyes University,Turkey,Kayseri,34.4,28,"50,212",https://www.usnews.com/education/best-global-universities/erciyes-university-503419
+772,engineering,,Prince Sultan University,Jordan,Columbia,34.4,N/A,N/A,https://www.usnews.com/education/best-global-universities/prince-sultan-university-508025
+773,engineering,"1,585",Shanghai University of Engineering Science,China,Shanghai,34.4,25.9,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-engineering-science-529812
+774,engineering,"1,132",Xiangtan University,China,Xiangtan,34.4,35.8,N/A,https://www.usnews.com/education/best-global-universities/xiangtan-university-529020
+775,engineering,"1,455",Clarkson University,United States,Potsdam (U.S.),34.2,28.7,N/A,https://www.usnews.com/education/best-global-universities/clarkson-university-190044
+776,engineering,"1,694",Cracow University of Technology,Poland,Krakow,34.2,23.1,"13,339",https://www.usnews.com/education/best-global-universities/cracow-university-of-technology-529570
+777,engineering,917,Dublin City University,Ireland,Dublin,34.2,40.6,"13,956",https://www.usnews.com/education/best-global-universities/dublin-city-university-528873
+778,engineering,"1,805",National Institute of Technology Durgapur,India,West Bengal,34.2,19.8,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-durgapur-529772
+779,engineering,,Obuda University,Hungary,Budapest,34.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/obuda-university-530190
+780,engineering,"1,222",Khon Kaen University,Thailand,Khon Kaen,34.1,33.9,"32,857",https://www.usnews.com/education/best-global-universities/khon-kaen-university-529024
+781,engineering,512,Central China Normal University,China,Wuhan,34,50.7,N/A,https://www.usnews.com/education/best-global-universities/central-china-normal-university-501632
+782,engineering,770,South China Normal University,China,Guangzhou,34,43.9,N/A,https://www.usnews.com/education/best-global-universities/south-china-normal-university-501607
+783,engineering,901,Universidade Federal de Pernambuco,Brazil,Recife,33.9,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pernambuco-506633
+784,engineering,517,Tehran University of Medical Sciences,Iran,Tehran,33.8,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+785,engineering,"1,095",Instituto Politecnico Nacional - Mexico,Mexico,Mexico City,33.7,36.7,N/A,https://www.usnews.com/education/best-global-universities/instituto-politecnico-nacional-mexico-506818
+786,engineering,"1,694",National Institute of Technology Karnataka,India,Mangalore,33.7,23.1,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-karnataka-529773
+787,engineering,"1,446",Qilu University of Technology,China,Jinan,33.6,29,N/A,https://www.usnews.com/education/best-global-universities/qilu-university-of-technology-529482
+788,engineering,611,Universidad de Cantabria,Spain,Santander,33.6,48.1,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cantabria-501803
+789,engineering,"1,147",Universidad de Jaen,Spain,Jaen,33.6,35.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-jaen-529044
+790,engineering,537,Universite Clermont Auvergne (UCA),France,Clermont-Ferrand,33.6,50.1,N/A,https://www.usnews.com/education/best-global-universities/universite-clermont-auvergne-uca-529156
+791,engineering,"1,498",Razi University,Iran,Taq-e Bostan,33.5,27.8,N/A,https://www.usnews.com/education/best-global-universities/razi-university-529417
+792,engineering,"1,354",Zhejiang Sci-Tech University,China,Hangzhou,33.5,31.2,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-sci-tech-university-529088
+793,engineering,65,Erasmus University Rotterdam,Netherlands,Rotterdam,33.4,73.4,N/A,https://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349
+794,engineering,"1,106",Universidade da Coruna,Spain,Coruna,33.4,36.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-da-coruna-529162
+795,engineering,920,Universite de Poitiers,France,Poitiers,33.4,40.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-poitiers-501414
+796,engineering,209,University of Turin,Italy,Turin,33.4,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+797,engineering,"1,631",Guilin University of Electronic Technology,China,Guilin,33.3,24.7,N/A,https://www.usnews.com/education/best-global-universities/guilin-university-of-electronic-technology-529505
+798,engineering,372,Syracuse University,United States,Syracuse,33.2,55.2,"20,620",https://www.usnews.com/education/best-global-universities/syracuse-university-196413
+799,engineering,125,University of Cape Town,South Africa,Cape Town,33.2,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+800,engineering,907,New Mexico State University,United States,Las Cruces,33.1,40.8,"12,285",https://www.usnews.com/education/best-global-universities/new-mexico-state-university-188030
+801,engineering,759,Panjab University,India,Chandigarh,33.1,44.2,N/A,https://www.usnews.com/education/best-global-universities/panjab-university-528843
+802,engineering,"1,203",Pontificia Universidade Catolica do Rio de Janeiro,Brazil,Rio de Janeiro,33.1,34.3,N/A,https://www.usnews.com/education/best-global-universities/pontificia-universidade-catolica-do-rio-de-janeiro-529811
+803,engineering,544,University of Wisconsin Milwaukee,United States,Milwaukee,33,49.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-wisconsin-milwaukee-240453
+804,engineering,"1,389",Foshan University,China,Foshan,32.9,30.3,N/A,https://www.usnews.com/education/best-global-universities/foshan-university-529885
+805,engineering,"1,603",Universidade Tecnologica Federal do Parana,Brazil,Curitiba,32.9,25.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-tecnologica-federal-do-parana-529590
+806,engineering,"1,463",Imam Khomeini International University,Iran,Qazvin,32.8,28.6,N/A,https://www.usnews.com/education/best-global-universities/imam-khomeini-international-university-529643
+807,engineering,"1,275",Taif University,Saudi Arabia,Taif,32.8,32.7,"39,622",https://www.usnews.com/education/best-global-universities/taif-university-511965
+808,engineering,710,Universidade de Brasilia,Brazil,Brasilia,32.8,45.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217
+809,engineering,579,Novosibirsk State University,Russia,Novosibirsk,32.7,48.8,N/A,https://www.usnews.com/education/best-global-universities/novosibirsk-state-university-503585
+810,engineering,"1,290",Technical University Freiberg,Germany,Freiberg,32.7,32.4,N/A,https://www.usnews.com/education/best-global-universities/technical-university-freiberg-529085
+811,engineering,"1,251",University of Cassino,Italy,Cassino,32.7,33.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-cassino-529646
+812,engineering,"1,795",East China Jiaotong University,China,Nanchang,32.6,20.2,N/A,https://www.usnews.com/education/best-global-universities/east-china-jiaotong-university-529827
+813,engineering,618,University of Udine,Italy,Udine,32.6,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-udine-504338
+814,engineering,826,Banaras Hindu University (BHU),India,Varanasi,32.5,42.4,N/A,https://www.usnews.com/education/best-global-universities/banaras-hindu-university-bhu-503462
+815,engineering,"1,609",Harbin University of Science & Technology,China,Harbin,32.5,25.4,N/A,https://www.usnews.com/education/best-global-universities/harbin-university-of-science-technology-529815
+816,engineering,"1,556",China Three Gorges University,China,Yichang,32.4,26.6,N/A,https://www.usnews.com/education/best-global-universities/china-three-gorges-university-529478
+817,engineering,"1,553",Seoul National University of Science & Technology,South Korea,Seoul,32.4,26.7,N/A,https://www.usnews.com/education/best-global-universities/seoul-national-university-of-science-technology-529227
+818,engineering,"1,498",Slovak University of Technology Bratislava,Slovakia,Bratislava,32.4,27.8,N/A,https://www.usnews.com/education/best-global-universities/slovak-university-of-technology-bratislava-529184
+819,engineering,"1,376",Bharathiar University,India,Coimbatore,32.3,30.6,N/A,https://www.usnews.com/education/best-global-universities/bharathiar-university-529406
+820,engineering,"1,085",Helwan University,Egypt,Cairo,32.3,36.9,N/A,https://www.usnews.com/education/best-global-universities/helwan-university-512792
+821,engineering,324,University of Georgia,United States,"Athens (Georgia, U.S.)",32.3,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+822,engineering,"1,095",University of Salford,United Kingdom,Salford,32.2,36.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-salford-529039
+823,engineering,558,University of Portsmouth,United Kingdom,Portsmouth,32.1,49.4,"23,595",https://www.usnews.com/education/best-global-universities/university-of-portsmouth-505745
+824,engineering,770,University of Salamanca,Spain,Salamanca,32.1,43.9,"27,920",https://www.usnews.com/education/best-global-universities/university-of-salamanca-502705
+825,engineering,"1,483",Amrita Vishwa Vidyapeetham,India,Coimbatore,32,28.1,N/A,https://www.usnews.com/education/best-global-universities/amrita-vishwa-vidyapeetham-529695
+826,engineering,"1,190",Gaziantep University,Turkey,Gaziantep,32,34.5,N/A,https://www.usnews.com/education/best-global-universities/gaziantep-university-528972
+827,engineering,639,Rochester Institute of Technology,United States,Rochester,32,47.2,N/A,https://www.usnews.com/education/best-global-universities/rochester-institute-of-technology-195003
+828,engineering,39,University of Amsterdam,Netherlands,Amsterdam,32,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+829,engineering,"1,483",Changzhou University,China,Changzhou,31.9,28.1,N/A,https://www.usnews.com/education/best-global-universities/changzhou-university-529351
+830,engineering,"1,381",American University of Sharjah,United Arab Emirates,Sharjah,31.8,30.5,N/A,https://www.usnews.com/education/best-global-universities/american-university-of-sharjah-510086
+831,engineering,271,George Washington University,United States,"Washington, D.C.",31.8,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+832,engineering,"1,198",Hainan University,China,Haikou,31.8,34.4,N/A,https://www.usnews.com/education/best-global-universities/hainan-university-529489
+833,engineering,"1,589",Technische Universitat Ilmenau,Germany,Ilmenau,31.8,25.8,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-ilmenau-529347
+834,engineering,"1,841",Northeast Petroleum University,China,Daqing,31.7,18.4,N/A,https://www.usnews.com/education/best-global-universities/northeast-petroleum-university-529819
+835,engineering,"1,085",University of Huddersfield,United Kingdom,Huddersfield,31.7,36.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-huddersfield-529422
+836,engineering,593,San Diego State University,United States,San Diego,31.6,48.4,"31,340",https://www.usnews.com/education/best-global-universities/san-diego-state-university-122409
+837,engineering,821,University of South Africa,South Africa,Pretoria,31.4,42.5,"236,282",https://www.usnews.com/education/best-global-universities/university-of-south-africa-529170
+838,engineering,598,University of the Andes Colombia,Colombia,Bogota,31.4,48.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-andes-colombia-528846
+839,engineering,835,Northwest University Xi'an,China,Xi'an,31.3,42.3,N/A,https://www.usnews.com/education/best-global-universities/northwest-university-xian-500540
+840,engineering,"1,589",Technical University of Ostrava,Czech Republic,Ostrava - Poruba,31.3,25.8,N/A,https://www.usnews.com/education/best-global-universities/technical-university-of-ostrava-529411
+841,engineering,"1,449",Hunan Normal University,China,Changsha,31.2,28.9,N/A,https://www.usnews.com/education/best-global-universities/hunan-normal-university-529497
+842,engineering,794,University of Wyoming,United States,Laramie,31.1,43.3,"10,660",https://www.usnews.com/education/best-global-universities/university-of-wyoming-240727
+843,engineering,"1,578",University Zanjan,Iran,Zanjan,31.1,26.1,N/A,https://www.usnews.com/education/best-global-universities/university-zanjan-530052
+844,engineering,684,City College of New York (CUNY),United States,New York City,31,46.1,N/A,https://www.usnews.com/education/best-global-universities/city-college-of-new-york-cuny-190567
+845,engineering,"1,049",Universitat Kassel,Germany,Kassel,31,37.6,N/A,https://www.usnews.com/education/best-global-universities/universitat-kassel-529151
+846,engineering,"1,190",University of Kaiserslautern,Germany,Kaiserslautern,31,34.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-kaiserslautern-528867
+847,engineering,"1,243",Kasetsart University,Thailand,Bangkok,30.9,33.5,"68,757",https://www.usnews.com/education/best-global-universities/kasetsart-university-529012
+848,engineering,652,Saint Petersburg State University,Russia,St. Petersburg,30.9,46.9,"24,335",https://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182
+849,engineering,"1,636",Taiyuan University of Science & Technology,China,Taiyuan,30.9,24.6,N/A,https://www.usnews.com/education/best-global-universities/taiyuan-university-of-science-technology-529841
+850,engineering,"1,017",Universidade Federal Fluminense,Brazil,Niteroi,30.9,38.4,"49,554",https://www.usnews.com/education/best-global-universities/universidade-federal-fluminense-506244
+851,engineering,,Chaoyang University of Technology,Taiwan,Taichung City,30.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/chaoyang-university-of-technology-530191
+852,engineering,,Jiangxi University of Finance & Economics,China,Nanchang,30.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-university-of-finance-economics-530180
+853,engineering,"1,844",University of Malaysia Perlis,Malaysia,Perlis,30.7,18.2,"10,937",https://www.usnews.com/education/best-global-universities/university-of-malaysia-perlis-529544
+854,engineering,"1,027",Shanxi University,China,Taiyuan,30.6,38.2,N/A,https://www.usnews.com/education/best-global-universities/shanxi-university-529038
+855,engineering,394,University of Hawaii Manoa,United States,Honolulu,30.6,54.6,"14,722",https://www.usnews.com/education/best-global-universities/university-of-hawaii-manoa-141574
+856,engineering,"1,498",Ecole Centrale de Lyon,France,Ecully,30.5,27.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-centrale-de-lyon-529054
+857,engineering,426,Flinders University South Australia,Australia,Bedford Park,30.5,53.8,"17,366",https://www.usnews.com/education/best-global-universities/flinders-university-south-australia-504837
+858,engineering,"1,798",Kocaeli University,Turkey,Umuttepe Yerleskesi,30.5,20.1,"67,200",https://www.usnews.com/education/best-global-universities/kocaeli-university-529277
+859,engineering,"1,735",Sardar Vallabhbhai National Institute of Technology,India,Surat,30.5,22,N/A,https://www.usnews.com/education/best-global-universities/sardar-vallabhbhai-national-institute-of-technology-529639
+860,engineering,"1,522",Technical University Kosice,Slovakia,Kosice,30.5,27.2,N/A,https://www.usnews.com/education/best-global-universities/technical-university-kosice-529578
+861,engineering,"1,327",Inha University,South Korea,Incheon,30.4,31.7,"17,103",https://www.usnews.com/education/best-global-universities/inha-university-504761
+862,engineering,"1,617",Malaviya National Institute of Technology Jaipur,India,Jaipur,30.4,25.1,N/A,https://www.usnews.com/education/best-global-universities/malaviya-national-institute-of-technology-jaipur-529640
+863,engineering,"1,140",University of Punjab,Pakistan,Lahore,30.4,35.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-punjab-529178
+864,engineering,"1,225",Hubei University,China,Wuhan,30.3,33.8,N/A,https://www.usnews.com/education/best-global-universities/hubei-university-529080
+865,engineering,598,Massey University,New Zealand,Palmerston North,30.3,48.3,"18,570",https://www.usnews.com/education/best-global-universities/massey-university-503390
+866,engineering,,Universite de Technologie de Troyes,France,Troyes,30.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/universite-de-technologie-de-troyes-530192
+867,engineering,"1,603",Suzhou University of Science & Technology,China,Suzhou,30.2,25.5,N/A,https://www.usnews.com/education/best-global-universities/suzhou-university-of-science-technology-529823
+868,engineering,871,Universidade Federal do Rio Grande do Norte,Brazil,Natal/RN,30.2,41.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-norte-529407
+869,engineering,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,30.2,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+870,engineering,"1,658",University of Jeddah,Saudi Arabia,Al Sharafeyah,30.2,24.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-jeddah-530059
+871,engineering,750,Bar Ilan University,Israel,Ramat Gan,30.1,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+872,engineering,"1,746",West Pomeranian University of Technology,Poland,Szczecin,30.1,21.7,N/A,https://www.usnews.com/education/best-global-universities/west-pomeranian-university-of-technology-529891
+873,engineering,"1,564",Chung Yuan Christian University,Taiwan,Taoyuan City,30,26.4,"15,037",https://www.usnews.com/education/best-global-universities/chung-yuan-christian-university-529072
+874,engineering,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,30,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+875,engineering,"1,511",Chengdu University of Technology,China,"Sichuan, Chengdu",29.9,27.6,N/A,https://www.usnews.com/education/best-global-universities/chengdu-university-of-technology-530199
+876,engineering,"1,664",Feng Chia University,Taiwan,Taichung,29.9,24.1,"19,298",https://www.usnews.com/education/best-global-universities/feng-chia-university-529287
+877,engineering,992,Johannes Kepler University Linz,Austria,Linz,29.8,38.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-kepler-university-linz-528837
+878,engineering,875,University of Texas El Paso,United States,El Paso,29.8,41.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-el-paso-228796
+879,engineering,,Indian Institute of Technology (IIT) - Ropar,India,Rupnagar,29.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-ropar-529980
+880,engineering,673,Murdoch University,Australia,Murdoch,29.6,46.4,"16,641",https://www.usnews.com/education/best-global-universities/murdoch-university-528818
+881,engineering,,Maulana Azad National Institute of Technology Bhopal,India,Bhopal,29.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/maulana-azad-national-institute-of-technology-bhopal-529813
+882,engineering,"1,413",Tamkang University,Taiwan,Taipei,29.5,29.8,"23,207",https://www.usnews.com/education/best-global-universities/tamkang-university-529251
+883,engineering,977,Universidade Federal do Ceara,Brazil,Fortaleza,29.5,39.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-ceara-503817
+884,engineering,739,Universite de Bretagne Occidentale,France,Brittany,29.5,44.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-bretagne-occidentale-529145
+885,engineering,653,Universite Paris-Est-Creteil-Val-de-Marne (UPEC),France,Creteil,29.5,46.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-est-creteil-val-de-marne-upec-528863
+886,engineering,"1,158",Free University of Bozen-Bolzano,Italy,Bolzano,29.4,35.1,N/A,https://www.usnews.com/education/best-global-universities/free-university-of-bozen-bolzano-529990
+887,engineering,"1,291",Lakehead University,Canada,Thunder Bay,29.4,32.3,N/A,https://www.usnews.com/education/best-global-universities/lakehead-university-529172
+888,engineering,"1,691",University Science & Technology Houari Boumediene,Algeria,Algiers,29.4,23.2,N/A,https://www.usnews.com/education/best-global-universities/university-science-technology-houari-boumediene-529820
+889,engineering,"1,718",China Jiliang University,China,Hangzhou,29.3,22.6,N/A,https://www.usnews.com/education/best-global-universities/china-jiliang-university-529306
+890,engineering,"1,835",University of Tunku Abdul Rahman,Malaysia,Kampar,29.3,18.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-tunku-abdul-rahman-529814
+891,engineering,"1,658",Shaoxing University,China,Shaoxing,29.2,24.3,N/A,https://www.usnews.com/education/best-global-universities/shaoxing-university-530004
+892,engineering,"1,072",University of Akron,United States,Akron,29.2,37.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-akron-200800
+893,engineering,"1,483","International Islamic University, Pakistan",Pakistan,Islamabad,29,28.1,N/A,https://www.usnews.com/education/best-global-universities/international-islamic-university-pakistan-530049
+894,engineering,"1,854",Shenyang Aerospace University,China,Shenyang,29,17.9,N/A,https://www.usnews.com/education/best-global-universities/shenyang-aerospace-university-529849
+895,engineering,"1,095",Tokyo University of Science,Japan,Tokyo,29,36.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-science-503707
+896,engineering,679,Peter the Great St. Petersburg Polytechnic University,Russia,St. Petersburg,28.9,46.2,N/A,https://www.usnews.com/education/best-global-universities/peter-the-great-st-petersburg-polytechnic-university-529065
+897,engineering,"1,647",Sakarya University,Turkey,Serdivan,28.9,24.5,"40,331",https://www.usnews.com/education/best-global-universities/sakarya-university-529484
+898,engineering,"1,526",Yokohama National University,Japan,Yokohama,28.9,27.1,"9,714",https://www.usnews.com/education/best-global-universities/yokohama-national-university-529211
+899,engineering,,Zhejiang University of Finance & Economics,China,Hangzhou,28.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-finance-economics-529822
+900,engineering,"1,908",North China University of Water Resources & Electric Power,China,Zhengzhou,28.7,15.1,N/A,https://www.usnews.com/education/best-global-universities/north-china-university-of-water-resources-electric-power-529824
+901,engineering,"1,868",Xiamen University of Technology,China,Xiamen,28.7,17.4,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-of-technology-529817
+902,engineering,835,Chiba University,Japan,Chiba-shi,28.6,42.3,N/A,https://www.usnews.com/education/best-global-universities/chiba-university-503793
+903,engineering,475,Moscow Institute of Physics & Technology,Russia,Dolgoprudny,28.6,52.3,"6,083",https://www.usnews.com/education/best-global-universities/moscow-institute-of-physics-technology-528929
+904,engineering,"1,008",Northeast Normal University - China,China,Changchun,28.5,38.6,"30,310",https://www.usnews.com/education/best-global-universities/northeast-normal-university-china-503882
+905,engineering,"1,597",Universite de Technologie de Compiegne,France,Compiegne,28.5,25.7,N/A,https://www.usnews.com/education/best-global-universities/universite-de-technologie-de-compiegne-529344
+906,engineering,"1,668",Suleyman Demirel University,Turkey,Isparta,28.4,24,"38,998",https://www.usnews.com/education/best-global-universities/suleyman-demirel-university-528971
+907,engineering,"1,542",Henan Normal University,China,Xinxiang,28.3,26.9,N/A,https://www.usnews.com/education/best-global-universities/henan-normal-university-529271
+908,engineering,"1,261",Kangwon National University,South Korea,Chuncheon-si,28.3,33,N/A,https://www.usnews.com/education/best-global-universities/kangwon-national-university-500476
+909,engineering,"1,208",Universidad de Santiago de Chile,Chile,Santiago,28.3,34.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-santiago-de-chile-529177
+910,engineering,212,University of Valencia,Spain,Valencia,28.3,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+911,engineering,,Fujian University of Technology,China,Fuzhou,28.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/fujian-university-of-technology-530178
+912,engineering,"1,301",Universidade Federal de Uberlandia,Brazil,Uberlandia,28.2,32.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-uberlandia-529244
+913,engineering,"1,208",Gyeongsang National University,South Korea,Jinju City,28.1,34.2,N/A,https://www.usnews.com/education/best-global-universities/gyeongsang-national-university-500897
+914,engineering,,King Mongkuts University of Technology North Bangkok,Thailand,Bangkok,28.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/king-mongkuts-university-of-technology-north-bangkok-529830
+915,engineering,583,Kobe University,Japan,Kobe,28,48.7,"15,478",https://www.usnews.com/education/best-global-universities/kobe-university-504263
+916,engineering,483,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,Moscow (Russia),28,52,"4,932",https://www.usnews.com/education/best-global-universities/national-research-nuclear-university-mephi-moscow-engineering-physics-institute-528842
+917,engineering,"1,046",Dongguk University,South Korea,Seoul,27.8,37.7,N/A,https://www.usnews.com/education/best-global-universities/dongguk-university-529173
+918,engineering,478,Universite Cote d'Azur,France,Nice,27.8,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+919,engineering,750,University of Arkansas Fayetteville,United States,Fayetteville,27.8,44.4,"25,207",https://www.usnews.com/education/best-global-universities/university-of-arkansas-fayetteville-106397
+920,engineering,199,University of Bergen,Norway,Bergen,27.8,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+921,engineering,717,University of Delhi,India,New Delhi,27.8,45.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-delhi-504916
+922,engineering,"1,691",Henan University of Technology,China,Zhengzhou,27.7,23.2,N/A,https://www.usnews.com/education/best-global-universities/henan-university-of-technology-529673
+923,engineering,"1,734",Lanzhou University of Technology,China,Lanzhou,27.7,22.1,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-of-technology-529641
+924,engineering,447,ShanghaiTech University,China,Pudong,27.7,53.3,N/A,https://www.usnews.com/education/best-global-universities/shanghaitech-university-529508
+925,engineering,526,"University of Natural Resources & Life Sciences, Vienna",Austria,Vienna,27.7,50.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-natural-resources-life-sciences-vienna-501157
+926,engineering,"1,088",Florida Atlantic University,United States,Boca Raton,27.6,36.8,"26,794",https://www.usnews.com/education/best-global-universities/florida-atlantic-university-133669
+927,engineering,"1,095",Central Queensland University,Australia,Rockhampton North,27.5,36.7,N/A,https://www.usnews.com/education/best-global-universities/central-queensland-university-529603
+928,engineering,"1,198",Universidad de Valladolid,Spain,Valladolid,27.5,34.4,"21,780",https://www.usnews.com/education/best-global-universities/universidad-de-valladolid-501268
+929,engineering,"1,049",Konkuk University,South Korea,Seoul,27.4,37.6,N/A,https://www.usnews.com/education/best-global-universities/konkuk-university-503911
+930,engineering,"1,658",Nagoya Institute of Technology,Japan,Nagoya,27.4,24.3,N/A,https://www.usnews.com/education/best-global-universities/nagoya-institute-of-technology-529083
+931,engineering,"1,880",Nanjing Institute of Technology,China,Nanjing,27.4,16.7,N/A,https://www.usnews.com/education/best-global-universities/nanjing-institute-of-technology-529873
+932,engineering,912,Universidad de Cordoba,Spain,Cordoba (Spain),27.4,40.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cordoba-505807
+933,engineering,587,University of New Hampshire,United States,"Durham (New Hampshire, U.S.)",27.4,48.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-new-hampshire-183044
+934,engineering,"1,876",King Mongkuts Institute of Technology Ladkrabang,Thailand,Bangkok,27.3,17,"24,243",https://www.usnews.com/education/best-global-universities/king-mongkuts-institute-of-technology-ladkrabang-529645
+935,engineering,964,University of Thessaly,Greece,Volos,27.3,39.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-thessaly-529034
+936,engineering,,Toyohashi University of Technology,Japan,Toyohashi,27.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/toyohashi-university-of-technology-530193
+937,engineering,"1,116",Ajou University,South Korea,Suwon,27.1,36.2,"7,574",https://www.usnews.com/education/best-global-universities/ajou-university-504876
+938,engineering,"1,361",Universidade Federal do Espirito Santo,Brazil,Vitoria,27.1,31,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-espirito-santo-529299
+939,engineering,860,Hassan II University of Casablanca,Morocco,Casablanca,27,41.8,N/A,https://www.usnews.com/education/best-global-universities/hassan-ii-university-of-casablanca-529470
+940,engineering,"1,894",Shandong Jianzhu University,China,Jinan,27,15.9,N/A,https://www.usnews.com/education/best-global-universities/shandong-jianzhu-university-529832
+941,engineering,871,University of Alabama Huntsville,United States,Huntsville,27,41.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-alabama-huntsville-100706
+942,engineering,"1,535",University of Electro-Communications - Japan,Japan,Tokyo,27,27,"4,662",https://www.usnews.com/education/best-global-universities/university-of-electro-communications-japan-529005
+943,engineering,984,Universitat Jaume I,Spain,Castellon,26.9,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-jaume-i-528868
+944,engineering,"1,658",University of Mazandaran,Iran,Babolsar,26.9,24.3,"13,320",https://www.usnews.com/education/best-global-universities/university-of-mazandaran-529472
+945,engineering,"1,386",Northeast Forestry University - China,China,Harbin,26.8,30.4,N/A,https://www.usnews.com/education/best-global-universities/northeast-forestry-university-china-529095
+946,engineering,"1,376",University of Calcutta,India,Kolkata,26.8,30.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-calcutta-529004
+947,engineering,"1,203",University of Greenwich,United Kingdom,London (U.K.),26.7,34.3,"16,565",https://www.usnews.com/education/best-global-universities/university-of-greenwich-529153
+948,engineering,"1,198",Dokuz Eylul University,Turkey,Izmir,26.6,34.4,N/A,https://www.usnews.com/education/best-global-universities/dokuz-eylul-university-503998
+949,engineering,"1,309",Tokyo University of Agriculture & Technology,Japan,Tokyo,26.6,32,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-agriculture-technology-504314
+950,engineering,,Universidade Federal de Itajuba,Brazil,Itajuba,26.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-itajuba-529825
+951,engineering,"1,225",University of Paderborn,Germany,Paderborn,26.6,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-paderborn-529396
+952,engineering,,"Arab Academy for Science, Technology & Maritime Transport",Egypt,Alexandria,26.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/arab-academy-for-science-technology-maritime-transport-512745
+953,engineering,"1,317",Universidad de Almeria,Spain,Almeria,26.5,31.8,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-almeria-529210
+954,engineering,"1,597",Universite de la Manouba,Tunisia,Manouba,26.5,25.7,"16,315",https://www.usnews.com/education/best-global-universities/universite-de-la-manouba-529717
+955,engineering,"1,088",Chang Gung University,Taiwan,Taoyuan City,26.4,36.8,"7,016",https://www.usnews.com/education/best-global-universities/chang-gung-university-505417
+956,engineering,"1,694",Universite Badji Mokhtar - Annaba,Algeria,Annaba,26.4,23.1,N/A,https://www.usnews.com/education/best-global-universities/universite-badji-mokhtar-annaba-529722
+957,engineering,889,University of Limerick,Ireland,Limerick,26.4,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-limerick-528976
+958,engineering,"1,066",Yunnan University,China,Kunming,26.4,37.3,N/A,https://www.usnews.com/education/best-global-universities/yunnan-university-529189
+959,engineering,"1,407",Henan University of Science & Technology,China,Luoyang,26.3,29.9,N/A,https://www.usnews.com/education/best-global-universities/henan-university-of-science-technology-529653
+960,engineering,"1,746",Indian Institute of Technology (IIT) - Patna,India,Patna,26.3,21.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-patna-529821
+961,engineering,"1,758",North University of China,China,Taiyuan,26.3,21.4,N/A,https://www.usnews.com/education/best-global-universities/north-university-of-china-529839
+962,engineering,992,Marmara University,Turkey,Istanbul,26.2,38.9,"62,045",https://www.usnews.com/education/best-global-universities/marmara-university-502695
+963,engineering,429,University of Innsbruck,Austria,Innsbruck,26.2,53.7,"13,918",https://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813
+964,engineering,,Bundeswehr University Munich,Germany,Neubiberg,26.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/bundeswehr-university-munich-529851
+965,engineering,"1,303",Conservatoire National Arts & Metiers (CNAM),France,Paris,26.1,32.1,N/A,https://www.usnews.com/education/best-global-universities/conservatoire-national-arts-metiers-cnam-529693
+966,engineering,989,Old Dominion University,United States,Norfolk,26.1,39,"18,705",https://www.usnews.com/education/best-global-universities/old-dominion-university-232982
+967,engineering,"1,556",University of Nis,Serbia,Nis,26.1,26.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-nis-529197
+968,engineering,"1,805",Xihua University,China,Chengdu,26.1,19.8,N/A,https://www.usnews.com/education/best-global-universities/xihua-university-529829
+969,engineering,"1,002",Mohammed V University in Rabat,Morocco,Rabat,26,38.7,N/A,https://www.usnews.com/education/best-global-universities/mohammed-v-university-in-rabat-528985
+970,engineering,"1,726",Qassim University,Saudi Arabia,Buraydah,26,22.3,N/A,https://www.usnews.com/education/best-global-universities/qassim-university-510947
+971,engineering,816,Universidad de Concepcion,Chile,Concepcion,26,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-concepcion-506070
+972,engineering,984,Universitat Siegen,Germany,Siegen,26,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-siegen-529388
+973,engineering,920,Saarland University,Germany,Saarbrucken,25.9,40.5,N/A,https://www.usnews.com/education/best-global-universities/saarland-university-504282
+974,engineering,"1,243",South Valley University Egypt,Egypt,Qena Governorate,25.9,33.5,N/A,https://www.usnews.com/education/best-global-universities/south-valley-university-egypt-530041
+975,engineering,"1,821","Visvesvaraya National Institute of Technology, Nagpur",India,Nagpur,25.9,19,N/A,https://www.usnews.com/education/best-global-universities/visvesvaraya-national-institute-of-technology-nagpur-529828
+976,engineering,"1,664",Zhengzhou University of Light Industry,China,Zhengzhou,25.9,24.1,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-of-light-industry-529838
+977,engineering,"1,945",Army Engineering University of PLA,China,Nanjing,25.7,12.6,N/A,https://www.usnews.com/education/best-global-universities/army-engineering-university-of-pla-529776
+978,engineering,"1,567",Gebze Technical University,Turkey,Gebze,25.7,26.3,"8,403",https://www.usnews.com/education/best-global-universities/gebze-technical-university-529430
+979,engineering,"1,832",Huaiyin Institute of Technology,China,Huai'an,25.7,18.6,N/A,https://www.usnews.com/education/best-global-universities/huaiyin-institute-of-technology-529857
+980,engineering,"1,636",North China University of Science & Technology,China,Tangshen,25.6,24.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-university-of-science-technology-529518
+981,engineering,896,Universidad de Antioquia,Colombia,Antioquia,25.6,41,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-antioquia-528980
+982,engineering,"1,386",Universita Mediterranea di Reggio Calabria,Italy,Reggio Calabria,25.5,30.4,N/A,https://www.usnews.com/education/best-global-universities/universita-mediterranea-di-reggio-calabria-529840
+983,engineering,"1,425",Universidad Autonoma de Nuevo Leon,Mexico,Monterrey,25.4,29.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-autonoma-de-nuevo-leon-529185
+984,engineering,"1,361",Universidad de Guadalajara,Mexico,Guadalajara,25.4,31,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-guadalajara-529203
+985,engineering,739,Chiang Mai University,Thailand,Chiang Mai,25,44.6,"34,110",https://www.usnews.com/education/best-global-universities/chiang-mai-university-500257
+986,engineering,"1,726",Chongqing Jiaotong University,China,Chongqing,25,22.3,N/A,https://www.usnews.com/education/best-global-universities/chongqing-jiaotong-university-529852
+987,engineering,"1,483",Delhi Technological University,India,Delhi,25,28.1,N/A,https://www.usnews.com/education/best-global-universities/delhi-technological-university-529835
+988,engineering,"1,653",Nagaoka University of Technology,Japan,Nagaoka,25,24.4,N/A,https://www.usnews.com/education/best-global-universities/nagaoka-university-of-technology-529077
+989,engineering,"1,438",Ritsumeikan University,Japan,Kyoto,25,29.2,N/A,https://www.usnews.com/education/best-global-universities/ritsumeikan-university-528871
+990,engineering,"1,857",Rzeszow University of Technology,Poland,Rzeszów,25,17.8,N/A,https://www.usnews.com/education/best-global-universities/rzeszow-university-of-technology-529834
+991,engineering,"1,792",Technical University Czestochowa,Poland,Czestochowa,25,20.3,N/A,https://www.usnews.com/education/best-global-universities/technical-university-czestochowa-529571
+992,engineering,"1,671",Shahrekord University,Iran,Shahrekord,24.9,23.9,N/A,https://www.usnews.com/education/best-global-universities/shahrekord-university-529831
+993,engineering,"1,049",Universidad de Extremadura,Spain,Merida,24.9,37.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-extremadura-529022
+994,engineering,"1,526",Jeju National University,South Korea,Jeju,24.6,27.1,N/A,https://www.usnews.com/education/best-global-universities/jeju-national-university-529118
+995,engineering,"1,795",Sidi Mohamed Ben Abdellah University of Fez,Morocco,Fes-Menkes,24.6,20.2,N/A,https://www.usnews.com/education/best-global-universities/sidi-mohamed-ben-abdellah-university-of-fez-530071
+996,engineering,844,Universidad de Alcala,Spain,Madrid,24.6,42.2,"15,941",https://www.usnews.com/education/best-global-universities/universidad-de-alcala-528978
+997,engineering,"1,767",Chongqing University of Technology,China,Banan,24.5,21.2,N/A,https://www.usnews.com/education/best-global-universities/chongqing-university-of-technology-529845
+998,engineering,"1,446",Daegu Gyeongbuk Institute of Science & Technology (DGIST),South Korea,Deagu,24.5,29,N/A,https://www.usnews.com/education/best-global-universities/daegu-gyeongbuk-institute-of-science-technology-dgist-529431
+999,engineering,"1,788",Kalinga Institute of Industrial Technology (KIIT),India,Bhubaneswar,24.5,20.4,N/A,https://www.usnews.com/education/best-global-universities/kalinga-institute-of-industrial-technology-kiit-529846
+1000,engineering,"1,489",Technische Universitat Chemnitz,Germany,Chemnitz,24.5,28,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-chemnitz-528989

@@ -1,0 +1,751 @@
+,subject_name,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,physics,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),100,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+2,physics,1,Harvard University,United States,Cambridge (U.S.),95.6,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+3,physics,3,Stanford University,United States,Stanford,95.3,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+4,physics,4,University of California Berkeley,United States,Berkeley,94.3,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+5,physics,9,California Institute of Technology,United States,Pasadena,93.7,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+6,physics,81,University of Tokyo,Japan,Tokyo,90.9,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+7,physics,22,University of Chicago,United States,Chicago,90.8,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+8,physics,23,Tsinghua University,China,Beijing,89.8,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+9,physics,16,Princeton University,United States,Princeton,89.5,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+10,physics,60,Universite Paris Saclay,France,Saint-Aubin,89.3,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+11,physics,7,Columbia University,United States,New York City,88.4,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+12,physics,8,University of Cambridge,United Kingdom,Cambridge (U.K.),87.6,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+13,physics,5,University of Oxford,United Kingdom,Oxford,86.1,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+14,physics,6,University of Washington Seattle,United States,Seattle,85.5,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+15,physics,29,ETH Zurich,Switzerland,Zurich,84.9,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+16,physics,57,University of Maryland College Park,United States,College Park,84.7,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+17,physics,39,Peking University,China,Beijing,84.4,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+18,physics,48,Sorbonne Universite,France,Paris,84.4,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+19,physics,74,University of Illinois Urbana-Champaign,United States,Champaign,82.5,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+20,physics,125,Sapienza University Rome,Italy,Rome,82.4,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+21,physics,21,Cornell University,United States,Ithaca,82.3,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+22,physics,67,University of California Santa Barbara,United States,Santa Barbara,82.1,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+23,physics,19,University of Michigan,United States,Ann Arbor,81.5,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+24,physics,102,"University of Science & Technology of China, CAS",China,Hefei,81.4,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+25,physics,355,Lomonosov Moscow State University,Russia,Moscow (Russia),81.3,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+26,physics,11,Yale University,United States,New Haven,81.2,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+27,physics,140,Kyoto University,Japan,Kyoto,79.7,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+28,physics,47,University of Munich,Germany,Munich,78.9,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+29,physics,48,Universite de Paris,France,Paris,78.8,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+30,physics,43,University of Texas Austin,United States,Austin,78.8,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+31,physics,18,University of Toronto,Canada,Toronto,78.8,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+32,physics,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,78.5,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+33,physics,89,Shanghai Jiao Tong University,China,Shanghai,77.7,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+34,physics,14,University of California Los Angeles,United States,Los Angeles,77.7,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+35,physics,123,Nanjing University,China,Nanjing,77.6,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+36,physics,219,University of Pisa,Italy,Pisa,77.6,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+37,physics,483,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,Moscow (Russia),77.5,52,"4,932",https://www.usnews.com/education/best-global-universities/national-research-nuclear-university-mephi-moscow-engineering-physics-institute-528842
+38,physics,13,Imperial College London,United Kingdom,London (U.K.),77.2,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+39,physics,34,University of Edinburgh,United Kingdom,Edinburgh,77.2,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+40,physics,84,Pennsylvania State University,United States,University Park,76.7,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+41,physics,70,University of Colorado Boulder,United States,Boulder,76.7,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+42,physics,24,Northwestern University,United States,Evanston,76.6,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+43,physics,475,Moscow Institute of Physics & Technology,Russia,Dolgoprudny,76.4,52.3,"6,083",https://www.usnews.com/education/best-global-universities/moscow-institute-of-physics-technology-528929
+44,physics,129,Seoul National University (SNU),South Korea,Seoul,76.3,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+45,physics,55,Ohio State University,United States,Columbus,76,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+46,physics,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,75.7,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+47,physics,134,Weizmann Institute of Science,Israel,Rehovot,75.6,67.3,N/A,https://www.usnews.com/education/best-global-universities/weizmann-institute-of-science-506795
+48,physics,89,University of Birmingham,United Kingdom,Birmingham (U.K.),75.4,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+49,physics,79,Technical University of Munich,Germany,Munich,75.3,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+50,physics,149,University of Hamburg,Germany,Hamburg,75.3,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+51,physics,12,University College London,United Kingdom,London (U.K.),75.1,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+52,physics,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,75.1,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+53,physics,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,75,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+54,physics,15,University of Pennsylvania,United States,Philadelphia,74.9,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+55,physics,579,Novosibirsk State University,Russia,Novosibirsk,74.8,48.8,N/A,https://www.usnews.com/education/best-global-universities/novosibirsk-state-university-503585
+56,physics,74,University of Glasgow,United Kingdom,Glasgow,74.8,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+57,physics,231,Autonomous University of Madrid,Spain,Madrid,74.7,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+58,physics,26,National University of Singapore,Singapore,Singapore,74.3,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+59,physics,62,Australian National University,Australia,Canberra,74.1,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+60,physics,39,University of Amsterdam,Netherlands,Amsterdam,74,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+61,physics,67,University of Zurich,Switzerland,Zurich,74,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+62,physics,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,73.9,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+63,physics,33,King's College London,United Kingdom,London (U.K.),73.9,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+64,physics,185,University of Naples Federico II,Italy,Naples,73.9,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+65,physics,57,University of Minnesota Twin Cities,United States,Minneapolis,73.7,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+66,physics,63,University of Wisconsin Madison,United States,Madison,73.3,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+67,physics,25,Duke University,United States,"Durham (North Carolina, U.S.)",73.2,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+68,physics,286,Osaka University,Japan,Suita,73.2,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+69,physics,109,University of Geneva,Switzerland,Geneva,73.2,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+70,physics,20,University of California San Diego,United States,La Jolla,73.1,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+71,physics,134,University of Sheffield,United Kingdom,Sheffield,73,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+72,physics,241,Johannes Gutenberg University of Mainz,Germany,Mainz,72.9,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+73,physics,104,University of Southampton,United Kingdom,Southampton,72.9,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+74,physics,53,Chinese University of Hong Kong,Hong Kong,Shatin,72.6,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+75,physics,30,Nanyang Technological University,Singapore,Singapore,72.6,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+76,physics,74,University of Adelaide,Australia,Adelaide,72.6,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+77,physics,37,Monash University,Australia,Clayton,72.5,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+78,physics,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,72.5,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+79,physics,35,University of British Columbia,Canada,Vancouver,72.5,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+80,physics,115,University of Padua,Italy,Padua,72.5,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+81,physics,122,University of Bologna,Italy,Bologna,72.1,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+82,physics,70,Boston University,United States,Boston,71.7,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+83,physics,27,University of Melbourne,Australia,Parkville,71.7,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+84,physics,199,RWTH Aachen University,Germany,Aachen,71.6,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+85,physics,42,University of Copenhagen,Denmark,Copenhagen,71.5,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+86,physics,286,Tohoku University,Japan,Sendai,71.2,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+87,physics,63,University of Manchester,United Kingdom,Manchester,71.1,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+88,physics,116,Fudan University,China,Shanghai,71,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+89,physics,394,National Tsing Hua University,Taiwan,Hsinchu,71,54.6,"13,030",https://www.usnews.com/education/best-global-universities/national-tsing-hua-university-501245
+90,physics,106,Radboud University Nijmegen,Netherlands,Nijmegen,70.8,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+91,physics,300,University of Rome Tor Vergata,Italy,Rome,70.8,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+92,physics,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,70.7,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+93,physics,333,Nagoya University,Japan,Nagoya,70.6,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+94,physics,360,Tokyo Institute of Technology,Japan,Tokyo,70.6,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+95,physics,98,University of Florida,United States,Gainesville,70.6,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+96,physics,93,Zhejiang University,China,Hangzhou,70.6,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+97,physics,452,Tata Institute of Fundamental Research (TIFR),India,Mumbai,70.5,53.1,N/A,https://www.usnews.com/education/best-global-universities/tata-institute-of-fundamental-research-tifr-529777
+98,physics,212,University of Valencia,Spain,Valencia,70.3,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+99,physics,244,Ecole Normale Superieure (ENS),France,Paris,70.1,60.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-ens-505721
+100,physics,116,Michigan State University,United States,East Lansing,69.8,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+101,physics,107,University of Bern,Switzerland,Bern,69.7,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+102,physics,256,University of Trento,Italy,Trento,69.7,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+103,physics,140,Purdue University West Lafayette Campus,United States,West Lafayette,69.4,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+104,physics,51,Georgia Institute of Technology,United States,Atlanta,69.3,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+105,physics,129,Sun Yat Sen University,China,Guangzhou,69.3,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+106,physics,55,University of Hong Kong,Hong Kong,Pok Fu Lam,69.3,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+107,physics,120,Universidade de Sao Paulo,Brazil,Sao Paulo,69.2,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+108,physics,345,University of Warsaw,Poland,Warsaw,69.2,56.3,"37,090",https://www.usnews.com/education/best-global-universities/university-of-warsaw-502726
+109,physics,10,Johns Hopkins University,United States,Baltimore,69,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+110,physics,127,Stockholm University,Sweden,Stockholm,69,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+111,physics,226,Charles University Prague,Czech Republic,Prague,68.9,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+112,physics,368,Eotvos Lorand University,Hungary,Budapest,68.6,55.4,"30,190",https://www.usnews.com/education/best-global-universities/eotvos-lorand-university-505612
+113,physics,61,Humboldt University of Berlin,Germany,Berlin,68.6,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+114,physics,175,Tel Aviv University,Israel,Tel Aviv,68.6,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+115,physics,143,Autonomous University of Barcelona,Spain,Barcelona,68.5,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+116,physics,178,Aix-Marseille Universite,France,Marseille,68.4,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+117,physics,203,National Taiwan University,Taiwan,Taipei,68.3,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+118,physics,202,Universidade de Lisboa,Portugal,Lisbon,68.3,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+119,physics,253,University of Oregon,United States,Eugene,68.2,60.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-oregon-209551
+120,physics,192,University of Wurzburg,Germany,Wurzburg,68.1,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+121,physics,240,Royal Institute of Technology,Sweden,Stockholm,68,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+122,physics,127,Uppsala University,Sweden,Uppsala,68,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+123,physics,416,Scuola Normale Superiore di Pisa,Italy,Pisa,67.9,54,629,https://www.usnews.com/education/best-global-universities/scuola-normale-superiore-di-pisa-504541
+124,physics,226,Universite Libre de Bruxelles,Belgium,Brussels,67.8,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+125,physics,282,International School for Advanced Studies (SISSA),Italy,Trieste,67.7,59.1,N/A,https://www.usnews.com/education/best-global-universities/international-school-for-advanced-studies-sissa-528824
+126,physics,180,Rice University,United States,Houston,67.7,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+127,physics,253,Beihang University,China,Beijing,67.6,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+128,physics,186,Technische Universitat Dresden,Germany,Dresden,67.5,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+129,physics,84,University of California Irvine,United States,Irvine,67.5,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+130,physics,356,College de France,France,Paris,67.2,55.8,N/A,https://www.usnews.com/education/best-global-universities/college-de-france-502833
+131,physics,317,Technion Israel Institute of Technology,Israel,Haifa,67.2,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+132,physics,429,University of Innsbruck,Austria,Innsbruck,67.2,53.7,"13,918",https://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813
+133,physics,143,Rutgers State University New Brunswick,United States,Piscataway Township,67,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+134,physics,54,McGill University,Canada,Montreal,66.8,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+135,physics,31,New York University,United States,New York City,66.7,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+136,physics,416,Technische Universitat Wien,Austria,Vienna,66.5,54,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-wien-502163
+137,physics,129,Brown University,United States,Providence,66.4,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+138,physics,112,Lund University,Sweden,Lund,66.4,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+139,physics,138,University of Bonn,Germany,Bonn,66.4,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+140,physics,152,Indiana University Bloomington,United States,Bloomington,66.2,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+141,physics,368,Shandong University,China,Jinan,66.1,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+142,physics,624,William & Mary,United States,Williamsburg,66.1,47.8,"8,089",https://www.usnews.com/education/best-global-universities/william-mary-231624
+143,physics,241,Florida State University,United States,Tallahassee,65.8,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+144,physics,170,University of Rochester,United States,Rochester,65.8,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+145,physics,432,University of Tsukuba,Japan,Tsukuba,65.7,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+146,physics,180,University of Iowa,United States,Iowa City,65.4,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+147,physics,225,University of Tennessee Knoxville,United States,Knoxville,65.4,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+148,physics,93,University of Bristol,United Kingdom,Bristol,65.3,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+149,physics,679,Peter the Great St. Petersburg Polytechnic University,Russia,St. Petersburg,65,46.2,N/A,https://www.usnews.com/education/best-global-universities/peter-the-great-st-petersburg-polytechnic-university-529065
+150,physics,28,University of Sydney,Australia,Sydney,64.9,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+151,physics,73,University of California Davis,United States,Davis,64.6,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+152,physics,118,Carnegie Mellon University,United States,Pittsburgh,64.5,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+153,physics,209,University of Turin,Italy,Turin,64.5,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+154,physics,389,Louisiana State University,United States,Baton Rouge,64.2,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+155,physics,263,Sungkyunkwan University (SKKU),South Korea,Seoul,64,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+156,physics,372,Syracuse University,United States,Syracuse,64,55.2,"20,620",https://www.usnews.com/education/best-global-universities/syracuse-university-196413
+157,physics,290,Korea University,South Korea,Seoul,63.7,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+158,physics,441,National Technical University of Athens,Greece,Athens (Greece),63.7,53.4,N/A,https://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449
+159,physics,587,Tomsk State University,Russia,Tomsk,63.7,48.6,"7,806",https://www.usnews.com/education/best-global-universities/tomsk-state-university-529019
+160,physics,86,University of Barcelona,Spain,Barcelona,63.7,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+161,physics,156,University of Milan,Italy,Milan,63.6,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+162,physics,175,University of Sussex,United Kingdom,Brighton,63.5,64.2,"18,015",https://www.usnews.com/education/best-global-universities/university-of-sussex-503906
+163,physics,605,Indian Institute of Technology (IIT) - Madras,India,Chennai,63.4,48.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278
+164,physics,148,Texas A&M University College Station,United States,College Station,63.4,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+165,physics,163,University of Gottingen,Germany,Gottingen,63.4,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+166,physics,698,Czech Technical University Prague,Czech Republic,Prague,63.3,45.7,N/A,https://www.usnews.com/education/best-global-universities/czech-technical-university-prague-502255
+167,physics,160,University of Massachusetts Amherst,United States,Amherst,63.1,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+168,physics,163,University of Warwick,United Kingdom,Coventry,63.1,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+169,physics,459,Institut National Polytechnique de Grenoble,France,Grenoble,63,53,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-grenoble-504372
+170,physics,459,University of Belgrade,Serbia,Belgrade,62.9,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+171,physics,487,University of Hannover,Germany,Hannover,62.9,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-hannover-503676
+172,physics,169,Delft University of Technology,Netherlands,Delft,62.8,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+173,physics,263,Iowa State University,United States,Ames,62.7,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+174,physics,226,Universiti Malaya,Malaysia,Kuala Lumpur,62.7,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+175,physics,105,University of California Santa Cruz,United States,Santa Cruz,62.7,69.5,"19,494",https://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714
+176,physics,512,Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI),France,Paris,62.6,50.7,N/A,https://www.usnews.com/education/best-global-universities/ecole-superieure-de-physique-et-de-chimie-industrielles-de-la-ville-de-paris-espci-528926
+177,physics,349,Kyushu University,Japan,Fukuoka,62.3,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+178,physics,88,University of Groningen,Netherlands,Groningen,62.3,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+179,physics,45,University of Pittsburgh,United States,Pittsburgh,62.2,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+180,physics,294,Universidade Estadual de Campinas,Brazil,Campinas,62.1,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+181,physics,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,61.9,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+182,physics,186,University of California Riverside,United States,Riverside,61.9,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+183,physics,108,University of Arizona,United States,Tucson,61.8,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+184,physics,100,Queen Mary University London,United Kingdom,London (U.K.),61.7,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+185,physics,377,Bogazici University,Turkey,Istanbul,61.6,55.1,N/A,https://www.usnews.com/education/best-global-universities/bogazici-university-504066
+186,physics,271,Shenzhen University,China,Shenzhen,61.6,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+187,physics,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,61.5,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+188,physics,300,University of Genoa,Italy,Genoa,61.5,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+189,physics,564,Roma Tre University,Italy,Rome,61.3,49.2,"33,264",https://www.usnews.com/education/best-global-universities/roma-tre-university-504483
+190,physics,99,University of Helsinki,Finland,Helsinki,61.2,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+191,physics,191,University of Waterloo,Canada,Waterloo,61.2,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+192,physics,178,University of Freiburg,Germany,Freiburg,61.1,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+193,physics,379,University of Strathclyde,United Kingdom,Glasgow,61,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+194,physics,639,Rochester Institute of Technology,United States,Rochester,60.8,47.2,N/A,https://www.usnews.com/education/best-global-universities/rochester-institute-of-technology-195003
+195,physics,277,Universite de Strasbourg,France,Strasbourg,60.8,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+196,physics,119,University of Virginia,United States,Charlottesville,60.8,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+197,physics,150,Wuhan University,China,Wuhan,60.8,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+198,physics,554,Universitat de les Illes Balears,Spain,Palma de Mallorca,60.7,49.5,N/A,https://www.usnews.com/education/best-global-universities/universitat-de-les-illes-balears-528855
+199,physics,89,University of Oslo,Norway,Oslo,60.7,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+200,physics,394,Islamic Azad University,Iran,Tehran,60.6,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+201,physics,757,Tokyo Metropolitan University,Japan,Tokyo,60.6,44.3,"8,829",https://www.usnews.com/education/best-global-universities/tokyo-metropolitan-university-505425
+202,physics,182,Lancaster University,United Kingdom,Lancaster,60.4,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+203,physics,696,ITMO University,Russia,St. Petersburg,60.3,45.8,N/A,https://www.usnews.com/education/best-global-universities/itmo-university-529154
+204,physics,311,University of New Mexico,United States,Albuquerque,60.3,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+205,physics,236,Goethe University Frankfurt,Germany,Frankfurt am Main,60.2,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+206,physics,146,University of Liverpool,United Kingdom,Liverpool,60.1,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+207,physics,392,University of Mississippi,United States,University,60.1,54.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-mississippi-176017
+208,physics,244,University of Witwatersrand,South Africa,Johannesburg,60.1,60.8,"26,871",https://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909
+209,physics,,Inter-University Centre for Astronomy & Astrophysics,India,Pune,59.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/inter-university-centre-for-astronomy-astrophysics-529779
+210,physics,125,University of Cape Town,South Africa,Cape Town,59.9,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+211,physics,450,University of Ljubljana,Slovenia,Ljubljana,59.9,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+212,physics,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,59.8,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+213,physics,165,Technical University of Denmark,Denmark,Kongens Lyngby,59.7,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+214,physics,65,King Abdulaziz University,Saudi Arabia,Jeddah,59.6,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+215,physics,273,Aalto University,Finland,Esbo,59.5,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+216,physics,512,Central China Normal University,China,Wuhan,59.5,50.7,N/A,https://www.usnews.com/education/best-global-universities/central-china-normal-university-501632
+217,physics,472,Texas Tech University,United States,Lubbock,59.4,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+218,physics,250,University of Illinois Chicago,United States,Chicago,59.2,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+219,physics,273,University of Milano-Bicocca,Italy,Milan,59.2,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+220,physics,152,Cardiff University,United Kingdom,Cardiff,59.1,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+221,physics,109,Huazhong University of Science & Technology,China,Wuhan,59.1,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+222,physics,385,Polytechnic University of Catalonia,Spain,Barcelona,59.1,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+223,physics,416,University of Trieste,Italy,Trieste,59,54,"16,677",https://www.usnews.com/education/best-global-universities/university-of-trieste-500914
+224,physics,725,Belarusian State University,Belarus,Minsk,58.9,45.1,"24,277",https://www.usnews.com/education/best-global-universities/belarusian-state-university-529143
+225,physics,576,University of Texas Arlington,United States,Arlington,58.8,48.9,"33,537",https://www.usnews.com/education/best-global-universities/university-of-texas-arlington-228769
+226,physics,426,University of Buenos Aires,Argentina,Buenos Aires,58.7,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+227,physics,441,Hanyang University,South Korea,Seoul,58.6,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+228,physics,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,58.6,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+229,physics,512,University of Alabama Tuscaloosa,United States,Tuscaloosa,58.5,50.7,"44,133",https://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751
+230,physics,579,Waseda University,Japan,Tokyo,58.5,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+231,physics,429,Universidade de Coimbra,Portugal,Coimbra,58.4,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+232,physics,256,University of Erlangen Nuremberg,Germany,Erlangen,58.4,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+233,physics,849,University of Urbino,Italy,Urbino,58.4,42.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-urbino-529329
+234,physics,208,University of Vienna,Austria,Vienna,58.4,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+235,physics,,"International Centre for Theoretical Sciences, Bengaluru",India,Bengaluru,58.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/international-centre-for-theoretical-sciences-bengaluru-529778
+236,physics,292,Vrije Universiteit Brussel,Belgium,Elsene,58.2,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+237,physics,461,University of Catania,Italy,Catania,58,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+238,physics,194,Northeastern University,United States,Boston,57.9,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+239,physics,83,University of Western Australia,Australia,Crawley,57.9,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+240,physics,219,Xi'an Jiaotong University,China,Xi'an,57.9,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+241,physics,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,57.8,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+242,physics,652,Saint Petersburg State University,Russia,St. Petersburg,57.8,46.9,"24,335",https://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182
+243,physics,632,University of Camerino,Italy,Camerino,57.8,47.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-camerino-529174
+244,physics,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,57.7,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+245,physics,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),57.7,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+246,physics,497,Universidade Estadual Paulista,Brazil,Sao Paulo,57.7,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+247,physics,295,University of Pavia,Italy,Pavia,57.7,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+248,physics,324,University of Victoria,Canada,Victoria,57.7,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+249,physics,583,Indian Institute of Technology (IIT) - Bombay,India,Mumbai,57.6,48.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bombay-501259
+250,physics,526,Istanbul Bilgi University,Turkey,Istanbul,57.6,50.3,N/A,https://www.usnews.com/education/best-global-universities/istanbul-bilgi-university-529650
+251,physics,311,Soochow University - China,China,Suzhou,57.6,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+252,physics,615,Technical University of Darmstadt,Germany,Darmstadt,57.6,48,"15,526",https://www.usnews.com/education/best-global-universities/technical-university-of-darmstadt-506035
+253,physics,37,University of New South Wales Sydney,Australia,Kensington,57.6,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+254,physics,385,University of Perugia,Italy,Perugia,57.4,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+255,physics,452,University of Siena,Italy,Siena,57.4,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-siena-504323
+256,physics,984,Shinshu University,Japan,Matsumoto,57.3,39.1,"10,603",https://www.usnews.com/education/best-global-universities/shinshu-university-505095
+257,physics,547,Middle East Technical University,Turkey,Ankara,57.2,49.8,"17,151",https://www.usnews.com/education/best-global-universities/middle-east-technical-university-503271
+258,physics,789,Universidad Tecnica Federico Santa Maria,Chile,Valparaiso,57.2,43.4,N/A,https://www.usnews.com/education/best-global-universities/universidad-tecnica-federico-santa-maria-528919
+259,physics,615,Dortmund University of Technology,Germany,Dortmund,57,48,N/A,https://www.usnews.com/education/best-global-universities/dortmund-university-of-technology-504395
+260,physics,292,Yonsei University,South Korea,Seoul,57,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+261,physics,537,Universite Clermont Auvergne (UCA),France,Clermont-Ferrand,56.9,50.1,N/A,https://www.usnews.com/education/best-global-universities/universite-clermont-auvergne-uca-529156
+262,physics,776,Ivane Javakhishvili Tbilisi State University,Georgia,Tbilisi,56.8,43.8,"22,475",https://www.usnews.com/education/best-global-universities/ivane-javakhishvili-tbilisi-state-university-528844
+263,physics,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,56.7,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+264,physics,409,Brandeis University,United States,Waltham,56.4,54.2,"5,427",https://www.usnews.com/education/best-global-universities/brandeis-university-165015
+265,physics,156,Universite de Montreal,Canada,Montreal,56.4,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+266,physics,639,Comenius University Bratislava,Slovakia,Bratislava,56.3,47.2,"21,788",https://www.usnews.com/education/best-global-universities/comenius-university-bratislava-500702
+267,physics,698,Pusan National University,South Korea,Busan,56.3,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+268,physics,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,56.3,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+269,physics,339,Jagiellonian University,Poland,Krakow,56.2,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+270,physics,"1,008",Polytechnic University of Bucharest,Romania,Bucharest,56.2,38.6,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-bucharest-506097
+271,physics,662,Szeged University,Hungary,Szeged,56.2,46.6,"20,023",https://www.usnews.com/education/best-global-universities/szeged-university-501065
+272,physics,409,Pohang University of Science & Technology (POSTECH),South Korea,Pohang,56.1,54.2,"3,260",https://www.usnews.com/education/best-global-universities/pohang-university-of-science-technology-postech-503003
+273,physics,213,Southern University of Science & Technology,China,Shenzhen,56.1,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+274,physics,219,University of Munster,Germany,Munster,56.1,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+275,physics,611,Palacky University Olomouc,Czech Republic,Olomouc,55.8,48.1,"18,774",https://www.usnews.com/education/best-global-universities/palacky-university-olomouc-506534
+276,physics,250,University of Florence,Italy,Florence,55.8,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+277,physics,87,Free University of Berlin,Germany,Berlin,55.6,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+278,physics,537,West Virginia University,United States,Morgantown,55.4,50.1,N/A,https://www.usnews.com/education/best-global-universities/west-virginia-university-238032
+279,physics,277,Durham University,United Kingdom,Durham (U.K.),55.3,59.3,"18,715",https://www.usnews.com/education/best-global-universities/durham-university-501717
+280,physics,421,Jilin University,China,Changchun,55.3,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+281,physics,475,Justus Liebig University Giessen,Germany,Giessen,55.3,52.3,N/A,https://www.usnews.com/education/best-global-universities/justus-liebig-university-giessen-500790
+282,physics,889,West University of Timisoara,Romania,Timisoara,55.3,41.1,"14,527",https://www.usnews.com/education/best-global-universities/west-university-of-timisoara-529320
+283,physics,95,Ghent University,Belgium,Gent,55.2,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+284,physics,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,55.2,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+285,physics,544,University of Wisconsin Milwaukee,United States,Milwaukee,55,49.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-wisconsin-milwaukee-240453
+286,physics,74,Leiden University,Netherlands,Leiden,54.9,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+287,physics,482,Quaid I Azam University,Pakistan,Islamabad,54.9,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+288,physics,123,University of Auckland,New Zealand,Auckland,54.8,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+289,physics,78,Vanderbilt University,United States,Nashville,54.8,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+290,physics,732,Warsaw University of Technology,Poland,Warsaw,54.7,44.9,"26,482",https://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920
+291,physics,337,Chalmers University of Technology,Sweden,Gothenburg,54.6,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+292,physics,421,University of Johannesburg,South Africa,Johannesburg,54.5,53.9,"29,167",https://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854
+293,physics,120,City University of Hong Kong,Hong Kong,Kowloon,54.4,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+294,physics,150,University of Basel,Switzerland,Basel,54.4,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+295,physics,782,AGH University of Science & Technology,Poland,Krakow,54.3,43.6,N/A,https://www.usnews.com/education/best-global-universities/agh-university-of-science-technology-504859
+296,physics,304,Technical University of Berlin,Germany,Berlin,54.3,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+297,physics,203,University of Cincinnati,United States,Cincinnati,54.3,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+298,physics,313,University of Granada,Spain,Granada,54.3,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+299,physics,759,Panjab University,India,Chandigarh,54.2,44.2,N/A,https://www.usnews.com/education/best-global-universities/panjab-university-528843
+300,physics,633,University of Wuppertal,Germany,Wuppertal,54.1,47.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-wuppertal-529387
+301,physics,379,Friedrich Schiller University of Jena,Germany,Jena,53.7,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+302,physics,540,Lanzhou University,China,Lanzhou,53.6,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+303,physics,223,University of Antwerp,Belgium,Antwerp,53.6,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+304,physics,510,University of Regensburg,Germany,Regensburg,53.5,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-regensburg-500220
+305,physics,629,University of Stuttgart,Germany,Stuttgart,53.5,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+306,physics,44,Utrecht University,Netherlands,Utrecht,53.5,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+307,physics,852,Indian Institute of Science Education & Research (IISER) - Kolkata,India,Nadia,53.4,42,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-science-education-research-iiser---kolkata-529446
+308,physics,136,University of Alberta,Canada,Edmonton,53.4,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+309,physics,342,Eindhoven University of Technology,Netherlands,Eindhoven,53.3,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+310,physics,631,Istanbul Aydin University,Turkey,Sefakoy-Kucukcekmece,53.3,47.5,"27,826",https://www.usnews.com/education/best-global-universities/istanbul-aydin-university-529451
+311,physics,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,53.3,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+312,physics,879,Tomsk Polytechnic University,Russia,Tomsk,53.2,41.3,N/A,https://www.usnews.com/education/best-global-universities/tomsk-polytechnic-university-529158
+313,physics,826,Yerevan Physics Institute,Armenia,Yerevan,53.2,42.4,N/A,https://www.usnews.com/education/best-global-universities/yerevan-physics-institute-529063
+314,physics,583,Kobe University,Japan,Kobe,53.1,48.7,"15,478",https://www.usnews.com/education/best-global-universities/kobe-university-504263
+315,physics,611,Montana State University Bozeman,United States,Bozeman,53.1,48.1,"14,094",https://www.usnews.com/education/best-global-universities/montana-state-university-bozeman-180461
+316,physics,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,53,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+317,physics,196,Harbin Institute of Technology,China,Harbin,52.7,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+318,physics,507,Kansas State University,United States,Manhattan,52.7,51,N/A,https://www.usnews.com/education/best-global-universities/kansas-state-university-155399
+319,physics,"1,017",National University of Science & Technology (MISIS),Russia,Moscow (Russia),52.7,38.4,"7,300",https://www.usnews.com/education/best-global-universities/national-university-of-science-technology-misis-529075
+320,physics,145,University of Nottingham,United Kingdom,Nottingham,52.7,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+321,physics,50,KU Leuven,Belgium,Leuven,52.6,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+322,physics,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),52.6,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+323,physics,725,Indian Institute of Technology (IIT) - Gandhinagar,India,Gandhinagar,52.4,45.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-gandhinagar-529780
+324,physics,328,Washington State University,United States,Pullman,52.4,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+325,physics,280,University of York - UK,United Kingdom,York,52.3,59.2,"17,965",https://www.usnews.com/education/best-global-universities/university-of-york-uk-505776
+326,physics,643,Istanbul Technical University,Turkey,Istanbul,52.2,47.1,"18,562",https://www.usnews.com/education/best-global-universities/istanbul-technical-university-503684
+327,physics,269,Beijing Normal University,China,Beijing,52.1,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+328,physics,298,Beijing Institute of Technology,China,Beijing,52,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+329,physics,346,Ruhr University Bochum,Germany,Bochum,51.9,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+330,physics,789,Universite de Savoie,France,Chambery,51.9,43.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-savoie-501758
+331,physics,276,Colorado State University,United States,Fort Collins,51.8,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+332,physics,710,Transylvania University of Brasov,Romania,Brasov,51.8,45.4,"19,351",https://www.usnews.com/education/best-global-universities/transylvania-university-of-brasov-529684
+333,physics,717,Babes Bolyai University from Cluj,Romania,Cluj-Napoca,51.7,45.3,"39,811",https://www.usnews.com/education/best-global-universities/babes-bolyai-university-from-cluj-504529
+334,physics,304,Sichuan University,China,Chengdu,51.7,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+335,physics,239,Tufts University,United States,Medford,51.6,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+336,physics,598,University of the Andes Colombia,Colombia,Bogota,51.6,48.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-andes-colombia-528846
+337,physics,247,Xiamen University,China,Xiamen,51.5,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+338,physics,593,Royal Holloway University London,United Kingdom,Egham,51.4,48.4,"10,770",https://www.usnews.com/education/best-global-universities/royal-holloway-university-london-501237
+339,physics,466,University of Basque Country,Spain,Leioa,51.3,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+340,physics,413,University of Central Florida,United States,Orlando,51.3,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+341,physics,463,University of Salerno,Italy,Fisciano,51.3,52.8,"26,289",https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+342,physics,787,National University of La Plata,Argentina,Buenos Aires,51.1,43.5,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-la-plata-502752
+343,physics,984,Universitat Siegen,Germany,Siegen,51.1,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-siegen-529388
+344,physics,317,Simon Fraser University,Canada,Burnaby,51,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+345,physics,526,Carleton University,Canada,Ottawa,50.9,50.3,N/A,https://www.usnews.com/education/best-global-universities/carleton-university-499991
+346,physics,244,University of Cologne,Germany,Koln,50.8,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+347,physics,643,University of Louisville,United States,Louisville,50.8,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-louisville-157289
+348,physics,871,Mohammed First University of Oujda,Morocco,Oujda,50.7,41.5,N/A,https://www.usnews.com/education/best-global-universities/mohammed-first-university-of-oujda-529326
+349,physics,,Nagasaki Institute of Applied Science,Japan,Nagasaki,50.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/nagasaki-institute-of-applied-science-529751
+350,physics,297,Polytechnic University of Milan,Italy,Milan,50.7,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+351,physics,286,State University of New York (SUNY) Buffalo,United States,Buffalo,50.7,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+352,physics,199,Swinburne University of Technology,Australia,Hawthorn,50.7,63,"15,327",https://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823
+353,physics,36,University of Queensland,Australia,Brisbane,50.7,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+354,physics,801,Vilnius University,Lithuania,Vilnius,50.7,43.2,N/A,https://www.usnews.com/education/best-global-universities/vilnius-university-503315
+355,physics,688,University of Calabria,Italy,Arcavacata di Rende,50.6,46,N/A,https://www.usnews.com/education/best-global-universities/university-of-calabria-505594
+356,physics,304,University of Kansas,United States,Lawrence,50.6,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+357,physics,32,Washington University (WUSTL),United States,St. Louis,50.5,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+358,physics,182,Eberhard Karls University of Tubingen,Germany,Tubingen,50.4,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+359,physics,507,Universidade do Minho,Portugal,Braga,50.4,51,"19,922",https://www.usnews.com/education/best-global-universities/universidade-do-minho-506228
+360,physics,352,University of St Andrews,United Kingdom,Fife,50.4,56,"9,645",https://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328
+361,physics,732,Southern Methodist University,United States,Dallas,50.3,44.9,N/A,https://www.usnews.com/education/best-global-universities/southern-methodist-university-228246
+362,physics,421,Shanghai University,China,Shanghai,50.2,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+363,physics,196,Tongji University,China,Shanghai,50.2,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+364,physics,739,Isfahan University of Technology,Iran,Isfahan,50.1,44.6,"11,323",https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590
+365,physics,573,Politecnico di Bari,Italy,Bari,50.1,49,N/A,https://www.usnews.com/education/best-global-universities/politecnico-di-bari-528918
+366,physics,461,University of Oklahoma - Norman,United States,Norman,50,52.9,"26,450",https://www.usnews.com/education/best-global-universities/university-of-oklahoma-norman-207500
+367,physics,385,Wayne State University,United States,Detroit,49.9,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+368,physics,"1,172",Alexandru Ioan Cuza University,Romania,Iasi,49.8,34.8,N/A,https://www.usnews.com/education/best-global-universities/alexandru-ioan-cuza-university-529053
+369,physics,322,University of Notre Dame,United States,Notre Dame,49.8,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+370,physics,349,University of Texas Dallas,United States,Richardson,49.8,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+371,physics,,Kyoto University of Education,Japan,Kyoto,49.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-of-education-529651
+372,physics,241,Hebrew University of Jerusalem,Israel,Jerusalem,49.6,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+373,physics,926,Indian Institute of Science Education & Research (IISER) Pune,India,Pashan,49.6,40.4,"1,512",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-education-research-iiser-pune-529311
+374,physics,928,Northern Illinois University,United States,DeKalb,49.6,40.3,N/A,https://www.usnews.com/education/best-global-universities/northern-illinois-university-147703
+375,physics,493,Universite de Rennes 1,France,Rennes,49.6,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+376,physics,667,Hiroshima University,Japan,Hiroshima,49.5,46.5,"14,612",https://www.usnews.com/education/best-global-universities/hiroshima-university-502589
+377,physics,992,Benemerita Universidad Autonoma de Puebla,Mexico,Puebla,49.3,38.9,N/A,https://www.usnews.com/education/best-global-universities/benemerita-universidad-autonoma-de-puebla-528925
+378,physics,860,Hassan II University of Casablanca,Morocco,Casablanca,49.2,41.8,N/A,https://www.usnews.com/education/best-global-universities/hassan-ii-university-of-casablanca-529470
+379,physics,,Hiroshima Institute of Technology,Japan,Hiroshima,49.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/hiroshima-institute-of-technology-529435
+380,physics,633,Oklahoma State University - Stillwater,United States,Stillwater,49.2,47.3,"21,250",https://www.usnews.com/education/best-global-universities/oklahoma-state-university-stillwater-207388
+381,physics,478,Universite Cote d'Azur,France,Nice,49.2,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+382,physics,236,University College Dublin,Ireland,Dublin,49.2,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+383,physics,199,University of Bergen,Norway,Bergen,49.2,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+384,physics,801,Bahcesehir University,Turkey,Istanbul,49.1,43.2,N/A,https://www.usnews.com/education/best-global-universities/bahcesehir-university-529754
+385,physics,"1,017",Izmir Institute of Technology,Turkey,Izmir,49.1,38.4,"5,542",https://www.usnews.com/education/best-global-universities/izmir-institute-of-technology-529316
+386,physics,618,University of Udine,Italy,Udine,49.1,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-udine-504338
+387,physics,770,Louisiana Technical University,United States,Ruston,48.8,43.9,N/A,https://www.usnews.com/education/best-global-universities/louisiana-technical-university-159647
+388,physics,290,Universite de Bordeaux,France,Talence,48.8,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+389,physics,156,Arizona State University-Tempe,United States,Tempe,48.7,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+390,physics,826,National Central University,Taiwan,Jhongli City,48.7,42.4,"10,853",https://www.usnews.com/education/best-global-universities/national-central-university-504757
+391,physics,504,Polytechnic University of Turin,Italy,Turin,48.7,51.1,"29,428",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+392,physics,789,University of Split,Croatia,Split,48.7,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-split-528851
+393,physics,801,Universidade do Estado do Rio de Janeiro,Brazil,Maracana,48.6,43.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-do-estado-do-rio-de-janeiro-502771
+394,physics,776,Universidade Federal do ABC (UFABC),Brazil,Santo Andre,48.6,43.8,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-abc-ufabc-528920
+395,physics,970,University of Sofia,Bulgaria,Sofia,48.6,39.4,"22,490",https://www.usnews.com/education/best-global-universities/university-of-sofia-504656
+396,physics,,Manhattan College,United States,Riverdale,48.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/manhattan-college-192703
+397,physics,405,State University of New York (SUNY) Albany,United States,Albany,48.4,54.3,"16,090",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-albany-196060
+398,physics,231,University of Electronic Science & Technology of China,China,Chengdu,48.4,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+399,physics,520,University of Jyvaskyla,Finland,Jyvaskyla,48.4,50.5,"10,434",https://www.usnews.com/education/best-global-universities/university-of-jyvaskyla-500627
+400,physics,"1,002",Mohammed V University in Rabat,Morocco,Rabat,48.3,38.7,N/A,https://www.usnews.com/education/best-global-universities/mohammed-v-university-in-rabat-528985
+401,physics,736,TOBB Ekonomi ve Teknoloji University,Turkey,Ankara,48.3,44.7,"4,822",https://www.usnews.com/education/best-global-universities/tobb-ekonomi-ve-teknoloji-university-529325
+402,physics,884,University of Basilicata,Italy,Potenza,48.3,41.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basilicata-528962
+403,physics,109,Aarhus University,Denmark,Aarhus,48.2,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+404,physics,,Georgian Technical University,Georgia,Tbilisi,48.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/georgian-technical-university-529654
+405,physics,426,York University - Canada,Canada,Toronto,48.2,53.8,"44,036",https://www.usnews.com/education/best-global-universities/york-university-canada-499962
+406,physics,717,University of Delhi,India,New Delhi,48.1,45.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-delhi-504916
+407,physics,812,University of Seoul,South Korea,Seoul,48.1,42.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-seoul-528845
+408,physics,468,Florida International University,United States,Miami,48,52.6,"35,590",https://www.usnews.com/education/best-global-universities/florida-international-university-133951
+409,physics,684,City College of New York (CUNY),United States,New York City,47.9,46.1,N/A,https://www.usnews.com/education/best-global-universities/city-college-of-new-york-cuny-190567
+410,physics,693,University of Ioannina,Greece,Ioannina,47.8,45.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-ioannina-501360
+411,physics,256,Nankai University,China,Nankai,47.7,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+412,physics,295,Queens University Belfast,United Kingdom,Belfast,47.6,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+413,physics,466,University of Canterbury,New Zealand,Christchurch,47.6,52.7,"15,245",https://www.usnews.com/education/best-global-universities/university-of-canterbury-504532
+414,physics,907,California State University Fresno,United States,Fresno,47.5,40.8,N/A,https://www.usnews.com/education/best-global-universities/california-state-university-fresno-110556
+415,physics,537,University of Fribourg,Switzerland,Fribourg,47.5,50.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-fribourg-528849
+416,physics,912,Florida Institute of Technology,United States,Melbourne (U.S.),47.4,40.7,"5,091",https://www.usnews.com/education/best-global-universities/florida-institute-of-technology-133881
+417,physics,722,Ankara University,Turkey,Ankara,47.3,45.2,"71,311",https://www.usnews.com/education/best-global-universities/ankara-university-503075
+418,physics,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,47.3,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+419,physics,337,Complutense University of Madrid,Spain,Madrid,47.2,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+420,physics,,Universidad Antonio Narino,Colombia,Bogota,47.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/universidad-antonio-narino-529437
+421,physics,"1,190",Gaziantep University,Turkey,Gaziantep,47.1,34.5,N/A,https://www.usnews.com/education/best-global-universities/gaziantep-university-528972
+422,physics,643,University of Cyprus,Cyprus,Nicosia,47.1,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cyprus-528848
+423,physics,234,Southeast University - China,China,Nanjing,47,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+424,physics,750,Okayama University,Japan,Okayama City,46.9,44.4,N/A,https://www.usnews.com/education/best-global-universities/okayama-university-504249
+425,physics,730,University of Salento,Italy,Lecce,46.9,45,"13,608",https://www.usnews.com/education/best-global-universities/university-of-salento-528853
+426,physics,,Mimar Sinan Guzel Sanatlar University,Turkey,Finkikli,46.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/mimar-sinan-guzel-sanatlar-university-529436
+427,physics,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,46.8,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+428,physics,667,Kyungpook National University,South Korea,Daegu,46.7,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+429,physics,745,Parthenope University Naples,Italy,Naples,46.6,44.5,N/A,https://www.usnews.com/education/best-global-universities/parthenope-university-naples-529142
+430,physics,871,Universidade Federal do Rio Grande do Norte,Brazil,Natal/RN,46.6,41.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-norte-529407
+431,physics,531,University of Santiago De Compostela,Spain,Santiago de Compostela,46.5,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+432,physics,329,University of Tehran,Iran,Tehran,46.3,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+433,physics,432,Hokkaido University,Japan,Sapporo,46.2,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+434,physics,168,Hunan University,China,Changsha,46.2,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+435,physics,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),46.2,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+436,physics,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,46.1,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+437,physics,"1,346",Universite de Haute-Alsace (UHA),France,Mulhouse,46,31.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-haute-alsace-uha-528946
+438,physics,564,Ecole Normale Superieure de Lyon (ENS de LYON),France,Lyon,45.9,49.2,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-de-lyon-ens-de-lyon-503874
+439,physics,"1,095",Instituto Politecnico Nacional - Mexico,Mexico,Mexico City,45.7,36.7,N/A,https://www.usnews.com/education/best-global-universities/instituto-politecnico-nacional-mexico-506818
+440,physics,80,University of Southern California,United States,Los Angeles,45.7,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+441,physics,"1,101",Cadi Ayyad University of Marrakech,Morocco,Marrakech,45.6,36.6,N/A,https://www.usnews.com/education/best-global-universities/cadi-ayyad-university-of-marrakech-529144
+442,physics,"1,032",University of Eastern Piedmont Amedeo Avogadro,Italy,Vercelli,45.6,38.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-eastern-piedmont-amedeo-avogadro-528952
+443,physics,215,Trinity College Dublin,Ireland,Dublin,45.5,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+444,physics,215,University of Ottawa,Canada,Ottawa,45.4,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+445,physics,547,Chulalongkorn University,Thailand,Bangkok,45.3,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+446,physics,564,University of Ferrara,Italy,Ferrara,45.3,49.2,"20,507",https://www.usnews.com/education/best-global-universities/university-of-ferrara-503123
+447,physics,801,Ilia State University,Georgia,Tbilisi,45.1,43.2,"16,196",https://www.usnews.com/education/best-global-universities/ilia-state-university-529448
+448,physics,173,Cankaya University,Turkey,Ankara,45,64.6,N/A,https://www.usnews.com/education/best-global-universities/cankaya-university-529758
+449,physics,322,Ulm University,Germany,Ulm,45,57.4,"10,271",https://www.usnews.com/education/best-global-universities/ulm-university-502475
+450,physics,360,Ulsan National Institute of Science & Technology (UNIST),South Korea,Ulsan,45,55.7,N/A,https://www.usnews.com/education/best-global-universities/ulsan-national-institute-of-science-technology-unist-528883
+451,physics,"1,059",Universidade Federal de Juiz de Fora,Brazil,Juiz de Fora,45,37.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-juiz-de-fora-529150
+452,physics,"1,222",Universidade Federal de Sao Joao del-Rei,Brazil,Sao Joao del-Rei,45,33.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-joao-del-rei-529322
+453,physics,,British University in Egypt,Egypt,Cairo,44.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/british-university-in-egypt-512943
+454,physics,702,Skolkovo Institute of Science & Technology,Russia,Moscow (Russia),44.9,45.6,N/A,https://www.usnews.com/education/best-global-universities/skolkovo-institute-of-science-technology-529683
+455,physics,413,Universite de Lorraine,France,Nancy,44.9,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+456,physics,959,Ural Federal University,Russia,Ekaterinburg,44.9,39.7,N/A,https://www.usnews.com/education/best-global-universities/ural-federal-university-529237
+457,physics,696,Lappeenranta University of Technology,Finland,Lappeenranta,44.8,45.8,"4,609",https://www.usnews.com/education/best-global-universities/lappeenranta-university-of-technology-528924
+458,physics,"1,233",Universidad Autonoma de San Luis Potosi,Mexico,Mexico City,44.8,33.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-autonoma-de-san-luis-potosi-528932
+459,physics,152,Case Western Reserve University,United States,Cleveland,44.7,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+460,physics,487,Universidade Nova de Lisboa,Portugal,Lisbon,44.7,51.7,"20,996",https://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121
+461,physics,385,Zhengzhou University,China,Zhengzhou,44.7,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+462,physics,363,Cairo University,Egypt,Giza,44.6,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+463,physics,441,University of Science & Technology Beijing,China,Beijing,44.6,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-science-technology-beijing-506176
+464,physics,794,University of Debrecen,Hungary,Debrecen,44.5,43.3,"29,045",https://www.usnews.com/education/best-global-universities/university-of-debrecen-504230
+465,physics,140,University of Leeds,United Kingdom,Leeds,44.5,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+466,physics,611,Universidad de Cantabria,Spain,Santander,44.4,48.1,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cantabria-501803
+467,physics,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,44.4,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+468,physics,"1,354",Homi Bhabha National Institute,India,Mumbai,44.3,31.2,N/A,https://www.usnews.com/education/best-global-universities/homi-bhabha-national-institute-529784
+469,physics,247,Universidade do Porto,Portugal,Porto,44.3,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+470,physics,501,University of Parma,Italy,Parma,44.3,51.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-parma-501495
+471,physics,590,Ben Gurion University,Israel,Beer-Sheva,44.1,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+472,physics,372,Baylor University,United States,Waco,44,55.2,N/A,https://www.usnews.com/education/best-global-universities/baylor-university-223232
+473,physics,209,Central South University,China,Changsha,44,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+474,physics,261,University of Southern Denmark,Denmark,Odense,43.9,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+475,physics,333,Northwestern Polytechnical University,China,Xi'an,43.7,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+476,physics,309,Temple University,United States,Philadelphia,43.7,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+477,physics,875,Indian Institute of Technology (IIT) - Hyderabad,India,Teangana,43.5,41.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-hyderabad-529636
+478,physics,"1,022",University of Wroclaw,Poland,Wroclaw,43.5,38.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-wroclaw-502646
+479,physics,,Hellenic Open University,Greece,Patra,43.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/hellenic-open-university-529783
+480,physics,844,Chonnam National University,South Korea,Gwangju,43.1,42.2,"24,436",https://www.usnews.com/education/best-global-universities/chonnam-national-university-503755
+481,physics,826,Graduate University for Advanced Studies - Japan,Japan,Hayama,43.1,42.4,N/A,https://www.usnews.com/education/best-global-universities/graduate-university-for-advanced-studies-japan-528948
+482,physics,"1,627",Kafkas University,Turkey,Merkez,42.9,24.8,N/A,https://www.usnews.com/education/best-global-universities/kafkas-university-529317
+483,physics,,Ochanomizu University,Japan,Tokyo,42.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/ochanomizu-university-529332
+484,physics,,Piri Reis University,Turkey,Tuzla,42.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/piri-reis-university-529753
+485,physics,"1,066",California State University Sacramento,United States,Sacramento,42.8,37.3,N/A,https://www.usnews.com/education/best-global-universities/california-state-university-sacramento-110617
+486,physics,260,Tianjin University,China,Tianjin,42.8,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+487,physics,684,University of Cagliari,Italy,Cagliari,42.8,46.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cagliari-506894
+488,physics,41,University of North Carolina Chapel Hill,United States,Chapel Hill,42.8,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+489,physics,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,42.7,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+490,physics,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,42.6,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+491,physics,745,Istanbul University,Turkey,Istanbul,42.5,44.5,"59,250",https://www.usnews.com/education/best-global-universities/istanbul-university-502403
+492,physics,400,University of Twente,Netherlands,Enschede,42.4,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+493,physics,"1,678",Giresun University,Turkey,Giresun,42.3,23.6,N/A,https://www.usnews.com/education/best-global-universities/giresun-university-529785
+494,physics,330,Linkoping University,Sweden,Linkoping,42.3,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+495,physics,520,University of Sevilla,Spain,Seville,42.3,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+496,physics,540,Jinan University,China,Guangzhou,42.1,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+497,physics,432,University of Houston,United States,Houston,42.1,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+498,physics,112,University of Technology Sydney,Australia,Ultimo,42.1,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+499,physics,300,University of Duisburg Essen,Germany,Essen,42,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+500,physics,213,King Saud University,Saudi Arabia,Riyadh,41.9,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+501,physics,722,University of Oviedo,Spain,Oviedo,41.8,45.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oviedo-503830
+502,physics,"1,180",Visva Bharati University,India,Santiniketan,41.7,34.7,N/A,https://www.usnews.com/education/best-global-universities/visva-bharati-university-529447
+503,physics,"1,626",Adiyaman University,Turkey,Adiyaman merkez,41.6,24.9,N/A,https://www.usnews.com/education/best-global-universities/adiyaman-university-529319
+504,physics,"1,132",Cukurova University,Turkey,Adana,41.6,35.8,N/A,https://www.usnews.com/education/best-global-universities/cukurova-university-528939
+505,physics,194,Universite de Montpellier,France,Montpellier,41.6,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+506,physics,"1,288",University of Puerto Rico Mayaguez,United States,Mayaguez,41.6,32.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-puerto-rico-mayaguez-243197
+507,physics,230,North Carolina State University,United States,Raleigh,41.5,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+508,physics,346,University of South Carolina Columbia,United States,Columbia,41.4,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+509,physics,"1,266",Mersin University,Turkey,Mersin,41.3,32.9,N/A,https://www.usnews.com/education/best-global-universities/mersin-university-528942
+510,physics,,Universidad Iberoamericana Ciudad de Mexico,Mexico,Ciudad de México,41.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/universidad-iberoamericana-ciudad-de-mexico-529782
+511,physics,"1,106",Indian Institute of Technology (IIT) - Guwahati,India,Guwahati,41.2,36.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-guwahati-528994
+512,physics,342,Wuhan University of Technology,China,Wuhan,41.2,56.4,"55,426",https://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361
+513,physics,525,Universidade de Aveiro,Portugal,Aveiro,41.1,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+514,physics,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,40.9,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+515,physics,"1,037",Brandenburg University of Technology Cottbus,Germany,Cottbus,40.8,37.9,N/A,https://www.usnews.com/education/best-global-universities/brandenburg-university-of-technology-cottbus-529323
+516,physics,849,IMT Atlantique,France,Toulouse,40.8,42.1,"1,436",https://www.usnews.com/education/best-global-universities/imt-atlantique-529450
+517,physics,392,Dalian University of Technology,China,Dalian,40.7,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+518,physics,447,ShanghaiTech University,China,Pudong,40.6,53.3,N/A,https://www.usnews.com/education/best-global-universities/shanghaitech-university-529508
+519,physics,662,Universidad Nacional de Colombia,Colombia,Bogota,40.6,46.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-nacional-de-colombia-505620
+520,physics,,Guglielmo Marconi University,Italy,Rome,40.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/guglielmo-marconi-university-529752
+521,physics,992,Marmara University,Turkey,Istanbul,40.5,38.9,"62,045",https://www.usnews.com/education/best-global-universities/marmara-university-502695
+522,physics,"1,085",Osaka Metropolitan University,Japan,Osaka,40.5,36.9,"15,782",https://www.usnews.com/education/best-global-universities/osaka-metropolitan-university-530032
+523,physics,370,University of Surrey,United Kingdom,Surrey,40.5,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+524,physics,485,Brunel University,United Kingdom,Uxbridge,40.4,51.9,"14,185",https://www.usnews.com/education/best-global-universities/brunel-university-502232
+525,physics,"1,250",Taras Shevchenko National University Kiev,Ukraine,Kyiv,40.3,33.4,"23,857",https://www.usnews.com/education/best-global-universities/taras-shevchenko-national-university-kiev-529168
+526,physics,223,Ton Duc Thang University,Vietnam,Ho Chi Minh City,40.3,61.8,N/A,https://www.usnews.com/education/best-global-universities/ton-duc-thang-university-529637
+527,physics,"1,103",University of Tabuk,Saudi Arabia,Tabuk,40.3,36.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-tabuk-529786
+528,physics,959,Beni Suef University,Egypt,Beni Suef,40.2,39.7,"75,200",https://www.usnews.com/education/best-global-universities/beni-suef-university-514394
+529,physics,152,University of Exeter,United Kingdom,Exeter,40.2,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+530,physics,"1,027",Shanxi University,China,Taiyuan,40,38.2,N/A,https://www.usnews.com/education/best-global-universities/shanxi-university-529038
+531,physics,520,Kyung Hee University,South Korea,Seoul,39.9,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+532,physics,"1,082",National University of Defense Technology - China,China,Changsha,39.9,37,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-defense-technology-china-505128
+533,physics,702,Nanjing Normal University,China,Nanjing,39.8,45.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-normal-university-528982
+534,physics,309,University of Connecticut,United States,Storrs,39.8,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+535,physics,558,University of Konstanz,Germany,Konstanz,39.8,49.4,"5,758",https://www.usnews.com/education/best-global-universities/university-of-konstanz-504712
+536,physics,"1,389",Indian Institute of Technology Bhubaneswar,India,Argul,39.6,30.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-bhubaneswar-529756
+537,physics,989,Old Dominion University,United States,Norfolk,39.6,39,"18,705",https://www.usnews.com/education/best-global-universities/old-dominion-university-232982
+538,physics,"1,095",Tokyo University of Science,Japan,Tokyo,39.5,36.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-science-503707
+539,physics,779,University of Rostock,Germany,Rostock,39.5,43.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-rostock-500634
+540,physics,432,Singapore University of Technology & Design,Singapore,Singapore,39.4,53.6,N/A,https://www.usnews.com/education/best-global-universities/singapore-university-of-technology-design-529432
+541,physics,,Riga Technical University,Latvia,Riga,39.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/riga-technical-university-529755
+542,physics,"1,113",International Islamic University Malaysia,Malaysia,Selangor,39.2,36.3,N/A,https://www.usnews.com/education/best-global-universities/international-islamic-university-malaysia-529529
+543,physics,698,Rensselaer Polytechnic Institute,United States,Troy,39.2,45.7,N/A,https://www.usnews.com/education/best-global-universities/rensselaer-polytechnic-institute-194824
+544,physics,,Utah Valley University,United States,Orem,39,N/A,N/A,https://www.usnews.com/education/best-global-universities/utah-valley-university-230737
+545,physics,860,Kazan Federal University,Russia,Kazan,38.9,41.8,"22,603",https://www.usnews.com/education/best-global-universities/kazan-federal-university-529155
+546,physics,,University Ruhuna,Sri Lanka,Matara,38.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-ruhuna-530172
+547,physics,889,Jeonbuk National University,South Korea,Jeonju,38.8,41.1,"21,782",https://www.usnews.com/education/best-global-universities/jeonbuk-national-university-503088
+548,physics,219,South China University of Technology,China,Guangzhou,38.8,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+549,physics,,Zewail City of Science & Technology,Egypt,6th of October City,38.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/zewail-city-of-science-technology-529452
+550,physics,"1,072",Catholic University of America,United States,"Washington, D.C.",38.7,37.2,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-america-131283
+551,physics,684,Ihsan Dogramaci Bilkent University,Turkey,Ankara,38.7,46.1,"9,682",https://www.usnews.com/education/best-global-universities/ihsan-dogramaci-bilkent-university-506575
+552,physics,879,Indian Institute of Technology (IIT) - Kanpur,India,Kanpur,38.7,41.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622
+553,physics,"1,140",University of Punjab,Pakistan,Lahore,38.7,35.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-punjab-529178
+554,physics,739,Al Azhar University,Egypt,Cairo,38.6,44.6,N/A,https://www.usnews.com/education/best-global-universities/al-azhar-university-508017
+555,physics,639,National Cheng Kung University,Taiwan,Tainan City,38.5,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+556,physics,531,Nanjing University of Science & Technology,China,Nanjing,38.3,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+557,physics,397,Sejong University,South Korea,Seoul,38.3,54.5,N/A,https://www.usnews.com/education/best-global-universities/sejong-university-528964
+558,physics,561,Universita di Modena e Reggio Emilia,Italy,Modena,38.3,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+559,physics,564,University of Sharjah,United Arab Emirates,Sharjah University City,38.3,49.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-sharjah-529769
+560,physics,750,Bar Ilan University,Israel,Ramat Gan,38,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+561,physics,540,Ain Shams University,Egypt,Cairo,37.9,50,"146,668",https://www.usnews.com/education/best-global-universities/ain-shams-university-500744
+562,physics,598,Beijing Jiaotong University,China,Beijing,37.9,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+563,physics,,An Najah National University,Palestine,Nablus,37.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/an-najah-national-university-511302
+564,physics,"1,589",Erzincan Binali Yildirim University,Turkey,Erzincan merkez,37.7,25.8,N/A,https://www.usnews.com/education/best-global-universities/erzincan-binali-yildirim-university-529318
+565,physics,"1,022",University of Aegean,Greece,Mytilene,37.7,38.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-aegean-529685
+566,physics,"1,506",Gaziosmanpasa University,Turkey,Tokat,37.6,27.7,N/A,https://www.usnews.com/education/best-global-universities/gaziosmanpasa-university-528975
+567,physics,852,Universidad Carlos III de Madrid,Spain,Madrid,37.6,42,"18,133",https://www.usnews.com/education/best-global-universities/universidad-carlos-iii-de-madrid-500603
+568,physics,379,Chongqing University,China,Chongqing,37.5,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+569,physics,554,Hacettepe University,Turkey,Ankara,37.5,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+570,physics,346,Leipzig University,Germany,Leipzig,37.5,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+571,physics,"1,049",University of Maribor,Slovenia,Maribor,37.5,37.6,"12,403",https://www.usnews.com/education/best-global-universities/university-of-maribor-528882
+572,physics,352,University of Delaware,United States,Newark,37.3,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+573,physics,256,University of Tartu,Estonia,Tartu,37.3,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-tartu-502553
+574,physics,618,Nanjing Tech University,China,Nanjing,37.1,47.9,"38,866",https://www.usnews.com/education/best-global-universities/nanjing-tech-university-501774
+575,physics,,Ozyegin University,Turkey,Istanbul,37.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/ozyegin-university-529321
+576,physics,770,South China Normal University,China,Guangzhou,37.1,43.9,N/A,https://www.usnews.com/education/best-global-universities/south-china-normal-university-501607
+577,physics,"1,365",University of Pavol Jozef Safarik Kosice,Slovakia,Kosice,37.1,30.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavol-jozef-safarik-kosice-528995
+578,physics,992,Johannes Kepler University Linz,Austria,Linz,37,38.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-kepler-university-linz-528837
+579,physics,429,Queens University - Canada,Canada,Kingston (Canada),37,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+580,physics,452,University of Potsdam,Germany,Potsdam (Germany),37,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-potsdam-505430
+581,physics,517,University of Zagreb,Croatia,Zagreb,37,50.6,"65,436",https://www.usnews.com/education/best-global-universities/university-of-zagreb-502783
+582,physics,710,Assiut University,Egypt,Assiut,36.7,45.4,N/A,https://www.usnews.com/education/best-global-universities/assiut-university-513421
+583,physics,787,Aligarh Muslim University,India,Aligarh,36.6,43.5,N/A,https://www.usnews.com/education/best-global-universities/aligarh-muslim-university-528840
+584,physics,,Bingol University,Turkey,Bingöl,36.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/bingol-university-529789
+585,physics,"1,455",Lobachevsky State University of Nizhni Novgorod,Russia,Nizhny Novgorod,36.6,28.7,"18,767",https://www.usnews.com/education/best-global-universities/lobachevsky-state-university-of-nizhni-novgorod-529207
+586,physics,943,Taibah University,Saudi Arabia,Medina,36.6,40,N/A,https://www.usnews.com/education/best-global-universities/taibah-university-512768
+587,physics,901,Universidade Federal de Pelotas,Brazil,Pelotas,36.6,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pelotas-528834
+588,physics,186,University of Wollongong,Australia,Wollongong,36.6,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+589,physics,400,Nantes Universite,France,Nantes,36.5,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+590,physics,,Cag University - Turkey,Turkey,Mersin,36.4,N/A,N/A,https://www.usnews.com/education/best-global-universities/cag-university-turkey-529449
+591,physics,321,East China Normal University,China,Shanghai,36.4,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+592,physics,"1,167",Firat University,Turkey,Elazig,36.4,34.9,N/A,https://www.usnews.com/education/best-global-universities/firat-university-528830
+593,physics,175,University of Calgary,Canada,Calgary,36.4,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+594,physics,"1,151",Budapest University of Technology & Economics,Hungary,Budapest,36.3,35.4,N/A,https://www.usnews.com/education/best-global-universities/budapest-university-of-technology-economics-502324
+595,physics,504,Georgia State University,United States,Atlanta,36.3,51.1,N/A,https://www.usnews.com/education/best-global-universities/georgia-state-university-139940
+596,physics,,Beykent University,Turkey,Esenyurt / İstanbul,36.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/beykent-university-529788
+597,physics,561,HSE University (National Research University Higher School of Economics),Russia,Moscow (Russia),36.1,49.3,N/A,https://www.usnews.com/education/best-global-universities/hse-university-national-research-university-higher-school-of-economics-529129
+598,physics,875,University of the Free State,South Africa,Bloemfontein,36.1,41.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-free-state-529166
+599,physics,,Sinop University,Turkey,Sinop,36,N/A,N/A,https://www.usnews.com/education/best-global-universities/sinop-university-529790
+600,physics,352,Drexel University,United States,Philadelphia,35.9,56,N/A,https://www.usnews.com/education/best-global-universities/drexel-university-212054
+601,physics,372,University of Manitoba,Canada,Winnipeg,35.9,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+602,physics,794,Kent State University,United States,Kent,35.8,43.3,N/A,https://www.usnews.com/education/best-global-universities/kent-state-university-203517
+603,physics,389,Universite de Lille,France,Lille,35.8,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+604,physics,,University of Jammu,India,Jammu Tawi,35.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-jammu-529652
+605,physics,814,University of Mons,Belgium,Mons,35.6,42.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-mons-528860
+606,physics,679,Beijing University of Posts & Telecommunications,China,Beijing,35.5,46.2,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-posts-telecommunications-502130
+607,physics,"1,271",University of Hyderabad,India,Hyderabad,35.5,32.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-hyderabad-528875
+608,physics,271,George Washington University,United States,"Washington, D.C.",35.4,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+609,physics,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,35.4,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+610,physics,"1,085",Helwan University,Egypt,Cairo,35.3,36.9,N/A,https://www.usnews.com/education/best-global-universities/helwan-university-512792
+611,physics,598,Sharif University of Technology,Iran,Tehran,35.3,48.3,N/A,https://www.usnews.com/education/best-global-universities/sharif-university-of-technology-502898
+612,physics,317,University of South Florida,United States,Tampa,35.3,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+613,physics,856,Ewha Womans University,South Korea,Seoul,35.1,41.9,"14,746",https://www.usnews.com/education/best-global-universities/ewha-womans-university-504624
+614,physics,997,Universite de Caen Normandie,France,Caen,35.1,38.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-caen-normandie-528879
+615,physics,531,University of Bremen,Germany,Bremen,35.1,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+616,physics,605,University of Crete,Greece,Rethymnon,35,48.2,"13,808",https://www.usnews.com/education/best-global-universities/university-of-crete-501556
+617,physics,717,Indian Institute of Technology (IIT) - Delhi,India,New Delhi,34.9,45.3,"9,794",https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856
+618,physics,928,Menofia University,Egypt,Shebin El Koum,34.9,40.3,N/A,https://www.usnews.com/education/best-global-universities/menofia-university-529235
+619,physics,167,University of Utah,United States,Salt Lake City,34.9,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+620,physics,844,Jiangsu University,China,Zhenjiang,34.8,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+621,physics,517,Keio University,Japan,Tokyo,34.8,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+622,physics,192,Macquarie University,Australia,North Ryde,34.8,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+623,physics,564,Universidad Politecnica de Madrid,Spain,Madrid,34.8,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+624,physics,171,Queensland University of Technology (QUT),Australia,Brisbane,34.7,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+625,physics,725,Heriot Watt University,United Kingdom,Edinburgh,34.6,45.1,"9,885",https://www.usnews.com/education/best-global-universities/heriot-watt-university-506192
+626,physics,405,Heinrich Heine University Dusseldorf,Germany,Dusseldorf,34.3,54.3,N/A,https://www.usnews.com/education/best-global-universities/heinrich-heine-university-dusseldorf-503659
+627,physics,"1,002",Tshwane University of Technology,South Africa,Pretoria,34.2,38.7,N/A,https://www.usnews.com/education/best-global-universities/tshwane-university-of-technology-529469
+628,physics,821,University of South Africa,South Africa,Pretoria,34.1,42.5,"236,282",https://www.usnews.com/education/best-global-universities/university-of-south-africa-529170
+629,physics,789,University of Sherbrooke,Canada,Sherbrooke,34,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-sherbrooke-506839
+630,physics,547,Universiti Putra Malaysia,Malaysia,Serdang,33.9,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+631,physics,397,University College Cork,Ireland,Cork,33.9,54.5,"18,073",https://www.usnews.com/education/best-global-universities/university-college-cork-502427
+632,physics,"1,449",Hunan Normal University,China,Changsha,33.8,28.9,N/A,https://www.usnews.com/education/best-global-universities/hunan-normal-university-529497
+633,physics,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,33.5,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+634,physics,,Shoolini University,India,Bajhol,33.4,N/A,N/A,https://www.usnews.com/education/best-global-universities/shoolini-university-530173
+635,physics,,University of Rajasthan,India,Jaipur,33.4,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-rajasthan-529445
+636,physics,977,Fayoum University,Egypt,Al Fayoum,33.2,39.2,"46,374",https://www.usnews.com/education/best-global-universities/fayoum-university-511205
+637,physics,370,University of Kwazulu Natal,South Africa,Durban,33.2,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+638,physics,901,University of Shanghai for Science & Technology,China,Shanghai,33.2,40.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-shanghai-for-science-technology-529079
+639,physics,794,Harbin Engineering University,China,Harbin,33,43.3,"29,861",https://www.usnews.com/education/best-global-universities/harbin-engineering-university-528986
+640,physics,"1,774",Universidade Federal do Triangulo Mineiro,Brazil,Abadia,33,21,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-triangulo-mineiro-529757
+641,physics,966,Universitat Ramon Llull,Spain,Barcelona,33,39.5,"14,900",https://www.usnews.com/education/best-global-universities/universitat-ramon-llull-529454
+642,physics,409,University of Bath,United Kingdom,Bath,33,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+643,physics,"1,203",Creighton University,United States,Omaha,32.8,34.3,"9,641",https://www.usnews.com/education/best-global-universities/creighton-university-181002
+644,physics,526,University of Brescia,Italy,Brescia,32.6,50.3,"15,134",https://www.usnews.com/education/best-global-universities/university-of-brescia-502286
+645,physics,520,Renmin University of China,China,Beijing,32.4,50.5,N/A,https://www.usnews.com/education/best-global-universities/renmin-university-of-china-528921
+646,physics,"1,417",Suranaree University of Technology,Thailand,Nakhon Ratchasima,32.4,29.7,"15,505",https://www.usnews.com/education/best-global-universities/suranaree-university-of-technology-529335
+647,physics,360,University of Liege,Belgium,Liege,32.3,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+648,physics,203,Griffith University,Australia,Nathan,32.2,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+649,physics,943,King Khalid University,Saudi Arabia,Abha,32.1,40,N/A,https://www.usnews.com/education/best-global-universities/king-khalid-university-529704
+650,physics,"1,066",University of Bucharest,Romania,Bucharest,32.1,37.3,"31,267",https://www.usnews.com/education/best-global-universities/university-of-bucharest-501581
+651,physics,750,University of Arkansas Fayetteville,United States,Fayetteville,31.7,44.4,"25,207",https://www.usnews.com/education/best-global-universities/university-of-arkansas-fayetteville-106397
+652,physics,"1,317",University of Yazd,Iran,Yazd,31.7,31.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-yazd-529540
+653,physics,633,Amirkabir University of Technology,Iran,Tehran,31.6,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+654,physics,896,Universidad de Antioquia,Colombia,Antioquia,31.6,41,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-antioquia-528980
+655,physics,"1,225",University of Paderborn,Germany,Paderborn,31.6,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-paderborn-529396
+656,physics,821,Nanjing University of Posts & Telecommunications,China,Nanjing,31.5,42.5,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-posts-telecommunications-529215
+657,physics,463,Swansea University,United Kingdom,Swansea,31.5,52.8,"17,745",https://www.usnews.com/education/best-global-universities/swansea-university-505583
+658,physics,146,University of Gothenburg,Sweden,Gothenburg,31.5,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+659,physics,356,University of Kentucky,United States,Lexington,31.5,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+660,physics,684,Ohio University,United States,"Athens (Ohio, U.S.)",31.4,46.1,N/A,https://www.usnews.com/education/best-global-universities/ohio-university-204857
+661,physics,875,Adam Mickiewicz University,Poland,Poznan,31.2,41.4,"36,207",https://www.usnews.com/education/best-global-universities/adam-mickiewicz-university-500923
+662,physics,"1,101",Pontificia Universidad Catolica del Peru,Peru,Lima,31.2,36.6,N/A,https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-del-peru-529791
+663,physics,103,Rockefeller University,United States,New York City,31.2,70,255,https://www.usnews.com/education/best-global-universities/rockefeller-university-195049
+664,physics,970,Vietnam National University Hanoi,Vietnam,Hanoi,31.1,39.4,N/A,https://www.usnews.com/education/best-global-universities/vietnam-national-university-hanoi-529331
+665,physics,,Karamanoglu Mehmetbey University,Turkey,Karaman,30.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/karamanoglu-mehmetbey-university-530174
+666,physics,"1,140",Indian Institute of Technology (IIT) - Indore,India,Indore,30.8,35.6,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-indore-529453
+667,physics,782,Shandong Normal University,China,Jinan,30.7,43.6,N/A,https://www.usnews.com/education/best-global-universities/shandong-normal-university-529300
+668,physics,"1,266",University of Augsburg,Germany,Augsburg,30.7,32.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-augsburg-528954
+669,physics,,Alabama A&M University,United States,Huntsville ,30.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/alabama-am-university-530175
+670,physics,"1,198",Pontificia Universidad Catolica de Valparaiso,Chile,Valparaiso,30.6,34.4,N/A,https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-valparaiso-529219
+671,physics,421,Beijing University of Chemical Technology,China,Beijing,30.5,53.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chemical-technology-501098
+672,physics,"1,049",Konkuk University,South Korea,Seoul,30.5,37.6,N/A,https://www.usnews.com/education/best-global-universities/konkuk-university-503911
+673,physics,901,Shaanxi Normal University,China,Xi'an,30.5,40.9,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-normal-university-529190
+674,physics,,Universidad Autonoma de Sinaloa,Mexico,Culiacán,30.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/universidad-autonoma-de-sinaloa-530176
+675,physics,"1,042",Shahid Beheshti University,Iran,Tehran,30.4,37.8,"19,695",https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-502879
+676,physics,"1,027",Kentucky State University,United States,Frankfort,30.3,38.2,N/A,https://www.usnews.com/education/best-global-universities/kentucky-state-university-157058
+677,physics,948,Near East University,Turkey,Nicosia,30.3,39.9,N/A,https://www.usnews.com/education/best-global-universities/near-east-university-529702
+678,physics,,Tomsk State University of Control Systems & Radioelectronics,Russia,Tomsk,30.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/tomsk-state-university-of-control-systems-radioelectronics-529793
+679,physics,676,University of Zaragoza,Spain,Zaragoza,30.3,46.3,"28,083",https://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343
+680,physics,673,Zhejiang University of Technology,China,Hangzhou,30.3,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+681,physics,835,Chiba University,Japan,Chiba-shi,30.2,42.3,N/A,https://www.usnews.com/education/best-global-universities/chiba-university-503793
+682,physics,826,Banaras Hindu University (BHU),India,Varanasi,30.1,42.4,N/A,https://www.usnews.com/education/best-global-universities/banaras-hindu-university-bhu-503462
+683,physics,856,California Polytechnic State University San Luis Obispo,United States,San Luis Obispo,30.1,41.9,N/A,https://www.usnews.com/education/best-global-universities/california-polytechnic-state-university-san-luis-obispo-110422
+684,physics,573,University of Palermo,Italy,Palermo,30.1,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+685,physics,643,Beijing University of Technology,China,Beijing,30,47.1,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-technology-505552
+686,physics,"1,631",Liaoning University,China,Shenyang,30,24.7,N/A,https://www.usnews.com/education/best-global-universities/liaoning-university-529509
+687,physics,570,University of Luxembourg,Luxembourg,Esch-sur-Alzette,30,49.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-luxembourg-528945
+688,physics,667,Southwest University - China,China,Chongqing,29.9,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+689,physics,717,Aston University,United Kingdom,Birmingham (U.K.),29.8,45.3,"13,230",https://www.usnews.com/education/best-global-universities/aston-university-528938
+690,physics,966,Gwangju Institute of Science & Technology (GIST),South Korea,Gwangju,29.8,39.5,"1,808",https://www.usnews.com/education/best-global-universities/gwangju-institute-of-science-technology-gist-506847
+691,physics,"1,327",Inha University,South Korea,Incheon,29.6,31.7,"17,103",https://www.usnews.com/education/best-global-universities/inha-university-504761
+692,physics,,Nara Womens University,Japan,Nara,29.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/nara-womens-university-529792
+693,physics,935,Wuhan Institute of Technology,China,Wuhan,29.6,40.1,"33,153",https://www.usnews.com/education/best-global-universities/wuhan-institute-of-technology-529516
+694,physics,564,Colorado School of Mines,United States,Golden,29.5,49.2,"6,350",https://www.usnews.com/education/best-global-universities/colorado-school-of-mines-126775
+695,physics,812,Hefei University of Technology,China,Hefei,29.4,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+696,physics,"1,542",Henan Normal University,China,Xinxiang,29.3,26.9,N/A,https://www.usnews.com/education/best-global-universities/henan-normal-university-529271
+697,physics,770,University of Salamanca,Spain,Salamanca,29.2,43.9,"27,920",https://www.usnews.com/education/best-global-universities/university-of-salamanca-502705
+698,physics,,Le Mans Universite,France,Le Mans,29.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/le-mans-universite-529656
+699,physics,643,East China University of Science & Technology,China,Shanghai,29,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+700,physics,447,Mansoura University,Egypt,Mansoura,28.8,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+701,physics,"1,317",Ningbo University,China,Ningbo,28.8,31.8,N/A,https://www.usnews.com/education/best-global-universities/ningbo-university-529272
+702,physics,377,Shandong University of Science & Technology,China,Qingdao,28.8,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+703,physics,570,Universitat Politecnica de Valencia,Spain,Valencia,28.7,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+704,physics,"1,422",University of Guilan,Iran,Rasht,28.6,29.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-guilan-529421
+705,physics,"1,060",Guangxi University,China,Nanning,28.5,37.4,N/A,https://www.usnews.com/education/best-global-universities/guangxi-university-529243
+706,physics,"1,526",Saratov State University,Russia,Saratov,28.5,27.1,N/A,https://www.usnews.com/education/best-global-universities/saratov-state-university-529657
+707,physics,"1,526",Universite de Technologie de Belfort-Montbeliard (UTBM),France,Belfort,28.5,27.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-technologie-de-belfort-montbeliard-utbm-529767
+708,physics,342,University of Turku,Finland,Turku,28.5,56.4,"12,919",https://www.usnews.com/education/best-global-universities/university-of-turku-504089
+709,physics,"1,103",Hangzhou Normal University,China,Hangzhou,28.3,36.5,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-normal-university-529205
+710,physics,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,28.3,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+711,physics,930,Carl von Ossietzky Universitat Oldenburg,Germany,Oldenburg,28.1,40.2,N/A,https://www.usnews.com/education/best-global-universities/carl-von-ossietzky-universitat-oldenburg-528947
+712,physics,441,University of Saskatchewan,Canada,Saskatoon,28,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+713,physics,"1,578",Far Eastern Federal University,Russia,Vladivostok,27.9,26.1,"15,585",https://www.usnews.com/education/best-global-universities/far-eastern-federal-university-529574
+714,physics,400,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,27.9,54.4,N/A,https://www.usnews.com/education/best-global-universities/king-fahd-university-of-petroleum-minerals-506100
+715,physics,"1,225",University of L'Aquila,Italy,L'Aquila,27.9,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-laquila-528961
+716,physics,"1,662",Guangxi Normal University,China,Guilin,27.8,24.2,N/A,https://www.usnews.com/education/best-global-universities/guangxi-normal-university-529504
+717,physics,,Tomsk State Pedagogical University,Russia,Tomsk,27.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/tomsk-state-pedagogical-university-529659
+718,physics,"1,514",Uludag University,Turkey,Gorukle,27.6,27.5,N/A,https://www.usnews.com/education/best-global-universities/uludag-university-529206
+719,physics,554,Universita della Campania Vanvitelli,Italy,Caserta,27.6,49.5,N/A,https://www.usnews.com/education/best-global-universities/universita-della-campania-vanvitelli-529545
+720,physics,,Gauhati University,India,Guwahai,27.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/gauhati-university-529649
+721,physics,653,Southwest Jiaotong University,China,Chengdu,27.5,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+722,physics,"1,522",Technical University Kosice,Slovakia,Kosice,27.4,27.2,N/A,https://www.usnews.com/education/best-global-universities/technical-university-kosice-529578
+723,physics,"1,147",University of Jinan,China,Jinan,27.3,35.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-jinan-529252
+724,physics,"1,049",National Sun Yat Sen University,Taiwan,Kaohsiung,27.2,37.6,"7,992",https://www.usnews.com/education/best-global-universities/national-sun-yat-sen-university-505080
+725,physics,"1,066",Niigata University,Japan,Niigata,27.2,37.3,N/A,https://www.usnews.com/education/best-global-universities/niigata-university-504351
+726,physics,"1,184",Universite de Tours,France,Tours,27.2,34.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-tours-505177
+727,physics,"1,153",Yildiz Technical University,Turkey,Istanbul,27.2,35.3,"25,532",https://www.usnews.com/education/best-global-universities/yildiz-technical-university-528878
+728,physics,735,Illinois Institute of Technology,United States,Chicago,27,44.8,N/A,https://www.usnews.com/education/best-global-universities/illinois-institute-of-technology-145725
+729,physics,452,University of Missouri Columbia,United States,Columbia,27,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+730,physics,280,University of Kiel,Germany,Kiel,26.8,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+731,physics,531,Fuzhou University,China,Fuzhou,26.7,50.2,"39,987",https://www.usnews.com/education/best-global-universities/fuzhou-university-528832
+732,physics,770,National University of Sciences & Technology - Pakistan,Pakistan,Islamabad,26.7,43.9,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-sciences-technology---pakistan-529152
+733,physics,"1,570",Indian Institute of Science Education & Research (IISER) - Bhopal,India,Bhopal,26.6,26.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-science-education-research-iiser---bhopal-529738
+734,physics,,Novosibirsk State Technical University,Russia,Novosibirsk,26.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/novosibirsk-state-technical-university-529658
+735,physics,400,Tampere University,Finland,Tampere,26.6,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+736,physics,282,China University of Geosciences,China,Wuhan,26.5,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+737,physics,794,Qingdao University,China,Qingdao,26.5,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+738,physics,"1,022",University of Latvia,Latvia,Riga,26.5,38.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-latvia-529199
+739,physics,693,Clemson University,United States,Clemson,26.4,45.9,N/A,https://www.usnews.com/education/best-global-universities/clemson-university-217882
+740,physics,920,Saarland University,Germany,Saarbrucken,26.1,40.5,N/A,https://www.usnews.com/education/best-global-universities/saarland-university-504282
+741,physics,"1,766",Universidad de Sonora,Mexico,Hermosillo,26.1,21.3,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-sonora-530019
+742,physics,520,Martin Luther University Halle Wittenberg,Germany,Halle,25.9,50.5,N/A,https://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747
+743,physics,379,Universiti Teknologi Malaysia,Malaysia,Johor,25.9,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+744,physics,816,Graz University of Technology,Austria,Graz,25.8,42.6,N/A,https://www.usnews.com/education/best-global-universities/graz-university-of-technology-506184
+745,physics,"1,251",University of Cassino,Italy,Cassino,25.8,33.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-cassino-529646
+746,physics,"1,072",Yangzhou University,China,Yangzhou,25.8,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+747,physics,512,China University of Petroleum,China,Qingdao,25.7,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+748,physics,317,Duy Tan University,Vietnam,Danang,25.7,57.6,N/A,https://www.usnews.com/education/best-global-universities/duy-tan-university-529795
+749,physics,896,Indian Institute of Technology (IIT) - Roorkee,India,Roorkee,25.7,41,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-roorkee-528828
+750,physics,618,Northeastern University - China,China,Shenyang,25.7,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931

@@ -1,0 +1,401 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,geosciences,9,California Institute of Technology,United States,Pasadena,100,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+2,geosciences,29,ETH Zurich,Switzerland,Zurich,96.1,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+3,geosciences,70,University of Colorado Boulder,United States,Boulder,95.6,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+4,geosciences,7,Columbia University,United States,New York City,92.4,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+5,geosciences,282,China University of Geosciences,China,Wuhan,91.5,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+6,geosciences,57,University of Maryland College Park,United States,College Park,90.1,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+7,geosciences,6,University of Washington Seattle,United States,Seattle,89.4,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+8,geosciences,1,Harvard University,United States,Cambridge (U.S.),88,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+9,geosciences,39,Peking University,China,Beijing,87,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+10,geosciences,84,University of California Irvine,United States,Irvine,86.9,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+11,geosciences,5,University of Oxford,United Kingdom,Oxford,86.3,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+12,geosciences,44,Utrecht University,Netherlands,Utrecht,86.3,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+13,geosciences,48,Universite de Paris,France,Paris,86.1,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+14,geosciences,23,Tsinghua University,China,Beijing,85.3,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+15,geosciences,16,Princeton University,United States,Princeton,84.8,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+16,geosciences,60,Universite Paris Saclay,France,Saint-Aubin,84.3,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+17,geosciences,48,Sorbonne Universite,France,Paris,84,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+18,geosciences,14,University of California Los Angeles,United States,Los Angeles,84,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+19,geosciences,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),83.4,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+20,geosciences,20,University of California San Diego,United States,La Jolla,83.4,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+21,geosciences,4,University of California Berkeley,United States,Berkeley,82.7,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+22,geosciences,140,University of Leeds,United Kingdom,Leeds,82.6,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+23,geosciences,93,University of Bristol,United Kingdom,Bristol,81.9,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+24,geosciences,123,Nanjing University,China,Nanjing,81.4,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+25,geosciences,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,79.9,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+26,geosciences,43,University of Texas Austin,United States,Austin,79.7,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+27,geosciences,8,University of Cambridge,United Kingdom,Cambridge (U.K.),79.3,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+28,geosciences,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,79,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+29,geosciences,127,Stockholm University,Sweden,Stockholm,78.6,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+30,geosciences,150,Wuhan University,China,Wuhan,78,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+31,geosciences,108,University of Arizona,United States,Tucson,77.9,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+32,geosciences,3,Stanford University,United States,Stanford,76.9,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+33,geosciences,11,Yale University,United States,New Haven,76.4,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+34,geosciences,37,University of New South Wales Sydney,Australia,Kensington,76.3,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+35,geosciences,333,University of Reading,United Kingdom,Reading,76.3,56.8,"16,195",https://www.usnews.com/education/best-global-universities/university-of-reading-504198
+36,geosciences,269,Beijing Normal University,China,Beijing,75.2,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+37,geosciences,81,University of Tokyo,Japan,Tokyo,74.9,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+38,geosciences,62,Australian National University,Australia,Canberra,74.4,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+39,geosciences,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,74.4,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+40,geosciences,84,Pennsylvania State University,United States,University Park,74.1,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+41,geosciences,13,Imperial College London,United Kingdom,London (U.K.),73.7,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+42,geosciences,12,University College London,United Kingdom,London (U.K.),73.5,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+43,geosciences,18,University of Toronto,Canada,Toronto,72.7,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+44,geosciences,51,Georgia Institute of Technology,United States,Atlanta,72.4,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+45,geosciences,129,Sun Yat Sen University,China,Guangzhou,72.4,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+46,geosciences,152,University of Exeter,United Kingdom,Exeter,71.4,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+47,geosciences,63,University of Wisconsin Madison,United States,Madison,71.3,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+48,geosciences,104,University of Southampton,United Kingdom,Southampton,70.9,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+49,geosciences,37,Monash University,Australia,Clayton,70.8,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+50,geosciences,468,Nanjing University of Information Science & Technology,China,Nanjing,70.5,52.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-information-science-technology-529160
+51,geosciences,148,Texas A&M University College Station,United States,College Station,70.4,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+52,geosciences,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,70.1,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+53,geosciences,531,University of Bremen,Germany,Bremen,70,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+54,geosciences,276,Colorado State University,United States,Fort Collins,69.8,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+55,geosciences,107,University of Bern,Switzerland,Bern,68.9,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+56,geosciences,160,Curtin University,Australia,Bentley,68.5,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+57,geosciences,299,Oregon State University,United States,Corvallis,67.6,58.3,N/A,https://www.usnews.com/education/best-global-universities/oregon-state-university-209542
+58,geosciences,73,University of California Davis,United States,Davis,67.6,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+59,geosciences,99,University of Helsinki,Finland,Helsinki,67.6,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+60,geosciences,42,University of Copenhagen,Denmark,Copenhagen,67.5,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+61,geosciences,394,University of Hawaii Manoa,United States,Honolulu,67.5,54.6,"14,722",https://www.usnews.com/education/best-global-universities/university-of-hawaii-manoa-141574
+62,geosciences,57,University of Minnesota Twin Cities,United States,Minneapolis,67.5,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+63,geosciences,89,Wageningen University & Research,Netherlands,Wageningen,67.5,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+64,geosciences,19,University of Michigan,United States,Ann Arbor,67.4,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+65,geosciences,89,University of Oslo,Norway,Oslo,67.4,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+66,geosciences,35,University of British Columbia,Canada,Vancouver,67.3,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+67,geosciences,34,University of Edinburgh,United Kingdom,Edinburgh,67.3,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+68,geosciences,55,University of Hong Kong,Hong Kong,Pok Fu Lam,67.3,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+69,geosciences,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,67.3,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+70,geosciences,83,University of Western Australia,Australia,Crawley,67,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+71,geosciences,67,University of California Santa Barbara,United States,Santa Barbara,66.8,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+72,geosciences,79,Technical University of Munich,Germany,Munich,66.4,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+73,geosciences,273,University of Tasmania,Australia,Hobart,66.3,59.5,"18,264",https://www.usnews.com/education/best-global-universities/university-of-tasmania-502985
+74,geosciences,112,Lund University,Sweden,Lund,66.1,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+75,geosciences,105,University of California Santa Cruz,United States,Santa Cruz,66,69.5,"19,494",https://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714
+76,geosciences,27,University of Melbourne,Australia,Parkville,66,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+77,geosciences,512,China University of Petroleum,China,Qingdao,65.8,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+78,geosciences,452,University of Potsdam,Germany,Potsdam (Germany),65.5,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-potsdam-505430
+79,geosciences,767,University of Alaska Fairbanks,United States,Fairbanks,65.4,44,"2,981",https://www.usnews.com/education/best-global-universities/university-of-alaska-fairbanks-102614
+80,geosciences,21,Cornell University,United States,Ithaca,65.2,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+81,geosciences,169,Delft University of Technology,Netherlands,Delft,65.2,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+82,geosciences,156,Arizona State University-Tempe,United States,Tempe,65,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+83,geosciences,199,University of Bergen,Norway,Bergen,64.7,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+84,geosciences,330,University of East Anglia,United Kingdom,Norwich,64.1,57,"16,245",https://www.usnews.com/education/best-global-universities/university-of-east-anglia-503561
+85,geosciences,55,Ohio State University,United States,Columbus,63.5,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+86,geosciences,67,University of Zurich,Switzerland,Zurich,63.2,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+87,geosciences,277,Durham University,United Kingdom,Durham (U.K.),62.7,59.3,"18,715",https://www.usnews.com/education/best-global-universities/durham-university-501717
+88,geosciences,74,University of Adelaide,Australia,Adelaide,62.6,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+89,geosciences,120,Universidade de Sao Paulo,Brazil,Sao Paulo,61.7,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+90,geosciences,194,Universite de Montpellier,France,Montpellier,61.7,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+91,geosciences,74,University of Illinois Urbana-Champaign,United States,Champaign,61.7,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+92,geosciences,570,China University of Mining & Technology,China,Xuzhou,61.6,49.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-mining-technology-529045
+93,geosciences,208,University of Vienna,Austria,Vienna,61.6,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+94,geosciences,47,University of Munich,Germany,Munich,61,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+95,geosciences,102,"University of Science & Technology of China, CAS",China,Hefei,60.9,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+96,geosciences,54,McGill University,Canada,Montreal,60.2,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+97,geosciences,196,Tongji University,China,Shanghai,59.6,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+98,geosciences,136,University of Alberta,Canada,Edmonton,59.6,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+99,geosciences,140,Purdue University West Lafayette Campus,United States,West Lafayette,59.4,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+100,geosciences,244,Ecole Normale Superieure (ENS),France,Paris,59,60.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-ens-505721
+101,geosciences,61,Humboldt University of Berlin,Germany,Berlin,58.9,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+102,geosciences,186,University of California Riverside,United States,Riverside,58.9,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+103,geosciences,70,Boston University,United States,Boston,58.8,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+104,geosciences,587,University of New Hampshire,United States,"Durham (New Hampshire, U.S.)",58.7,48.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-new-hampshire-183044
+105,geosciences,352,University of St Andrews,United Kingdom,Fife,58.7,56,"9,645",https://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328
+106,geosciences,95,Ghent University,Belgium,Gent,58.3,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+107,geosciences,459,Institut National Polytechnique de Grenoble,France,Grenoble,58.3,53,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-grenoble-504372
+108,geosciences,212,University of Valencia,Spain,Valencia,58.2,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+109,geosciences,30,Nanyang Technological University,Singapore,Singapore,57.9,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+110,geosciences,202,Universidade de Lisboa,Portugal,Lisbon,57.2,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+111,geosciences,80,University of Southern California,United States,Los Angeles,57.2,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+112,geosciences,178,Aix-Marseille Universite,France,Marseille,57.1,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+113,geosciences,461,University of Oklahoma - Norman,United States,Norman,57,52.9,"26,450",https://www.usnews.com/education/best-global-universities/university-of-oklahoma-norman-207500
+114,geosciences,36,University of Queensland,Australia,Brisbane,56.7,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+115,geosciences,109,Aarhus University,Denmark,Aarhus,56.6,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+116,geosciences,209,Central South University,China,Changsha,56.5,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+117,geosciences,63,University of Manchester,United Kingdom,Manchester,56.5,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+118,geosciences,400,University of Twente,Netherlands,Enschede,56,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+119,geosciences,280,University of Kiel,Germany,Kiel,55.9,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+120,geosciences,253,University of Miami,United States,Coral Gables,55.9,60.5,"17,047",https://www.usnews.com/education/best-global-universities/university-of-miami-135726
+121,geosciences,129,Seoul National University (SNU),South Korea,Seoul,55.8,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+122,geosciences,89,University of Birmingham,United Kingdom,Birmingham (U.K.),55.8,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+123,geosciences,116,Fudan University,China,Shanghai,55.5,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+124,geosciences,93,Zhejiang University,China,Hangzhou,55.5,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+125,geosciences,53,Chinese University of Hong Kong,Hong Kong,Shatin,55.4,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+126,geosciences,140,Kyoto University,Japan,Kyoto,55.4,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+127,geosciences,219,Xi'an Jiaotong University,China,Xi'an,55.4,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+128,geosciences,149,University of Hamburg,Germany,Hamburg,55.2,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+129,geosciences,175,University of Calgary,Canada,Calgary,54.8,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+130,geosciences,662,Ocean University of China,China,Qingdao,54.5,46.6,N/A,https://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491
+131,geosciences,115,University of Padua,Italy,Padua,54.5,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+132,geosciences,146,University of Liverpool,United Kingdom,Liverpool,54.4,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+133,geosciences,129,Brown University,United States,Providence,54.2,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+134,geosciences,87,Free University of Berlin,Germany,Berlin,54.1,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+135,geosciences,192,Macquarie University,Australia,North Ryde,54.1,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+136,geosciences,452,University of Iceland,Iceland,Reykjavik,54.1,53.1,"10,642",https://www.usnews.com/education/best-global-universities/university-of-iceland-528847
+137,geosciences,182,Lancaster University,United Kingdom,Lancaster,53.9,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+138,geosciences,180,University of Iowa,United States,Iowa City,53.7,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+139,geosciences,217,University of Leicester,United Kingdom,Leicester,53.6,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+140,geosciences,127,Uppsala University,Sweden,Uppsala,53.6,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+141,geosciences,25,Duke University,United States,"Durham (North Carolina, U.S.)",53.5,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+142,geosciences,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,53.5,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+143,geosciences,321,East China Normal University,China,Shanghai,53.4,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+144,geosciences,50,KU Leuven,Belgium,Leuven,53,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+145,geosciences,143,Rutgers State University New Brunswick,United States,Piscataway Township,52.5,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+146,geosciences,22,University of Chicago,United States,Chicago,52.5,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+147,geosciences,333,Nagoya University,Japan,Nagoya,52.4,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+148,geosciences,10,Johns Hopkins University,United States,Baltimore,52.3,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+149,geosciences,286,Tohoku University,Japan,Sendai,52.3,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+150,geosciences,182,University of Lausanne,Switzerland,Lausanne,52.3,63.9,"13,402",https://www.usnews.com/education/best-global-universities/university-of-lausanne-505144
+151,geosciences,241,Florida State University,United States,Tallahassee,51.9,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+152,geosciences,236,Goethe University Frankfurt,Germany,Frankfurt am Main,51.9,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+153,geosciences,432,Hokkaido University,Japan,Sapporo,51.8,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+154,geosciences,835,Northwest University Xi'an,China,Xi'an,51.8,42.3,N/A,https://www.usnews.com/education/best-global-universities/northwest-university-xian-500540
+155,geosciences,180,Rice University,United States,Houston,51.7,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+156,geosciences,564,Colorado School of Mines,United States,Golden,51.6,49.2,"6,350",https://www.usnews.com/education/best-global-universities/colorado-school-of-mines-126775
+157,geosciences,86,University of Barcelona,Spain,Barcelona,51.6,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+158,geosciences,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,51.4,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+159,geosciences,241,Johannes Gutenberg University of Mainz,Germany,Mainz,51.4,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+160,geosciences,167,University of Utah,United States,Salt Lake City,51.4,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+161,geosciences,759,University of Maryland Baltimore County,United States,Baltimore,51.3,44.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-county-163268
+162,geosciences,138,University of Bonn,Germany,Bonn,51.1,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+163,geosciences,495,Victoria University Wellington,New Zealand,Wellington,51.1,51.5,"17,883",https://www.usnews.com/education/best-global-universities/victoria-university-wellington-504111
+164,geosciences,429,University of Innsbruck,Austria,Innsbruck,51,53.7,"13,918",https://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813
+165,geosciences,241,Hebrew University of Jerusalem,Israel,Jerusalem,50.9,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+166,geosciences,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,50.9,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+167,geosciences,98,University of Florida,United States,Gainesville,50.9,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+168,geosciences,186,University of Wollongong,Australia,Wollongong,50.8,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+169,geosciences,191,University of Waterloo,Canada,Waterloo,50.7,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+170,geosciences,203,National Taiwan University,Taiwan,Taipei,50.6,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+171,geosciences,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,50.5,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+172,geosciences,116,Michigan State University,United States,East Lansing,50.5,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+173,geosciences,907,Universite Gustave-Eiffel,France,Marne-la-Vallée,50.5,40.8,N/A,https://www.usnews.com/education/best-global-universities/universite-gustave-eiffel-529800
+174,geosciences,314,Dalhousie University,Canada,Halifax,49.9,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+175,geosciences,125,University of Cape Town,South Africa,Cape Town,49.8,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+176,geosciences,125,Sapienza University Rome,Italy,Rome,49.6,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+177,geosciences,346,Leipzig University,Germany,Leipzig,49.3,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+178,geosciences,28,University of Sydney,Australia,Sydney,49.3,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+179,geosciences,247,Xiamen University,China,Xiamen,49.3,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+180,geosciences,146,University of Gothenburg,Sweden,Gothenburg,49.2,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+181,geosciences,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,49.1,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+182,geosciences,203,University of Cincinnati,United States,Cincinnati,49.1,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+183,geosciences,134,University of Sheffield,United Kingdom,Sheffield,49.1,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+184,geosciences,413,Universite de Lorraine,France,Nancy,48.9,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+185,geosciences,416,Technische Universitat Wien,Austria,Vienna,48.8,54,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-wien-502163
+186,geosciences,26,National University of Singapore,Singapore,Singapore,48.4,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+187,geosciences,122,University of Bologna,Italy,Bologna,47.8,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+188,geosciences,349,Kyushu University,Japan,Fukuoka,47.7,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+189,geosciences,226,Charles University Prague,Czech Republic,Prague,47.6,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+190,geosciences,165,Technical University of Denmark,Denmark,Kongens Lyngby,47.6,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+191,geosciences,400,Universidad de Chile,Chile,Santiago,47.5,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+192,geosciences,355,Lomonosov Moscow State University,Russia,Moscow (Russia),47.4,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+193,geosciences,405,State University of New York (SUNY) Albany,United States,Albany,47.3,54.3,"16,090",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-albany-196060
+194,geosciences,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,47.3,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+195,geosciences,540,Lanzhou University,China,Lanzhou,47.1,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+196,geosciences,143,Autonomous University of Barcelona,Spain,Barcelona,46.6,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+197,geosciences,163,University of Gottingen,Germany,Gottingen,46.6,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+198,geosciences,564,Ecole Normale Superieure de Lyon (ENS de LYON),France,Lyon,46.5,49.2,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-de-lyon-ens-de-lyon-503874
+199,geosciences,324,University of Victoria,Canada,Victoria,46.5,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+200,geosciences,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,46.3,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+201,geosciences,182,Eberhard Karls University of Tubingen,Germany,Tubingen,46.2,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+202,geosciences,739,Universite de Bretagne Occidentale,France,Brittany,45.9,44.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-bretagne-occidentale-529145
+203,geosciences,250,University of Florence,Italy,Florence,45.9,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+204,geosciences,337,Complutense University of Madrid,Spain,Madrid,45.5,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+205,geosciences,360,University of Liege,Belgium,Liege,45.3,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+206,geosciences,277,Universite de Strasbourg,France,Strasbourg,45.2,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+207,geosciences,253,University of Oregon,United States,Eugene,45.2,60.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-oregon-209551
+208,geosciences,152,Cardiff University,United Kingdom,Cardiff,44.9,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+209,geosciences,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,44.7,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+210,geosciences,213,Southern University of Science & Technology,China,Shenzhen,44.6,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+211,geosciences,88,University of Groningen,Netherlands,Groningen,44.5,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+212,geosciences,145,University of Nottingham,United Kingdom,Nottingham,44.5,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+213,geosciences,537,Universite Clermont Auvergne (UCA),France,Clermont-Ferrand,44.2,50.1,N/A,https://www.usnews.com/education/best-global-universities/universite-clermont-auvergne-uca-529156
+214,geosciences,41,University of North Carolina Chapel Hill,United States,Chapel Hill,44.2,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+215,geosciences,219,University of Munster,Germany,Munster,44,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+216,geosciences,379,Universiti Teknologi Malaysia,Malaysia,Johor,43.8,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+217,geosciences,333,Northwestern Polytechnical University,China,Xi'an,43.5,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+218,geosciences,770,Open University - UK,United Kingdom,Milton Keynes,43.5,43.9,N/A,https://www.usnews.com/education/best-global-universities/open-university-uk-506455
+219,geosciences,953,Aberystwyth University,United Kingdom,Aberystwyth,43,39.8,"6,265",https://www.usnews.com/education/best-global-universities/aberystwyth-university-528922
+220,geosciences,32,Washington University (WUSTL),United States,St. Louis,42.9,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+221,geosciences,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,42.8,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+222,geosciences,244,University of Witwatersrand,South Africa,Johannesburg,42.7,60.8,"26,871",https://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909
+223,geosciences,"1,511",Chengdu University of Technology,China,"Sichuan, Chengdu",42.6,27.6,N/A,https://www.usnews.com/education/best-global-universities/chengdu-university-of-technology-530199
+224,geosciences,230,North Carolina State University,United States,Raleigh,42.5,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+225,geosciences,360,Tokyo Institute of Technology,Japan,Tokyo,42.5,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+226,geosciences,226,Universite Libre de Bruxelles,Belgium,Brussels,42.5,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+227,geosciences,313,University of Granada,Spain,Granada,42.5,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+228,geosciences,432,University of Tsukuba,Japan,Tsukuba,42.5,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+229,geosciences,389,Louisiana State University,United States,Baton Rouge,42.4,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+230,geosciences,389,Universite de Lille,France,Lille,42.4,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+231,geosciences,178,University of Freiburg,Germany,Freiburg,42.3,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+232,geosciences,475,UiT The Arctic University of Tromso,Norway,Tromso,42.2,52.3,N/A,https://www.usnews.com/education/best-global-universities/uit-the-arctic-university-of-tromso-500047
+233,geosciences,277,University of Aberdeen,United Kingdom,Aberdeen,42.2,59.3,"13,010",https://www.usnews.com/education/best-global-universities/university-of-aberdeen-501749
+234,geosciences,702,Nanjing Normal University,China,Nanjing,42.1,45.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-normal-university-528982
+235,geosciences,794,University of Wyoming,United States,Laramie,42.1,43.3,"10,660",https://www.usnews.com/education/best-global-universities/university-of-wyoming-240727
+236,geosciences,247,University of Otago,New Zealand,Dunedin,42,60.7,"18,508",https://www.usnews.com/education/best-global-universities/university-of-otago-506723
+237,geosciences,292,Yonsei University,South Korea,Seoul,41.7,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+238,geosciences,286,State University of New York (SUNY) Buffalo,United States,Buffalo,41.3,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+239,geosciences,74,University of Glasgow,United Kingdom,Glasgow,41.3,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+240,geosciences,835,Ecole des Ponts ParisTech,France,Marne-la-Vallee,41.2,42.3,N/A,https://www.usnews.com/education/best-global-universities/ecole-des-ponts-paristech-529342
+241,geosciences,583,Indian Institute of Technology (IIT) - Bombay,India,Mumbai,41,48.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bombay-501259
+242,geosciences,109,University of Geneva,Switzerland,Geneva,40.9,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+243,geosciences,304,University of Kansas,United States,Lawrence,40.8,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+244,geosciences,152,Indiana University Bloomington,United States,Bloomington,40.7,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+245,geosciences,260,Tianjin University,China,Tianjin,40.7,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+246,geosciences,421,University of Johannesburg,South Africa,Johannesburg,40.6,53.9,"29,167",https://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854
+247,geosciences,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,40.5,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+248,geosciences,256,University of Trento,Italy,Trento,40.4,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+249,geosciences,123,University of Auckland,New Zealand,Auckland,40.3,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+250,geosciences,593,Royal Holloway University London,United Kingdom,Egham,40.2,48.4,"10,770",https://www.usnews.com/education/best-global-universities/royal-holloway-university-london-501237
+251,geosciences,377,Shandong University of Science & Technology,China,Qingdao,40.2,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+252,geosciences,789,Universite de Savoie,France,Chambery,40.2,43.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-savoie-501758
+253,geosciences,160,University of Massachusetts Amherst,United States,Amherst,40.2,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+254,geosciences,273,University of Milano-Bicocca,Italy,Milan,39.9,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+255,geosciences,653,Hohai University,China,Nanjing,39.8,46.8,N/A,https://www.usnews.com/education/best-global-universities/hohai-university-528997
+256,geosciences,920,Mississippi State University,United States,Mississippi State,39.8,40.5,"22,035",https://www.usnews.com/education/best-global-universities/mississippi-state-university-176080
+257,geosciences,317,University of South Florida,United States,Tampa,39.5,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+258,geosciences,256,University of Erlangen Nuremberg,Germany,Erlangen,39.1,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+259,geosciences,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),39.1,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+260,geosciences,421,Jilin University,China,Changchun,39,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+261,geosciences,493,Universite de Rennes 1,France,Rennes,39,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+262,geosciences,526,"University of Natural Resources & Life Sciences, Vienna",Austria,Vienna,39,50.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-natural-resources-life-sciences-vienna-501157
+263,geosciences,329,University of Tehran,Iran,Tehran,38.5,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+264,geosciences,292,Vrije Universiteit Brussel,Belgium,Elsene,38.5,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+265,geosciences,970,University of Maine Orono,United States,Orono,38.1,39.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-maine-orono-161253
+266,geosciences,185,University of Naples Federico II,Italy,Naples,38.1,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+267,geosciences,487,University of Eastern Finland,Finland,Joensuu,38,51.7,"11,898",https://www.usnews.com/education/best-global-universities/university-of-eastern-finland-504471
+268,geosciences,540,Northern Arizona University,United States,Flagstaff,37.9,50,"30,081",https://www.usnews.com/education/best-global-universities/northern-arizona-university-105330
+269,geosciences,215,Trinity College Dublin,Ireland,Dublin,37.8,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+270,geosciences,112,University of Technology Sydney,Australia,Ultimo,37.8,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+271,geosciences,244,University of Cologne,Germany,Koln,37.7,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+272,geosciences,324,University of Georgia,United States,"Athens (Georgia, U.S.)",37.6,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+273,geosciences,558,University of Plymouth,United Kingdom,Plymouth,37.6,49.4,"16,180",https://www.usnews.com/education/best-global-universities/university-of-plymouth-500972
+274,geosciences,540,Jinan University,China,Guangzhou,37.4,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+275,geosciences,750,University of Bayreuth,Germany,Bayreuth,37.4,44.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-bayreuth-500728
+276,geosciences,782,University of Nevada Reno,United States,Reno,37.4,43.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-nevada-reno-182290
+277,geosciences,426,University of Buenos Aires,Argentina,Buenos Aires,37.3,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+278,geosciences,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,37,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+279,geosciences,466,University of Canterbury,New Zealand,Christchurch,37,52.7,"15,245",https://www.usnews.com/education/best-global-universities/university-of-canterbury-504532
+280,geosciences,698,Pusan National University,South Korea,Busan,36.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+281,geosciences,441,University of Saskatchewan,Canada,Saskatoon,36.9,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+282,geosciences,385,Polytechnic University of Catalonia,Spain,Barcelona,36.8,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+283,geosciences,"1,290",Technical University Freiberg,Germany,Freiberg,36.8,32.4,N/A,https://www.usnews.com/education/best-global-universities/technical-university-freiberg-529085
+284,geosciences,280,University of York - UK,United Kingdom,York,36.7,59.2,"17,965",https://www.usnews.com/education/best-global-universities/university-of-york-uk-505776
+285,geosciences,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),36.6,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+286,geosciences,652,Saint Petersburg State University,Russia,St. Petersburg,36.6,46.9,"24,335",https://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182
+287,geosciences,346,University of South Carolina Columbia,United States,Columbia,36.5,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+288,geosciences,379,Chongqing University,China,Chongqing,36.4,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+289,geosciences,349,University of Texas Dallas,United States,Richardson,36.4,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+290,geosciences,215,University of Ottawa,Canada,Ottawa,36.3,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+291,geosciences,368,Shandong University,China,Jinan,36.1,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+292,geosciences,309,University of Connecticut,United States,Storrs,36.1,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+293,geosciences,487,University of Hannover,Germany,Hannover,35.8,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-hannover-503676
+294,geosciences,587,Tomsk State University,Russia,Tomsk,35.7,48.6,"7,806",https://www.usnews.com/education/best-global-universities/tomsk-state-university-529019
+295,geosciences,698,Memorial University Newfoundland,Canada,St. John's,35.6,45.7,N/A,https://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985
+296,geosciences,352,University of Delaware,United States,Newark,35.6,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+297,geosciences,65,King Abdulaziz University,Saudi Arabia,Jeddah,35.3,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+298,geosciences,478,Universite Cote d'Azur,France,Nice,35.2,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+299,geosciences,745,University of Quebec Montreal,Canada,Montreal,35.2,44.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-quebec-montreal-504868
+300,geosciences,199,RWTH Aachen University,Germany,Aachen,35.1,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+301,geosciences,816,Salzburg University,Austria,Salzburg,34.9,42.6,N/A,https://www.usnews.com/education/best-global-universities/salzburg-university-528953
+302,geosciences,605,Masaryk University Brno,Czech Republic,Brno,34.6,48.2,"32,271",https://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917
+303,geosciences,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,34.5,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+304,geosciences,356,University of Kentucky,United States,Lexington,34.5,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+305,geosciences,290,Universite de Bordeaux,France,Talence,34.2,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+306,geosciences,324,James Cook University,Australia,Townsville City,33.9,57.3,"12,825",https://www.usnews.com/education/best-global-universities/james-cook-university-506320
+307,geosciences,236,University College Dublin,Ireland,Dublin,33.7,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+308,geosciences,989,Chang'an University,China,Xi'an,33.6,39,N/A,https://www.usnews.com/education/best-global-universities/changan-university-529427
+309,geosciences,89,Shanghai Jiao Tong University,China,Shanghai,33.6,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+310,geosciences,826,National Central University,Taiwan,Jhongli City,33.3,42.4,"10,853",https://www.usnews.com/education/best-global-universities/national-central-university-504757
+311,geosciences,429,Queens University - Canada,Canada,Kingston (Canada),33.1,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+312,geosciences,816,University of Montana,United States,Missoula,33,42.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-montana-180489
+313,geosciences,231,University of Newcastle,Australia,Callaghan,32.9,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+314,geosciences,311,University of New Mexico,United States,Albuquerque,32.7,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+315,geosciences,328,Washington State University,United States,Pullman,32.6,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+316,geosciences,356,College de France,France,Paris,32.4,55.8,N/A,https://www.usnews.com/education/best-global-universities/college-de-france-502833
+317,geosciences,400,Nantes Universite,France,Nantes,32.3,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+318,geosciences,294,Universidade Estadual de Campinas,Brazil,Campinas,32.2,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+319,geosciences,643,Xidian University,China,Xi'an,31.8,47.1,N/A,https://www.usnews.com/education/best-global-universities/xidian-university-506871
+320,geosciences,261,Dartmouth College,United States,Hanover,31.7,60.1,"6,440",https://www.usnews.com/education/best-global-universities/dartmouth-college-182670
+321,geosciences,708,Tarbiat Modares University,Iran,Tehran,31.6,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+322,geosciences,256,University of Tartu,Estonia,Tartu,31.6,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-tartu-502553
+323,geosciences,171,Queensland University of Technology (QUT),Australia,Brisbane,31.5,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+324,geosciences,203,Griffith University,Australia,Nathan,31.4,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+325,geosciences,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,31.3,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+326,geosciences,643,Istanbul Technical University,Turkey,Istanbul,31.3,47.1,"18,562",https://www.usnews.com/education/best-global-universities/istanbul-technical-university-503684
+327,geosciences,253,Beihang University,China,Beijing,31,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+328,geosciences,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,30.9,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+329,geosciences,31,New York University,United States,New York City,30.9,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+330,geosciences,379,Friedrich Schiller University of Jena,Germany,Jena,30.8,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+331,geosciences,219,University of Pisa,Italy,Pisa,30.7,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+332,geosciences,332,China Agricultural University,China,Beijing,30.6,56.9,N/A,https://www.usnews.com/education/best-global-universities/china-agricultural-university-500688
+333,geosciences,"1,233",Universite de Orleans,France,Orleans,30.6,33.7,N/A,https://www.usnews.com/education/best-global-universities/universite-de-orleans-528865
+334,geosciences,175,Tel Aviv University,Israel,Tel Aviv,30.5,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+335,geosciences,875,Adam Mickiewicz University,Poland,Poznan,30.4,41.4,"36,207",https://www.usnews.com/education/best-global-universities/adam-mickiewicz-university-500923
+336,geosciences,702,University of Rhode Island,United States,Kingston (U.S.),30.3,45.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-rhode-island-217484
+337,geosciences,120,City University of Hong Kong,Hong Kong,Kowloon,30.2,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+338,geosciences,263,Iowa State University,United States,Ames,30.1,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+339,geosciences,"1,066",University of Bucharest,Romania,Bucharest,30,37.3,"31,267",https://www.usnews.com/education/best-global-universities/university-of-bucharest-501581
+340,geosciences,432,University of Houston,United States,Houston,30,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+341,geosciences,156,University of Milan,Italy,Milan,30,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+342,geosciences,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,29.7,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+343,geosciences,300,University of Genoa,Italy,Genoa,29.6,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+344,geosciences,860,University of Patras,Greece,Rio Achaia,29.5,41.8,"29,393",https://www.usnews.com/education/best-global-universities/university-of-patras-503205
+345,geosciences,300,Western University (University of Western Ontario),Canada,London (Canada),29.5,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+346,geosciences,579,Novosibirsk State University,Russia,Novosibirsk,29.4,48.8,N/A,https://www.usnews.com/education/best-global-universities/novosibirsk-state-university-503585
+347,geosciences,710,Universidade de Brasilia,Brazil,Brasilia,29.3,45.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217
+348,geosciences,920,University of Idaho,United States,Moscow (U.S.),29.3,40.5,"9,263",https://www.usnews.com/education/best-global-universities/university-of-idaho-142285
+349,geosciences,345,University of Warsaw,Poland,Warsaw,29.2,56.3,"37,090",https://www.usnews.com/education/best-global-universities/university-of-warsaw-502726
+350,geosciences,717,Babes Bolyai University from Cluj,Romania,Cluj-Napoca,29.1,45.3,"39,811",https://www.usnews.com/education/best-global-universities/babes-bolyai-university-from-cluj-504529
+351,geosciences,478,George Mason University,United States,Fairfax,29.1,52.2,"32,140",https://www.usnews.com/education/best-global-universities/george-mason-university-232186
+352,geosciences,,New Mexico Institute of Mining Technology,United States,Socorro,29,N/A,N/A,https://www.usnews.com/education/best-global-universities/new-mexico-institute-of-mining-technology-187967
+353,geosciences,225,University of Tennessee Knoxville,United States,Knoxville,29,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+354,geosciences,447,University of Oulu,Finland,Oulu,28,53.3,"10,134",https://www.usnews.com/education/best-global-universities/university-of-oulu-502651
+355,geosciences,722,Utah State University,United States,Logan,28,45.2,N/A,https://www.usnews.com/education/best-global-universities/utah-state-university-230728
+356,geosciences,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,27.8,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+357,geosciences,297,Polytechnic University of Milan,Italy,Milan,27.5,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+358,geosciences,186,Technische Universitat Dresden,Germany,Dresden,27,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+359,geosciences,196,Harbin Institute of Technology,China,Harbin,26.9,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+360,geosciences,653,Southwest Jiaotong University,China,Chengdu,26.7,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+361,geosciences,693,University of Graz,Austria,Graz,26.7,45.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-graz-505072
+362,geosciences,370,University of Kwazulu Natal,South Africa,Durban,26.6,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+363,geosciences,860,Kazan Federal University,Russia,Kazan,26.5,41.8,"22,603",https://www.usnews.com/education/best-global-universities/kazan-federal-university-529155
+364,geosciences,821,Shiraz University,Iran,Shiraz,26.5,42.5,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-500400
+365,geosciences,,University Centre Svalbard (UNIS),Norway,Longyearbyen,26.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-centre-svalbard-unis-529881
+366,geosciences,24,Northwestern University,United States,Evanston,26.4,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+367,geosciences,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,26.1,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+368,geosciences,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),26.1,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+369,geosciences,304,Stellenbosch University,South Africa,Stellenbosch,26,58.1,"24,907",https://www.usnews.com/education/best-global-universities/stellenbosch-university-500980
+370,geosciences,779,Michigan Technological University,United States,Houghton,25.6,43.7,N/A,https://www.usnews.com/education/best-global-universities/michigan-technological-university-171128
+371,geosciences,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,25.5,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+372,geosciences,346,Ruhr University Bochum,Germany,Bochum,25.5,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+373,geosciences,397,Laval University,Canada,Quebec City,25,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+374,geosciences,295,University of Pavia,Italy,Pavia,24.8,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+375,geosciences,472,Texas Tech University,United States,Lubbock,24.7,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+376,geosciences,497,Universidade Estadual Paulista,Brazil,Sao Paulo,24.7,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+377,geosciences,629,University of Stuttgart,Germany,Stuttgart,24.7,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+378,geosciences,564,Roma Tre University,Italy,Rome,24.6,49.2,"33,264",https://www.usnews.com/education/best-global-universities/roma-tre-university-504483
+379,geosciences,816,Universidad de Concepcion,Chile,Concepcion,24.6,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-concepcion-506070
+380,geosciences,"1,309",Henan Polytechnic University,China,Jiaozuo,24.4,32,N/A,https://www.usnews.com/education/best-global-universities/henan-polytechnic-university-529521
+381,geosciences,770,University of Salamanca,Spain,Salamanca,24.4,43.9,"27,920",https://www.usnews.com/education/best-global-universities/university-of-salamanca-502705
+382,geosciences,639,Comenius University Bratislava,Slovakia,Bratislava,24,47.2,"21,788",https://www.usnews.com/education/best-global-universities/comenius-university-bratislava-500702
+383,geosciences,525,Universidade de Aveiro,Portugal,Aveiro,24,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+384,geosciences,231,University of Electronic Science & Technology of China,China,Chengdu,24,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+385,geosciences,394,Islamic Azad University,Iran,Tehran,23.9,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+386,geosciences,213,King Saud University,Saudi Arabia,Riyadh,23.9,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+387,geosciences,948,University of New Brunswick,Canada,Fredericton,23.9,39.9,"8,307",https://www.usnews.com/education/best-global-universities/university-of-new-brunswick-499973
+388,geosciences,304,Technical University of Berlin,Germany,Berlin,23.8,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+389,geosciences,304,Sichuan University,China,Chengdu,23.7,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+390,geosciences,"1,155",Xi'an University of Science & Technology,China,Xi’an,23.6,35.2,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-science-technology-529798
+391,geosciences,835,Chiba University,Japan,Chiba-shi,23.5,42.3,N/A,https://www.usnews.com/education/best-global-universities/chiba-university-503793
+392,geosciences,209,University of Turin,Italy,Turin,23.5,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+393,geosciences,317,Simon Fraser University,Canada,Burnaby,23,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+394,geosciences,"1,399",Boise State University,United States,Boise,22.9,30.1,N/A,https://www.usnews.com/education/best-global-universities/boise-state-university-142115
+395,geosciences,429,Universidade de Coimbra,Portugal,Coimbra,22.8,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+396,geosciences,662,Universidad Nacional de Colombia,Colombia,Bogota,22.8,46.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-nacional-de-colombia-505620
+397,geosciences,547,Middle East Technical University,Turkey,Ankara,22.7,49.8,"17,151",https://www.usnews.com/education/best-global-universities/middle-east-technical-university-503271
+398,geosciences,639,National Cheng Kung University,Taiwan,Tainan City,22.7,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+399,geosciences,564,Universidad Politecnica de Madrid,Spain,Madrid,22.7,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+400,geosciences,"1,066",Yunnan University,China,Kunming,22.5,37.3,N/A,https://www.usnews.com/education/best-global-universities/yunnan-university-529189

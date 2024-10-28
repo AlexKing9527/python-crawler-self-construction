@@ -1,0 +1,322 @@
+1714102245448	geckodriver	INFO	Listening on 127.0.0.1:56795
+1714102253399	geckodriver	INFO	Listening on 127.0.0.1:56808
+1714102454802	geckodriver	INFO	Listening on 127.0.0.1:57020
+1714102584364	geckodriver	INFO	Listening on 127.0.0.1:57157
+1714102586364	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofileNGsDJg"
+1714102594201	geckodriver	INFO	Listening on 127.0.0.1:57175
+1714102596186	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofileguM3Vc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714102598456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714102601873	Marionette	INFO	Listening on port 57193
+Read port: 57193
+1714102602205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714102617561	Marionette	INFO	Stopped listening on port 57193
+Dynamically enable window occlusion 1
+1714102618888	geckodriver	INFO	Listening on 127.0.0.1:57306
+1714102620891	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofilejo8WeZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714102621484	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714102621757	Marionette	INFO	Listening on port 57316
+Read port: 57316
+1714102622563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 2: Script terminated by timeout at:
+o@https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:2:285
+httpCookie@https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:5:336
+syncAll@https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:3:54
+@https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:6:382
+dispatch@https://pss.bdstatic.com/static/superman/js/lib/jquery-1-edb203c114.10.2.js:149:30
+add/elemData.handle@https://pss.bdstatic.com/static/superman/js/lib/jquery-1-edb203c114.10.2.js:137:470
+
+1714102639599	Marionette	INFO	Stopped listening on port 57316
+Dynamically enable window occlusion 1
+1714102821997	geckodriver	INFO	Listening on 127.0.0.1:57518
+1714102823995	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofileB3HdAd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714102824607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714102825495	Marionette	INFO	Listening on port 57529
+Read port: 57529
+1714102825630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=80166ebb-8557-ee57-f1ae-5624d37c1723, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714102854629	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=80166ebb-8557-ee57-f1ae-5624d37c1723, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=80166ebb-8557-ee57-f1ae-5624d37c1723, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=80166ebb-8557-ee57-f1ae-5624d37c1723, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=80166ebb-8557-ee57-f1ae-5624d37c1723, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1714103246691	Marionette	INFO	Stopped listening on port 57529
+Dynamically enable window occlusion 1
+1714103248782	geckodriver	INFO	Listening on 127.0.0.1:57896
+1714103250805	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofilePA3LMo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714103251569	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714103251748	Marionette	INFO	Listening on port 57908
+Read port: 57908
+1714103252610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=0db1c3b6-a505-90dd-e4ac-2a9564146873, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714103281692	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=0db1c3b6-a505-90dd-e4ac-2a9564146873, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=0db1c3b6-a505-90dd-e4ac-2a9564146873, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=0db1c3b6-a505-90dd-e4ac-2a9564146873, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=0db1c3b6-a505-90dd-e4ac-2a9564146873, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714103310649	Marionette	INFO	Stopped listening on port 57908
+Dynamically enable window occlusion 1
+1714103312154	geckodriver	INFO	Listening on 127.0.0.1:58002
+1714103314149	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofileqAOeAa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714103314716	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714103314905	Marionette	INFO	Listening on port 58015
+Read port: 58015
+1714103315744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=dc15356e-4e3c-5b42-2e95-e5d785f5172c, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=dc15356e-4e3c-5b42-2e95-e5d785f5172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=dc15356e-4e3c-5b42-2e95-e5d785f5172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=dc15356e-4e3c-5b42-2e95-e5d785f5172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=dc15356e-4e3c-5b42-2e95-e5d785f5172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714103344732	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.error: "buildList failed: " ({})
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1714103460816	Marionette	INFO	Stopped listening on port 58015
+Dynamically enable window occlusion 1
+1714103464690	geckodriver	INFO	Listening on 127.0.0.1:58346
+1714103466675	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofileisD5Yo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714103467311	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714103468215	Marionette	INFO	Listening on port 58364
+Read port: 58364
+1714103468470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=b43a4c7f-85e8-210a-7e89-22373cf2172c, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=b43a4c7f-85e8-210a-7e89-22373cf2172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=b43a4c7f-85e8-210a-7e89-22373cf2172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=b43a4c7f-85e8-210a-7e89-22373cf2172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/4ErTA0b5/H9X/oGF/JpVmFl_U9I/bSX1hkQ17p/bxtBQS8hAQ/dQkDRj/NOIm0?v=b43a4c7f-85e8-210a-7e89-22373cf2172c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714103497519	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1714272772853	geckodriver	INFO	Listening on 127.0.0.1:59664
+1714272774911	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofilecFmTM0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714272776108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714272777414	Marionette	INFO	Listening on port 59676
+Read port: 59676
+1714272777903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=a0ccdafa-2190-3c53-7503-0f2ee0b3173e, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=a0ccdafa-2190-3c53-7503-0f2ee0b3173e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=a0ccdafa-2190-3c53-7503-0f2ee0b3173e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=a0ccdafa-2190-3c53-7503-0f2ee0b3173e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=a0ccdafa-2190-3c53-7503-0f2ee0b3173e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714272806353	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1714273235624	Marionette	INFO	Stopped listening on port 59676
+Dynamically enable window occlusion 1
+1714273241038	geckodriver	INFO	Listening on 127.0.0.1:60446
+1714273243033	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofilexlCyBr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714273243583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714273243719	Marionette	INFO	Listening on port 60460
+Read port: 60460
+1714273244573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1714273276086	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=8ce48d87-91d8-aff6-c8ba-f23a7c0917cd, line 1: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: ({})
+console.error: ({})
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=8ce48d87-91d8-aff6-c8ba-f23a7c0917cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=8ce48d87-91d8-aff6-c8ba-f23a7c0917cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=8ce48d87-91d8-aff6-c8ba-f23a7c0917cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=8ce48d87-91d8-aff6-c8ba-f23a7c0917cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:93:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:208:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:116:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:287:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:766:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:363:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 93, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 93))
+console.error: "buildList failed: " ({})
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, 1714273723512	Marionette	INFO	Stopped listening on port 61262
+Dynamically enable window occlusion 1
+es/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1714273697342	Marionette	INFO	Stopped listening on port 60460
+Dynamically enable window occlusion 1
+1714273724704	geckodriver	INFO	Listening on 127.0.0.1:61342
+1714273726695	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofilectKFyF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714273727241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714273728124	Marionette	INFO	Listening on port 61354
+Read port: 61354
+1714273728421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1714273757272	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=d30ab67e-3982-2f95-9061-49fceaed17cd, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=d30ab67e-3982-2f95-9061-49fceaed17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=d30ab67e-3982-2f95-9061-49fceaed17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=d30ab67e-3982-2f95-9061-49fceaed17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=d30ab67e-3982-2f95-9061-49fceaed17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "buildList failed: " ({})
+1714273874638	Marionette	INFO	Stopped listening on port 61354
+Dynamically enable window occlusion 1
+1714273878117	geckodriver	INFO	Listening on 127.0.0.1:61876
+1714273880139	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofilePVvikE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714273880690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714273881549	Marionette	INFO	Listening on port 61889
+Read port: 61889
+1714273881871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=57290563-2af3-d174-2182-849d281517cd, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=57290563-2af3-d174-2182-849d281517cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=57290563-2af3-d174-2182-849d281517cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=57290563-2af3-d174-2182-849d281517cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=57290563-2af3-d174-2182-849d281517cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714273913160	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+1714274120644	Marionette	INFO	Stopped listening on port 61889
+Dynamically enable window occlusion 1
+1714276039599	geckodriver	INFO	Listening on 127.0.0.1:65031
+1714276041592	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofilemg64ie"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714276042176	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714276042369	Marionette	INFO	Listening on port 65040
+Read port: 65040
+1714276042928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4b3db860-c7ee-086a-e976-d427304117cd, line 1: unreachable code after return statement
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4b3db860-c7ee-086a-e976-d427304117cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4b3db860-c7ee-086a-e976-d427304117cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4b3db860-c7ee-086a-e976-d427304117cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4b3db860-c7ee-086a-e976-d427304117cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714276074406	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1677: Error: permitUnload is already running for this tab.
+1714276329253	geckodriver	INFO	Listening on 127.0.0.1:49567
+1714276331276	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\15363\\AppData\\Local\\Temp\\rust_mozprofileCCLKma"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1714276331866	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1714276332042	Marionette	INFO	Listening on port 49578
+Read port: 49578
+1714276332738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4af03db9-8023-8b76-3a16-cc7757ca17cd, line 1: unreachable code after return statement
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4af03db9-8023-8b76-3a16-cc7757ca17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4af03db9-8023-8b76-3a16-cc7757ca17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4af03db9-8023-8b76-3a16-cc7757ca17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.usnews.com/Naz1ieAAj/3/H/fqsxNhRwfsGJlE4o/4cc7mQEu/LigfAQ/NF4CZ3kg/KiE?v=4af03db9-8023-8b76-3a16-cc7757ca17cd, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1714276362019	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})

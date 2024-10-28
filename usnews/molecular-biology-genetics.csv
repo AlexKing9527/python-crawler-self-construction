@@ -1,0 +1,401 @@
+,subject_name,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,molecular-biology-genetics,1,Harvard University,United States,Cambridge (U.S.),100,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+2,molecular-biology-genetics,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),98,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+3,molecular-biology-genetics,3,Stanford University,United States,Stanford,85.3,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+4,molecular-biology-genetics,16,University of California San Francisco,United States,San Francisco,83,83.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699
+5,molecular-biology-genetics,6,University of Washington Seattle,United States,Seattle,78.6,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+6,molecular-biology-genetics,15,University of Pennsylvania,United States,Philadelphia,78.2,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+7,molecular-biology-genetics,10,Johns Hopkins University,United States,Baltimore,77.5,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+8,molecular-biology-genetics,20,University of California San Diego,United States,La Jolla,77,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+9,molecular-biology-genetics,21,Cornell University,United States,Ithaca,76.9,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+10,molecular-biology-genetics,8,University of Cambridge,United Kingdom,Cambridge (U.K.),76.8,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+11,molecular-biology-genetics,46,Icahn School of Medicine at Mount Sinai,United States,New York City,75.7,75.4,N/A,https://www.usnews.com/education/best-global-universities/icahn-school-of-medicine-at-mount-sinai-193405
+12,molecular-biology-genetics,18,University of Toronto,Canada,Toronto,75.6,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+13,molecular-biology-genetics,32,Washington University (WUSTL),United States,St. Louis,74.8,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+14,molecular-biology-genetics,14,University of California Los Angeles,United States,Los Angeles,74.7,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+15,molecular-biology-genetics,136,Baylor College of Medicine,United States,Houston,74.5,67.1,N/A,https://www.usnews.com/education/best-global-universities/baylor-college-of-medicine-223223
+16,molecular-biology-genetics,7,Columbia University,United States,New York City,73.8,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+17,molecular-biology-genetics,5,University of Oxford,United Kingdom,Oxford,72.7,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+18,molecular-biology-genetics,19,University of Michigan,United States,Ann Arbor,72.5,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+19,molecular-biology-genetics,11,Yale University,United States,New Haven,72.2,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+20,molecular-biology-genetics,41,University of North Carolina Chapel Hill,United States,Chapel Hill,70.1,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+21,molecular-biology-genetics,22,University of Chicago,United States,Chicago,69.9,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+22,molecular-biology-genetics,51,Karolinska Institutet,Sweden,Stockholm,69.4,74.9,"8,021",https://www.usnews.com/education/best-global-universities/karolinska-institutet-503151
+23,molecular-biology-genetics,31,New York University,United States,New York City,69,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+24,molecular-biology-genetics,4,University of California Berkeley,United States,Berkeley,68.9,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+25,molecular-biology-genetics,47,University of Munich,Germany,Munich,68.4,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+26,molecular-biology-genetics,12,University College London,United Kingdom,London (U.K.),68.2,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+27,molecular-biology-genetics,133,University of Texas Southwestern Medical Center Dallas,United States,Dallas,67.6,67.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-southwestern-medical-center-dallas-228635
+28,molecular-biology-genetics,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,66.7,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+29,molecular-biology-genetics,25,Duke University,United States,"Durham (North Carolina, U.S.)",65.6,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+30,molecular-biology-genetics,39,Peking University,China,Beijing,65.1,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+31,molecular-biology-genetics,103,Rockefeller University,United States,New York City,64.9,70,255,https://www.usnews.com/education/best-global-universities/rockefeller-university-195049
+32,molecular-biology-genetics,61,Humboldt University of Berlin,Germany,Berlin,64.8,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+33,molecular-biology-genetics,54,McGill University,Canada,Montreal,64.8,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+34,molecular-biology-genetics,44,Utrecht University,Netherlands,Utrecht,64.8,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+35,molecular-biology-genetics,27,University of Melbourne,Australia,Parkville,64.7,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+36,molecular-biology-genetics,13,Imperial College London,United Kingdom,London (U.K.),64.4,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+37,molecular-biology-genetics,36,University of Queensland,Australia,Brisbane,64.3,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+38,molecular-biology-genetics,81,University of Tokyo,Japan,Tokyo,64.3,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+39,molecular-biology-genetics,26,National University of Singapore,Singapore,Singapore,63.9,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+40,molecular-biology-genetics,42,University of Copenhagen,Denmark,Copenhagen,63.8,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+41,molecular-biology-genetics,34,University of Edinburgh,United Kingdom,Edinburgh,63.5,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+42,molecular-biology-genetics,33,King's College London,United Kingdom,London (U.K.),63,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+43,molecular-biology-genetics,72,Emory University,United States,Atlanta,62.7,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+44,molecular-biology-genetics,78,Vanderbilt University,United States,Nashville,62.5,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+45,molecular-biology-genetics,79,Technical University of Munich,Germany,Munich,62.4,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+46,molecular-biology-genetics,16,Princeton University,United States,Princeton,61.6,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+47,molecular-biology-genetics,80,University of Southern California,United States,Los Angeles,61.6,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+48,molecular-biology-genetics,73,University of California Davis,United States,Davis,61.5,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+49,molecular-biology-genetics,99,University of Helsinki,Finland,Helsinki,61.1,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+50,molecular-biology-genetics,182,University of Lausanne,Switzerland,Lausanne,60.9,63.9,"13,402",https://www.usnews.com/education/best-global-universities/university-of-lausanne-505144
+51,molecular-biology-genetics,23,Tsinghua University,China,Beijing,60.8,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+52,molecular-biology-genetics,105,University of California Santa Cruz,United States,Santa Cruz,60.8,69.5,"19,494",https://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714
+53,molecular-biology-genetics,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,60.7,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+54,molecular-biology-genetics,106,Radboud University Nijmegen,Netherlands,Nijmegen,60.4,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+55,molecular-biology-genetics,134,Weizmann Institute of Science,Israel,Rehovot,60.2,67.3,N/A,https://www.usnews.com/education/best-global-universities/weizmann-institute-of-science-506795
+56,molecular-biology-genetics,89,Shanghai Jiao Tong University,China,Shanghai,59.8,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+57,molecular-biology-genetics,167,University of Utah,United States,Salt Lake City,59.5,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+58,molecular-biology-genetics,116,Fudan University,China,Shanghai,59.4,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+59,molecular-biology-genetics,48,Universite de Paris,France,Paris,59.4,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+60,molecular-biology-genetics,86,University of Barcelona,Spain,Barcelona,58.5,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+61,molecular-biology-genetics,65,Erasmus University Rotterdam,Netherlands,Rotterdam,58.3,73.4,N/A,https://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349
+62,molecular-biology-genetics,35,University of British Columbia,Canada,Vancouver,57.9,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+63,molecular-biology-genetics,129,Sun Yat Sen University,China,Guangzhou,57.8,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+64,molecular-biology-genetics,150,University of Basel,Switzerland,Basel,57.8,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+65,molecular-biology-genetics,50,KU Leuven,Belgium,Leuven,57.7,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+66,molecular-biology-genetics,48,Sorbonne Universite,France,Paris,57.7,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+67,molecular-biology-genetics,256,University of Tartu,Estonia,Tartu,57.5,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-tartu-502553
+68,molecular-biology-genetics,140,Kyoto University,Japan,Kyoto,57.3,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+69,molecular-biology-genetics,100,Queen Mary University London,United Kingdom,London (U.K.),57.3,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+70,molecular-biology-genetics,88,University of Groningen,Netherlands,Groningen,57.2,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+71,molecular-biology-genetics,67,University of Zurich,Switzerland,Zurich,57.2,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+72,molecular-biology-genetics,63,University of Wisconsin Madison,United States,Madison,57.1,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+73,molecular-biology-genetics,182,Eberhard Karls University of Tubingen,Germany,Tubingen,56.9,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+74,molecular-biology-genetics,57,University of Minnesota Twin Cities,United States,Minneapolis,56.8,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+75,molecular-biology-genetics,93,Zhejiang University,China,Hangzhou,56.6,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+76,molecular-biology-genetics,28,University of Sydney,Australia,Sydney,55.6,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+77,molecular-biology-genetics,9,California Institute of Technology,United States,Pasadena,55.4,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+78,molecular-biology-genetics,87,Free University of Berlin,Germany,Berlin,55.3,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+79,molecular-biology-genetics,129,Seoul National University (SNU),South Korea,Seoul,55,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+80,molecular-biology-genetics,65,King Abdulaziz University,Saudi Arabia,Jeddah,54.9,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+81,molecular-biology-genetics,120,Universidade de Sao Paulo,Brazil,Sao Paulo,54.8,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+82,molecular-biology-genetics,109,University of Geneva,Switzerland,Geneva,54.6,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+83,molecular-biology-genetics,127,Uppsala University,Sweden,Uppsala,54.4,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+84,molecular-biology-genetics,39,University of Amsterdam,Netherlands,Amsterdam,54.2,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+85,molecular-biology-genetics,163,University of Gottingen,Germany,Gottingen,54.1,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+86,molecular-biology-genetics,45,University of Pittsburgh,United States,Pittsburgh,53.2,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+87,molecular-biology-genetics,196,Pompeu Fabra University,Spain,Barcelona,53.1,63.2,"11,965",https://www.usnews.com/education/best-global-universities/pompeu-fabra-university-504748
+88,molecular-biology-genetics,93,University of Bristol,United Kingdom,Bristol,53.1,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+89,molecular-biology-genetics,452,University of Iceland,Iceland,Reykjavik,53,53.1,"10,642",https://www.usnews.com/education/best-global-universities/university-of-iceland-528847
+90,molecular-biology-genetics,24,Northwestern University,United States,Evanston,52.5,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+91,molecular-biology-genetics,55,University of Hong Kong,Hong Kong,Pok Fu Lam,52.4,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+92,molecular-biology-genetics,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,52,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+93,molecular-biology-genetics,37,Monash University,Australia,Clayton,51.7,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+94,molecular-biology-genetics,60,Universite Paris Saclay,France,Saint-Aubin,51.6,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+95,molecular-biology-genetics,112,Lund University,Sweden,Lund,51.5,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+96,molecular-biology-genetics,37,University of New South Wales Sydney,Australia,Kensington,51.2,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+97,molecular-biology-genetics,277,Universite de Strasbourg,France,Strasbourg,51.1,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+98,molecular-biology-genetics,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,51.1,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+99,molecular-biology-genetics,74,Leiden University,Netherlands,Leiden,50.7,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+100,molecular-biology-genetics,70,Boston University,United States,Boston,50.6,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+101,molecular-biology-genetics,55,Ohio State University,United States,Columbus,50.6,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+102,molecular-biology-genetics,29,ETH Zurich,Switzerland,Zurich,50.4,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+103,molecular-biology-genetics,148,Texas A&M University College Station,United States,College Station,50.4,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+104,molecular-biology-genetics,89,University of Oslo,Norway,Oslo,50.4,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+105,molecular-biology-genetics,95,Ghent University,Belgium,Gent,50.3,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+106,molecular-biology-genetics,286,Osaka University,Japan,Suita,50.2,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+107,molecular-biology-genetics,74,University of Glasgow,United Kingdom,Glasgow,50.2,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+108,molecular-biology-genetics,269,University of Texas Health Science Center Houston,United States,Houston,50.1,59.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-houston-229300
+109,molecular-biology-genetics,115,University of Padua,Italy,Padua,50,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+110,molecular-biology-genetics,143,Autonomous University of Barcelona,Spain,Barcelona,49.9,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+111,molecular-biology-genetics,109,Aarhus University,Denmark,Aarhus,49.8,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+112,molecular-biology-genetics,74,University of Illinois Urbana-Champaign,United States,Champaign,49.7,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+113,molecular-biology-genetics,152,University of Exeter,United Kingdom,Exeter,49.6,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+114,molecular-biology-genetics,309,Temple University,United States,Philadelphia,49.5,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+115,molecular-biology-genetics,441,University of Massachusetts Worcester,United States,Worcester,49.5,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-worcester-166708
+116,molecular-biology-genetics,84,Pennsylvania State University,United States,University Park,49.2,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+117,molecular-biology-genetics,146,University of Liverpool,United Kingdom,Liverpool,49.1,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+118,molecular-biology-genetics,175,Tel Aviv University,Israel,Tel Aviv,48.8,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+119,molecular-biology-genetics,138,University of Bonn,Germany,Bonn,48.6,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+120,molecular-biology-genetics,253,University of Miami,United States,Coral Gables,48.5,60.5,"17,047",https://www.usnews.com/education/best-global-universities/university-of-miami-135726
+121,molecular-biology-genetics,83,University of Western Australia,Australia,Crawley,48.5,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+122,molecular-biology-genetics,244,University of Cologne,Germany,Koln,48.3,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+123,molecular-biology-genetics,63,University of Manchester,United Kingdom,Manchester,48.1,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+124,molecular-biology-genetics,143,Rutgers State University New Brunswick,United States,Piscataway Township,48,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+125,molecular-biology-genetics,43,University of Texas Austin,United States,Austin,48,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+126,molecular-biology-genetics,98,University of Florida,United States,Gainesville,47.7,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+127,molecular-biology-genetics,339,University of Dundee,United Kingdom,Dundee,47.6,56.6,"13,550",https://www.usnews.com/education/best-global-universities/university-of-dundee-506606
+128,molecular-biology-genetics,203,University of Cincinnati,United States,Cincinnati,47.3,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+129,molecular-biology-genetics,206,Medical University of Vienna,Austria,Vienna,47.2,62.7,"7,274",https://www.usnews.com/education/best-global-universities/medical-university-of-vienna-504165
+130,molecular-biology-genetics,265,Yeshiva University,United States,New York City,47.2,59.9,N/A,https://www.usnews.com/education/best-global-universities/yeshiva-university-197708
+131,molecular-biology-genetics,209,Central South University,China,Changsha,46.9,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+132,molecular-biology-genetics,109,Huazhong University of Science & Technology,China,Wuhan,46.6,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+133,molecular-biology-genetics,165,Oregon Health & Science University,United States,Portland,46.6,65.5,N/A,https://www.usnews.com/education/best-global-universities/oregon-health-science-university-209490
+134,molecular-biology-genetics,219,University of Munster,Germany,Munster,46.5,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+135,molecular-biology-genetics,178,University of Freiburg,Germany,Freiburg,46.4,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+136,molecular-biology-genetics,194,Universite de Montpellier,France,Montpellier,46.3,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+137,molecular-biology-genetics,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,46.2,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+138,molecular-biology-genetics,149,University of Hamburg,Germany,Hamburg,46.2,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+139,molecular-biology-genetics,62,Australian National University,Australia,Canberra,45.7,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+140,molecular-biology-genetics,116,Michigan State University,United States,East Lansing,45.7,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+141,molecular-biology-genetics,215,Trinity College Dublin,Ireland,Dublin,45.7,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+142,molecular-biology-genetics,286,University of Maryland Baltimore,United States,Baltimore,45.4,59,N/A,https://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-163259
+143,molecular-biology-genetics,180,University of Iowa,United States,Iowa City,45.3,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+144,molecular-biology-genetics,152,Cardiff University,United Kingdom,Cardiff,45.1,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+145,molecular-biology-genetics,322,Ulm University,Germany,Ulm,45.1,57.4,"10,271",https://www.usnews.com/education/best-global-universities/ulm-university-502475
+146,molecular-biology-genetics,392,University of Mississippi,United States,University,45.1,54.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-mississippi-176017
+147,molecular-biology-genetics,156,Universite de Montreal,Canada,Montreal,45,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+148,molecular-biology-genetics,208,University of Vienna,Austria,Vienna,45,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+149,molecular-biology-genetics,231,Autonomous University of Madrid,Spain,Madrid,44.8,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+150,molecular-biology-genetics,736,Nanjing Medical University,China,Gulou,44.8,44.7,"19,277",https://www.usnews.com/education/best-global-universities/nanjing-medical-university-500938
+151,molecular-biology-genetics,487,University of Eastern Finland,Finland,Joensuu,44.8,51.7,"11,898",https://www.usnews.com/education/best-global-universities/university-of-eastern-finland-504471
+152,molecular-biology-genetics,104,University of Southampton,United Kingdom,Southampton,44.8,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+153,molecular-biology-genetics,196,Tongji University,China,Shanghai,44.7,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+154,molecular-biology-genetics,152,Case Western Reserve University,United States,Cleveland,44.6,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+155,molecular-biology-genetics,"1,129",Guangzhou Medical University,China,Guangzhou,44.5,35.9,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-medical-university-529307
+156,molecular-biology-genetics,174,University of Colorado Anschutz Medical Campus,United States,Aurora,44.5,64.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-anschutz-medical-campus-529678
+157,molecular-biology-genetics,192,University of Wurzburg,Germany,Wurzburg,44.4,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+158,molecular-biology-genetics,53,Chinese University of Hong Kong,Hong Kong,Shatin,44.2,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+159,molecular-biology-genetics,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,44.2,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+160,molecular-biology-genetics,134,University of Sheffield,United Kingdom,Sheffield,44.2,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+161,molecular-biology-genetics,160,University of Alabama Birmingham,United States,Birmingham (U.S.),44.1,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-alabama-birmingham-100663
+162,molecular-biology-genetics,84,University of California Irvine,United States,Irvine,44.1,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+163,molecular-biology-genetics,368,Shandong University,China,Jinan,44,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+164,molecular-biology-genetics,230,North Carolina State University,United States,Raleigh,43.7,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+165,molecular-biology-genetics,304,Sichuan University,China,Chengdu,43.7,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+166,molecular-biology-genetics,400,Tampere University,Finland,Tampere,43.7,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+167,molecular-biology-genetics,447,ShanghaiTech University,China,Pudong,43.6,53.3,N/A,https://www.usnews.com/education/best-global-universities/shanghaitech-university-529508
+168,molecular-biology-genetics,199,University of Bergen,Norway,Bergen,43.6,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+169,molecular-biology-genetics,89,University of Birmingham,United Kingdom,Birmingham (U.K.),43.6,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+170,molecular-biology-genetics,146,University of Gothenburg,Sweden,Gothenburg,43.6,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+171,molecular-biology-genetics,593,Peking Union Medical College,China,Beijing,43.5,48.4,N/A,https://www.usnews.com/education/best-global-universities/peking-union-medical-college-529794
+172,molecular-biology-genetics,324,University of Georgia,United States,"Athens (Georgia, U.S.)",43.5,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+173,molecular-biology-genetics,250,University of Illinois Chicago,United States,Chicago,43.4,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+174,molecular-biology-genetics,263,Iowa State University,United States,Ames,43.3,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+175,molecular-biology-genetics,333,Medical University of Graz,Austria,Graz,43.3,56.8,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-graz-501562
+176,molecular-biology-genetics,226,Charles University Prague,Czech Republic,Prague,43.2,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+177,molecular-biology-genetics,186,Technische Universitat Dresden,Germany,Dresden,43.2,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+178,molecular-biology-genetics,107,University of Bern,Switzerland,Bern,43.2,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+179,molecular-biology-genetics,178,Aix-Marseille Universite,France,Marseille,43.1,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+180,molecular-biology-genetics,241,Hebrew University of Jerusalem,Israel,Jerusalem,42.9,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+181,molecular-biology-genetics,122,University of Bologna,Italy,Bologna,42.8,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+182,molecular-biology-genetics,290,Universite de Bordeaux,France,Talence,42.6,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+183,molecular-biology-genetics,186,Maastricht University,Netherlands,Maastricht,42.5,63.6,N/A,https://www.usnews.com/education/best-global-universities/maastricht-university-505759
+184,molecular-biology-genetics,236,Goethe University Frankfurt,Germany,Frankfurt am Main,42.4,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+185,molecular-biology-genetics,125,Sapienza University Rome,Italy,Rome,42.4,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+186,molecular-biology-genetics,231,University of Newcastle,Australia,Callaghan,42.1,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+187,molecular-biology-genetics,140,Purdue University West Lafayette Campus,United States,West Lafayette,42,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+188,molecular-biology-genetics,342,University of Turku,Finland,Turku,41.8,56.4,"12,919",https://www.usnews.com/education/best-global-universities/university-of-turku-504089
+189,molecular-biology-genetics,150,Wuhan University,China,Wuhan,41.8,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+190,molecular-biology-genetics,379,Medical University of Innsbruck,Austria,Innsbruck,41.7,55,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-innsbruck-505463
+191,molecular-biology-genetics,217,University of Leicester,United Kingdom,Leicester,41.6,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+192,molecular-biology-genetics,119,University of Virginia,United States,Charlottesville,41.6,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+193,molecular-biology-genetics,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,41.5,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+194,molecular-biology-genetics,517,Keio University,Japan,Tokyo,41.2,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+195,molecular-biology-genetics,74,University of Adelaide,Australia,Adelaide,41,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+196,molecular-biology-genetics,421,University of Texas Health San Antonio,United States,San Antonio,41,53.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-san-antonio-228644
+197,molecular-biology-genetics,860,Southern Medical University - China,China,Guangzhou,40.9,41.8,N/A,https://www.usnews.com/education/best-global-universities/southern-medical-university-china-529257
+198,molecular-biology-genetics,247,Xiamen University,China,Xiamen,40.9,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+199,molecular-biology-genetics,300,University of Duisburg Essen,Germany,Essen,40.8,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+200,molecular-biology-genetics,280,University of Kiel,Germany,Kiel,40.8,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+201,molecular-biology-genetics,156,University of Milan,Italy,Milan,40.8,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+202,molecular-biology-genetics,89,Wageningen University & Research,Netherlands,Wageningen,40.8,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+203,molecular-biology-genetics,517,Tehran University of Medical Sciences,Iran,Tehran,40.7,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+204,molecular-biology-genetics,292,Yonsei University,South Korea,Seoul,40.7,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+205,molecular-biology-genetics,884,Capital Medical University,China,Beijing,40.6,41.2,N/A,https://www.usnews.com/education/best-global-universities/capital-medical-university-504555
+206,molecular-biology-genetics,138,McMaster University,Canada,Hamilton,40.6,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+207,molecular-biology-genetics,226,Universite Libre de Bruxelles,Belgium,Brussels,40.6,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+208,molecular-biology-genetics,152,Indiana University Bloomington,United States,Bloomington,40.5,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+209,molecular-biology-genetics,70,University of Colorado Boulder,United States,Boulder,40.5,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+210,molecular-biology-genetics,346,Leipzig University,Germany,Leipzig,40.4,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+211,molecular-biology-genetics,123,Nanjing University,China,Nanjing,40.4,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+212,molecular-biology-genetics,463,Wake Forest University,United States,Winston-Salem,40.3,52.8,N/A,https://www.usnews.com/education/best-global-universities/wake-forest-university-199847
+213,molecular-biology-genetics,710,University of Ulsan,South Korea,Ulsan,40.2,45.4,"12,415",https://www.usnews.com/education/best-global-universities/university-of-ulsan-500178
+214,molecular-biology-genetics,389,Universite de Lille,France,Lille,39.9,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+215,molecular-biology-genetics,108,University of Arizona,United States,Tucson,39.9,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+216,molecular-biology-genetics,125,University of Cape Town,South Africa,Cape Town,39.9,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+217,molecular-biology-genetics,261,University of Southern Denmark,Denmark,Odense,39.9,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+218,molecular-biology-genetics,256,University of Erlangen Nuremberg,Germany,Erlangen,39.8,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+219,molecular-biology-genetics,439,Hannover Medical School,Germany,Hannover,39.6,53.5,N/A,https://www.usnews.com/education/best-global-universities/hannover-medical-school-503226
+220,molecular-biology-genetics,356,University of Kentucky,United States,Lexington,39.5,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+221,molecular-biology-genetics,385,Zhengzhou University,China,Zhengzhou,39.5,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+222,molecular-biology-genetics,295,Queens University Belfast,United Kingdom,Belfast,39.3,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+223,molecular-biology-genetics,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,39.3,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+224,molecular-biology-genetics,311,University of New Mexico,United States,Albuquerque,39.3,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+225,molecular-biology-genetics,314,Vita-Salute San Raffaele University,Italy,Milan,39.3,57.7,N/A,https://www.usnews.com/education/best-global-universities/vita-salute-san-raffaele-university-501347
+226,molecular-biology-genetics,366,Umea University,Sweden,Umea,39.2,55.5,N/A,https://www.usnews.com/education/best-global-universities/umea-university-504031
+227,molecular-biology-genetics,405,Heinrich Heine University Dusseldorf,Germany,Dusseldorf,39.1,54.3,N/A,https://www.usnews.com/education/best-global-universities/heinrich-heine-university-dusseldorf-503659
+228,molecular-biology-genetics,209,University of Turin,Italy,Turin,39.1,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+229,molecular-biology-genetics,405,Jefferson University,United States,Philadelphia,39,54.3,N/A,https://www.usnews.com/education/best-global-universities/jefferson-university-216366
+230,molecular-biology-genetics,247,Universidade do Porto,Portugal,Porto,39,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+231,molecular-biology-genetics,186,University of California Riverside,United States,Riverside,39,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+232,molecular-biology-genetics,215,University of Ottawa,Canada,Ottawa,39,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+233,molecular-biology-genetics,779,Mashhad University Medical Science,Iran,Mahshad,38.7,43.7,N/A,https://www.usnews.com/education/best-global-universities/mashhad-university-medical-science-529398
+234,molecular-biology-genetics,271,George Washington University,United States,"Washington, D.C.",38.5,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+235,molecular-biology-genetics,397,Laval University,Canada,Quebec City,38.5,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+236,molecular-biology-genetics,452,University of Missouri Columbia,United States,Columbia,38.5,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+237,molecular-biology-genetics,468,University of Verona,Italy,Verona,38.5,52.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-verona-503896
+238,molecular-biology-genetics,171,Queensland University of Technology (QUT),Australia,Brisbane,38.4,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+239,molecular-biology-genetics,203,National Taiwan University,Taiwan,Taipei,38.3,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+240,molecular-biology-genetics,"1,167",Tianjin Medical University,China,Tianjin,38.2,34.9,N/A,https://www.usnews.com/education/best-global-universities/tianjin-medical-university-529011
+241,molecular-biology-genetics,311,Soochow University - China,China,Suzhou,38.1,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+242,molecular-biology-genetics,277,University of Aberdeen,United Kingdom,Aberdeen,38.1,59.3,"13,010",https://www.usnews.com/education/best-global-universities/university-of-aberdeen-501749
+243,molecular-biology-genetics,447,University of Oulu,Finland,Oulu,38.1,53.3,"10,134",https://www.usnews.com/education/best-global-universities/university-of-oulu-502651
+244,molecular-biology-genetics,223,University of Antwerp,Belgium,Antwerp,38,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+245,molecular-biology-genetics,170,University of Rochester,United States,Rochester,37.9,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+246,molecular-biology-genetics,333,Nagoya University,Japan,Nagoya,37.8,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+247,molecular-biology-genetics,156,Arizona State University-Tempe,United States,Tempe,37.7,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+248,molecular-biology-genetics,175,University of Calgary,Canada,Calgary,37.7,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+249,molecular-biology-genetics,421,Jilin University,China,Changchun,37.6,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+250,molecular-biology-genetics,441,University of Saskatchewan,Canada,Saskatoon,37.5,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+251,molecular-biology-genetics,129,Brown University,United States,Providence,37.3,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+252,molecular-biology-genetics,540,Jinan University,China,Guangzhou,37.2,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+253,molecular-biology-genetics,140,University of Leeds,United Kingdom,Leeds,37.2,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+254,molecular-biology-genetics,145,University of Nottingham,United Kingdom,Nottingham,37.2,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+255,molecular-biology-genetics,564,University of Ferrara,Italy,Ferrara,37.1,49.2,"20,507",https://www.usnews.com/education/best-global-universities/university-of-ferrara-503123
+256,molecular-biology-genetics,"1,291",Wenzhou Medical University,China,Wenzhou,37.1,32.3,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-medical-university-529262
+257,molecular-biology-genetics,439,Virginia Commonwealth University,United States,Richmond,36.9,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+258,molecular-biology-genetics,199,RWTH Aachen University,Germany,Aachen,36.8,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+259,molecular-biology-genetics,531,University of Santiago De Compostela,Spain,Santiago de Compostela,36.7,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+260,molecular-biology-genetics,165,Technical University of Denmark,Denmark,Kongens Lyngby,36.6,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+261,molecular-biology-genetics,332,China Agricultural University,China,Beijing,36.5,56.9,N/A,https://www.usnews.com/education/best-global-universities/china-agricultural-university-500688
+262,molecular-biology-genetics,478,Universite Cote d'Azur,France,Nice,36.5,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+263,molecular-biology-genetics,826,Shahid Beheshti University Medical Sciences,Iran,Tehran,36.4,42.4,N/A,https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-medical-sciences-501678
+264,molecular-biology-genetics,219,Xi'an Jiaotong University,China,Xi'an,36.4,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+265,molecular-biology-genetics,30,Nanyang Technological University,Singapore,Singapore,36.3,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+266,molecular-biology-genetics,263,Sungkyunkwan University (SKKU),South Korea,Seoul,36.3,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+267,molecular-biology-genetics,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,36.3,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+268,molecular-biology-genetics,236,University College Dublin,Ireland,Dublin,36.3,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+269,molecular-biology-genetics,349,Kyushu University,Japan,Fukuoka,36.2,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+270,molecular-biology-genetics,136,University of Alberta,Canada,Edmonton,36.2,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+271,molecular-biology-genetics,294,Universidade Estadual de Campinas,Brazil,Campinas,36.1,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+272,molecular-biology-genetics,241,Johannes Gutenberg University of Mainz,Germany,Mainz,36,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+273,molecular-biology-genetics,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,35.9,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+274,molecular-biology-genetics,290,Korea University,South Korea,Seoul,35.8,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+275,molecular-biology-genetics,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),35.8,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+276,molecular-biology-genetics,"1,389",Naval Medical University,China,Shanghai,35.8,30.3,N/A,https://www.usnews.com/education/best-global-universities/naval-medical-university-505505
+277,molecular-biology-genetics,"1,407",Chongqing Medical University,China,Yuzhong,35.4,29.9,N/A,https://www.usnews.com/education/best-global-universities/chongqing-medical-university-529043
+278,molecular-biology-genetics,317,Technion Israel Institute of Technology,Israel,Haifa,35.4,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+279,molecular-biology-genetics,304,University of Kansas,United States,Lawrence,35.3,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+280,molecular-biology-genetics,300,University of Rome Tor Vergata,Italy,Rome,35.3,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+281,molecular-biology-genetics,531,Institut Agro,France,Paris,35.1,50.2,N/A,https://www.usnews.com/education/best-global-universities/institut-agro-530029
+282,molecular-biology-genetics,429,Universidade de Coimbra,Portugal,Coimbra,35.1,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+283,molecular-biology-genetics,185,University of Naples Federico II,Italy,Naples,35.1,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+284,molecular-biology-genetics,102,"University of Science & Technology of China, CAS",China,Hefei,35.1,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+285,molecular-biology-genetics,304,La Trobe University,Australia,Melbourne (Australia),35,58.1,"21,663",https://www.usnews.com/education/best-global-universities/la-trobe-university-501305
+286,molecular-biology-genetics,"1,113",China Medical University,China,Shenyang,34.8,36.3,N/A,https://www.usnews.com/education/best-global-universities/china-medical-university-506215
+287,molecular-biology-genetics,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,34.8,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+288,molecular-biology-genetics,355,Lomonosov Moscow State University,Russia,Moscow (Russia),34.6,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+289,molecular-biology-genetics,286,Tohoku University,Japan,Sendai,34.5,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+290,molecular-biology-genetics,202,Universidade de Lisboa,Portugal,Lisbon,34.5,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+291,molecular-biology-genetics,625,University of Tennessee Health Science Center,United States,Memphis,34.5,47.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-tennessee-health-science-center-499917
+292,molecular-biology-genetics,379,Friedrich Schiller University of Jena,Germany,Jena,34.4,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+293,molecular-biology-genetics,501,Huazhong Agricultural University,China,Wuhan,34.4,51.2,N/A,https://www.usnews.com/education/best-global-universities/huazhong-agricultural-university-503034
+294,molecular-biology-genetics,547,Philipps University Marburg,Germany,Marburg,34.4,49.8,N/A,https://www.usnews.com/education/best-global-universities/philipps-university-marburg-502174
+295,molecular-biology-genetics,653,Semmelweis University,Hungary,Budapest,34.4,46.8,"9,860",https://www.usnews.com/education/best-global-universities/semmelweis-university-502811
+296,molecular-biology-genetics,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,34.4,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+297,molecular-biology-genetics,"1,258",Army Medical University,China,Shapingba,34.3,33.1,N/A,https://www.usnews.com/education/best-global-universities/army-medical-university-503729
+298,molecular-biology-genetics,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,34.3,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+299,molecular-biology-genetics,653,University of Lubeck,Germany,Lubeck,34.3,46.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-lubeck-528857
+300,molecular-biology-genetics,500,Indiana University-Purdue University Indianapolis,United States,Indianapolis,34.2,51.3,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-purdue-university-indianapolis-151111
+301,molecular-biology-genetics,226,Universiti Malaya,Malaysia,Kuala Lumpur,34.2,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+302,molecular-biology-genetics,250,University of Florence,Italy,Florence,34.2,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+303,molecular-biology-genetics,295,University of Pavia,Italy,Pavia,34.2,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+304,molecular-biology-genetics,"1,027",Harbin Medical University,China,Harbin,34.1,38.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-medical-university-502045
+305,molecular-biology-genetics,163,University of Warwick,United Kingdom,Coventry,34,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+306,molecular-biology-genetics,507,China Medical University Taiwan,Taiwan,Taichung,33.9,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+307,molecular-biology-genetics,309,University of Connecticut,United States,Storrs,33.6,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+308,molecular-biology-genetics,510,University of Regensburg,Germany,Regensburg,33.6,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-regensburg-500220
+309,molecular-biology-genetics,234,Southeast University - China,China,Nanjing,33.5,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+310,molecular-biology-genetics,400,Universidad de Chile,Chile,Santiago,33.5,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+311,molecular-biology-genetics,127,Stockholm University,Sweden,Stockholm,33.4,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+312,molecular-biology-genetics,432,Medical University of South Carolina,United States,Charleston,33,53.6,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-south-carolina-218335
+313,molecular-biology-genetics,180,Rice University,United States,Houston,32.8,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+314,molecular-biology-genetics,239,Tufts University,United States,Medford,32.7,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+315,molecular-biology-genetics,884,Tokyo Medical & Dental University (TMDU),Japan,Tokyo,32.6,41.2,N/A,https://www.usnews.com/education/best-global-universities/tokyo-medical-dental-university-tmdu-505893
+316,molecular-biology-genetics,314,Dalhousie University,Canada,Halifax,32.5,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+317,molecular-biology-genetics,520,Martin Luther University Halle Wittenberg,Germany,Halle,32.5,50.5,N/A,https://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747
+318,molecular-biology-genetics,57,University of Maryland College Park,United States,College Park,32.5,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+319,molecular-biology-genetics,835,Yokohama City University,Japan,Yokohama,32.5,42.3,N/A,https://www.usnews.com/education/best-global-universities/yokohama-city-university-529035
+320,molecular-biology-genetics,328,Washington State University,United States,Pullman,32.4,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+321,molecular-biology-genetics,"1,113",Air Force Military Medical University,China,Xi'an,32.3,36.3,N/A,https://www.usnews.com/education/best-global-universities/air-force-military-medical-university-506665
+322,molecular-biology-genetics,400,Nantes Universite,France,Nantes,32.3,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+323,molecular-biology-genetics,337,Complutense University of Madrid,Spain,Madrid,32,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+324,molecular-biology-genetics,261,Dartmouth College,United States,Hanover,32,60.1,"6,440",https://www.usnews.com/education/best-global-universities/dartmouth-college-182670
+325,molecular-biology-genetics,432,Hokkaido University,Japan,Sapporo,31.9,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+326,molecular-biology-genetics,241,Florida State University,United States,Tallahassee,31.8,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+327,molecular-biology-genetics,615,Medical College of Wisconsin,United States,Milwaukee,31.8,48,N/A,https://www.usnews.com/education/best-global-universities/medical-college-of-wisconsin-239169
+328,molecular-biology-genetics,213,King Saud University,Saudi Arabia,Riyadh,31.6,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+329,molecular-biology-genetics,667,University of Texas Medical Branch Galveston,United States,Galveston,31.6,46.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-medical-branch-galveston-228653
+330,molecular-biology-genetics,366,Catholic University of the Sacred Heart,Italy,Milan,31.5,55.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-the-sacred-heart-503167
+331,molecular-biology-genetics,497,University of Guelph,Canada,Guelph,31.5,51.4,"22,763",https://www.usnews.com/education/best-global-universities/university-of-guelph-499974
+332,molecular-biology-genetics,385,Wayne State University,United States,Detroit,31.3,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+333,molecular-biology-genetics,452,University of Siena,Italy,Siena,31.1,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-siena-504323
+334,molecular-biology-genetics,244,Ecole Normale Superieure (ENS),France,Paris,31,60.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-ens-505721
+335,molecular-biology-genetics,203,Griffith University,Australia,Nathan,31,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+336,molecular-biology-genetics,324,Georgetown University,United States,"Washington, D.C.",30.9,57.3,"16,074",https://www.usnews.com/education/best-global-universities/georgetown-university-131496
+337,molecular-biology-genetics,123,University of Auckland,New Zealand,Auckland,30.8,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+338,molecular-biology-genetics,975,Tabriz University of Medical Science,Iran,Tabriz,30.5,39.3,N/A,https://www.usnews.com/education/best-global-universities/tabriz-university-of-medical-science-529423
+339,molecular-biology-genetics,247,University of Otago,New Zealand,Dunedin,30.5,60.7,"18,508",https://www.usnews.com/education/best-global-universities/university-of-otago-506723
+340,molecular-biology-genetics,317,University of South Florida,United States,Tampa,30.5,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+341,molecular-biology-genetics,605,University of Oklahoma Health Sciences Center,United States,Oklahoma City,30.4,48.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oklahoma-health-sciences-center-207342
+342,molecular-biology-genetics,483,Nanjing Agricultural University,China,Nanjing,30.3,52,"28,184",https://www.usnews.com/education/best-global-universities/nanjing-agricultural-university-506399
+343,molecular-biology-genetics,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,30.3,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+344,molecular-biology-genetics,256,Nankai University,China,Nankai,30.2,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+345,molecular-biology-genetics,512,Mahidol University,Thailand,Salaya,30.1,50.7,"28,477",https://www.usnews.com/education/best-global-universities/mahidol-university-503481
+346,molecular-biology-genetics,450,Tulane University,United States,New Orleans,30.1,53.2,"11,220",https://www.usnews.com/education/best-global-universities/tulane-university-160755
+347,molecular-biology-genetics,510,University of Vermont,United States,Burlington,30,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-vermont-231174
+348,molecular-biology-genetics,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,29.9,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+349,molecular-biology-genetics,"1,225",Shantou University,China,Shantou,29.8,33.8,N/A,https://www.usnews.com/education/best-global-universities/shantou-university-529179
+350,molecular-biology-genetics,212,University of Valencia,Spain,Valencia,29.8,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+351,molecular-biology-genetics,321,East China Normal University,China,Shanghai,29.7,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+352,molecular-biology-genetics,339,Jagiellonian University,Poland,Krakow,29.7,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+353,molecular-biology-genetics,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,29.7,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+354,molecular-biology-genetics,"1,438",Anhui Medical University,China,Hefei,29.6,29.2,N/A,https://www.usnews.com/education/best-global-universities/anhui-medical-university-529269
+355,molecular-biology-genetics,389,Louisiana State University,United States,Baton Rouge,29.6,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+356,molecular-biology-genetics,590,Northwest A&F University - China,China,Shaanxi,29.6,48.5,N/A,https://www.usnews.com/education/best-global-universities/northwest-af-university-china-503600
+357,molecular-biology-genetics,953,Augusta University,United States,Augusta,29.4,39.8,N/A,https://www.usnews.com/education/best-global-universities/augusta-university-482149
+358,molecular-biology-genetics,"1,535",Dalian Medical University,China,Dalian,29.4,27,N/A,https://www.usnews.com/education/best-global-universities/dalian-medical-university-529283
+359,molecular-biology-genetics,313,University of Granada,Spain,Granada,29.3,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+360,molecular-biology-genetics,219,University of Pisa,Italy,Pisa,29.3,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+361,molecular-biology-genetics,564,Ecole Normale Superieure de Lyon (ENS de LYON),France,Lyon,29.2,49.2,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-de-lyon-ens-de-lyon-503874
+362,molecular-biology-genetics,520,University of Sevilla,Spain,Seville,29.2,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+363,molecular-biology-genetics,590,Ben Gurion University,Israel,Beer-Sheva,28.8,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+364,molecular-biology-genetics,300,University of Genoa,Italy,Genoa,28.8,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+365,molecular-biology-genetics,"1,060",Kanazawa University,Japan,Kanazawa,28.4,37.4,"9,888",https://www.usnews.com/education/best-global-universities/kanazawa-university-503283
+366,molecular-biology-genetics,360,Tokyo Institute of Technology,Japan,Tokyo,28.4,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+367,molecular-biology-genetics,605,AgroParisTech,France,Paris,28.3,48.2,N/A,https://www.usnews.com/education/best-global-universities/agroparistech-529092
+368,molecular-biology-genetics,794,Qingdao University,China,Qingdao,28.3,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+369,molecular-biology-genetics,583,Universidade Federal de Sao Paulo (UNIFESP),Brazil,Sao Paulo,28.3,48.7,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-paulo-unifesp-501953
+370,molecular-biology-genetics,"1,049",Kumamoto University,Japan,Kumamoto,28.2,37.6,"9,536",https://www.usnews.com/education/best-global-universities/kumamoto-university-505102
+371,molecular-biology-genetics,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,28.2,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+372,molecular-biology-genetics,432,University of Tsukuba,Japan,Tsukuba,28.2,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+373,molecular-biology-genetics,360,University of Liege,Belgium,Liege,28.1,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+374,molecular-biology-genetics,51,Georgia Institute of Technology,United States,Atlanta,28,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+375,molecular-biology-genetics,271,Shenzhen University,China,Shenzhen,27.9,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+376,molecular-biology-genetics,231,University of Electronic Science & Technology of China,China,Chengdu,27.9,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+377,molecular-biology-genetics,"1,037",University of Arkansas Medical Sciences,United States,Little Rock,27.8,37.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-arkansas-medical-sciences-106263
+378,molecular-biology-genetics,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),27.7,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+379,molecular-biology-genetics,356,Swedish University of Agricultural Sciences,Sweden,Uppsala,27.4,55.8,N/A,https://www.usnews.com/education/best-global-universities/swedish-university-of-agricultural-sciences-503091
+380,molecular-biology-genetics,977,Universidad Pablo de Olavide,Spain,Seville,27.3,39.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-pablo-de-olavide-529051
+381,molecular-biology-genetics,426,University of Buenos Aires,Argentina,Buenos Aires,27.3,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+382,molecular-biology-genetics,175,University of Sussex,United Kingdom,Brighton,27.1,64.2,"18,015",https://www.usnews.com/education/best-global-universities/university-of-sussex-503906
+383,molecular-biology-genetics,346,Ruhr University Bochum,Germany,Bochum,27,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+384,molecular-biology-genetics,497,Universidade Estadual Paulista,Brazil,Sao Paulo,27,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+385,molecular-biology-genetics,300,Western University (University of Western Ontario),Canada,London (Canada),26.7,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+386,molecular-biology-genetics,652,Saint Petersburg State University,Russia,St. Petersburg,26.6,46.9,"24,335",https://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182
+387,molecular-biology-genetics,653,Universite Paris-Est-Creteil-Val-de-Marne (UPEC),France,Creteil,26.6,46.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-est-creteil-val-de-marne-upec-528863
+388,molecular-biology-genetics,372,University of Manitoba,Canada,Winnipeg,26.6,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+389,molecular-biology-genetics,605,Masaryk University Brno,Czech Republic,Brno,26.5,48.2,"32,271",https://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917
+390,molecular-biology-genetics,745,Nanchang University,China,Nanchang,26.5,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+391,molecular-biology-genetics,554,Universita della Campania Vanvitelli,Italy,Caserta,26.4,49.5,N/A,https://www.usnews.com/education/best-global-universities/universita-della-campania-vanvitelli-529545
+392,molecular-biology-genetics,643,University of Louisville,United States,Louisville,26.4,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-louisville-157289
+393,molecular-biology-genetics,466,University of Basque Country,Spain,Leioa,26.3,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+394,molecular-biology-genetics,292,Vrije Universiteit Brussel,Belgium,Elsene,26.3,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+395,molecular-biology-genetics,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,26.1,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+396,molecular-biology-genetics,667,Hiroshima University,Japan,Hiroshima,26,46.5,"14,612",https://www.usnews.com/education/best-global-universities/hiroshima-university-502589
+397,molecular-biology-genetics,"1,567",Shandong First Medical University & Shandong Academy of Medical Sciences,China,Taian,25.9,26.3,N/A,https://www.usnews.com/education/best-global-universities/shandong-first-medical-university-shandong-academy-of-medical-sciences-529729
+398,molecular-biology-genetics,160,University of Massachusetts Amherst,United States,Amherst,25.9,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+399,molecular-biology-genetics,452,Tata Institute of Fundamental Research (TIFR),India,Mumbai,25.8,53.1,N/A,https://www.usnews.com/education/best-global-universities/tata-institute-of-fundamental-research-tifr-529777
+400,molecular-biology-genetics,"1,417",Nantong University,China,Nantong,25.6,29.7,N/A,https://www.usnews.com/education/best-global-universities/nantong-university-529473

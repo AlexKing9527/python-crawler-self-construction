@@ -1,0 +1,401 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,mathematics,3,Stanford University,United States,Stanford,100,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+2,mathematics,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),99.7,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+3,mathematics,16,Princeton University,United States,Princeton,98.6,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+4,mathematics,8,University of Cambridge,United Kingdom,Cambridge (U.K.),98.1,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+5,mathematics,1,Harvard University,United States,Cambridge (U.S.),97.7,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+6,mathematics,4,University of California Berkeley,United States,Berkeley,95.1,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+7,mathematics,48,Universite de Paris,France,Paris,94.7,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+8,mathematics,5,University of Oxford,United Kingdom,Oxford,94.2,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+9,mathematics,29,ETH Zurich,Switzerland,Zurich,93.1,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+10,mathematics,48,Sorbonne Universite,France,Paris,92.9,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+11,mathematics,7,Columbia University,United States,New York City,88.2,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+12,mathematics,60,Universite Paris Saclay,France,Saint-Aubin,87,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+13,mathematics,14,University of California Los Angeles,United States,Los Angeles,86.7,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+14,mathematics,6,University of Washington Seattle,United States,Seattle,86.5,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+15,mathematics,116,Fudan University,China,Shanghai,84.3,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+16,mathematics,31,New York University,United States,New York City,83.6,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+17,mathematics,13,Imperial College London,United Kingdom,London (U.K.),82.9,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+18,mathematics,231,University of Electronic Science & Technology of China,China,Chengdu,82.7,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+19,mathematics,148,Texas A&M University College Station,United States,College Station,82.3,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+20,mathematics,22,University of Chicago,United States,Chicago,81.8,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+21,mathematics,39,Peking University,China,Beijing,81.4,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+22,mathematics,223,Ton Duc Thang University,Vietnam,Ho Chi Minh City,80.2,61.8,N/A,https://www.usnews.com/education/best-global-universities/ton-duc-thang-university-529637
+23,mathematics,19,University of Michigan,United States,Ann Arbor,79.9,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+24,mathematics,63,University of Wisconsin Madison,United States,Madison,79.9,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+25,mathematics,43,University of Texas Austin,United States,Austin,79.5,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+26,mathematics,213,King Saud University,Saudi Arabia,Riyadh,77.5,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+27,mathematics,18,University of Toronto,Canada,Toronto,76.8,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+28,mathematics,89,Shanghai Jiao Tong University,China,Shanghai,76.7,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+29,mathematics,394,Islamic Azad University,Iran,Tehran,76.6,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+30,mathematics,57,University of Minnesota Twin Cities,United States,Minneapolis,76.6,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+31,mathematics,196,Harbin Institute of Technology,China,Harbin,76.2,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+32,mathematics,140,Purdue University West Lafayette Campus,United States,West Lafayette,76,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+33,mathematics,209,Central South University,China,Changsha,75.6,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+34,mathematics,163,University of Warwick,United Kingdom,Coventry,75.6,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+35,mathematics,129,Brown University,United States,Providence,75.4,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+36,mathematics,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,74.8,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+37,mathematics,208,University of Vienna,Austria,Vienna,74.7,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+38,mathematics,26,National University of Singapore,Singapore,Singapore,74.2,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+39,mathematics,234,Southeast University - China,China,Nanjing,74.1,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+40,mathematics,138,University of Bonn,Germany,Bonn,74,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+41,mathematics,15,University of Pennsylvania,United States,Philadelphia,73.8,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+42,mathematics,53,Chinese University of Hong Kong,Hong Kong,Shatin,73.1,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+43,mathematics,324,University of Victoria,Canada,Victoria,73.1,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+44,mathematics,84,Pennsylvania State University,United States,University Park,72.7,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+45,mathematics,120,Universidade de Sao Paulo,Brazil,Sao Paulo,72.7,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+46,mathematics,25,Duke University,United States,"Durham (North Carolina, U.S.)",72.6,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+47,mathematics,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,72.3,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+48,mathematics,168,Hunan University,China,Changsha,72.3,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+49,mathematics,23,Tsinghua University,China,Beijing,71.5,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+50,mathematics,67,University of Zurich,Switzerland,Zurich,71.1,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+51,mathematics,12,University College London,United Kingdom,London (U.K.),70.7,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+52,mathematics,35,University of British Columbia,Canada,Vancouver,70.7,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+53,mathematics,41,University of North Carolina Chapel Hill,United States,Chapel Hill,70.5,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+54,mathematics,118,Carnegie Mellon University,United States,Pittsburgh,70.3,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+55,mathematics,51,Georgia Institute of Technology,United States,Atlanta,70.3,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+56,mathematics,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,70,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+57,mathematics,368,Shandong University,China,Jinan,69.6,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+58,mathematics,129,Seoul National University (SNU),South Korea,Seoul,69.3,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+59,mathematics,269,Beijing Normal University,China,Beijing,69,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+60,mathematics,633,Amirkabir University of Technology,Iran,Tehran,68.8,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+61,mathematics,256,Nankai University,China,Nankai,68.8,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+62,mathematics,355,Lomonosov Moscow State University,Russia,Moscow (Russia),68.7,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+63,mathematics,81,University of Tokyo,Japan,Tokyo,68.7,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+64,mathematics,297,Polytechnic University of Milan,Italy,Milan,68.5,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+65,mathematics,79,Technical University of Munich,Germany,Munich,68.5,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+66,mathematics,120,City University of Hong Kong,Hong Kong,Kowloon,68.3,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+67,mathematics,143,Rutgers State University New Brunswick,United States,Piscataway Township,68.3,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+68,mathematics,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,68.1,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+69,mathematics,125,Sapienza University Rome,Italy,Rome,68.1,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+70,mathematics,34,University of Edinburgh,United Kingdom,Edinburgh,68.1,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+71,mathematics,21,Cornell University,United States,Ithaca,67.3,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+72,mathematics,102,"University of Science & Technology of China, CAS",China,Hefei,66.6,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+73,mathematics,37,University of New South Wales Sydney,Australia,Kensington,66.4,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+74,mathematics,74,University of Illinois Urbana-Champaign,United States,Champaign,65.4,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+75,mathematics,317,University of South Florida,United States,Tampa,65.1,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+76,mathematics,570,China University of Mining & Technology,China,Xuzhou,64.7,49.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-mining-technology-529045
+77,mathematics,9,California Institute of Technology,United States,Pasadena,64.5,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+78,mathematics,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,64.5,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+79,mathematics,304,Technical University of Berlin,Germany,Berlin,64.1,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+80,mathematics,930,Peoples Friendship University of Russia,Russia,Moscow (Russia),64,40.2,N/A,https://www.usnews.com/education/best-global-universities/peoples-friendship-university-of-russia-529616
+81,mathematics,230,North Carolina State University,United States,Raleigh,63.8,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+82,mathematics,191,University of Waterloo,Canada,Waterloo,63.5,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+83,mathematics,11,Yale University,United States,New Haven,63.4,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+84,mathematics,561,HSE University (National Research University Higher School of Economics),Russia,Moscow (Russia),63.3,49.3,N/A,https://www.usnews.com/education/best-global-universities/hse-university-national-research-university-higher-school-of-economics-529129
+85,mathematics,55,Ohio State University,United States,Columbus,63.3,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+86,mathematics,346,University of South Carolina Columbia,United States,Columbia,63.3,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+87,mathematics,10,Johns Hopkins University,United States,Baltimore,63.2,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+88,mathematics,140,Kyoto University,Japan,Kyoto,63,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+89,mathematics,93,Zhejiang University,China,Hangzhou,63,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+90,mathematics,73,University of California Davis,United States,Davis,62.7,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+91,mathematics,129,Sun Yat Sen University,China,Guangzhou,62.5,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+92,mathematics,447,Mansoura University,Egypt,Mansoura,62.4,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+93,mathematics,93,University of Bristol,United Kingdom,Bristol,62.3,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+94,mathematics,57,University of Maryland College Park,United States,College Park,62.3,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+95,mathematics,45,University of Pittsburgh,United States,Pittsburgh,62.2,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+96,mathematics,298,Beijing Institute of Technology,China,Beijing,62.1,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+97,mathematics,27,University of Melbourne,Australia,Parkville,62.1,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+98,mathematics,247,Xiamen University,China,Xiamen,62,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+99,mathematics,37,Monash University,Australia,Clayton,61.9,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+100,mathematics,"1,132",Xiangtan University,China,Xiangtan,61.9,35.8,N/A,https://www.usnews.com/education/best-global-universities/xiangtan-university-529020
+101,mathematics,178,Aix-Marseille Universite,France,Marseille,61.7,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+102,mathematics,226,Charles University Prague,Czech Republic,Prague,61.7,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+103,mathematics,50,KU Leuven,Belgium,Leuven,61.3,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+104,mathematics,116,Michigan State University,United States,East Lansing,61.1,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+105,mathematics,652,Saint Petersburg State University,Russia,St. Petersburg,61.1,46.9,"24,335",https://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182
+106,mathematics,156,University of Milan,Italy,Milan,60.3,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+107,mathematics,24,Northwestern University,United States,Evanston,60.2,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+108,mathematics,400,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,60.1,54.4,N/A,https://www.usnews.com/education/best-global-universities/king-fahd-university-of-petroleum-minerals-506100
+109,mathematics,450,University of Ljubljana,Slovenia,Ljubljana,60.1,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+110,mathematics,782,AGH University of Science & Technology,Poland,Krakow,60,43.6,N/A,https://www.usnews.com/education/best-global-universities/agh-university-of-science-technology-504859
+111,mathematics,717,Babes Bolyai University from Cluj,Romania,Cluj-Napoca,59.7,45.3,"39,811",https://www.usnews.com/education/best-global-universities/babes-bolyai-university-from-cluj-504529
+112,mathematics,109,Huazhong University of Science & Technology,China,Wuhan,59.7,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+113,mathematics,219,University of Munster,Germany,Munster,59.7,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+114,mathematics,294,Universidade Estadual de Campinas,Brazil,Campinas,59.6,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+115,mathematics,138,McMaster University,Canada,Hamilton,59.5,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+116,mathematics,313,University of Granada,Spain,Granada,58.8,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+117,mathematics,295,University of Pavia,Italy,Pavia,58.6,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+118,mathematics,363,Cairo University,Egypt,Giza,58.3,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+119,mathematics,653,Hohai University,China,Nanjing,58.3,46.8,N/A,https://www.usnews.com/education/best-global-universities/hohai-university-528997
+120,mathematics,487,University of Bielefeld,Germany,Bielefeld,58.3,51.7,"24,875",https://www.usnews.com/education/best-global-universities/university-of-bielefeld-504564
+121,mathematics,61,Humboldt University of Berlin,Germany,Berlin,58.1,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+122,mathematics,333,Northwestern Polytechnical University,China,Xi'an,58.1,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+123,mathematics,317,Technion Israel Institute of Technology,Israel,Haifa,58,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+124,mathematics,339,Jagiellonian University,Poland,Krakow,57.9,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+125,mathematics,175,Tel Aviv University,Israel,Tel Aviv,57.9,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+126,mathematics,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,57.9,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+127,mathematics,"1,327",Tiangong University,China,Tianjin,57.8,31.7,N/A,https://www.usnews.com/education/best-global-universities/tiangong-university-529130
+128,mathematics,,Universite Paris-Dauphine,France,Paris,57.8,N/A,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-dauphine-528841
+129,mathematics,852,Government College University Faisalabad,Pakistan,Faisalabad,57.7,42,N/A,https://www.usnews.com/education/best-global-universities/government-college-university-faisalabad-529535
+130,mathematics,54,McGill University,Canada,Montreal,57.5,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+131,mathematics,20,University of California San Diego,United States,La Jolla,57.5,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+132,mathematics,345,University of Warsaw,Poland,Warsaw,57.5,56.3,"37,090",https://www.usnews.com/education/best-global-universities/university-of-warsaw-502726
+133,mathematics,583,Hong Kong Baptist University,Hong Kong,Hong Kong,57.4,48.7,"8,358",https://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544
+134,mathematics,282,International School for Advanced Studies (SISSA),Italy,Trieste,57.4,59.1,N/A,https://www.usnews.com/education/best-global-universities/international-school-for-advanced-studies-sissa-528824
+135,mathematics,136,University of Alberta,Canada,Edmonton,57.3,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+136,mathematics,80,University of Southern California,United States,Los Angeles,57,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+137,mathematics,787,Aligarh Muslim University,India,Aligarh,56.8,43.5,N/A,https://www.usnews.com/education/best-global-universities/aligarh-muslim-university-528840
+138,mathematics,421,Shanghai University,China,Shanghai,56.7,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+139,mathematics,"1,225",University of Paderborn,Germany,Paderborn,56.7,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-paderborn-529396
+140,mathematics,42,University of Copenhagen,Denmark,Copenhagen,56.6,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+141,mathematics,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,56.5,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+142,mathematics,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,56.3,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+143,mathematics,163,University of Gottingen,Germany,Gottingen,56.2,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+144,mathematics,219,Xi'an Jiaotong University,China,Xi'an,55.8,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+145,mathematics,143,Autonomous University of Barcelona,Spain,Barcelona,55.7,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+146,mathematics,482,Quaid I Azam University,Pakistan,Islamabad,55.7,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+147,mathematics,441,National Technical University of Athens,Greece,Athens (Greece),55.5,53.4,N/A,https://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449
+148,mathematics,202,Universidade de Lisboa,Portugal,Lisbon,55.1,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+149,mathematics,84,University of California Irvine,United States,Irvine,55,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+150,mathematics,468,Nanjing University of Information Science & Technology,China,Nanjing,54.6,52.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-information-science-technology-529160
+151,mathematics,421,Jilin University,China,Changchun,54.5,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+152,mathematics,321,East China Normal University,China,Shanghai,54.4,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+153,mathematics,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,54.4,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+154,mathematics,409,University of Bath,United Kingdom,Bath,54.2,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+155,mathematics,98,University of Florida,United States,Gainesville,54.1,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+156,mathematics,244,Ecole Normale Superieure (ENS),France,Paris,54,60.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-ens-505721
+157,mathematics,570,Universitat Politecnica de Valencia,Spain,Valencia,54,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+158,mathematics,62,Australian National University,Australia,Canberra,53.7,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+159,mathematics,180,University of Iowa,United States,Iowa City,53.7,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+160,mathematics,475,Moscow Institute of Physics & Technology,Russia,Dolgoprudny,53.5,52.3,"6,083",https://www.usnews.com/education/best-global-universities/moscow-institute-of-physics-technology-528929
+161,mathematics,63,University of Manchester,United Kingdom,Manchester,53.5,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+162,mathematics,416,Technische Universitat Wien,Austria,Vienna,53.3,54,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-wien-502163
+163,mathematics,70,University of Colorado Boulder,United States,Boulder,53,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+164,mathematics,180,Rice University,United States,Houston,52.9,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+165,mathematics,119,University of Virginia,United States,Charlottesville,52.5,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+166,mathematics,150,Wuhan University,China,Wuhan,52.4,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+167,mathematics,241,Florida State University,United States,Tallahassee,52.2,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+168,mathematics,123,Nanjing University,China,Nanjing,52,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+169,mathematics,185,University of Naples Federico II,Italy,Naples,52,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+170,mathematics,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,51.9,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+171,mathematics,"1,103",Hangzhou Normal University,China,Hangzhou,51.7,36.5,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-normal-university-529205
+172,mathematics,250,University of Florence,Italy,Florence,51.7,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+173,mathematics,115,University of Padua,Italy,Padua,51.7,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+174,mathematics,520,University of Sevilla,Spain,Seville,51.5,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+175,mathematics,461,University of Catania,Italy,Catania,51.3,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+176,mathematics,263,Iowa State University,United States,Ames,51.2,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+177,mathematics,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,51.2,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+178,mathematics,209,University of Turin,Italy,Turin,51.2,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+179,mathematics,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,51.1,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+180,mathematics,426,University of Buenos Aires,Argentina,Buenos Aires,51.1,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+181,mathematics,127,Uppsala University,Sweden,Uppsala,51.1,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+182,mathematics,39,University of Amsterdam,Netherlands,Amsterdam,50.9,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+183,mathematics,263,Sungkyunkwan University (SKKU),South Korea,Seoul,50.5,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+184,mathematics,47,University of Munich,Germany,Munich,50.3,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+185,mathematics,309,University of Connecticut,United States,Storrs,50.2,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+186,mathematics,219,University of Pisa,Italy,Pisa,50,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+187,mathematics,290,Universite de Bordeaux,France,Talence,49.6,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+188,mathematics,512,Central China Normal University,China,Wuhan,49.4,50.7,N/A,https://www.usnews.com/education/best-global-universities/central-china-normal-university-501632
+189,mathematics,959,Ural Federal University,Russia,Ekaterinburg,49.3,39.7,N/A,https://www.usnews.com/education/best-global-universities/ural-federal-university-529237
+190,mathematics,260,Tianjin University,China,Tianjin,49.2,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+191,mathematics,241,Hebrew University of Jerusalem,Israel,Jerusalem,49.1,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+192,mathematics,304,Sichuan University,China,Chengdu,49.1,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+193,mathematics,504,Polytechnic University of Turin,Italy,Turin,49,51.1,"29,428",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+194,mathematics,273,University of Milano-Bicocca,Italy,Milan,49,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+195,mathematics,"1,158",Shanghai Normal University,China,Shanghai,48.7,35.1,N/A,https://www.usnews.com/education/best-global-universities/shanghai-normal-university-505334
+196,mathematics,520,Renmin University of China,China,Beijing,48.6,50.5,N/A,https://www.usnews.com/education/best-global-universities/renmin-university-of-china-528921
+197,mathematics,"1,556",University of Nis,Serbia,Nis,48.6,26.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-nis-529197
+198,mathematics,300,University of Rome Tor Vergata,Italy,Rome,48.6,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+199,mathematics,134,Weizmann Institute of Science,Israel,Rehovot,48.5,67.3,N/A,https://www.usnews.com/education/best-global-universities/weizmann-institute-of-science-506795
+200,mathematics,"1,008",Polytechnic University of Bucharest,Romania,Bucharest,48.3,38.6,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-bucharest-506097
+201,mathematics,99,University of Helsinki,Finland,Helsinki,48.2,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+202,mathematics,213,Southern University of Science & Technology,China,Shenzhen,48,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+203,mathematics,55,University of Hong Kong,Hong Kong,Pok Fu Lam,48,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+204,mathematics,273,Aalto University,Finland,Esbo,47.9,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+205,mathematics,250,University of Illinois Chicago,United States,Chicago,47.8,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+206,mathematics,385,University of Perugia,Italy,Perugia,47.8,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+207,mathematics,87,Free University of Berlin,Germany,Berlin,47.7,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+208,mathematics,531,University of Santiago De Compostela,Spain,Santiago de Compostela,47.7,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+209,mathematics,478,Universite Cote d'Azur,France,Nice,47.6,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+210,mathematics,782,Shandong Normal University,China,Jinan,47.5,43.6,N/A,https://www.usnews.com/education/best-global-universities/shandong-normal-university-529300
+211,mathematics,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,47.5,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+212,mathematics,540,Lanzhou University,China,Lanzhou,47.3,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+213,mathematics,400,Universidad de Chile,Chile,Santiago,47.2,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+214,mathematics,337,Complutense University of Madrid,Spain,Madrid,47.1,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+215,mathematics,459,University of Belgrade,Serbia,Belgrade,46.9,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+216,mathematics,579,Novosibirsk State University,Russia,Novosibirsk,46.8,48.8,N/A,https://www.usnews.com/education/best-global-universities/novosibirsk-state-university-503585
+217,mathematics,389,Universite de Lille,France,Lille,46.8,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+218,mathematics,169,Delft University of Technology,Netherlands,Delft,46.7,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+219,mathematics,225,University of Tennessee Knoxville,United States,Knoxville,46.6,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+220,mathematics,517,University of Zagreb,Croatia,Zagreb,46.5,50.6,"65,436",https://www.usnews.com/education/best-global-universities/university-of-zagreb-502783
+221,mathematics,385,Polytechnic University of Catalonia,Spain,Barcelona,46.4,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+222,mathematics,"1,208",Gyeongsang National University,South Korea,Jinju City,46.3,34.2,N/A,https://www.usnews.com/education/best-global-universities/gyeongsang-national-university-500897
+223,mathematics,240,Royal Institute of Technology,Sweden,Stockholm,46.2,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+224,mathematics,413,Universite de Lorraine,France,Nancy,46,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+225,mathematics,551,Guangzhou University,China,Guangzhou,45.8,49.6,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-529537
+226,mathematics,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,45.8,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+227,mathematics,579,Waseda University,Japan,Tokyo,45.7,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+228,mathematics,231,Autonomous University of Madrid,Spain,Madrid,45.6,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+229,mathematics,852,Universidad Carlos III de Madrid,Spain,Madrid,45.6,42,"18,133",https://www.usnews.com/education/best-global-universities/universidad-carlos-iii-de-madrid-500603
+230,mathematics,89,University of Oslo,Norway,Oslo,45.6,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+231,mathematics,598,Beijing Jiaotong University,China,Beijing,45.5,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+232,mathematics,30,Nanyang Technological University,Singapore,Singapore,45.5,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+233,mathematics,667,Southwest University - China,China,Chongqing,45.4,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+234,mathematics,"1,498",Ecole Centrale de Lyon,France,Ecully,45.2,27.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-centrale-de-lyon-529054
+235,mathematics,698,Memorial University Newfoundland,Canada,St. John's,45,45.7,N/A,https://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985
+236,mathematics,416,Scuola Normale Superiore di Pisa,Italy,Pisa,44.9,54,629,https://www.usnews.com/education/best-global-universities/scuola-normale-superiore-di-pisa-504541
+237,mathematics,717,Southwestern University of Finance & Economics - China,China,Chengdu,44.6,45.3,N/A,https://www.usnews.com/education/best-global-universities/southwestern-university-of-finance-economics---china-529633
+238,mathematics,"1,008",Northeast Normal University - China,China,Changchun,44.5,38.6,"30,310",https://www.usnews.com/education/best-global-universities/northeast-normal-university-china-503882
+239,mathematics,167,University of Utah,United States,Salt Lake City,44.5,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+240,mathematics,276,Colorado State University,United States,Fort Collins,44.4,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+241,mathematics,196,Tongji University,China,Shanghai,44.4,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+242,mathematics,322,University of Notre Dame,United States,Notre Dame,44.4,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+243,mathematics,219,South China University of Technology,China,Guangzhou,44.3,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+244,mathematics,531,Nanjing University of Science & Technology,China,Nanjing,44.2,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+245,mathematics,520,University of Jyvaskyla,Finland,Jyvaskyla,44.1,50.5,"10,434",https://www.usnews.com/education/best-global-universities/university-of-jyvaskyla-500627
+246,mathematics,78,Vanderbilt University,United States,Nashville,44,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+247,mathematics,74,Leiden University,Netherlands,Leiden,43.9,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+248,mathematics,"1,647",Linyi University,China,Linyi,43.8,24.5,N/A,https://www.usnews.com/education/best-global-universities/linyi-university-529970
+249,mathematics,152,Indiana University Bloomington,United States,Bloomington,43.7,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+250,mathematics,271,Shenzhen University,China,Shenzhen,43.6,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+251,mathematics,311,Soochow University - China,China,Suzhou,43.6,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+252,mathematics,286,Tohoku University,Japan,Sendai,43.5,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+253,mathematics,300,University of Duisburg Essen,Germany,Essen,43.4,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+254,mathematics,"1,309",Henan Polytechnic University,China,Jiaozuo,43.3,32,N/A,https://www.usnews.com/education/best-global-universities/henan-polytechnic-university-529521
+255,mathematics,512,China University of Petroleum,China,Qingdao,43.1,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+256,mathematics,333,Nagoya University,Japan,Nagoya,43.1,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+257,mathematics,360,Tokyo Institute of Technology,Japan,Tokyo,43.1,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+258,mathematics,907,Universite Gustave-Eiffel,France,Marne-la-Vallée,43.1,40.8,N/A,https://www.usnews.com/education/best-global-universities/universite-gustave-eiffel-529800
+259,mathematics,122,University of Bologna,Italy,Bologna,43.1,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+260,mathematics,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,43,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+261,mathematics,"1,066",University of Bucharest,Romania,Bucharest,43,37.3,"31,267",https://www.usnews.com/education/best-global-universities/university-of-bucharest-501581
+262,mathematics,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,42.9,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+263,mathematics,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,42.8,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+264,mathematics,286,Osaka University,Japan,Suita,42.8,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+265,mathematics,337,Chalmers University of Technology,Sweden,Gothenburg,42.5,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+266,mathematics,702,Nanjing Normal University,China,Nanjing,42.5,45.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-normal-university-528982
+267,mathematics,194,Universite de Montpellier,France,Montpellier,42.3,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+268,mathematics,109,University of Geneva,Switzerland,Geneva,42.3,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+269,mathematics,28,University of Sydney,Australia,Sydney,42.3,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+270,mathematics,123,University of Auckland,New Zealand,Auckland,42.2,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+271,mathematics,379,Chongqing University,China,Chongqing,42,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+272,mathematics,199,RWTH Aachen University,Germany,Aachen,42,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+273,mathematics,"1,095",Tokyo University of Science,Japan,Tokyo,42,36.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-science-503707
+274,mathematics,392,Dalian University of Technology,China,Dalian,41.9,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+275,mathematics,525,Universidade de Aveiro,Portugal,Aveiro,41.9,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+276,mathematics,256,University of Erlangen Nuremberg,Germany,Erlangen,41.9,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+277,mathematics,156,Universite de Montreal,Canada,Montreal,41.8,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+278,mathematics,901,University of Shanghai for Science & Technology,China,Shanghai,41.7,40.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-shanghai-for-science-technology-529079
+279,mathematics,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,41.5,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+280,mathematics,"1,022",Jiangsu Normal University,China,Xuzhou,41.4,38.3,"23,978",https://www.usnews.com/education/best-global-universities/jiangsu-normal-university-529282
+281,mathematics,72,Emory University,United States,Atlanta,40.7,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+282,mathematics,466,University of Basque Country,Spain,Leioa,40.5,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+283,mathematics,564,Ecole Normale Superieure de Lyon (ENS de LYON),France,Lyon,40.4,49.2,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-de-lyon-ens-de-lyon-503874
+284,mathematics,182,Lancaster University,United Kingdom,Lancaster,40.4,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+285,mathematics,95,Ghent University,Belgium,Gent,40.3,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+286,mathematics,33,King's College London,United Kingdom,London (U.K.),40.3,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+287,mathematics,"1,636",Universite Jean Monnet,France,Saint-Etienne,40.3,24.6,N/A,https://www.usnews.com/education/best-global-universities/universite-jean-monnet-501383
+288,mathematics,"1,678",Chongqing Normal University,China,Chongqing,40.2,23.6,N/A,https://www.usnews.com/education/best-global-universities/chongqing-normal-university-530005
+289,mathematics,739,North China Electric Power University,China,Beijing,39.9,44.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-electric-power-university-528965
+290,mathematics,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,39.9,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+291,mathematics,725,Heriot Watt University,United Kingdom,Edinburgh,39.6,45.1,"9,885",https://www.usnews.com/education/best-global-universities/heriot-watt-university-506192
+292,mathematics,633,University of Haifa,Israel,Haifa,39.6,47.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-haifa-501200
+293,mathematics,"1,066",Yunnan University,China,Kunming,39.6,37.3,N/A,https://www.usnews.com/education/best-global-universities/yunnan-university-529189
+294,mathematics,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,39.4,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+295,mathematics,186,Technische Universitat Dresden,Germany,Dresden,39.4,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+296,mathematics,413,University of Central Florida,United States,Orlando,39.4,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+297,mathematics,452,University of Missouri Columbia,United States,Columbia,39.4,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+298,mathematics,186,University of California Riverside,United States,Riverside,38.9,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+299,mathematics,324,University of Georgia,United States,"Athens (Georgia, U.S.)",38.8,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+300,mathematics,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,38.6,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+301,mathematics,44,Utrecht University,Netherlands,Utrecht,38.5,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+302,mathematics,385,Wayne State University,United States,Detroit,38.5,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+303,mathematics,844,Jiangsu University,China,Zhenjiang,38.4,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+304,mathematics,349,Kyushu University,Japan,Fukuoka,38.3,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+305,mathematics,426,York University - Canada,Canada,Toronto,38.3,53.8,"44,036",https://www.usnews.com/education/best-global-universities/york-university-canada-499962
+306,mathematics,317,Simon Fraser University,Canada,Burnaby,38.2,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+307,mathematics,149,University of Hamburg,Germany,Hamburg,38.1,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+308,mathematics,579,Auburn University,United States,Auburn,38,48.8,"27,512",https://www.usnews.com/education/best-global-universities/auburn-university-100858
+309,mathematics,629,University of Stuttgart,Germany,Stuttgart,38,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+310,mathematics,346,Ruhr University Bochum,Germany,Bochum,37.9,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+311,mathematics,618,Northeastern University - China,China,Shenyang,37.8,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931
+312,mathematics,573,University of Palermo,Italy,Palermo,37.6,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+313,mathematics,920,Universite de Tunis-El-Manar,Tunisia,Tunis,37.5,40.5,"26,325",https://www.usnews.com/education/best-global-universities/universite-de-tunis-el-manar-529027
+314,mathematics,253,Beihang University,China,Beijing,37.2,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+315,mathematics,"1,163",Anhui University,China,Hefei,37.1,35,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-529110
+316,mathematics,300,Western University (University of Western Ontario),Canada,London (Canada),36.8,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+317,mathematics,236,London School Economics & Political Science,United Kingdom,London (U.K.),36.7,61.2,"11,310",https://www.usnews.com/education/best-global-universities/london-school-economics-political-science-502076
+318,mathematics,"1,049",University of Maribor,Slovenia,Maribor,36.7,37.6,"12,403",https://www.usnews.com/education/best-global-universities/university-of-maribor-528882
+319,mathematics,140,University of Leeds,United Kingdom,Leeds,36.4,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+320,mathematics,86,University of Barcelona,Spain,Barcelona,36,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+321,mathematics,379,University of Macau,Macau,Taipa,36,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+322,mathematics,352,University of St Andrews,United Kingdom,Fife,36,56,"9,645",https://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328
+323,mathematics,385,Zhengzhou University,China,Zhengzhou,36,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+324,mathematics,452,Tata Institute of Fundamental Research (TIFR),India,Mumbai,35.7,53.1,N/A,https://www.usnews.com/education/best-global-universities/tata-institute-of-fundamental-research-tifr-529777
+325,mathematics,493,Universite de Rennes 1,France,Rennes,35.7,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+326,mathematics,67,University of California Santa Barbara,United States,Santa Barbara,35.7,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+327,mathematics,551,Ollscoil na Gaillimhe-University of Galway,Ireland,Galway,35.4,49.6,N/A,https://www.usnews.com/education/best-global-universities/ollscoil-na-gaillimhe-university-of-galway-505038
+328,mathematics,156,Arizona State University-Tempe,United States,Tempe,35.3,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+329,mathematics,89,University of Birmingham,United Kingdom,Birmingham (U.K.),35.2,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+330,mathematics,146,University of Gothenburg,Sweden,Gothenburg,35.1,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+331,mathematics,100,Queen Mary University London,United Kingdom,London (U.K.),35,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+332,mathematics,400,Nantes Universite,France,Nantes,34.8,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+333,mathematics,236,Goethe University Frankfurt,Germany,Frankfurt am Main,34.7,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+334,mathematics,304,University of Kansas,United States,Lawrence,34.3,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+335,mathematics,653,Southwest Jiaotong University,China,Chengdu,34.2,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+336,mathematics,109,Aarhus University,Denmark,Aarhus,34.1,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+337,mathematics,192,Macquarie University,Australia,North Ryde,34,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+338,mathematics,770,South China Normal University,China,Guangzhou,34,43.9,N/A,https://www.usnews.com/education/best-global-universities/south-china-normal-university-501607
+339,mathematics,247,Universidade do Porto,Portugal,Porto,34,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+340,mathematics,625,University of Tabriz,Iran,Tabriz,34,47.7,"20,983",https://www.usnews.com/education/best-global-universities/university-of-tabriz-528957
+341,mathematics,70,Boston University,United States,Boston,33.9,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+342,mathematics,"1,163",Hangzhou Dianzi University,China,Hangzhou,33.3,35,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-dianzi-university-529256
+343,mathematics,"1,350",Indian Statistical Institute Kolkata,India,Kolkata,33.3,31.3,N/A,https://www.usnews.com/education/best-global-universities/indian-statistical-institute-kolkata-529534
+344,mathematics,356,University of Kentucky,United States,Lexington,33.2,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+345,mathematics,292,Yonsei University,South Korea,Seoul,33.2,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+346,mathematics,203,National Taiwan University,Taiwan,Taipei,33.1,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+347,mathematics,277,Universite de Strasbourg,France,Strasbourg,32.8,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+348,mathematics,554,Hacettepe University,Turkey,Ankara,32.6,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+349,mathematics,"1,449",Hunan Normal University,China,Changsha,32.5,28.9,N/A,https://www.usnews.com/education/best-global-universities/hunan-normal-university-529497
+350,mathematics,901,Universidade Federal de Pernambuco,Brazil,Recife,32.5,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pernambuco-506633
+351,mathematics,"1,116",Vietnam National University Hochiminh City,Vietnam,Ho Chi Minh City,32.2,36.2,N/A,https://www.usnews.com/education/best-global-universities/vietnam-national-university-hochiminh-city-529532
+352,mathematics,879,Indian Institute of Technology (IIT) - Kanpur,India,Kanpur,32.1,41.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622
+353,mathematics,83,University of Western Australia,Australia,Crawley,31.9,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+354,mathematics,"1,225",University of L'Aquila,Italy,L'Aquila,31.8,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-laquila-528961
+355,mathematics,"1,190",University of Kaiserslautern,Germany,Kaiserslautern,31.4,34.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-kaiserslautern-528867
+356,mathematics,615,Technical University of Darmstadt,Germany,Darmstadt,31,48,"15,526",https://www.usnews.com/education/best-global-universities/technical-university-of-darmstadt-506035
+357,mathematics,32,Washington University (WUSTL),United States,St. Louis,31,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+358,mathematics,992,Johannes Kepler University Linz,Austria,Linz,30.9,38.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-kepler-university-linz-528837
+359,mathematics,676,University of Zaragoza,Spain,Zaragoza,30.9,46.3,"28,083",https://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343
+360,mathematics,"1,046",Ferdowsi University Mashhad,Iran,Mashhad,30.7,37.7,N/A,https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854
+361,mathematics,290,Korea University,South Korea,Seoul,30.7,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+362,mathematics,"1,027",Shanxi University,China,Taiyuan,30.5,38.2,N/A,https://www.usnews.com/education/best-global-universities/shanxi-university-529038
+363,mathematics,"1,088",Universite Paris 13,France,Villetaneuse,30.5,36.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-13-528858
+364,mathematics,368,Eotvos Lorand University,Hungary,Budapest,30.4,55.4,"30,190",https://www.usnews.com/education/best-global-universities/eotvos-lorand-university-505612
+365,mathematics,517,Keio University,Japan,Tokyo,30.3,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+366,mathematics,452,University of Pretoria,South Africa,Hatfied (South Africa),30.3,53.1,"36,493",https://www.usnews.com/education/best-global-universities/university-of-pretoria-501543
+367,mathematics,212,University of Valencia,Spain,Valencia,30.2,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+368,mathematics,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,30.1,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+369,mathematics,160,University of Massachusetts Amherst,United States,Amherst,30,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+370,mathematics,710,Universidade de Brasilia,Brazil,Brasilia,29.7,45.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217
+371,mathematics,510,University of Regensburg,Germany,Regensburg,29.7,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-regensburg-500220
+372,mathematics,605,Indian Institute of Technology (IIT) - Madras,India,Chennai,29.4,48.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278
+373,mathematics,432,Hokkaido University,Japan,Sapporo,29.2,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+374,mathematics,244,University of Witwatersrand,South Africa,Johannesburg,29.1,60.8,"26,871",https://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909
+375,mathematics,104,University of Southampton,United Kingdom,Southampton,29,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+376,mathematics,643,Beijing University of Technology,China,Beijing,28.9,47.1,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-technology-505552
+377,mathematics,688,Donghua University,China,Shanghai,28.7,46,"23,598",https://www.usnews.com/education/best-global-universities/donghua-university-500299
+378,mathematics,698,Czech Technical University Prague,Czech Republic,Prague,28.5,45.7,N/A,https://www.usnews.com/education/best-global-universities/czech-technical-university-prague-502255
+379,mathematics,226,Universite Libre de Bruxelles,Belgium,Brussels,28.5,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+380,mathematics,"1,017",Universite de Sfax,Tunisia,Sfax,28.2,38.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-sfax-529029
+381,mathematics,643,Xidian University,China,Xi'an,28.2,47.1,N/A,https://www.usnews.com/education/best-global-universities/xidian-university-506871
+382,mathematics,389,Louisiana State University,United States,Baton Rouge,27.9,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+383,mathematics,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,27.6,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+384,mathematics,256,University of Trento,Italy,Trento,27.6,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+385,mathematics,750,Bar Ilan University,Israel,Ramat Gan,27.2,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+386,mathematics,459,Institut National Polytechnique de Grenoble,France,Grenoble,27,53,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-grenoble-504372
+387,mathematics,145,University of Nottingham,United Kingdom,Nottingham,26.9,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+388,mathematics,794,Kent State University,United States,Kent,26.8,43.3,N/A,https://www.usnews.com/education/best-global-universities/kent-state-university-203517
+389,mathematics,286,State University of New York (SUNY) Buffalo,United States,Buffalo,26.6,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+390,mathematics,"1,132",University of Novi Sad,Serbia,Novi Sad,26.6,35.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-novi-sad-529165
+391,mathematics,732,Warsaw University of Technology,Poland,Warsaw,26.6,44.9,"26,482",https://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920
+392,mathematics,975,Shanghai University of Finance & Economics,China,Shanghai,26.5,39.3,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-finance-economics-529139
+393,mathematics,429,Universidade de Coimbra,Portugal,Coimbra,26.4,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+394,mathematics,615,Dortmund University of Technology,Germany,Dortmund,26.2,48,N/A,https://www.usnews.com/education/best-global-universities/dortmund-university-of-technology-504395
+395,mathematics,"1,261",Universite de Monastir,Tunisia,Monastir,26.2,33,"19,203",https://www.usnews.com/education/best-global-universities/universite-de-monastir-529198
+396,mathematics,,Universite Toulouse 1 Capitole,France,Toulouse,26.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-1-capitole-529136
+397,mathematics,"1,258",Capital Normal University,China,Beijing,25.8,33.1,N/A,https://www.usnews.com/education/best-global-universities/capital-normal-university-529223
+398,mathematics,175,University of Calgary,Canada,Calgary,25.8,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+399,mathematics,342,Eindhoven University of Technology,Netherlands,Eindhoven,25.6,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+400,mathematics,244,University of Cologne,Germany,Koln,25.3,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060

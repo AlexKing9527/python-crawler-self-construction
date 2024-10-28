@@ -1,0 +1,751 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,materials-science,30,Nanyang Technological University,Singapore,Singapore,100,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+2,materials-science,3,Stanford University,United States,Stanford,98.3,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+3,materials-science,23,Tsinghua University,China,Beijing,96.8,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+4,materials-science,51,Georgia Institute of Technology,United States,Atlanta,95.8,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+5,materials-science,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),95,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+6,materials-science,39,Peking University,China,Beijing,93.4,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+7,materials-science,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,92.2,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+8,materials-science,1,Harvard University,United States,Cambridge (U.S.),91.2,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+9,materials-science,26,National University of Singapore,Singapore,Singapore,90.6,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+10,materials-science,102,"University of Science & Technology of China, CAS",China,Hefei,89.3,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+11,materials-science,93,Zhejiang University,China,Hangzhou,87.6,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+12,materials-science,4,University of California Berkeley,United States,Berkeley,87.2,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+13,materials-science,311,Soochow University - China,China,Suzhou,86.7,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+14,materials-science,14,University of California Los Angeles,United States,Los Angeles,86.3,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+15,materials-science,120,City University of Hong Kong,Hong Kong,Kowloon,85.9,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+16,materials-science,89,Shanghai Jiao Tong University,China,Shanghai,85.5,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+17,materials-science,116,Fudan University,China,Shanghai,85.3,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+18,materials-science,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,84.5,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+19,materials-science,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,82.8,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+20,materials-science,24,Northwestern University,United States,Evanston,82.7,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+21,materials-science,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,82.1,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+22,materials-science,8,University of Cambridge,United Kingdom,Cambridge (U.K.),82,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+23,materials-science,219,Xi'an Jiaotong University,China,Xi'an,81.9,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+24,materials-science,123,Nanjing University,China,Nanjing,80.8,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+25,materials-science,43,University of Texas Austin,United States,Austin,79.9,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+26,materials-science,186,University of Wollongong,Australia,Wollongong,77.9,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+27,materials-science,342,Wuhan University of Technology,China,Wuhan,77.3,56.4,"55,426",https://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361
+28,materials-science,196,Harbin Institute of Technology,China,Harbin,77,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+29,materials-science,352,Drexel University,United States,Philadelphia,76.9,56,N/A,https://www.usnews.com/education/best-global-universities/drexel-university-212054
+30,materials-science,109,Huazhong University of Science & Technology,China,Wuhan,76.9,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+31,materials-science,385,Zhengzhou University,China,Zhengzhou,76.7,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+32,materials-science,441,University of Science & Technology Beijing,China,Beijing,76.5,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-science-technology-beijing-506176
+33,materials-science,84,Pennsylvania State University,United States,University Park,76,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+34,materials-science,180,Rice University,United States,Houston,76,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+35,materials-science,29,ETH Zurich,Switzerland,Zurich,75.9,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+36,materials-science,260,Tianjin University,China,Tianjin,75.9,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+37,materials-science,129,Seoul National University (SNU),South Korea,Seoul,75.8,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+38,materials-science,6,University of Washington Seattle,United States,Seattle,75.8,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+39,materials-science,219,South China University of Technology,China,Guangzhou,75.6,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+40,materials-science,13,Imperial College London,United Kingdom,London (U.K.),75.4,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+41,materials-science,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,75.4,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+42,materials-science,209,Central South University,China,Changsha,75,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+43,materials-science,129,Sun Yat Sen University,China,Guangzhou,74.7,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+44,materials-science,421,Jilin University,China,Changchun,74.2,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+45,materials-science,19,University of Michigan,United States,Ann Arbor,74,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+46,materials-science,421,Beijing University of Chemical Technology,China,Beijing,73.9,53.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chemical-technology-501098
+47,materials-science,360,Ulsan National Institute of Science & Technology (UNIST),South Korea,Ulsan,73.7,55.7,N/A,https://www.usnews.com/education/best-global-universities/ulsan-national-institute-of-science-technology-unist-528883
+48,materials-science,150,Wuhan University,China,Wuhan,73.4,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+49,materials-science,256,Nankai University,China,Nankai,73.2,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+50,materials-science,36,University of Queensland,Australia,Brisbane,72.9,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+51,materials-science,65,King Abdulaziz University,Saudi Arabia,Jeddah,72.8,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+52,materials-science,18,University of Toronto,Canada,Toronto,72.8,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+53,materials-science,53,Chinese University of Hong Kong,Hong Kong,Shatin,72.7,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+54,materials-science,253,Beihang University,China,Beijing,72.6,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+55,materials-science,37,Monash University,Australia,Clayton,72,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+56,materials-science,298,Beijing Institute of Technology,China,Beijing,71.9,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+57,materials-science,409,Pohang University of Science & Technology (POSTECH),South Korea,Pohang,71.9,54.2,"3,260",https://www.usnews.com/education/best-global-universities/pohang-university-of-science-technology-postech-503003
+58,materials-science,20,University of California San Diego,United States,La Jolla,71.7,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+59,materials-science,225,University of Tennessee Knoxville,United States,Knoxville,71.4,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+60,materials-science,5,University of Oxford,United Kingdom,Oxford,71.2,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+61,materials-science,304,Sichuan University,China,Chengdu,71.1,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+62,materials-science,263,Sungkyunkwan University (SKKU),South Korea,Seoul,71.1,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+63,materials-science,57,University of Maryland College Park,United States,College Park,71.1,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+64,materials-science,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,70.9,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+65,materials-science,81,University of Tokyo,Japan,Tokyo,70.7,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+66,materials-science,37,University of New South Wales Sydney,Australia,Kensington,70.3,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+67,materials-science,7,Columbia University,United States,New York City,69.7,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+68,materials-science,247,Xiamen University,China,Xiamen,69.5,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+69,materials-science,74,University of Illinois Urbana-Champaign,United States,Champaign,68.2,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+70,materials-science,230,North Carolina State University,United States,Raleigh,68,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+71,materials-science,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,67.9,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+72,materials-science,169,Delft University of Technology,Netherlands,Delft,67.8,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+73,materials-science,421,Shanghai University,China,Shanghai,67.6,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+74,materials-science,55,University of Hong Kong,Hong Kong,Pok Fu Lam,67.6,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+75,materials-science,41,University of North Carolina Chapel Hill,United States,Chapel Hill,67.5,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+76,materials-science,333,Northwestern Polytechnical University,China,Xi'an,67.4,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+77,materials-science,290,Korea University,South Korea,Seoul,67.3,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+78,materials-science,286,Tohoku University,Japan,Sendai,67,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+79,materials-science,186,Technische Universitat Dresden,Germany,Dresden,66.9,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+80,materials-science,21,Cornell University,United States,Ithaca,66.6,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+81,materials-science,15,University of Pennsylvania,United States,Philadelphia,66.4,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+82,materials-science,531,Nanjing University of Science & Technology,China,Nanjing,66.3,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+83,materials-science,379,Chongqing University,China,Chongqing,66.2,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+84,materials-science,271,Shenzhen University,China,Shenzhen,66.1,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+85,materials-science,67,University of California Santa Barbara,United States,Santa Barbara,66.1,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+86,materials-science,441,Hanyang University,South Korea,Seoul,65.8,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+87,materials-science,330,Linkoping University,Sweden,Linkoping,65.8,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+88,materials-science,63,University of Manchester,United Kingdom,Manchester,65.6,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+89,materials-science,112,University of Technology Sydney,Australia,Ultimo,65.5,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+90,materials-science,9,California Institute of Technology,United States,Pasadena,65.2,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+91,materials-science,191,University of Waterloo,Canada,Waterloo,65.1,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+92,materials-science,234,Southeast University - China,China,Nanjing,64.8,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+93,materials-science,618,Nanjing Tech University,China,Nanjing,64.5,47.9,"38,866",https://www.usnews.com/education/best-global-universities/nanjing-tech-university-501774
+94,materials-science,203,National Taiwan University,Taiwan,Taipei,64.2,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+95,materials-science,168,Hunan University,China,Changsha,64.1,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+96,materials-science,196,Tongji University,China,Shanghai,64,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+97,materials-science,171,Queensland University of Technology (QUT),Australia,Brisbane,63.9,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+98,materials-science,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),63.9,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+99,materials-science,199,RWTH Aachen University,Germany,Aachen,63.5,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+100,materials-science,140,Purdue University West Lafayette Campus,United States,West Lafayette,63.4,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+101,materials-science,140,Kyoto University,Japan,Kyoto,63.3,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+102,materials-science,63,University of Wisconsin Madison,United States,Madison,63.3,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+103,materials-science,213,Southern University of Science & Technology,China,Shenzhen,62.6,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+104,materials-science,70,University of Colorado Boulder,United States,Boulder,62.2,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+105,materials-science,28,University of Sydney,Australia,Sydney,62.2,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+106,materials-science,618,Northeastern University - China,China,Shenyang,61.6,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931
+107,materials-science,74,University of Adelaide,Australia,Adelaide,61.2,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+108,materials-science,392,Dalian University of Technology,China,Dalian,61,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+109,materials-science,203,Griffith University,Australia,Nathan,60.8,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+110,materials-science,231,University of Electronic Science & Technology of China,China,Chengdu,60.7,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+111,materials-science,292,Yonsei University,South Korea,Seoul,60.7,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+112,materials-science,118,Carnegie Mellon University,United States,Pittsburgh,60.2,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+113,materials-science,50,KU Leuven,Belgium,Leuven,60.2,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+114,materials-science,394,National Tsing Hua University,Taiwan,Hsinchu,60.1,54.6,"13,030",https://www.usnews.com/education/best-global-universities/national-tsing-hua-university-501245
+115,materials-science,55,Ohio State University,United States,Columbus,59.9,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+116,materials-science,688,Donghua University,China,Shanghai,59.7,46,"23,598",https://www.usnews.com/education/best-global-universities/donghua-university-500299
+117,materials-science,11,Yale University,United States,New Haven,59.7,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+118,materials-science,342,Eindhoven University of Technology,Netherlands,Eindhoven,59.6,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+119,materials-science,22,University of Chicago,United States,Chicago,59.6,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+120,materials-science,12,University College London,United Kingdom,London (U.K.),59.4,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+121,materials-science,10,Johns Hopkins University,United States,Baltimore,59.3,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+122,materials-science,79,Technical University of Munich,Germany,Munich,59.1,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+123,materials-science,256,University of Erlangen Nuremberg,Germany,Erlangen,58.9,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+124,materials-science,240,Royal Institute of Technology,Sweden,Stockholm,58.6,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+125,materials-science,643,East China University of Science & Technology,China,Shanghai,58.5,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+126,materials-science,643,Beijing University of Technology,China,Beijing,57.8,47.1,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-technology-505552
+127,materials-science,794,Qingdao University,China,Qingdao,57.8,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+128,materials-science,349,Kyushu University,Japan,Fukuoka,57.7,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+129,materials-science,60,Universite Paris Saclay,France,Saint-Aubin,57.7,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+130,materials-science,95,Ghent University,Belgium,Gent,57.6,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+131,materials-science,213,King Saud University,Saudi Arabia,Riyadh,57.6,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+132,materials-science,47,University of Munich,Germany,Munich,57.6,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+133,materials-science,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,57.5,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+134,materials-science,148,Texas A&M University College Station,United States,College Station,57.4,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+135,materials-science,27,University of Melbourne,Australia,Parkville,57.4,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+136,materials-science,286,Osaka University,Japan,Suita,57.3,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+137,materials-science,368,Shandong University,China,Jinan,57.3,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+138,materials-science,360,Tokyo Institute of Technology,Japan,Tokyo,57.3,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+139,materials-science,"1,017",National University of Science & Technology (MISIS),Russia,Moscow (Russia),57,38.4,"7,300",https://www.usnews.com/education/best-global-universities/national-university-of-science-technology-misis-529075
+140,materials-science,304,Technical University of Berlin,Germany,Berlin,57,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+141,materials-science,62,Australian National University,Australia,Canberra,56.9,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+142,materials-science,217,Deakin University,Australia,Burwood,56.9,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+143,materials-science,134,University of Sheffield,United Kingdom,Sheffield,56.9,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+144,materials-science,25,Duke University,United States,"Durham (North Carolina, U.S.)",56.4,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+145,materials-science,48,Sorbonne Universite,France,Paris,56.2,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+146,materials-science,165,Technical University of Denmark,Denmark,Kongens Lyngby,55.9,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+147,materials-science,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),55.8,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+148,materials-science,152,Case Western Reserve University,United States,Cleveland,55.6,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+149,materials-science,273,Aalto University,Finland,Esbo,55.5,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+150,materials-science,143,Autonomous University of Barcelona,Spain,Barcelona,55.5,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+151,materials-science,35,University of British Columbia,Canada,Vancouver,55.2,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+152,materials-science,432,Singapore University of Technology & Design,Singapore,Singapore,54.9,53.6,N/A,https://www.usnews.com/education/best-global-universities/singapore-university-of-technology-design-529432
+153,materials-science,54,McGill University,Canada,Montreal,54.8,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+154,materials-science,160,Curtin University,Australia,Bentley,54.7,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+155,materials-science,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,54.7,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+156,materials-science,317,Technion Israel Institute of Technology,Israel,Haifa,54.6,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+157,materials-science,123,University of Auckland,New Zealand,Auckland,54.6,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+158,materials-science,349,University of Texas Dallas,United States,Richardson,54.6,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+159,materials-science,598,Sharif University of Technology,Iran,Tehran,54.3,48.3,N/A,https://www.usnews.com/education/best-global-universities/sharif-university-of-technology-502898
+160,materials-science,160,University of Massachusetts Amherst,United States,Amherst,54.2,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+161,materials-science,329,University of Tehran,Iran,Tehran,54.1,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+162,materials-science,337,Chalmers University of Technology,Sweden,Gothenburg,53.9,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+163,materials-science,194,Northeastern University,United States,Boston,53.9,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+164,materials-science,297,Polytechnic University of Milan,Italy,Milan,53.9,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+165,materials-science,100,Queen Mary University London,United Kingdom,London (U.K.),53.9,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+166,materials-science,127,Uppsala University,Sweden,Uppsala,53.8,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+167,materials-science,143,Rutgers State University New Brunswick,United States,Piscataway Township,53.5,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+168,materials-science,321,East China Normal University,China,Shanghai,53.4,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+169,materials-science,16,Princeton University,United States,Princeton,53,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+170,materials-science,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,52.5,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+171,materials-science,452,University of Southern Queensland,Australia,Toowoomba,52.4,53.1,"12,150",https://www.usnews.com/education/best-global-universities/university-of-southern-queensland-529601
+172,materials-science,447,ShanghaiTech University,China,Pudong,52.3,53.3,N/A,https://www.usnews.com/education/best-global-universities/shanghaitech-university-529508
+173,materials-science,57,University of Minnesota Twin Cities,United States,Minneapolis,52.1,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+174,materials-science,673,Zhejiang University of Technology,China,Hangzhou,52,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+175,materials-science,84,University of California Irvine,United States,Irvine,51.7,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+176,materials-science,605,Indian Institute of Technology (IIT) - Madras,India,Chennai,51.4,48.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278
+177,materials-science,250,University of Illinois Chicago,United States,Chicago,51.3,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+178,materials-science,136,University of Alberta,Canada,Edmonton,51.2,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+179,materials-science,"1,225",Hubei University,China,Wuhan,51.1,33.8,N/A,https://www.usnews.com/education/best-global-universities/hubei-university-529080
+180,materials-science,372,Changsha University of Science & Technology,China,Changsha,50.9,55.2,N/A,https://www.usnews.com/education/best-global-universities/changsha-university-of-science-technology-529522
+181,materials-science,156,Arizona State University-Tempe,United States,Tempe,50.8,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+182,materials-science,812,Hefei University of Technology,China,Hefei,50.8,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+183,materials-science,355,Lomonosov Moscow State University,Russia,Moscow (Russia),50.6,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+184,materials-science,400,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,50.5,54.4,N/A,https://www.usnews.com/education/best-global-universities/king-fahd-university-of-petroleum-minerals-506100
+185,materials-science,45,University of Pittsburgh,United States,Pittsburgh,50.5,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+186,materials-science,551,Guangzhou University,China,Guangzhou,50.4,49.6,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-529537
+187,materials-science,226,Universiti Malaya,Malaysia,Kuala Lumpur,50.4,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+188,materials-science,615,Technical University of Darmstadt,Germany,Darmstadt,50.3,48,"15,526",https://www.usnews.com/education/best-global-universities/technical-university-of-darmstadt-506035
+189,materials-science,432,Hokkaido University,Japan,Sapporo,50.2,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+190,materials-science,199,Swinburne University of Technology,Australia,Hawthorn,50.2,63,"15,327",https://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823
+191,materials-science,"1,140",Jiangsu University of Science & Technology,China,Zhenjiang,50.1,35.6,N/A,https://www.usnews.com/education/best-global-universities/jiangsu-university-of-science-technology-529475
+192,materials-science,540,Lanzhou University,China,Lanzhou,49.7,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+193,materials-science,129,Brown University,United States,Providence,49.6,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+194,materials-science,120,Universidade de Sao Paulo,Brazil,Sao Paulo,49.6,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+195,materials-science,466,University of Basque Country,Spain,Leioa,49.6,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+196,materials-science,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,49.5,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+197,materials-science,80,University of Southern California,United States,Los Angeles,49.3,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+198,materials-science,263,Iowa State University,United States,Ames,49.1,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+199,materials-science,540,Jinan University,China,Guangzhou,49.1,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+200,materials-science,416,Technische Universitat Wien,Austria,Vienna,49,54,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-wien-502163
+201,materials-science,844,Jiangsu University,China,Zhenjiang,48.9,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+202,materials-science,633,Amirkabir University of Technology,Iran,Tehran,48.8,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+203,materials-science,385,Polytechnic University of Catalonia,Spain,Barcelona,48.8,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+204,materials-science,504,Polytechnic University of Turin,Italy,Turin,48.8,51.1,"29,428",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+205,materials-science,512,Central China Normal University,China,Wuhan,48.4,50.7,N/A,https://www.usnews.com/education/best-global-universities/central-china-normal-university-501632
+206,materials-science,531,Fuzhou University,China,Fuzhou,48.4,50.2,"39,987",https://www.usnews.com/education/best-global-universities/fuzhou-university-528832
+207,materials-science,459,Institut National Polytechnique de Grenoble,France,Grenoble,48.4,53,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-grenoble-504372
+208,materials-science,215,Trinity College Dublin,Ireland,Dublin,48.3,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+209,materials-science,964,Wuhan University of Science & Technology,China,Wuhan,48.3,39.6,"32,312",https://www.usnews.com/education/best-global-universities/wuhan-university-of-science-technology-529350
+210,materials-science,"1,158",University of Mohaghegh Ardabili,Iran,Ardabil,48.2,35.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-mohaghegh-ardabili-529803
+211,materials-science,61,Humboldt University of Berlin,Germany,Berlin,48.1,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+212,materials-science,583,Indian Institute of Technology (IIT) - Bombay,India,Mumbai,47.9,48.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bombay-501259
+213,materials-science,598,Jiangnan University,China,Wuxi,47.9,48.3,"29,899",https://www.usnews.com/education/best-global-universities/jiangnan-university-504800
+214,materials-science,48,Universite de Paris,France,Paris,47.9,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+215,materials-science,300,Western University (University of Western Ontario),Canada,London (Canada),47.9,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+216,materials-science,432,University of Houston,United States,Houston,47.7,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+217,materials-science,87,Free University of Berlin,Germany,Berlin,47.6,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+218,materials-science,525,Universidade de Aveiro,Portugal,Aveiro,47.6,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+219,materials-science,959,Ural Federal University,Russia,Ekaterinburg,47.6,39.7,N/A,https://www.usnews.com/education/best-global-universities/ural-federal-university-529237
+220,materials-science,105,University of California Santa Cruz,United States,Santa Cruz,47.5,69.5,"19,494",https://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714
+221,materials-science,413,University of Central Florida,United States,Orlando,47.5,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+222,materials-science,966,Gwangju Institute of Science & Technology (GIST),South Korea,Gwangju,47.3,39.5,"1,808",https://www.usnews.com/education/best-global-universities/gwangju-institute-of-science-technology-gist-506847
+223,materials-science,"1,158",Qingdao University of Science & Technology,China,Qingdao,47.2,35.1,N/A,https://www.usnews.com/education/best-global-universities/qingdao-university-of-science-technology-529234
+224,materials-science,186,University of California Riverside,United States,Riverside,47.1,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+225,materials-science,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,47,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+226,materials-science,835,Northwest University Xi'an,China,Xi'an,46.9,42.3,N/A,https://www.usnews.com/education/best-global-universities/northwest-university-xian-500540
+227,materials-science,219,University of Munster,Germany,Munster,46.9,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+228,materials-science,478,Qatar University,Qatar,Doha,46.7,52.2,"9,084",https://www.usnews.com/education/best-global-universities/qatar-university-529146
+229,materials-science,400,University of Twente,Netherlands,Enschede,46.7,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+230,materials-science,717,Indian Institute of Technology (IIT) - Delhi,India,New Delhi,46.5,45.3,"9,794",https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856
+231,materials-science,901,Shaanxi Normal University,China,Xi'an,46.5,40.9,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-normal-university-529190
+232,materials-science,702,Skolkovo Institute of Science & Technology,Russia,Moscow (Russia),46.5,45.6,N/A,https://www.usnews.com/education/best-global-universities/skolkovo-institute-of-science-technology-529683
+233,materials-science,"1,072",Yangzhou University,China,Yangzhou,46.5,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+234,materials-science,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,46.4,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+235,materials-science,73,University of California Davis,United States,Davis,46.4,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+236,materials-science,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,46.3,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+237,materials-science,653,Guangdong University of Technology,China,Guangzhou,46.2,46.8,"46,040",https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270
+238,materials-science,145,University of Nottingham,United Kingdom,Nottingham,46.1,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+239,materials-science,88,University of Groningen,Netherlands,Groningen,46,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+240,materials-science,512,China University of Petroleum,China,Qingdao,45.9,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+241,materials-science,702,Nanjing Normal University,China,Nanjing,45.9,45.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-normal-university-528982
+242,materials-science,286,State University of New York (SUNY) Buffalo,United States,Buffalo,45.9,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+243,materials-science,194,Universite de Montpellier,France,Montpellier,45.9,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+244,materials-science,520,Kyung Hee University,South Korea,Seoul,45.8,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+245,materials-science,89,University of Birmingham,United Kingdom,Birmingham (U.K.),45.7,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+246,materials-science,300,University of Duisburg Essen,Germany,Essen,45.7,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+247,materials-science,"1,465",University of Leoben,Austria,Leoben,45.7,28.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-leoben-529074
+248,materials-science,134,Weizmann Institute of Science,Israel,Rehovot,45.7,67.3,N/A,https://www.usnews.com/education/best-global-universities/weizmann-institute-of-science-506795
+249,materials-science,653,Southwest Jiaotong University,China,Chengdu,45.6,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+250,materials-science,98,University of Florida,United States,Gainesville,45.6,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+251,materials-science,698,Rensselaer Polytechnic Institute,United States,Troy,45.5,45.7,N/A,https://www.usnews.com/education/best-global-universities/rensselaer-polytechnic-institute-194824
+252,materials-science,770,South China Normal University,China,Guangzhou,45.5,43.9,N/A,https://www.usnews.com/education/best-global-universities/south-china-normal-university-501607
+253,materials-science,346,Ruhr University Bochum,Germany,Bochum,45.3,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+254,materials-science,86,University of Barcelona,Spain,Barcelona,45.2,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+255,materials-science,"1,002",University of Toledo,United States,Toledo,45.1,38.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-toledo-206084
+256,materials-science,564,Colorado School of Mines,United States,Golden,45,49.2,"6,350",https://www.usnews.com/education/best-global-universities/colorado-school-of-mines-126775
+257,materials-science,901,University of Shanghai for Science & Technology,China,Shanghai,45,40.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-shanghai-for-science-technology-529079
+258,materials-science,889,Jeonbuk National University,South Korea,Jeonju,44.9,41.1,"21,782",https://www.usnews.com/education/best-global-universities/jeonbuk-national-university-503088
+259,materials-science,745,Nanchang University,China,Nanchang,44.9,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+260,materials-science,241,Florida State University,United States,Tallahassee,44.8,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+261,materials-science,896,South Ural State University,Russia,Chelyabins,44.8,41,N/A,https://www.usnews.com/education/best-global-universities/south-ural-state-university-530031
+262,materials-science,294,Universidade Estadual de Campinas,Brazil,Campinas,44.7,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+263,materials-science,379,University of Macau,Macau,Taipa,44.7,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+264,materials-science,598,Beijing Jiaotong University,China,Beijing,44.6,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+265,materials-science,112,Lund University,Sweden,Lund,44.6,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+266,materials-science,432,University of Tsukuba,Japan,Tsukuba,44.6,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+267,materials-science,394,Islamic Azad University,Iran,Tehran,44.5,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+268,materials-science,138,McMaster University,Canada,Hamilton,44.5,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+269,materials-science,83,University of Western Australia,Australia,Crawley,44.5,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+270,materials-science,116,Michigan State University,United States,East Lansing,44.4,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+271,materials-science,835,Missouri University of Science & Technology,United States,Rolla,44.4,42.3,N/A,https://www.usnews.com/education/best-global-universities/missouri-university-of-science-technology-178411
+272,materials-science,333,Nagoya University,Japan,Nagoya,44.4,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+273,materials-science,629,University of Stuttgart,Germany,Stuttgart,44.4,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+274,materials-science,696,ITMO University,Russia,St. Petersburg,44.3,45.8,N/A,https://www.usnews.com/education/best-global-universities/itmo-university-529154
+275,materials-science,507,Universidade do Minho,Portugal,Braga,44.2,51,"19,922",https://www.usnews.com/education/best-global-universities/universidade-do-minho-506228
+276,materials-science,"1,060",Guangxi University,China,Nanning,43.9,37.4,N/A,https://www.usnews.com/education/best-global-universities/guangxi-university-529243
+277,materials-science,247,Universidade do Porto,Portugal,Porto,43.9,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+278,materials-science,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,43.8,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+279,materials-science,"1,072",University of Akron,United States,Akron,43.8,37.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-akron-200800
+280,materials-science,821,Nanjing University of Posts & Telecommunications,China,Nanjing,43.6,42.5,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-posts-telecommunications-529215
+281,materials-science,282,China University of Geosciences,China,Wuhan,43.5,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+282,materials-science,570,China University of Mining & Technology,China,Xuzhou,43.5,49.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-mining-technology-529045
+283,materials-science,759,Nanjing Forestry University,China,Nanjing,43.5,44.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-forestry-university-529506
+284,materials-science,175,Tel Aviv University,Israel,Tel Aviv,43.5,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+285,materials-science,146,University of Liverpool,United Kingdom,Liverpool,43.5,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+286,materials-science,192,University of Wurzburg,Germany,Wurzburg,43.5,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+287,materials-science,739,Isfahan University of Technology,Iran,Isfahan,43.4,44.6,"11,323",https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590
+288,materials-science,122,University of Bologna,Italy,Bologna,43.4,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+289,materials-science,413,Universite de Lorraine,France,Nancy,43.2,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+290,materials-science,879,Iran University Science & Technology,Iran,Tehran,43.1,41.3,"15,436",https://www.usnews.com/education/best-global-universities/iran-university-science-technology-505518
+291,materials-science,379,Universiti Teknologi Malaysia,Malaysia,Johor,43.1,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+292,materials-science,223,University of Antwerp,Belgium,Antwerp,43.1,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+293,materials-science,241,Hebrew University of Jerusalem,Israel,Jerusalem,43,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+294,materials-science,879,Indian Institute of Technology (IIT) - Kanpur,India,Kanpur,43,41.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622
+295,materials-science,119,University of Virginia,United States,Charlottesville,43,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+296,materials-science,109,Aarhus University,Denmark,Aarhus,42.9,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+297,materials-science,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,42.8,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+298,materials-science,156,Universite de Montreal,Canada,Montreal,42.8,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+299,materials-science,269,Beijing Normal University,China,Beijing,42.7,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+300,materials-science,"1,542",Henan Normal University,China,Xinxiang,42.7,26.9,N/A,https://www.usnews.com/education/best-global-universities/henan-normal-university-529271
+301,materials-science,"1,066",Southwest University of Science & Technology - China,China,Mianyang,42.7,37.3,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-of-science-technology---china-529731
+302,materials-science,"1,357",Taiyuan University of Technology,China,Taiyuan,42.6,31.1,N/A,https://www.usnews.com/education/best-global-universities/taiyuan-university-of-technology-529111
+303,materials-science,290,Universite de Bordeaux,France,Talence,42.5,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+304,materials-science,732,Warsaw University of Technology,Poland,Warsaw,42.5,44.9,"26,482",https://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920
+305,materials-science,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,42.4,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+306,materials-science,"1,046",Dongguk University,South Korea,Seoul,42.4,37.7,N/A,https://www.usnews.com/education/best-global-universities/dongguk-university-529173
+307,materials-science,277,Universite de Strasbourg,France,Strasbourg,42.3,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+308,materials-science,44,Utrecht University,Netherlands,Utrecht,42.2,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+309,materials-science,441,University of Saskatchewan,Canada,Saskatoon,41.9,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+310,materials-science,667,Southwest University - China,China,Chongqing,41.8,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+311,materials-science,231,Autonomous University of Madrid,Spain,Madrid,41.6,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+312,materials-science,202,Universidade de Lisboa,Portugal,Lisbon,41.6,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+313,materials-science,970,Henan University,China,Kaifeng,41.5,39.4,N/A,https://www.usnews.com/education/best-global-universities/henan-university-529507
+314,materials-science,475,Moscow Institute of Physics & Technology,Russia,Dolgoprudny,41.5,52.3,"6,083",https://www.usnews.com/education/best-global-universities/moscow-institute-of-physics-technology-528929
+315,materials-science,579,Waseda University,Japan,Tokyo,41.5,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+316,materials-science,816,Graz University of Technology,Austria,Graz,41.3,42.6,N/A,https://www.usnews.com/education/best-global-universities/graz-university-of-technology-506184
+317,materials-science,"1,407",Yanshan University,China,Qinhuangdao,41.1,29.9,"38,649",https://www.usnews.com/education/best-global-universities/yanshan-university-529086
+318,materials-science,"1,218",Tianjin University of Technology,China,Tianjin,41,34,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-of-technology-529674
+319,materials-science,"1,147",University of Jinan,China,Jinan,41,35.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-jinan-529252
+320,materials-science,782,AGH University of Science & Technology,Poland,Krakow,40.9,43.6,N/A,https://www.usnews.com/education/best-global-universities/agh-university-of-science-technology-504859
+321,materials-science,317,University of South Florida,United States,Tampa,40.8,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+322,materials-science,679,University of North Texas Denton,United States,Denton,40.6,46.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-texas-denton-227216
+323,materials-science,495,Edith Cowan University,Australia,Joondalup,40.5,51.5,"18,759",https://www.usnews.com/education/best-global-universities/edith-cowan-university-528941
+324,materials-science,794,Harbin Engineering University,China,Harbin,40.5,43.3,"29,861",https://www.usnews.com/education/best-global-universities/harbin-engineering-university-528986
+325,materials-science,377,Shandong University of Science & Technology,China,Qingdao,40.3,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+326,materials-science,879,Tomsk Polytechnic University,Russia,Tomsk,40.3,41.3,N/A,https://www.usnews.com/education/best-global-universities/tomsk-polytechnic-university-529158
+327,materials-science,167,University of Utah,United States,Salt Lake City,40.3,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+328,materials-science,959,Imam Abdulrahman Bin Faisal University,Saudi Arabia,Dammam,40.2,39.7,N/A,https://www.usnews.com/education/best-global-universities/imam-abdulrahman-bin-faisal-university-529721
+329,materials-science,"1,180",Kunming University of Science & Technology,China,Kunming,40.2,34.7,N/A,https://www.usnews.com/education/best-global-universities/kunming-university-of-science-technology-529089
+330,materials-science,739,North China Electric Power University,China,Beijing,40.2,44.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-electric-power-university-528965
+331,materials-science,125,Sapienza University Rome,Italy,Rome,40.2,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+332,materials-science,32,Washington University (WUSTL),United States,St. Louis,40.2,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+333,materials-science,328,Washington State University,United States,Pullman,40.1,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+334,materials-science,"1,060",Brno University of Technology,Czech Republic,Brno,39.8,37.4,N/A,https://www.usnews.com/education/best-global-universities/brno-university-of-technology-529040
+335,materials-science,814,University of Mons,Belgium,Mons,39.8,42.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-mons-528860
+336,materials-science,104,University of Southampton,United Kingdom,Southampton,39.8,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+337,materials-science,590,Ben Gurion University,Israel,Beer-Sheva,39.6,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+338,materials-science,896,Indian Institute of Technology (IIT) - Roorkee,India,Roorkee,39.6,41,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-roorkee-528828
+339,materials-science,662,Ocean University of China,China,Qingdao,39.6,46.6,N/A,https://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491
+340,materials-science,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,39.6,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+341,materials-science,140,University of Leeds,United Kingdom,Leeds,39.6,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+342,materials-science,684,Ihsan Dogramaci Bilkent University,Turkey,Ankara,39.5,46.1,"9,682",https://www.usnews.com/education/best-global-universities/ihsan-dogramaci-bilkent-university-506575
+343,materials-science,779,Michigan Technological University,United States,Houghton,39.5,43.7,N/A,https://www.usnews.com/education/best-global-universities/michigan-technological-university-171128
+344,materials-science,"1,140",Chungnam National University,South Korea,Daejeon,39.4,35.6,N/A,https://www.usnews.com/education/best-global-universities/chungnam-national-university-502760
+345,materials-science,547,Universiti Putra Malaysia,Malaysia,Serdang,39.3,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+346,materials-science,280,University of Kiel,Germany,Kiel,39.3,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+347,materials-science,363,University of South Australia,Australia,Adelaide,39.3,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+348,materials-science,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,39.2,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+349,materials-science,163,University of Warwick,United Kingdom,Coventry,39.2,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+350,materials-science,34,University of Edinburgh,United Kingdom,Edinburgh,39,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+351,materials-science,322,University of Notre Dame,United States,Notre Dame,39,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+352,materials-science,662,Khalifa University of Science & Technology,United Arab Emirates,Abu Dhabi,38.9,46.6,N/A,https://www.usnews.com/education/best-global-universities/khalifa-university-of-science-technology-529390
+353,materials-science,72,Emory University,United States,Atlanta,38.8,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+354,materials-science,299,Oregon State University,United States,Corvallis,38.8,58.3,N/A,https://www.usnews.com/education/best-global-universities/oregon-state-university-209542
+355,materials-science,175,University of Calgary,Canada,Calgary,38.8,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+356,materials-science,"1,376",Dongguan University of Technology,China,Dongguan,38.7,30.6,N/A,https://www.usnews.com/education/best-global-universities/dongguan-university-of-technology-529804
+357,materials-science,"1,049",Konkuk University,South Korea,Seoul,38.5,37.6,N/A,https://www.usnews.com/education/best-global-universities/konkuk-university-503911
+358,materials-science,702,South China Agricultural University,China,Guangzhou,38.4,45.6,N/A,https://www.usnews.com/education/best-global-universities/south-china-agricultural-university-529032
+359,materials-science,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,38.4,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+360,materials-science,935,Wuhan Institute of Technology,China,Wuhan,38.3,40.1,"33,153",https://www.usnews.com/education/best-global-universities/wuhan-institute-of-technology-529516
+361,materials-science,896,Universidade Federal de Sao Carlos,Brazil,Sao Carlos,38.2,41,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-carlos-505014
+362,materials-science,"1,407",Henan University of Science & Technology,China,Luoyang,38.1,29.9,N/A,https://www.usnews.com/education/best-global-universities/henan-university-of-science-technology-529653
+363,materials-science,"1,198",Hainan University,China,Haikou,38,34.4,N/A,https://www.usnews.com/education/best-global-universities/hainan-university-529489
+364,materials-science,"1,008",Northeast Normal University - China,China,Changchun,38,38.6,"30,310",https://www.usnews.com/education/best-global-universities/northeast-normal-university-china-503882
+365,materials-science,"1,027",Shanxi University,China,Taiyuan,38,38.2,N/A,https://www.usnews.com/education/best-global-universities/shanxi-university-529038
+366,materials-science,487,Universidade Nova de Lisboa,Portugal,Lisbon,38,51.7,"20,996",https://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121
+367,materials-science,"1,354",Zhejiang Sci-Tech University,China,Hangzhou,37.9,31.2,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-sci-tech-university-529088
+368,materials-science,317,Duy Tan University,Vietnam,Danang,37.8,57.6,N/A,https://www.usnews.com/education/best-global-universities/duy-tan-university-529795
+369,materials-science,"1,132",Xiangtan University,China,Xiangtan,37.8,35.8,N/A,https://www.usnews.com/education/best-global-universities/xiangtan-university-529020
+370,materials-science,93,University of Bristol,United Kingdom,Bristol,37.7,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+371,materials-science,844,Chonnam National University,South Korea,Gwangju,37.6,42.2,"24,436",https://www.usnews.com/education/best-global-universities/chonnam-national-university-503755
+372,materials-science,379,Friedrich Schiller University of Jena,Germany,Jena,37.6,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+373,materials-science,127,Stockholm University,Sweden,Stockholm,37.6,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+374,materials-science,587,Tomsk State University,Russia,Tomsk,37.5,48.6,"7,806",https://www.usnews.com/education/best-global-universities/tomsk-state-university-529019
+375,materials-science,215,University of Ottawa,Canada,Ottawa,37.5,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+376,materials-science,517,Tehran University of Medical Sciences,Iran,Tehran,37.4,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+377,materials-science,512,Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI),France,Paris,37.3,50.7,N/A,https://www.usnews.com/education/best-global-universities/ecole-superieure-de-physique-et-de-chimie-industrielles-de-la-ville-de-paris-espci-528926
+378,materials-science,698,Pusan National University,South Korea,Busan,37.3,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+379,materials-science,"1,465",Shaanxi University of Science & Technology,China,Xi'an,37.3,28.5,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-university-of-science-technology-529882
+380,materials-science,389,Universite de Lille,France,Lille,37.3,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+381,materials-science,149,University of Hamburg,Germany,Hamburg,37.3,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+382,materials-science,750,Bar Ilan University,Israel,Ramat Gan,37.2,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+383,materials-science,708,Tarbiat Modares University,Iran,Tehran,37.2,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+384,materials-science,185,University of Naples Federico II,Italy,Naples,37.2,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+385,materials-science,397,Sejong University,South Korea,Seoul,37.1,54.5,N/A,https://www.usnews.com/education/best-global-universities/sejong-university-528964
+386,materials-science,"1,095",Tokyo University of Science,Japan,Tokyo,37,36.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-science-503707
+387,materials-science,212,University of Valencia,Spain,Valencia,37,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+388,materials-science,710,Lulea University of Technology,Sweden,Lulea,36.9,45.4,N/A,https://www.usnews.com/education/best-global-universities/lulea-university-of-technology-529025
+389,materials-science,"1,317",Ningbo University,China,Ningbo,36.9,31.8,N/A,https://www.usnews.com/education/best-global-universities/ningbo-university-529272
+390,materials-science,70,Boston University,United States,Boston,36.8,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+391,materials-science,"1,758",North University of China,China,Taiyuan,36.8,21.4,N/A,https://www.usnews.com/education/best-global-universities/north-university-of-china-529839
+392,materials-science,39,University of Amsterdam,Netherlands,Amsterdam,36.8,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+393,materials-science,487,University of Hannover,Germany,Hannover,36.7,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-hannover-503676
+394,materials-science,226,Charles University Prague,Czech Republic,Prague,36.4,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+395,materials-science,652,Saint Petersburg State University,Russia,St. Petersburg,36.3,46.9,"24,335",https://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182
+396,materials-science,984,Shinshu University,Japan,Matsumoto,36.2,39.1,"10,603",https://www.usnews.com/education/best-global-universities/shinshu-university-505095
+397,materials-science,115,University of Padua,Italy,Padua,36.2,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+398,materials-science,223,Ton Duc Thang University,Vietnam,Ho Chi Minh City,36.1,61.8,N/A,https://www.usnews.com/education/best-global-universities/ton-duc-thang-university-529637
+399,materials-science,"1,281",Xi'an University of Technology,China,Xi'an,36.1,32.6,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-technology-529477
+400,materials-science,"1,327",Inha University,South Korea,Incheon,36,31.7,"17,103",https://www.usnews.com/education/best-global-universities/inha-university-504761
+401,materials-science,31,New York University,United States,New York City,36,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+402,materials-science,409,University of Bath,United Kingdom,Bath,36,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+403,materials-science,452,University of Potsdam,Germany,Potsdam (Germany),36,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-potsdam-505430
+404,materials-science,856,Ewha Womans University,South Korea,Seoul,35.9,41.9,"14,746",https://www.usnews.com/education/best-global-universities/ewha-womans-university-504624
+405,materials-science,400,Tampere University,Finland,Tampere,35.9,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+406,materials-science,504,Universiti Sains Malaysia,Malaysia,Penang,35.9,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+407,materials-science,935,China Pharmaceutical University,China,Nanjing,35.8,40.1,"24,270",https://www.usnews.com/education/best-global-universities/china-pharmaceutical-university-502614
+408,materials-science,"1,163",Hangzhou Dianzi University,China,Hangzhou,35.8,35,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-dianzi-university-529256
+409,materials-science,782,Shandong Normal University,China,Jinan,35.8,43.6,N/A,https://www.usnews.com/education/best-global-universities/shandong-normal-university-529300
+410,materials-science,"1,581",Hebei University of Technology,China,Tianjin,35.7,26,N/A,https://www.usnews.com/education/best-global-universities/hebei-university-of-technology-529604
+411,materials-science,"1,180",Wenzhou University,China,Wenzhou,35.7,34.7,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-university-529301
+412,materials-science,643,Xidian University,China,Xi'an,35.7,47.1,N/A,https://www.usnews.com/education/best-global-universities/xidian-university-506871
+413,materials-science,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,35.6,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+414,materials-science,520,University of Sevilla,Spain,Seville,35.6,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+415,materials-science,"1,446",Daegu Gyeongbuk Institute of Science & Technology (DGIST),South Korea,Deagu,35.5,29,N/A,https://www.usnews.com/education/best-global-universities/daegu-gyeongbuk-institute-of-science-technology-dgist-529431
+416,materials-science,547,Middle East Technical University,Turkey,Ankara,35.4,49.8,"17,151",https://www.usnews.com/education/best-global-universities/middle-east-technical-university-503271
+417,materials-science,564,Universidad Politecnica de Madrid,Spain,Madrid,35.4,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+418,materials-science,78,Vanderbilt University,United States,Nashville,35.4,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+419,materials-science,309,University of Connecticut,United States,Storrs,35.3,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+420,materials-science,710,Assiut University,Egypt,Assiut,35.2,45.4,N/A,https://www.usnews.com/education/best-global-universities/assiut-university-513421
+421,materials-science,639,National Cheng Kung University,Taiwan,Tainan City,35.2,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+422,materials-science,570,Universitat Politecnica de Valencia,Spain,Valencia,35.2,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+423,materials-science,42,University of Copenhagen,Denmark,Copenhagen,35.2,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+424,materials-science,273,University of Milano-Bicocca,Italy,Milan,35.2,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+425,materials-science,363,Cairo University,Egypt,Giza,35.1,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+426,materials-science,370,University of Surrey,United Kingdom,Surrey,35.1,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+427,materials-science,67,University of Zurich,Switzerland,Zurich,35.1,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+428,materials-science,447,University of Oulu,Finland,Oulu,34.9,53.3,"10,134",https://www.usnews.com/education/best-global-universities/university-of-oulu-502651
+429,materials-science,106,Radboud University Nijmegen,Netherlands,Nijmegen,34.8,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+430,materials-science,99,University of Helsinki,Finland,Helsinki,34.8,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+431,materials-science,178,Aix-Marseille Universite,France,Marseille,34.7,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+432,materials-science,"1,735",Hebei University,China,Baoding,34.7,22,N/A,https://www.usnews.com/education/best-global-universities/hebei-university-529732
+433,materials-science,463,Swansea University,United Kingdom,Swansea,34.7,52.8,"17,745",https://www.usnews.com/education/best-global-universities/swansea-university-505583
+434,materials-science,352,University of Delaware,United States,Newark,34.7,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+435,materials-science,649,Zhejiang Normal University,China,Jinhua,34.7,47,"28,025",https://www.usnews.com/education/best-global-universities/zhejiang-normal-university-529076
+436,materials-science,"1,621",Heilongjiang University,China,Harbin,34.5,25,N/A,https://www.usnews.com/education/best-global-universities/heilongjiang-university-529289
+437,materials-science,346,University of South Carolina Columbia,United States,Columbia,34.5,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+438,materials-science,643,Istanbul Technical University,Turkey,Istanbul,34.4,47.1,"18,562",https://www.usnews.com/education/best-global-universities/istanbul-technical-university-503684
+439,materials-science,912,Yeungnam University,South Korea,Gyeongsan,34.4,40.7,"19,345",https://www.usnews.com/education/best-global-universities/yeungnam-university-504367
+440,materials-science,"1,291",Wenzhou Medical University,China,Wenzhou,34.3,32.3,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-medical-university-529262
+441,materials-science,337,Complutense University of Madrid,Spain,Madrid,34.2,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+442,materials-science,475,Justus Liebig University Giessen,Germany,Giessen,34.2,52.3,N/A,https://www.usnews.com/education/best-global-universities/justus-liebig-university-giessen-500790
+443,materials-science,679,Beijing University of Posts & Telecommunications,China,Beijing,34.1,46.2,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-posts-telecommunications-502130
+444,materials-science,300,University of Rome Tor Vergata,Italy,Rome,34.1,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+445,materials-science,710,Cranfield University,United Kingdom,Cranfield,33.9,45.4,N/A,https://www.usnews.com/education/best-global-universities/cranfield-university-500995
+446,materials-science,178,University of Freiburg,Germany,Freiburg,33.8,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+447,materials-science,583,Hong Kong Baptist University,Hong Kong,Hong Kong,33.7,48.7,"8,358",https://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544
+448,materials-science,750,University of Bayreuth,Germany,Bayreuth,33.7,44.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-bayreuth-500728
+449,materials-science,"1,344","University of Chemistry & Technology, Prague",Czech Republic,Prague,33.7,31.5,"4,006",https://www.usnews.com/education/best-global-universities/university-of-chemistry-technology-prague-529066
+450,materials-science,"1,327",Tiangong University,China,Tianjin,33.6,31.7,N/A,https://www.usnews.com/education/best-global-universities/tiangong-university-529130
+451,materials-science,163,University of Gottingen,Germany,Gottingen,33.6,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+452,materials-science,"1,163",Anhui University,China,Hefei,33.5,35,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-529110
+453,materials-science,256,University of Trento,Italy,Trento,33.5,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+454,materials-science,295,Queens University Belfast,United Kingdom,Belfast,33.4,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+455,materials-science,"1,243",Shanghai University of Electric Power,China,Shanghai,33.4,33.5,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-electric-power-529644
+456,materials-science,667,Kyungpook National University,South Korea,Daegu,33.3,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+457,materials-science,"1,290",Technical University Freiberg,Germany,Freiberg,33.2,32.4,N/A,https://www.usnews.com/education/best-global-universities/technical-university-freiberg-529085
+458,materials-science,579,Auburn University,United States,Auburn,33.1,48.8,"27,512",https://www.usnews.com/education/best-global-universities/auburn-university-100858
+459,materials-science,693,Clemson University,United States,Clemson,33.1,45.9,N/A,https://www.usnews.com/education/best-global-universities/clemson-university-217882
+460,materials-science,468,Nanjing University of Information Science & Technology,China,Nanjing,33,52.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-information-science-technology-529160
+461,materials-science,526,Loughborough University,United Kingdom,Loughborough,32.8,50.3,"17,130",https://www.usnews.com/education/best-global-universities/loughborough-university-506503
+462,materials-science,625,Universitat Rovira i Virgili,Spain,Tarragona,32.8,47.7,"12,975",https://www.usnews.com/education/best-global-universities/universitat-rovira-i-virgili-506486
+463,materials-science,501,Huazhong Agricultural University,China,Wuhan,32.7,51.2,N/A,https://www.usnews.com/education/best-global-universities/huazhong-agricultural-university-503034
+464,materials-science,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,32.6,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+465,materials-science,"1,489",Southwest Petroleum University,China,Chengdu,32.5,28,N/A,https://www.usnews.com/education/best-global-universities/southwest-petroleum-university-529461
+466,materials-science,152,University of Exeter,United Kingdom,Exeter,32.5,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+467,materials-science,231,University of Newcastle,Australia,Callaghan,32.5,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+468,materials-science,208,University of Vienna,Austria,Vienna,32.5,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+469,materials-science,889,National Taiwan University of Science & Technology,Taiwan,Taipei City,32.4,41.1,"8,907",https://www.usnews.com/education/best-global-universities/national-taiwan-university-of-science-technology-501875
+470,materials-science,676,University of Zaragoza,Spain,Zaragoza,32.3,46.3,"28,083",https://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343
+471,materials-science,"1,386",Gachon University,South Korea,Seongnam,32.2,30.4,N/A,https://www.usnews.com/education/best-global-universities/gachon-university-529167
+472,materials-science,"1,734",Lanzhou University of Technology,China,Lanzhou,32.2,22.1,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-of-technology-529641
+473,materials-science,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,32.2,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+474,materials-science,"1,066",Yunnan University,China,Kunming,32.1,37.3,N/A,https://www.usnews.com/education/best-global-universities/yunnan-university-529189
+475,materials-science,"1,556",Harbin Normal University,China,Harbin,32,26.6,N/A,https://www.usnews.com/education/best-global-universities/harbin-normal-university-529965
+476,materials-science,579,Novosibirsk State University,Russia,Novosibirsk,32,48.8,N/A,https://www.usnews.com/education/best-global-universities/novosibirsk-state-university-503585
+477,materials-science,352,University of St Andrews,United Kingdom,Fife,32,56,"9,645",https://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328
+478,materials-science,920,Saarland University,Germany,Saarbrucken,31.8,40.5,N/A,https://www.usnews.com/education/best-global-universities/saarland-university-504282
+479,materials-science,653,Hohai University,China,Nanjing,31.6,46.8,N/A,https://www.usnews.com/education/best-global-universities/hohai-university-528997
+480,materials-science,953,Qufu Normal University,China,Qufu,31.6,39.8,N/A,https://www.usnews.com/education/best-global-universities/qufu-normal-university-529543
+481,materials-science,497,Universidade Estadual Paulista,Brazil,Sao Paulo,31.6,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+482,materials-science,108,University of Arizona,United States,Tucson,31.6,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+483,materials-science,844,Vellore Institute of Technology,India,Tamil Nadu,31.6,42.2,"33,416",https://www.usnews.com/education/best-global-universities/vellore-institute-of-technology-529209
+484,materials-science,"1,609",Wuhan Textile University,China,Wuhan,31.6,25.4,N/A,https://www.usnews.com/education/best-global-universities/wuhan-textile-university-529883
+485,materials-science,"1,361",Anna University Chennai,India,Chennai,31.5,31,N/A,https://www.usnews.com/education/best-global-universities/anna-university-chennai-529021
+486,materials-science,989,Chang'an University,China,Xi'an,31.5,39,N/A,https://www.usnews.com/education/best-global-universities/changan-university-529427
+487,materials-science,"1,291",Indian Institute of Technology (IIT BHU) - Varanasi,India,Varanasi,31.5,32.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bhu-varanasi-529539
+488,materials-science,"1,494",Jiangxi Normal University,China,Nanchang,31.5,27.9,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-normal-university-529313
+489,materials-science,593,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,31.5,48.4,N/A,https://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289
+490,materials-science,943,Institut National Polytechnique de Toulouse,France,Toulouse,31.4,40,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-toulouse-505784
+491,materials-science,447,Mansoura University,Egypt,Mansoura,31.4,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+492,materials-science,"1,281",SRM Institute of Science & Technology Chennai,India,Chengalpattu,31.4,32.6,N/A,https://www.usnews.com/education/best-global-universities/srm-institute-of-science-technology-chennai-529816
+493,materials-science,156,University of Milan,Italy,Milan,31.4,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+494,materials-science,"1,036",Chung Ang University,South Korea,Seoul,31.2,38,N/A,https://www.usnews.com/education/best-global-universities/chung-ang-university-500565
+495,materials-science,"1,835",Jilin Normal University,China,Siping,31.2,18.5,N/A,https://www.usnews.com/education/best-global-universities/jilin-normal-university-529884
+496,materials-science,770,National University of Sciences & Technology - Pakistan,Pakistan,Islamabad,31.2,43.9,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-sciences-technology---pakistan-529152
+497,materials-science,239,Tufts University,United States,Medford,31.2,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+498,materials-science,"1,718",China Jiliang University,China,Hangzhou,31.1,22.6,N/A,https://www.usnews.com/education/best-global-universities/china-jiliang-university-529306
+499,materials-science,593,Peking Union Medical College,China,Beijing,31.1,48.4,N/A,https://www.usnews.com/education/best-global-universities/peking-union-medical-college-529794
+500,materials-science,459,University of Belgrade,Serbia,Belgrade,31.1,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+501,materials-science,875,University of Texas El Paso,United States,El Paso,31.1,41.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-el-paso-228796
+502,materials-science,"1,184",Ecole nationale superieure de chimie de Montpellier,France,Montpellier,31,34.6,N/A,https://www.usnews.com/education/best-global-universities/ecole-nationale-superieure-de-chimie-de-montpellier-529615
+503,materials-science,397,Laval University,Canada,Quebec City,30.9,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+504,materials-science,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,30.9,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+505,materials-science,826,Banaras Hindu University (BHU),India,Varanasi,30.8,42.4,N/A,https://www.usnews.com/education/best-global-universities/banaras-hindu-university-bhu-503462
+506,materials-science,483,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,Moscow (Russia),30.8,52,"4,932",https://www.usnews.com/education/best-global-universities/national-research-nuclear-university-mephi-moscow-engineering-physics-institute-528842
+507,materials-science,708,Northumbria University,United Kingdom,Newcastle upon Tyne,30.8,45.5,"23,495",https://www.usnews.com/education/best-global-universities/northumbria-university-529055
+508,materials-science,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,30.8,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+509,materials-science,812,University of Seoul,South Korea,Seoul,30.7,42.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-seoul-528845
+510,materials-science,234,Western Sydney University,Australia,Penrith,30.7,61.3,"36,033",https://www.usnews.com/education/best-global-universities/western-sydney-university-506826
+511,materials-science,547,Chulalongkorn University,Thailand,Bangkok,30.6,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+512,materials-science,"1,489",Technische Universitat Chemnitz,Germany,Chemnitz,30.6,28,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-chemnitz-528989
+513,materials-science,821,University of South Africa,South Africa,Pretoria,30.6,42.5,"236,282",https://www.usnews.com/education/best-global-universities/university-of-south-africa-529170
+514,materials-science,625,University of Tabriz,Iran,Tabriz,30.6,47.7,"20,983",https://www.usnews.com/education/best-global-universities/university-of-tabriz-528957
+515,materials-science,"1,251",University Kashan,Iran,Kashan,30.5,33.3,N/A,https://www.usnews.com/education/best-global-universities/university-kashan-529415
+516,materials-science,170,University of Rochester,United States,Rochester,30.4,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+517,materials-science,389,Louisiana State University,United States,Baton Rouge,30.3,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+518,materials-science,482,Quaid I Azam University,Pakistan,Islamabad,30.3,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+519,materials-science,"1,386",Northeast Forestry University - China,China,Harbin,30.2,30.4,N/A,https://www.usnews.com/education/best-global-universities/northeast-forestry-university-china-529095
+520,materials-science,"1,535",Shandong University of Technology,China,Zibo,30,27,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-technology-529853
+521,materials-science,236,University College Dublin,Ireland,Dublin,30,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+522,materials-science,241,Johannes Gutenberg University of Mainz,Germany,Mainz,29.9,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+523,materials-science,698,Czech Technical University Prague,Czech Republic,Prague,29.7,45.7,N/A,https://www.usnews.com/education/best-global-universities/czech-technical-university-prague-502255
+524,materials-science,667,Hiroshima University,Japan,Hiroshima,29.7,46.5,"14,612",https://www.usnews.com/education/best-global-universities/hiroshima-university-502589
+525,materials-science,"1,422",Huaqiao University,China,Xiamen,29.7,29.6,N/A,https://www.usnews.com/education/best-global-universities/huaqiao-university-529488
+526,materials-science,992,Johannes Kepler University Linz,Austria,Linz,29.7,38.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-kepler-university-linz-528837
+527,materials-science,821,Shiraz University,Iran,Shiraz,29.7,42.5,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-500400
+528,materials-science,"1,449",Hunan Normal University,China,Changsha,29.6,28.9,N/A,https://www.usnews.com/education/best-global-universities/hunan-normal-university-529497
+529,materials-science,452,University of Missouri Columbia,United States,Columbia,29.6,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+530,materials-science,439,Virginia Commonwealth University,United States,Richmond,29.6,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+531,materials-science,"1,631",Guilin University of Electronic Technology,China,Guilin,29.5,24.7,N/A,https://www.usnews.com/education/best-global-universities/guilin-university-of-electronic-technology-529505
+532,materials-science,679,Peter the Great St. Petersburg Polytechnic University,Russia,St. Petersburg,29.4,46.2,N/A,https://www.usnews.com/education/best-global-universities/peter-the-great-st-petersburg-polytechnic-university-529065
+533,materials-science,89,University of Oslo,Norway,Oslo,29.4,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+534,materials-science,739,Al Azhar University,Egypt,Cairo,29.3,44.6,N/A,https://www.usnews.com/education/best-global-universities/al-azhar-university-508017
+535,materials-science,"1,208",Gyeongsang National University,South Korea,Jinju City,29.3,34.2,N/A,https://www.usnews.com/education/best-global-universities/gyeongsang-national-university-500897
+536,materials-science,"1,522",Sahand University of Technology,Iran,Tabriz,29.3,27.2,N/A,https://www.usnews.com/education/best-global-universities/sahand-university-of-technology-529513
+537,materials-science,74,University of Glasgow,United Kingdom,Glasgow,29.3,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+538,materials-science,573,University of Palermo,Italy,Palermo,29.3,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+539,materials-science,292,Vrije Universiteit Brussel,Belgium,Elsene,29.2,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+540,materials-science,"1,106",Indian Institute of Technology (IIT) - Guwahati,India,Guwahati,29.1,36.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-guwahati-528994
+541,materials-science,"1,478",Liaocheng University,China,Liaocheng,29.1,28.2,N/A,https://www.usnews.com/education/best-global-universities/liaocheng-university-529802
+542,materials-science,"1,446",Qilu University of Technology,China,Jinan,29.1,29,N/A,https://www.usnews.com/education/best-global-universities/qilu-university-of-technology-529482
+543,materials-science,493,Universite de Rennes 1,France,Rennes,29.1,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+544,materials-science,"1,309",Wroclaw University of Science & Technology,Poland,Wroclaw,29.1,32,N/A,https://www.usnews.com/education/best-global-universities/wroclaw-university-of-science-technology-502904
+545,materials-science,,Wuyi University,China,Jiiangmen City,29.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/wuyi-university-530153
+546,materials-science,"1,022",Jiangsu Normal University,China,Xuzhou,29,38.3,"23,978",https://www.usnews.com/education/best-global-universities/jiangsu-normal-university-529282
+547,materials-science,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,29,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+548,materials-science,150,University of Basel,Switzerland,Basel,29,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+549,materials-science,356,University of Kentucky,United States,Lexington,29,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+550,materials-science,450,University of Ljubljana,Slovenia,Ljubljana,29,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+551,materials-science,"1,116",Ajou University,South Korea,Suwon,28.9,36.2,"7,574",https://www.usnews.com/education/best-global-universities/ajou-university-504876
+552,materials-science,"1,042",Fujian Normal University,China,Fuzhou,28.9,37.8,N/A,https://www.usnews.com/education/best-global-universities/fujian-normal-university-529517
+553,materials-science,300,University of Genoa,Italy,Genoa,28.9,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+554,materials-science,"1,158",Shanghai Normal University,China,Shanghai,28.8,35.1,N/A,https://www.usnews.com/education/best-global-universities/shanghai-normal-university-505334
+555,materials-science,860,Southern Medical University - China,China,Guangzhou,28.7,41.8,N/A,https://www.usnews.com/education/best-global-universities/southern-medical-university-china-529257
+556,materials-science,948,University of New Brunswick,Canada,Fredericton,28.7,39.9,"8,307",https://www.usnews.com/education/best-global-universities/university-of-new-brunswick-499973
+557,materials-science,"1,561",Anhui Normal University,China,Wuhu,28.6,26.5,N/A,https://www.usnews.com/education/best-global-universities/anhui-normal-university-529314
+558,materials-science,"1,483",Changzhou University,China,Changzhou,28.6,28.1,N/A,https://www.usnews.com/education/best-global-universities/changzhou-university-529351
+559,materials-science,441,National Technical University of Athens,Greece,Athens (Greece),28.6,53.4,N/A,https://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449
+560,materials-science,"1,798",Shivaji University,India,Kolhapur,28.6,20.1,N/A,https://www.usnews.com/education/best-global-universities/shivaji-university-529073
+561,materials-science,345,University of Warsaw,Poland,Warsaw,28.6,56.3,"37,090",https://www.usnews.com/education/best-global-universities/university-of-warsaw-502726
+562,materials-science,360,University of Liege,Belgium,Liege,28.5,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+563,materials-science,"1,167",National Taipei University of Technology,Taiwan,Taipei City,28.3,34.9,"9,873",https://www.usnews.com/education/best-global-universities/national-taipei-university-of-technology-529069
+564,materials-science,"1,372",Arts et Metiers Institute of Technology,France,Paris,28.2,30.7,N/A,https://www.usnews.com/education/best-global-universities/arts-et-metiers-institute-of-technology-529697
+565,materials-science,"1,389",Foshan University,China,Foshan,28.2,30.3,N/A,https://www.usnews.com/education/best-global-universities/foshan-university-529885
+566,materials-science,"1,473",Jiangxi University of Science & Technology,China,Jiangxi,28.2,28.4,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-university-of-science-technology-529889
+567,materials-science,576,University of Texas at San Antonio (UTSA),United States,San Antonio,28.2,48.9,"27,187",https://www.usnews.com/education/best-global-universities/university-of-texas-at-san-antonio-utsa-229027
+568,materials-science,463,University of Salerno,Italy,Fisciano,28.1,52.8,"26,289",https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+569,materials-science,"1,446",Silesian University of Technology,Poland,Gliwice,28,29,N/A,https://www.usnews.com/education/best-global-universities/silesian-university-of-technology-529268
+570,materials-science,"1,172",Hamburg University of Technology,Germany,Hamburg,27.8,34.8,N/A,https://www.usnews.com/education/best-global-universities/hamburg-university-of-technology-529340
+571,materials-science,"1,609",Harbin University of Science & Technology,China,Harbin,27.7,25.4,N/A,https://www.usnews.com/education/best-global-universities/harbin-university-of-science-technology-529815
+572,materials-science,"1,520",Incheon National University,South Korea,Yeonsu-gu,27.7,27.3,N/A,https://www.usnews.com/education/best-global-universities/incheon-national-university-529412
+573,materials-science,"1,589",Technical University of Ostrava,Czech Republic,Ostrava - Poruba,27.7,25.8,N/A,https://www.usnews.com/education/best-global-universities/technical-university-of-ostrava-529411
+574,materials-science,943,King Khalid University,Saudi Arabia,Abha,27.5,40,N/A,https://www.usnews.com/education/best-global-universities/king-khalid-university-529704
+575,materials-science,801,Vilnius University,Lithuania,Vilnius,27.5,43.2,N/A,https://www.usnews.com/education/best-global-universities/vilnius-university-503315
+576,materials-science,540,Ain Shams University,Egypt,Cairo,27.4,50,"146,668",https://www.usnews.com/education/best-global-universities/ain-shams-university-500744
+577,materials-science,,Belgorod State University,Russia,Belgorod,27.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/belgorod-state-university-530154
+578,materials-science,507,China Medical University Taiwan,Taiwan,Taichung,27.3,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+579,materials-science,"1,113",Air Force Military Medical University,China,Xi'an,27.2,36.3,N/A,https://www.usnews.com/education/best-global-universities/air-force-military-medical-university-506665
+580,materials-science,421,University of Johannesburg,South Africa,Johannesburg,27.2,53.9,"29,167",https://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854
+581,materials-science,346,Leipzig University,Germany,Leipzig,27.1,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+582,materials-science,322,Ulm University,Germany,Ulm,27,57.4,"10,271",https://www.usnews.com/education/best-global-universities/ulm-university-502475
+583,materials-science,429,Universidade de Coimbra,Portugal,Coimbra,27,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+584,materials-science,219,University of Pisa,Italy,Pisa,27,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+585,materials-science,710,University of Ulsan,South Korea,Ulsan,27,45.4,"12,415",https://www.usnews.com/education/best-global-universities/university-of-ulsan-500178
+586,materials-science,736,Nanjing Medical University,China,Gulou,26.9,44.7,"19,277",https://www.usnews.com/education/best-global-universities/nanjing-medical-university-500938
+587,materials-science,"1,309",Henan Polytechnic University,China,Jiaozuo,26.8,32,N/A,https://www.usnews.com/education/best-global-universities/henan-polytechnic-university-529521
+588,materials-science,"1,835",Kookmin University,South Korea,Seoul,26.8,18.5,N/A,https://www.usnews.com/education/best-global-universities/kookmin-university-529264
+589,materials-science,203,University of Cincinnati,United States,Cincinnati,26.8,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+590,materials-science,"1,428",Chimie ParisTech,France,Paris,26.7,29.4,N/A,https://www.usnews.com/education/best-global-universities/chimie-paristech-528950
+591,materials-science,"1,218",Gdansk University of Technology,Poland,Gdansk,26.7,34,"14,312",https://www.usnews.com/education/best-global-universities/gdansk-university-of-technology-529186
+592,materials-science,339,Jagiellonian University,Poland,Krakow,26.7,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+593,materials-science,"1,431",Kyushu Institute of Technology,Japan,Fukuoka,26.7,29.3,N/A,https://www.usnews.com/education/best-global-universities/kyushu-institute-of-technology-529222
+594,materials-science,512,University of Alabama Tuscaloosa,United States,Tuscaloosa,26.7,50.7,"44,133",https://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751
+595,materials-science,688,University of Calabria,Italy,Arcavacata di Rende,26.7,46,N/A,https://www.usnews.com/education/best-global-universities/university-of-calabria-505594
+596,materials-science,"1,037",Shanghai Maritime University,China,Shanghai,26.6,37.9,"23,263",https://www.usnews.com/education/best-global-universities/shanghai-maritime-university-529346
+597,materials-science,"1,901",Xi'an Technological University,China,Xi'an,26.6,15.5,N/A,https://www.usnews.com/education/best-global-universities/xian-technological-university-529890
+598,materials-science,"1,381",Sogang University,South Korea,Seoul,26.5,30.5,"9,625",https://www.usnews.com/education/best-global-universities/sogang-university-529014
+599,materials-science,984,State University of New York (SUNY) Binghamton,United States,Binghamton,26.5,39.1,"18,852",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-binghamton-196079
+600,materials-science,250,University of Florence,Italy,Florence,26.5,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+601,materials-science,875,Indian Institute of Technology (IIT) - Hyderabad,India,Teangana,26.4,41.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-hyderabad-529636
+602,materials-science,"1,750",Guilin University of Technology,China,Guilin,26.3,21.6,N/A,https://www.usnews.com/education/best-global-universities/guilin-university-of-technology-529886
+603,materials-science,"1,085",Osaka Metropolitan University,Japan,Osaka,26.3,36.9,"15,782",https://www.usnews.com/education/best-global-universities/osaka-metropolitan-university-530032
+604,materials-science,"1,553",Seoul National University of Science & Technology,South Korea,Seoul,26.2,26.7,N/A,https://www.usnews.com/education/best-global-universities/seoul-national-university-of-science-technology-529227
+605,materials-science,948,Beijing Forestry University,China,Beijing,26.1,39.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-forestry-university-528815
+606,materials-science,152,Cardiff University,United Kingdom,Cardiff,26.1,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+607,materials-science,920,Mississippi State University,United States,Mississippi State,26.1,40.5,"22,035",https://www.usnews.com/education/best-global-universities/mississippi-state-university-176080
+608,materials-science,661,Zagazig University,Egypt,Zagazig,26.1,46.7,N/A,https://www.usnews.com/education/best-global-universities/zagazig-university-514033
+609,materials-science,"1,394",Pukyong National University,South Korea,Busan,26,30.2,N/A,https://www.usnews.com/education/best-global-universities/pukyong-national-university-506231
+610,materials-science,385,University of Perugia,Italy,Perugia,26,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+611,materials-science,"1,049",National Sun Yat Sen University,Taiwan,Kaohsiung,25.9,37.6,"7,992",https://www.usnews.com/education/best-global-universities/national-sun-yat-sen-university-505080
+612,materials-science,"1,017",Universite de Sfax,Tunisia,Sfax,25.9,38.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-sfax-529029
+613,materials-science,379,University of Strathclyde,United Kingdom,Glasgow,25.9,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+614,materials-science,875,Adam Mickiewicz University,Poland,Poznan,25.8,41.4,"36,207",https://www.usnews.com/education/best-global-universities/adam-mickiewicz-university-500923
+615,materials-science,"1,535",Anhui University of Technology,China,Ma'anshan,25.8,27,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-of-technology-529084
+616,materials-science,"1,556",China Three Gorges University,China,Yichang,25.8,26.6,N/A,https://www.usnews.com/education/best-global-universities/china-three-gorges-university-529478
+617,materials-science,997,MINES ParisTech,France,Paris,25.8,38.8,N/A,https://www.usnews.com/education/best-global-universities/mines-paristech-528931
+618,materials-science,311,University of New Mexico,United States,Albuquerque,25.8,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+619,materials-science,537,West Virginia University,United States,Morgantown,25.6,50.1,N/A,https://www.usnews.com/education/best-global-universities/west-virginia-university-238032
+620,materials-science,"1,046",Ferdowsi University Mashhad,Iran,Mashhad,25.5,37.7,N/A,https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854
+621,materials-science,"1,167",Tianjin Medical University,China,Tianjin,25.5,34.9,N/A,https://www.usnews.com/education/best-global-universities/tianjin-medical-university-529011
+622,materials-science,984,Universitat Jaume I,Spain,Castellon,25.5,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-jaume-i-528868
+623,materials-science,400,Nantes Universite,France,Nantes,25.4,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+624,materials-science,"1,465",Universite Polytechnique Hauts-de-France,France,Valenciennes,25.4,28.5,N/A,https://www.usnews.com/education/best-global-universities/universite-polytechnique-hauts-de-france-529196
+625,materials-science,"1,258",Capital Normal University,China,Beijing,25.3,33.1,N/A,https://www.usnews.com/education/best-global-universities/capital-normal-university-529223
+626,materials-science,"1,327",Fahrenheit Universities,Poland,Gdańsk,25.3,31.7,N/A,https://www.usnews.com/education/best-global-universities/fahrenheit-universities-530044
+627,materials-science,852,Universidad Carlos III de Madrid,Spain,Madrid,25.3,42,"18,133",https://www.usnews.com/education/best-global-universities/universidad-carlos-iii-de-madrid-500603
+628,materials-science,"1,422",University of Guilan,Iran,Rasht,25.3,29.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-guilan-529421
+629,materials-science,"1,585",Shanghai University of Engineering Science,China,Shanghai,25.2,25.9,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-engineering-science-529812
+630,materials-science,"1,155",Xi'an University of Science & Technology,China,Xi’an,25.2,35.2,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-science-technology-529798
+631,materials-science,"1,767",Chongqing University of Technology,China,Banan,25.1,21.2,N/A,https://www.usnews.com/education/best-global-universities/chongqing-university-of-technology-529845
+632,materials-science,"1,225",Gazi University,Turkey,Ankara,25.1,33.8,"41,372",https://www.usnews.com/education/best-global-universities/gazi-university-506852
+633,materials-science,"1,465",Hunan University of Technology,China,Zhuzhou,25.1,28.5,N/A,https://www.usnews.com/education/best-global-universities/hunan-university-of-technology-529606
+634,materials-science,615,Dortmund University of Technology,Germany,Dortmund,25,48,N/A,https://www.usnews.com/education/best-global-universities/dortmund-university-of-technology-504395
+635,materials-science,992,Universiti Malaysia Pahang,Malaysia,Pahang,25,38.9,"8,140",https://www.usnews.com/education/best-global-universities/universiti-malaysia-pahang-529458
+636,materials-science,"1,216",Xi'an University of Architecture & Technology,China,Xi'an,25,34.1,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-architecture-technology-529487
+637,materials-science,485,Brunel University,United Kingdom,Uxbridge,24.9,51.9,"14,185",https://www.usnews.com/education/best-global-universities/brunel-university-502232
+638,materials-science,"1,008",Polytechnic University of Bucharest,Romania,Bucharest,24.9,38.6,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-bucharest-506097
+639,materials-science,372,University of Manitoba,Canada,Winnipeg,24.9,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+640,materials-science,789,University of Sherbrooke,Canada,Sherbrooke,24.9,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-sherbrooke-506839
+641,materials-science,209,University of Turin,Italy,Turin,24.7,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+642,materials-science,"1,865",Shanghai Institute of Technology,China,Shanghai,24.6,17.5,N/A,https://www.usnews.com/education/best-global-universities/shanghai-institute-of-technology-529887
+643,materials-science,750,University of Arkansas Fayetteville,United States,Fayetteville,24.4,44.4,"25,207",https://www.usnews.com/education/best-global-universities/university-of-arkansas-fayetteville-106397
+644,materials-science,314,Dalhousie University,Canada,Halifax,24.3,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+645,materials-science,"1,140",Indian Institute of Technology (IIT) - Indore,India,Indore,24.2,35.6,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-indore-529453
+646,materials-science,"1,042",Shahid Beheshti University,Iran,Tehran,24.1,37.8,"19,695",https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-502879
+647,materials-science,"1,184",Jadavpur University,India,Kolkata,24,34.6,N/A,https://www.usnews.com/education/best-global-universities/jadavpur-university-505474
+648,materials-science,"1,037",Abo Akademi University,Finland,Turku,23.9,37.9,N/A,https://www.usnews.com/education/best-global-universities/abo-akademi-university-529149
+649,materials-science,"1,809",Changchun University of Science & Technology,China,Changchun,23.9,19.6,N/A,https://www.usnews.com/education/best-global-universities/changchun-university-of-science-technology-529860
+650,materials-science,"1,465",Kwangwoon University,South Korea,Seoul,23.8,28.5,N/A,https://www.usnews.com/education/best-global-universities/kwangwoon-university-529280
+651,materials-science,"1,603",Suzhou University of Science & Technology,China,Suzhou,23.8,25.5,N/A,https://www.usnews.com/education/best-global-universities/suzhou-university-of-science-technology-529823
+652,materials-science,717,University of Delhi,India,New Delhi,23.8,45.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-delhi-504916
+653,materials-science,930,Fujian Agriculture & Forestry University,China,Fuzhou,23.7,40.2,N/A,https://www.usnews.com/education/best-global-universities/fujian-agriculture-forestry-university-529097
+654,materials-science,920,Universite de Poitiers,France,Poitiers,23.7,40.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-poitiers-501414
+655,materials-science,429,Queens University - Canada,Canada,Kingston (Canada),23.6,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+656,materials-science,"1,868",Yancheng Institute of Technology,China,Yancheng,23.6,17.4,N/A,https://www.usnews.com/education/best-global-universities/yancheng-institute-of-technology-529888
+657,materials-science,"1,413",National Institute of Technology Tiruchirappalli,India,Tiruchirappalli,23.5,29.8,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-tiruchirappalli-529710
+658,materials-science,889,Universiti Teknologi Petronas,Malaysia,Darul Ridzuan,23.5,41.1,N/A,https://www.usnews.com/education/best-global-universities/universiti-teknologi-petronas-529338
+659,materials-science,517,Keio University,Japan,Tokyo,23.4,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+660,materials-science,"1,049",Kumamoto University,Japan,Kumamoto,23.4,37.6,"9,536",https://www.usnews.com/education/best-global-universities/kumamoto-university-505102
+661,materials-science,"1,549",Savitribai Phule Pune University,India,Pune,23.4,26.8,N/A,https://www.usnews.com/education/best-global-universities/savitribai-phule-pune-university-529514
+662,materials-science,"1,376",Bharathiar University,India,Coimbatore,23.3,30.6,N/A,https://www.usnews.com/education/best-global-universities/bharathiar-university-529406
+663,materials-science,"1,589",Technische Universitat Ilmenau,Germany,Ilmenau,23.3,25.8,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-ilmenau-529347
+664,materials-science,"1,726",University of Science & Technology (UST),South Korea,Daejeon,23.3,22.3,"1,346",https://www.usnews.com/education/best-global-universities/university-of-science-technology-ust-529395
+665,materials-science,"1,473",Xinjiang University,China,Xinjiang,23.3,28.4,N/A,https://www.usnews.com/education/best-global-universities/xinjiang-university-529284
+666,materials-science,"1,088",Chang Gung University,Taiwan,Taoyuan City,23.2,36.8,"7,016",https://www.usnews.com/education/best-global-universities/chang-gung-university-505417
+667,materials-science,725,Heriot Watt University,United Kingdom,Edinburgh,23.2,45.1,"9,885",https://www.usnews.com/education/best-global-universities/heriot-watt-university-506192
+668,materials-science,"1,417",Nantong University,China,Nantong,23.2,29.7,N/A,https://www.usnews.com/education/best-global-universities/nantong-university-529473
+669,materials-science,618,Universidade Federal de Santa Catarina (UFSC),Brazil,Florianopolis,23,47.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204
+670,materials-science,,Zhongyuan University of Technology,China,Zhengzhou,23,N/A,N/A,https://www.usnews.com/education/best-global-universities/zhongyuan-university-of-technology-530155
+671,materials-science,611,Alexandria University,Egypt,Alexandria,22.9,48.1,N/A,https://www.usnews.com/education/best-global-universities/alexandria-university-509708
+672,materials-science,889,University of Limerick,Ireland,Limerick,22.9,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-limerick-528976
+673,materials-science,"1,314",Centrale Lille,France,Villeneuve d'Ascq,22.8,31.9,N/A,https://www.usnews.com/education/best-global-universities/centrale-lille-529696
+674,materials-science,"1,116",Hunan University of Science & Technology,China,Xiangtan,22.8,36.2,N/A,https://www.usnews.com/education/best-global-universities/hunan-university-of-science-technology-529481
+675,materials-science,"1,684",Nanchang Hangkong University,China,Nanchang,22.8,23.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-hangkong-university-529611
+676,materials-science,"1,327",National Institute of Technology Rourkela,India,Rourkela,22.8,31.7,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-rourkela-529700
+677,materials-science,856,Jamia Millia Islamia,India,New Delhi,22.7,41.9,"10,481",https://www.usnews.com/education/best-global-universities/jamia-millia-islamia-529538
+678,materials-science,"1,564",Chung Yuan Christian University,Taiwan,Taoyuan City,22.6,26.4,"15,037",https://www.usnews.com/education/best-global-universities/chung-yuan-christian-university-529072
+679,materials-science,"1,116",Qingdao University of Technology,China,Qingdao,22.6,36.2,N/A,https://www.usnews.com/education/best-global-universities/qingdao-university-of-technology-529642
+680,materials-science,"1,465",Central South University of Forestry & Technology,China,Changsha,22.5,28.5,N/A,https://www.usnews.com/education/best-global-universities/central-south-university-of-forestry-technology-529997
+681,materials-science,"1,082",National University of Defense Technology - China,China,Changsha,22.5,37,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-defense-technology-china-505128
+682,materials-science,295,University of Pavia,Italy,Pavia,22.4,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+683,materials-science,"1,767",Kyoto Institute of Technology,Japan,Kyoto,22.3,21.2,N/A,https://www.usnews.com/education/best-global-universities/kyoto-institute-of-technology-529087
+684,materials-science,"1,172",K. N. Toosi University of Technology,Iran,Tehran,22.2,34.8,N/A,https://www.usnews.com/education/best-global-universities/k-n-toosi-university-of-technology-529705
+685,materials-science,531,University of Bremen,Germany,Bremen,22.2,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+686,materials-science,"1,372",Hubei University of Technology,China,Wuhan,22,30.7,N/A,https://www.usnews.com/education/best-global-universities/hubei-university-of-technology-529727
+687,materials-science,520,Martin Luther University Halle Wittenberg,Germany,Halle,22,50.5,N/A,https://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747
+688,materials-science,"1,511",Chengdu University of Technology,China,"Sichuan, Chengdu",21.9,27.6,N/A,https://www.usnews.com/education/best-global-universities/chengdu-university-of-technology-530199
+689,materials-science,"1,526",Universite de Technologie de Belfort-Montbeliard (UTBM),France,Belfort,21.9,27.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-technologie-de-belfort-montbeliard-utbm-529767
+690,materials-science,618,University of Messina,Italy,Messina,21.9,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-messina-500522
+691,materials-science,"1,857",Jiaxing University,China,Jiaxing,21.8,17.8,N/A,https://www.usnews.com/education/best-global-universities/jiaxing-university-529959
+692,materials-science,907,Universite Gustave-Eiffel,France,Marne-la-Vallée,21.8,40.8,N/A,https://www.usnews.com/education/best-global-universities/universite-gustave-eiffel-529800
+693,materials-science,"1,664",Zhengzhou University of Light Industry,China,Zhengzhou,21.6,24.1,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-of-light-industry-529838
+694,materials-science,"1,405",Institute Technology of Bandung,Indonesia,Bandung,21.4,30,N/A,https://www.usnews.com/education/best-global-universities/institute-technology-of-bandung-529995
+695,materials-science,"1,008",King Mongkuts University of Technology Thonburi,Thailand,Bangkok,21.4,38.6,"15,116",https://www.usnews.com/education/best-global-universities/king-mongkuts-university-of-technology-thonburi-529070
+696,materials-science,"1,694",National Institute of Technology Karnataka,India,Mangalore,21.4,23.1,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-karnataka-529773
+697,materials-science,561,Universita di Modena e Reggio Emilia,Italy,Modena,21.4,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+698,materials-science,"1,151",Budapest University of Technology & Economics,Hungary,Budapest,21.3,35.4,N/A,https://www.usnews.com/education/best-global-universities/budapest-university-of-technology-economics-502324
+699,materials-science,"1,095",Instituto Politecnico Nacional - Mexico,Mexico,Mexico City,21.3,36.7,N/A,https://www.usnews.com/education/best-global-universities/instituto-politecnico-nacional-mexico-506818
+700,materials-science,"1,394",Lodz University of Technology,Poland,Lodz,21.2,30.2,"12,642",https://www.usnews.com/education/best-global-universities/lodz-university-of-technology-529225
+701,materials-science,"1,653",Nagaoka University of Technology,Japan,Nagaoka,21.2,24.4,N/A,https://www.usnews.com/education/best-global-universities/nagaoka-university-of-technology-529077
+702,materials-science,"1,438",Ritsumeikan University,Japan,Kyoto,21.2,29.2,N/A,https://www.usnews.com/education/best-global-universities/ritsumeikan-university-528871
+703,materials-science,"1,116",Vietnam National University Hochiminh City,Vietnam,Ho Chi Minh City,21.2,36.2,N/A,https://www.usnews.com/education/best-global-universities/vietnam-national-university-hochiminh-city-529532
+704,materials-science,,TU Clausthal,Germany,Clausthal-Zellerfeld,21.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/tu-clausthal-529078
+705,materials-science,856,Braunschweig University of Technology,Germany,Braunschweig,21,41.9,N/A,https://www.usnews.com/education/best-global-universities/braunschweig-university-of-technology-505131
+706,materials-science,730,University of Salento,Italy,Lecce,20.9,45,"13,608",https://www.usnews.com/education/best-global-universities/university-of-salento-528853
+707,materials-science,"1,849",Changchun University of Technology,China,Changchun,20.8,18,N/A,https://www.usnews.com/education/best-global-universities/changchun-university-of-technology-529892
+708,materials-science,826,National Central University,Taiwan,Jhongli City,20.8,42.4,"10,853",https://www.usnews.com/education/best-global-universities/national-central-university-504757
+709,materials-science,"1,072",Universitat d'Alacant,Spain,Alicante,20.8,37.2,N/A,https://www.usnews.com/education/best-global-universities/universitat-dalacant-503239
+710,materials-science,693,University of Ioannina,Greece,Ioannina,20.7,45.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-ioannina-501360
+711,materials-science,"1,140",University of Punjab,Pakistan,Lahore,20.7,35.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-punjab-529178
+712,materials-science,,Ecole Nationale Superieure de Mecanique et d'Aerotechnique (ISAE-ENSMA),France,Chasseneuil-du-Poitou,20.5,N/A,N/A,https://www.usnews.com/education/best-global-universities/ecole-nationale-superieure-de-mecanique-et-daerotechnique-isae-ensma-529848
+713,materials-science,"1,233",National Chung Hsing University,Taiwan,Taichung,20.5,33.7,"15,150",https://www.usnews.com/education/best-global-universities/national-chung-hsing-university-506137
+714,materials-science,871,Universidade Federal do Rio Grande do Norte,Brazil,Natal/RN,20.5,41.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-norte-529407
+715,materials-science,"1,678",Dankook University,South Korea,Yongin,20.4,23.6,N/A,https://www.usnews.com/education/best-global-universities/dankook-university-529081
+716,materials-science,"1,549",Yantai University,China,Yantai,20.4,26.8,N/A,https://www.usnews.com/education/best-global-universities/yantai-university-529490
+717,materials-science,"1,585",Alagappa University,India,Karaikudi,20.3,25.9,N/A,https://www.usnews.com/education/best-global-universities/alagappa-university-529893
+718,materials-science,997,Thapar Institute of Engineering & Technology,India,Patiala,20.2,38.8,N/A,https://www.usnews.com/education/best-global-universities/thapar-institute-of-engineering-technology-529291
+719,materials-science,653,Universite Paris-Est-Creteil-Val-de-Marne (UPEC),France,Creteil,19.9,46.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-est-creteil-val-de-marne-upec-528863
+720,materials-science,745,Istanbul University,Turkey,Istanbul,19.8,44.5,"59,250",https://www.usnews.com/education/best-global-universities/istanbul-university-502403
+721,materials-science,472,Texas Tech University,United States,Lubbock,19.8,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+722,materials-science,554,Hacettepe University,Turkey,Ankara,19.6,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+723,materials-science,400,Universidad de Chile,Chile,Santiago,19.6,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+724,materials-science,"1,694",Kaunas University of Technology,Lithuania,Kaunas,19.3,23.1,N/A,https://www.usnews.com/education/best-global-universities/kaunas-university-of-technology-529304
+725,materials-science,"1,261",Kangwon National University,South Korea,Chuncheon-si,18.8,33,N/A,https://www.usnews.com/education/best-global-universities/kangwon-national-university-500476
+726,materials-science,"1,002",Mohammed V University in Rabat,Morocco,Rabat,18.8,38.7,N/A,https://www.usnews.com/education/best-global-universities/mohammed-v-university-in-rabat-528985
+727,materials-science,"1,581",Shizuoka University,Japan,"Suruga-ku, Shizuoka City",18.8,26,N/A,https://www.usnews.com/education/best-global-universities/shizuoka-university-503668
+728,materials-science,977,Universidade Federal do Ceara,Brazil,Fortaleza,18.6,39.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-ceara-503817
+729,materials-science,"1,746",West Pomeranian University of Technology,Poland,Szczecin,18.6,21.7,N/A,https://www.usnews.com/education/best-global-universities/west-pomeranian-university-of-technology-529891
+730,materials-science,860,University of Patras,Greece,Rio Achaia,18.5,41.8,"29,393",https://www.usnews.com/education/best-global-universities/university-of-patras-503205
+731,materials-science,"1,452",Toronto Metropolitan University,Canada,Toronto,18.4,28.8,N/A,https://www.usnews.com/education/best-global-universities/toronto-metropolitan-university-499982
+732,materials-science,"1,498",Slovak University of Technology Bratislava,Slovakia,Bratislava,18.3,27.8,N/A,https://www.usnews.com/education/best-global-universities/slovak-university-of-technology-bratislava-529184
+733,materials-science,"1,085",Helwan University,Egypt,Cairo,18.2,36.9,N/A,https://www.usnews.com/education/best-global-universities/helwan-university-512792
+734,materials-science,992,Benemerita Universidad Autonoma de Puebla,Mexico,Puebla,18.1,38.9,N/A,https://www.usnews.com/education/best-global-universities/benemerita-universidad-autonoma-de-puebla-528925
+735,materials-science,"1,570",Hanoi University of Science & Technology,Vietnam,Hanoi,18.1,26.2,N/A,https://www.usnews.com/education/best-global-universities/hanoi-university-of-science-technology-529712
+736,materials-science,590,Northwest A&F University - China,China,Shaanxi,18.1,48.5,N/A,https://www.usnews.com/education/best-global-universities/northwest-af-university-china-503600
+737,materials-science,"1,941",Hebei University of Science & Technology,China,Shijiazhuang,18,12.8,N/A,https://www.usnews.com/education/best-global-universities/hebei-university-of-science-technology-530112
+738,materials-science,"1,222",Khon Kaen University,Thailand,Khon Kaen,18,33.9,"32,857",https://www.usnews.com/education/best-global-universities/khon-kaen-university-529024
+739,materials-science,920,Universite de Tunis-El-Manar,Tunisia,Tunis,18,40.5,"26,325",https://www.usnews.com/education/best-global-universities/universite-de-tunis-el-manar-529027
+740,materials-science,313,University of Granada,Spain,Granada,18,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+741,materials-science,722,University of Oviedo,Spain,Oviedo,18,45.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oviedo-503830
+742,materials-science,"1,712",Anhui University of Science & Technology,China,Huainan,17.8,22.8,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-of-science-technology-529833
+743,materials-science,997,Universite de Caen Normandie,France,Caen,17.7,38.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-caen-normandie-528879
+744,materials-science,,Xi'an Polytechnic University,China,Xi'an,17.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/xian-polytechnic-university-530156
+745,materials-science,"1,151",Ege University,Turkey,Izmir,17.6,35.4,"33,062",https://www.usnews.com/education/best-global-universities/ege-university-500691
+746,materials-science,"1,658",Nagoya Institute of Technology,Japan,Nagoya,17.6,24.3,N/A,https://www.usnews.com/education/best-global-universities/nagoya-institute-of-technology-529083
+747,materials-science,"1,553",Chungbuk National University,South Korea,Cheongju,17.5,26.7,N/A,https://www.usnews.com/education/best-global-universities/chungbuk-national-university-503344
+748,materials-science,"1,506",Tianjin University Science & Technology,China,Tianjin,17.5,27.7,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-science-technology-529285
+749,materials-science,576,University of Texas Arlington,United States,Arlington,17.5,48.9,"33,537",https://www.usnews.com/education/best-global-universities/university-of-texas-arlington-228769
+750,materials-science,"1,338",Ecole de Technologie Superieure - Canada,Canada,Montreal,17.3,31.6,N/A,https://www.usnews.com/education/best-global-universities/ecole-de-technologie-superieure-canada-529339

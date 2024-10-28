@@ -1,0 +1,201 @@
+,subject_name,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,polymer-science,219,South China University of Technology,China,Guangzhou,100,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+2,polymer-science,225,University of Tennessee Knoxville,United States,Knoxville,99.6,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+3,polymer-science,385,Zhengzhou University,China,Zhengzhou,88.9,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+4,polymer-science,26,National University of Singapore,Singapore,Singapore,88.4,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+5,polymer-science,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,88.1,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+6,polymer-science,93,Zhejiang University,China,Hangzhou,85.7,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+7,polymer-science,759,Nanjing Forestry University,China,Nanjing,85.2,44.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-forestry-university-529506
+8,polymer-science,260,Tianjin University,China,Tianjin,82.2,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+9,polymer-science,394,Islamic Azad University,Iran,Tehran,82.1,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+10,polymer-science,37,University of New South Wales Sydney,Australia,Kensington,81.5,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+11,polymer-science,547,Universiti Putra Malaysia,Malaysia,Serdang,80.9,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+12,polymer-science,304,Sichuan University,China,Chengdu,80,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+13,polymer-science,329,University of Tehran,Iran,Tehran,79.6,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+14,polymer-science,196,Harbin Institute of Technology,China,Harbin,78.2,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+15,polymer-science,102,"University of Science & Technology of China, CAS",China,Hefei,77.9,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+16,polymer-science,37,Monash University,Australia,Clayton,77.7,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+17,polymer-science,466,University of Basque Country,Spain,Leioa,77.7,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+18,polymer-science,213,King Saud University,Saudi Arabia,Riyadh,77.4,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+19,polymer-science,688,Donghua University,China,Shanghai,76.8,46,"23,598",https://www.usnews.com/education/best-global-universities/donghua-university-500299
+20,polymer-science,421,Beijing University of Chemical Technology,China,Beijing,75.4,53.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chemical-technology-501098
+21,polymer-science,"1,506",Tianjin University Science & Technology,China,Tianjin,73.8,27.7,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-science-technology-529285
+22,polymer-science,30,Nanyang Technological University,Singapore,Singapore,73.4,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+23,polymer-science,23,Tsinghua University,China,Beijing,73.1,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+24,polymer-science,65,King Abdulaziz University,Saudi Arabia,Jeddah,72.8,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+25,polymer-science,118,Carnegie Mellon University,United States,Pittsburgh,71.8,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+26,polymer-science,89,Shanghai Jiao Tong University,China,Shanghai,70.9,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+27,polymer-science,975,Tabriz University of Medical Science,Iran,Tabriz,70.6,39.3,N/A,https://www.usnews.com/education/best-global-universities/tabriz-university-of-medical-science-529423
+28,polymer-science,95,Ghent University,Belgium,Gent,69.5,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+29,polymer-science,598,Jiangnan University,China,Wuxi,69.5,48.3,"29,899",https://www.usnews.com/education/best-global-universities/jiangnan-university-504800
+30,polymer-science,618,Nanjing Tech University,China,Nanjing,69.5,47.9,"38,866",https://www.usnews.com/education/best-global-universities/nanjing-tech-university-501774
+31,polymer-science,36,University of Queensland,Australia,Brisbane,69.3,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+32,polymer-science,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),68.8,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+33,polymer-science,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,68.5,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+34,polymer-science,662,Ocean University of China,China,Qingdao,68.4,46.6,N/A,https://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491
+35,polymer-science,"1,327",Tiangong University,China,Tianjin,67.1,31.7,N/A,https://www.usnews.com/education/best-global-universities/tiangong-university-529130
+36,polymer-science,633,Amirkabir University of Technology,Iran,Tehran,66.7,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+37,polymer-science,311,Soochow University - China,China,Suzhou,65.8,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+38,polymer-science,673,Zhejiang University of Technology,China,Hangzhou,65.5,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+39,polymer-science,219,Xi'an Jiaotong University,China,Xi'an,65.4,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+40,polymer-science,844,Jiangsu University,China,Zhenjiang,64.9,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+41,polymer-science,794,Qingdao University,China,Qingdao,64.9,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+42,polymer-science,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,64.7,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+43,polymer-science,163,University of Warwick,United Kingdom,Coventry,64.5,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+44,polymer-science,67,University of California Santa Barbara,United States,Santa Barbara,63.8,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+45,polymer-science,"1,060",Guangxi University,China,Nanning,62.8,37.4,N/A,https://www.usnews.com/education/best-global-universities/guangxi-university-529243
+46,polymer-science,230,North Carolina State University,United States,Raleigh,62.7,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+47,polymer-science,50,KU Leuven,Belgium,Leuven,62.2,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+48,polymer-science,84,Pennsylvania State University,United States,University Park,61.3,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+49,polymer-science,150,Wuhan University,China,Wuhan,61,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+50,polymer-science,109,Huazhong University of Science & Technology,China,Wuhan,60.7,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+51,polymer-science,504,Universiti Sains Malaysia,Malaysia,Penang,60.6,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+52,polymer-science,"1,386",Northeast Forestry University - China,China,Harbin,59.6,30.4,N/A,https://www.usnews.com/education/best-global-universities/northeast-forestry-university-china-529095
+53,polymer-science,643,Istanbul Technical University,Turkey,Istanbul,59.1,47.1,"18,562",https://www.usnews.com/education/best-global-universities/istanbul-technical-university-503684
+54,polymer-science,667,Southwest University - China,China,Chongqing,59.1,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+55,polymer-science,63,University of Manchester,United Kingdom,Manchester,59,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+56,polymer-science,51,Georgia Institute of Technology,United States,Atlanta,58.8,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+57,polymer-science,21,Cornell University,United States,Ithaca,58.5,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+58,polymer-science,57,University of Minnesota Twin Cities,United States,Minneapolis,58.2,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+59,polymer-science,625,University of Tabriz,Iran,Tabriz,58.2,47.7,"20,983",https://www.usnews.com/education/best-global-universities/university-of-tabriz-528957
+60,polymer-science,226,Universiti Malaya,Malaysia,Kuala Lumpur,57,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+61,polymer-science,745,Nanchang University,China,Nanchang,56.9,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+62,polymer-science,441,Hanyang University,South Korea,Seoul,56.8,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+63,polymer-science,930,Fujian Agriculture & Forestry University,China,Fuzhou,56.6,40.2,N/A,https://www.usnews.com/education/best-global-universities/fujian-agriculture-forestry-university-529097
+64,polymer-science,421,Jilin University,China,Changchun,56.6,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+65,polymer-science,273,Aalto University,Finland,Esbo,56.2,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+66,polymer-science,13,Imperial College London,United Kingdom,London (U.K.),56,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+67,polymer-science,240,Royal Institute of Technology,Sweden,Stockholm,56,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+68,polymer-science,194,Universite de Montpellier,France,Montpellier,55.5,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+69,polymer-science,116,Fudan University,China,Shanghai,54,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+70,polymer-science,517,Tehran University of Medical Sciences,Iran,Tehran,53.6,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+71,polymer-science,342,Wuhan University of Technology,China,Wuhan,53.5,56.4,"55,426",https://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361
+72,polymer-science,290,Korea University,South Korea,Seoul,53.1,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+73,polymer-science,,"Mahatma Gandhi University, Kerala",India,Kerala,53.1,N/A,N/A,https://www.usnews.com/education/best-global-universities/mahatma-gandhi-university-kerala-529968
+74,polymer-science,140,Purdue University West Lafayette Campus,United States,West Lafayette,53.1,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+75,polymer-science,643,East China University of Science & Technology,China,Shanghai,52.5,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+76,polymer-science,342,Eindhoven University of Technology,Netherlands,Eindhoven,51.9,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+77,polymer-science,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,51.9,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+78,polymer-science,368,Shandong University,China,Jinan,50.8,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+79,polymer-science,708,Tarbiat Modares University,Iran,Tehran,50.3,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+80,polymer-science,333,Northwestern Polytechnical University,China,Xi'an,50.2,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+81,polymer-science,129,Seoul National University (SNU),South Korea,Seoul,50.2,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+82,polymer-science,"1,072",University of Akron,United States,Akron,49.7,37.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-akron-200800
+83,polymer-science,392,Dalian University of Technology,China,Dalian,49.5,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+84,polymer-science,739,Isfahan University of Technology,Iran,Isfahan,49.5,44.6,"11,323",https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590
+85,polymer-science,81,University of Tokyo,Japan,Tokyo,49.5,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+86,polymer-science,129,Sun Yat Sen University,China,Guangzhou,49.4,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+87,polymer-science,160,University of Massachusetts Amherst,United States,Amherst,49.3,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+88,polymer-science,"1,346",Universite de Haute-Alsace (UHA),France,Mulhouse,49,31.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-haute-alsace-uha-528946
+89,polymer-science,271,Shenzhen University,China,Shenzhen,48.2,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+90,polymer-science,120,Universidade de Sao Paulo,Brazil,Sao Paulo,47.9,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+91,polymer-science,48,Universite de Paris,France,Paris,47.6,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+92,polymer-science,134,University of Sheffield,United Kingdom,Sheffield,47,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+93,polymer-science,"1,609",Wuhan Textile University,China,Wuhan,47,25.4,N/A,https://www.usnews.com/education/best-global-universities/wuhan-textile-university-529883
+94,polymer-science,"1,072",Yangzhou University,China,Yangzhou,47,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+95,polymer-science,948,Beijing Forestry University,China,Beijing,46.8,39.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-forestry-university-528815
+96,polymer-science,185,University of Naples Federico II,Italy,Naples,46.8,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+97,polymer-science,196,Tongji University,China,Shanghai,46.6,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+98,polymer-science,39,Peking University,China,Beijing,46.4,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+99,polymer-science,136,University of Alberta,Canada,Edmonton,46.3,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+100,polymer-science,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,45.3,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+101,polymer-science,298,Beijing Institute of Technology,China,Beijing,45,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+102,polymer-science,379,Universiti Teknologi Malaysia,Malaysia,Johor,45,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+103,polymer-science,152,Case Western Reserve University,United States,Cleveland,44.3,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+104,polymer-science,18,University of Toronto,Canada,Toronto,44.2,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+105,polymer-science,29,ETH Zurich,Switzerland,Zurich,44,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+106,polymer-science,199,RWTH Aachen University,Germany,Aachen,43.8,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+107,polymer-science,60,Universite Paris Saclay,France,Saint-Aubin,43.5,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+108,polymer-science,140,Kyoto University,Japan,Kyoto,43.2,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+109,polymer-science,277,Universite de Strasbourg,France,Strasbourg,43,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+110,polymer-science,"1,184",Ecole nationale superieure de chimie de Montpellier,France,Montpellier,42.4,34.6,N/A,https://www.usnews.com/education/best-global-universities/ecole-nationale-superieure-de-chimie-de-montpellier-529615
+111,polymer-science,"1,158",Qingdao University of Science & Technology,China,Qingdao,42.3,35.1,N/A,https://www.usnews.com/education/best-global-universities/qingdao-university-of-science-technology-529234
+112,polymer-science,186,Technische Universitat Dresden,Germany,Dresden,42.3,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+113,polymer-science,"1,354",Zhejiang Sci-Tech University,China,Hangzhou,42.2,31.2,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-sci-tech-university-529088
+114,polymer-science,256,Nankai University,China,Nankai,42,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+115,polymer-science,570,Universitat Politecnica de Valencia,Spain,Valencia,42,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+116,polymer-science,"1,017",Universite de Sfax,Tunisia,Sfax,42,38.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-sfax-529029
+117,polymer-science,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,41.7,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+118,polymer-science,"1,564",Chung Yuan Christian University,Taiwan,Taoyuan City,41.4,26.4,"15,037",https://www.usnews.com/education/best-global-universities/chung-yuan-christian-university-529072
+119,polymer-science,"1,465",Shaanxi University of Science & Technology,China,Xi'an,41.4,28.5,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-university-of-science-technology-529882
+120,polymer-science,520,Kyung Hee University,South Korea,Seoul,41,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+121,polymer-science,148,Texas A&M University College Station,United States,College Station,40.8,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+122,polymer-science,507,Universidade do Minho,Portugal,Braga,40.8,51,"19,922",https://www.usnews.com/education/best-global-universities/universidade-do-minho-506228
+123,polymer-science,"1,446",Qilu University of Technology,China,Jinan,40.7,29,N/A,https://www.usnews.com/education/best-global-universities/qilu-university-of-technology-529482
+124,polymer-science,400,University of Twente,Netherlands,Enschede,40.3,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+125,polymer-science,294,Universidade Estadual de Campinas,Brazil,Campinas,40.2,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+126,polymer-science,413,Universite de Lorraine,France,Nancy,39.9,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+127,polymer-science,432,Hokkaido University,Japan,Sapporo,39.7,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+128,polymer-science,290,Universite de Bordeaux,France,Talence,39.6,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+129,polymer-science,247,Xiamen University,China,Xiamen,39.6,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+130,polymer-science,15,University of Pennsylvania,United States,Philadelphia,39.2,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+131,polymer-science,"1,327",Beijing Technology & Business University,China,Beijing,38.9,31.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-technology-business-university-529734
+132,polymer-science,531,Nanjing University of Science & Technology,China,Nanjing,38.8,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+133,polymer-science,27,University of Melbourne,Australia,Parkville,38.3,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+134,polymer-science,1,Harvard University,United States,Cambridge (U.S.),38,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+135,polymer-science,191,University of Waterloo,Canada,Waterloo,38,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+136,polymer-science,48,Sorbonne Universite,France,Paris,37.9,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+137,polymer-science,178,Aix-Marseille Universite,France,Marseille,37.4,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+138,polymer-science,263,Sungkyunkwan University (SKKU),South Korea,Seoul,37.4,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+139,polymer-science,"1,327",Inha University,South Korea,Incheon,37,31.7,"17,103",https://www.usnews.com/education/best-global-universities/inha-university-504761
+140,polymer-science,122,University of Bologna,Italy,Bologna,36.9,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+141,polymer-science,217,Deakin University,Australia,Burwood,36.4,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+142,polymer-science,812,Hefei University of Technology,China,Hefei,36.4,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+143,polymer-science,547,Chulalongkorn University,Thailand,Bangkok,36.3,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+144,polymer-science,702,South China Agricultural University,China,Guangzhou,36,45.6,N/A,https://www.usnews.com/education/best-global-universities/south-china-agricultural-university-529032
+145,polymer-science,203,National Taiwan University,Taiwan,Taipei,35.8,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+146,polymer-science,209,Central South University,China,Changsha,35.5,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+147,polymer-science,234,Southeast University - China,China,Nanjing,35.5,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+148,polymer-science,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,34.7,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+149,polymer-science,653,Guangdong University of Technology,China,Guangzhou,34.6,46.8,"46,040",https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270
+150,polymer-science,593,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,33.6,48.4,N/A,https://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289
+151,polymer-science,74,University of Illinois Urbana-Champaign,United States,Champaign,33.6,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+152,polymer-science,19,University of Michigan,United States,Ann Arbor,33.5,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+153,polymer-science,360,Tokyo Institute of Technology,Japan,Tokyo,32.4,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+154,polymer-science,787,Aligarh Muslim University,India,Aligarh,32.1,43.5,N/A,https://www.usnews.com/education/best-global-universities/aligarh-muslim-university-528840
+155,polymer-science,43,University of Texas Austin,United States,Austin,31.8,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+156,polymer-science,385,Polytechnic University of Catalonia,Spain,Barcelona,31.7,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+157,polymer-science,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,31.6,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+158,polymer-science,123,Nanjing University,China,Nanjing,31.6,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+159,polymer-science,241,Johannes Gutenberg University of Mainz,Germany,Mainz,31.4,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+160,polymer-science,750,University of Bayreuth,Germany,Bayreuth,31.4,44.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-bayreuth-500728
+161,polymer-science,355,Lomonosov Moscow State University,Russia,Moscow (Russia),31.2,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+162,polymer-science,717,Indian Institute of Technology (IIT) - Delhi,India,New Delhi,30.3,45.3,"9,794",https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856
+163,polymer-science,349,Kyushu University,Japan,Fukuoka,29.9,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+164,polymer-science,520,Martin Luther University Halle Wittenberg,Germany,Halle,29.9,50.5,N/A,https://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747
+165,polymer-science,889,National Taiwan University of Science & Technology,Taiwan,Taipei City,29.8,41.1,"8,907",https://www.usnews.com/education/best-global-universities/national-taiwan-university-of-science-technology-501875
+166,polymer-science,156,Universite de Montreal,Canada,Montreal,29.4,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+167,polymer-science,79,Technical University of Munich,Germany,Munich,29,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+168,polymer-science,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,28.5,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+169,polymer-science,512,China University of Petroleum,China,Qingdao,28.4,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+170,polymer-science,"1,394",Lodz University of Technology,Poland,Lodz,28.4,30.2,"12,642",https://www.usnews.com/education/best-global-universities/lodz-university-of-technology-529225
+171,polymer-science,292,Yonsei University,South Korea,Seoul,27.6,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+172,polymer-science,497,Universidade Estadual Paulista,Brazil,Sao Paulo,26.9,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+173,polymer-science,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,26.8,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+174,polymer-science,8,University of Cambridge,United Kingdom,Cambridge (U.K.),26.3,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+175,polymer-science,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,26,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+176,polymer-science,889,Jeonbuk National University,South Korea,Jeonju,25.9,41.1,"21,782",https://www.usnews.com/education/best-global-universities/jeonbuk-national-university-503088
+177,polymer-science,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,24,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+178,polymer-science,256,University of Erlangen Nuremberg,Germany,Erlangen,24,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+179,polymer-science,54,McGill University,Canada,Montreal,23.9,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+180,polymer-science,138,McMaster University,Canada,Hamilton,23.8,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+181,polymer-science,253,Beihang University,China,Beijing,23.2,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+182,polymer-science,333,Nagoya University,Japan,Nagoya,23.1,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+183,polymer-science,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,23,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+184,polymer-science,816,Universidade Federal do Parana,Brazil,Curitiba,22.1,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-parana-503933
+185,polymer-science,"1,489",Southwest Petroleum University,China,Chengdu,21.9,28,N/A,https://www.usnews.com/education/best-global-universities/southwest-petroleum-university-529461
+186,polymer-science,"1,140",Chungnam National University,South Korea,Daejeon,21.8,35.6,N/A,https://www.usnews.com/education/best-global-universities/chungnam-national-university-502760
+187,polymer-science,"1,190",Prince of Songkla University,Thailand,Songkhla,21.4,34.5,"32,779",https://www.usnews.com/education/best-global-universities/prince-of-songkla-university-529017
+188,polymer-science,178,University of Freiburg,Germany,Freiburg,20.5,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+189,polymer-science,286,Osaka University,Japan,Suita,20.2,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+190,polymer-science,667,Kyungpook National University,South Korea,Daegu,19.9,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+191,polymer-science,379,Friedrich Schiller University of Jena,Germany,Jena,19.2,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+192,polymer-science,698,Pusan National University,South Korea,Busan,19.1,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+193,polymer-science,389,Universite de Lille,France,Lille,17.2,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+194,polymer-science,896,Universidade Federal de Sao Carlos,Brazil,Sao Carlos,15.7,41,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-carlos-505014
+195,polymer-science,482,Quaid I Azam University,Pakistan,Islamabad,15.2,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+196,polymer-science,,Tomas Bata University Zlin,Czech Republic,Zlín,14.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/tomas-bata-university-zlin-530194
+197,polymer-science,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,11.2,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+198,polymer-science,"1,361",Anna University Chennai,India,Chennai,7.8,31,N/A,https://www.usnews.com/education/best-global-universities/anna-university-chennai-529021
+199,polymer-science,"1,483",Changzhou University,China,Changzhou,4.2,28.1,N/A,https://www.usnews.com/education/best-global-universities/changzhou-university-529351
+200,polymer-science,"1,522",Yamagata University,Japan,Yamagata,1.7,27.2,"8,684",https://www.usnews.com/education/best-global-universities/yamagata-university-529042

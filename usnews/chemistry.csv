@@ -1,0 +1,1001 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,chemistry,3,Stanford University,United States,Stanford,100,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+2,chemistry,23,Tsinghua University,China,Beijing,97.7,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+3,chemistry,30,Nanyang Technological University,Singapore,Singapore,96.8,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+4,chemistry,4,University of California Berkeley,United States,Berkeley,96.1,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+5,chemistry,102,"University of Science & Technology of China, CAS",China,Hefei,96,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+6,chemistry,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),94.9,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+7,chemistry,24,Northwestern University,United States,Evanston,93.8,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+8,chemistry,26,National University of Singapore,Singapore,Singapore,92.8,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+9,chemistry,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,90.8,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+10,chemistry,65,King Abdulaziz University,Saudi Arabia,Jeddah,90.4,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+11,chemistry,95,King Abdullah University of Science & Technology,Saudi Arabia,Thuwal,89.2,70.6,N/A,https://www.usnews.com/education/best-global-universities/king-abdullah-university-of-science-technology-510489
+12,chemistry,1,Harvard University,United States,Cambridge (U.S.),88.7,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+13,chemistry,39,Peking University,China,Beijing,88.7,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+14,chemistry,8,University of Cambridge,United Kingdom,Cambridge (U.K.),87.6,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+15,chemistry,9,California Institute of Technology,United States,Pasadena,86.5,85.6,"2,237",https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404
+16,chemistry,123,Nanjing University,China,Nanjing,86.5,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+17,chemistry,93,Zhejiang University,China,Hangzhou,86.2,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+18,chemistry,260,Tianjin University,China,Tianjin,85.7,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+19,chemistry,256,Nankai University,China,Nankai,84.8,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+20,chemistry,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,84.7,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+21,chemistry,29,ETH Zurich,Switzerland,Zurich,83.9,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+22,chemistry,247,Xiamen University,China,Xiamen,83,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+23,chemistry,16,Princeton University,United States,Princeton,82,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+24,chemistry,219,South China University of Technology,China,Guangzhou,81.9,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+25,chemistry,14,University of California Los Angeles,United States,Los Angeles,81.7,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+26,chemistry,89,Shanghai Jiao Tong University,China,Shanghai,81.4,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+27,chemistry,5,University of Oxford,United Kingdom,Oxford,81.4,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+28,chemistry,81,University of Tokyo,Japan,Tokyo,81.3,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+29,chemistry,116,Fudan University,China,Shanghai,81,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+30,chemistry,18,University of Toronto,Canada,Toronto,80.7,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+31,chemistry,43,University of Texas Austin,United States,Austin,80.2,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+32,chemistry,140,Kyoto University,Japan,Kyoto,80.1,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+33,chemistry,421,Beijing University of Chemical Technology,China,Beijing,80,53.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chemical-technology-501098
+34,chemistry,51,Georgia Institute of Technology,United States,Atlanta,79.8,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+35,chemistry,7,Columbia University,United States,New York City,79.5,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+36,chemistry,21,Cornell University,United States,Ithaca,79.4,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+37,chemistry,13,Imperial College London,United Kingdom,London (U.K.),79.4,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+38,chemistry,421,Jilin University,China,Changchun,79.3,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+39,chemistry,129,Sun Yat Sen University,China,Guangzhou,79.2,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+40,chemistry,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,78.1,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+41,chemistry,63,University of Manchester,United Kingdom,Manchester,77.8,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+42,chemistry,150,Wuhan University,China,Wuhan,77.8,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+43,chemistry,168,Hunan University,China,Changsha,77.7,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+44,chemistry,74,University of Illinois Urbana-Champaign,United States,Champaign,77.2,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+45,chemistry,342,Wuhan University of Technology,China,Wuhan,77.1,56.4,"55,426",https://www.usnews.com/education/best-global-universities/wuhan-university-of-technology-506361
+46,chemistry,11,Yale University,United States,New Haven,77,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+47,chemistry,63,University of Wisconsin Madison,United States,Madison,76.6,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+48,chemistry,311,Soochow University - China,China,Suzhou,76.5,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+49,chemistry,19,University of Michigan,United States,Ann Arbor,76.5,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+50,chemistry,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,75.9,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+51,chemistry,37,University of New South Wales Sydney,Australia,Kensington,75.6,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+52,chemistry,531,Fuzhou University,China,Fuzhou,75.3,50.2,"39,987",https://www.usnews.com/education/best-global-universities/fuzhou-university-528832
+53,chemistry,109,Huazhong University of Science & Technology,China,Wuhan,75.3,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+54,chemistry,12,University College London,United Kingdom,London (U.K.),75.1,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+55,chemistry,20,University of California San Diego,United States,La Jolla,75.1,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+56,chemistry,22,University of Chicago,United States,Chicago,75.1,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+57,chemistry,392,Dalian University of Technology,China,Dalian,75,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+58,chemistry,385,Zhengzhou University,China,Zhengzhou,74.7,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+59,chemistry,67,University of California Santa Barbara,United States,Santa Barbara,74.6,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+60,chemistry,643,East China University of Science & Technology,China,Shanghai,74.2,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+61,chemistry,618,Nanjing Tech University,China,Nanjing,74.2,47.9,"38,866",https://www.usnews.com/education/best-global-universities/nanjing-tech-university-501774
+62,chemistry,57,University of Minnesota Twin Cities,United States,Minneapolis,74.2,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+63,chemistry,37,Monash University,Australia,Clayton,74.1,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+64,chemistry,148,Texas A&M University College Station,United States,College Station,74,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+65,chemistry,74,University of Adelaide,Australia,Adelaide,73.9,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+66,chemistry,79,Technical University of Munich,Germany,Munich,73.6,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+67,chemistry,36,University of Queensland,Australia,Brisbane,73.4,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+68,chemistry,196,Harbin Institute of Technology,China,Harbin,73.2,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+69,chemistry,84,Pennsylvania State University,United States,University Park,73.1,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+70,chemistry,226,Karlsruhe Institute of Technology,Germany,Karlsruhe,72.7,61.6,"22,689",https://www.usnews.com/education/best-global-universities/karlsruhe-institute-of-technology-502442
+71,chemistry,277,Universite de Strasbourg,France,Strasbourg,72.7,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+72,chemistry,304,Sichuan University,China,Chengdu,72.5,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+73,chemistry,213,King Saud University,Saudi Arabia,Riyadh,72.3,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+74,chemistry,368,Shandong University,China,Jinan,72,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+75,chemistry,120,City University of Hong Kong,Hong Kong,Kowloon,71.7,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+76,chemistry,199,RWTH Aachen University,Germany,Aachen,71.6,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+77,chemistry,129,Seoul National University (SNU),South Korea,Seoul,71.6,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+78,chemistry,271,Shenzhen University,China,Shenzhen,71.5,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+79,chemistry,140,Purdue University West Lafayette Campus,United States,West Lafayette,71.2,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+80,chemistry,304,Technical University of Berlin,Germany,Berlin,71.2,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+81,chemistry,169,Delft University of Technology,Netherlands,Delft,71.1,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+82,chemistry,186,University of Wollongong,Australia,Wollongong,71.1,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+83,chemistry,15,University of Pennsylvania,United States,Philadelphia,70.8,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+84,chemistry,421,Shanghai University,China,Shanghai,70.6,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+85,chemistry,203,National Taiwan University,Taiwan,Taipei,70.3,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+86,chemistry,213,Southern University of Science & Technology,China,Shenzhen,70.3,62.3,N/A,https://www.usnews.com/education/best-global-universities/southern-university-of-science-technology-529428
+87,chemistry,118,Carnegie Mellon University,United States,Pittsburgh,70.1,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+88,chemistry,286,Osaka University,Japan,Suita,70.1,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+89,chemistry,48,Sorbonne Universite,France,Paris,70,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+90,chemistry,41,University of North Carolina Chapel Hill,United States,Chapel Hill,69.9,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+91,chemistry,360,Ulsan National Institute of Science & Technology (UNIST),South Korea,Ulsan,69.8,55.7,N/A,https://www.usnews.com/education/best-global-universities/ulsan-national-institute-of-science-technology-unist-528883
+92,chemistry,400,King Fahd University of Petroleum & Minerals,Saudi Arabia,Dhahran,69.5,54.4,N/A,https://www.usnews.com/education/best-global-universities/king-fahd-university-of-petroleum-minerals-506100
+93,chemistry,377,Shandong University of Science & Technology,China,Qingdao,69.5,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+94,chemistry,50,KU Leuven,Belgium,Leuven,69.4,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+95,chemistry,342,Eindhoven University of Technology,Netherlands,Eindhoven,69.3,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+96,chemistry,321,East China Normal University,China,Shanghai,68.9,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+97,chemistry,225,University of Tennessee Knoxville,United States,Knoxville,68.9,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+98,chemistry,432,Hokkaido University,Japan,Sapporo,68.8,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+99,chemistry,360,Tokyo Institute of Technology,Japan,Tokyo,68.8,55.7,"9,878",https://www.usnews.com/education/best-global-universities/tokyo-institute-of-technology-504950
+100,chemistry,53,Chinese University of Hong Kong,Hong Kong,Shatin,68.7,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+101,chemistry,349,Kyushu University,Japan,Fukuoka,68.6,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+102,chemistry,180,Rice University,United States,Houston,68.4,64,"7,068",https://www.usnews.com/education/best-global-universities/rice-university-227757
+103,chemistry,165,Technical University of Denmark,Denmark,Kongens Lyngby,68.4,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+104,chemistry,352,University of Delaware,United States,Newark,68.2,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+105,chemistry,298,Beijing Institute of Technology,China,Beijing,68.1,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+106,chemistry,163,University of Gottingen,Germany,Gottingen,68.1,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+107,chemistry,290,Korea University,South Korea,Seoul,67.8,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+108,chemistry,98,University of Florida,United States,Gainesville,67.8,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+109,chemistry,186,Technische Universitat Dresden,Germany,Dresden,67.3,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+110,chemistry,263,Sungkyunkwan University (SKKU),South Korea,Seoul,67.2,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+111,chemistry,70,University of Colorado Boulder,United States,Boulder,67.1,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+112,chemistry,60,Universite Paris Saclay,France,Saint-Aubin,66.9,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+113,chemistry,84,University of California Irvine,United States,Irvine,66.9,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+114,chemistry,409,Pohang University of Science & Technology (POSTECH),South Korea,Pohang,66.7,54.2,"3,260",https://www.usnews.com/education/best-global-universities/pohang-university-of-science-technology-postech-503003
+115,chemistry,441,University of Science & Technology Beijing,China,Beijing,66.7,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-science-technology-beijing-506176
+116,chemistry,48,Universite de Paris,France,Paris,66.6,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+117,chemistry,186,University of California Riverside,United States,Riverside,66.5,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+118,chemistry,219,Xi'an Jiaotong University,China,Xi'an,66.5,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+119,chemistry,95,Ghent University,Belgium,Gent,66.4,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+120,chemistry,333,Nagoya University,Japan,Nagoya,66.2,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+121,chemistry,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,66.1,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+122,chemistry,28,University of Sydney,Australia,Sydney,66.1,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+123,chemistry,6,University of Washington Seattle,United States,Seattle,66.1,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+124,chemistry,120,Universidade de Sao Paulo,Brazil,Sao Paulo,65.9,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+125,chemistry,191,University of Waterloo,Canada,Waterloo,65.8,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+126,chemistry,54,McGill University,Canada,Montreal,65.7,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+127,chemistry,160,Curtin University,Australia,Bentley,65.5,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+128,chemistry,355,Lomonosov Moscow State University,Russia,Moscow (Russia),65.5,55.9,N/A,https://www.usnews.com/education/best-global-universities/lomonosov-moscow-state-university-500445
+129,chemistry,171,Queensland University of Technology (QUT),Australia,Brisbane,65.5,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+130,chemistry,286,Tohoku University,Japan,Sendai,65.5,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+131,chemistry,55,University of Hong Kong,Hong Kong,Pok Fu Lam,65.5,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+132,chemistry,512,China University of Petroleum,China,Qingdao,65.4,50.7,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-petroleum-500186
+133,chemistry,45,University of Pittsburgh,United States,Pittsburgh,65.2,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+134,chemistry,231,University of Electronic Science & Technology of China,China,Chengdu,65.1,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+135,chemistry,219,University of Munster,Germany,Munster,65,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+136,chemistry,209,Central South University,China,Changsha,64.9,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+137,chemistry,394,Islamic Azad University,Iran,Tehran,64.9,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+138,chemistry,441,Hanyang University,South Korea,Seoul,64.7,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+139,chemistry,226,Universiti Malaya,Malaysia,Kuala Lumpur,64.6,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+140,chemistry,240,Royal Institute of Technology,Sweden,Stockholm,64.5,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+141,chemistry,25,Duke University,United States,"Durham (North Carolina, U.S.)",64.4,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+142,chemistry,292,Yonsei University,South Korea,Seoul,64.4,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+143,chemistry,10,Johns Hopkins University,United States,Baltimore,64.3,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+144,chemistry,346,Ruhr University Bochum,Germany,Bochum,64.2,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+145,chemistry,673,Zhejiang University of Technology,China,Hangzhou,64.2,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+146,chemistry,379,Chongqing University,China,Chongqing,64.1,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+147,chemistry,87,Free University of Berlin,Germany,Berlin,64.1,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+148,chemistry,466,University of Basque Country,Spain,Leioa,64.1,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+149,chemistry,86,University of Barcelona,Spain,Barcelona,64,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+150,chemistry,93,University of Bristol,United Kingdom,Bristol,64,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+151,chemistry,127,Uppsala University,Sweden,Uppsala,64,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+152,chemistry,317,University of South Florida,United States,Tampa,63.8,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+153,chemistry,136,University of Alberta,Canada,Edmonton,63.7,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+154,chemistry,146,University of Liverpool,United Kingdom,Liverpool,63.6,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+155,chemistry,253,Beihang University,China,Beijing,63.4,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+156,chemistry,47,University of Munich,Germany,Munich,63.4,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+157,chemistry,844,Jiangsu University,China,Zhenjiang,63.3,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+158,chemistry,230,North Carolina State University,United States,Raleigh,63.3,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+159,chemistry,44,Utrecht University,Netherlands,Utrecht,63.2,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+160,chemistry,88,University of Groningen,Netherlands,Groningen,63.1,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+161,chemistry,127,Stockholm University,Sweden,Stockholm,62.9,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+162,chemistry,35,University of British Columbia,Canada,Vancouver,62.8,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+163,chemistry,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,62.6,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+164,chemistry,531,Nanjing University of Science & Technology,China,Nanjing,62.5,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+165,chemistry,625,Universitat Rovira i Virgili,Spain,Tarragona,62.4,47.7,"12,975",https://www.usnews.com/education/best-global-universities/universitat-rovira-i-virgili-506486
+166,chemistry,329,University of Tehran,Iran,Tehran,62.4,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+167,chemistry,551,Indian Institute of Science (IISC) - Bangalore,India,Bangalore,62.3,49.6,"3,990",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-iisc-bangalore-505956
+168,chemistry,194,Universite de Montpellier,France,Montpellier,62.3,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+169,chemistry,122,University of Bologna,Italy,Bologna,62.3,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+170,chemistry,163,University of Warwick,United Kingdom,Coventry,62.2,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+171,chemistry,598,Babol Noshirvani University of Technology,Iran,Babol,62.1,48.3,"6,180",https://www.usnews.com/education/best-global-universities/babol-noshirvani-university-of-technology-529310
+172,chemistry,55,Ohio State University,United States,Columbus,62.1,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+173,chemistry,286,State University of New York (SUNY) Buffalo,United States,Buffalo,61.9,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+174,chemistry,73,University of California Davis,United States,Davis,61.9,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+175,chemistry,234,Southeast University - China,China,Nanjing,61.8,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+176,chemistry,447,ShanghaiTech University,China,Pudong,61.7,53.3,N/A,https://www.usnews.com/education/best-global-universities/shanghaitech-university-529508
+177,chemistry,160,University of Massachusetts Amherst,United States,Amherst,61.7,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+178,chemistry,643,Beijing University of Technology,China,Beijing,61.6,47.1,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-technology-505552
+179,chemistry,540,Lanzhou University,China,Lanzhou,61.6,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+180,chemistry,134,Weizmann Institute of Science,Israel,Rehovot,61.6,67.3,N/A,https://www.usnews.com/education/best-global-universities/weizmann-institute-of-science-506795
+181,chemistry,409,University of Bath,United Kingdom,Bath,61.5,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+182,chemistry,256,University of Erlangen Nuremberg,Germany,Erlangen,61.5,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+183,chemistry,57,University of Maryland College Park,United States,College Park,61.5,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+184,chemistry,112,Lund University,Sweden,Lund,61.3,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+185,chemistry,223,Ton Duc Thang University,Vietnam,Ho Chi Minh City,61.3,61.8,N/A,https://www.usnews.com/education/best-global-universities/ton-duc-thang-university-529637
+186,chemistry,152,Case Western Reserve University,United States,Cleveland,60.9,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+187,chemistry,143,Rutgers State University New Brunswick,United States,Piscataway Township,60.9,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+188,chemistry,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,60.8,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+189,chemistry,27,University of Melbourne,Australia,Parkville,60.8,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+190,chemistry,294,Universidade Estadual de Campinas,Brazil,Campinas,60.6,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+191,chemistry,570,Universitat Politecnica de Valencia,Spain,Valencia,60.5,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+192,chemistry,856,Ewha Womans University,South Korea,Seoul,60.4,41.9,"14,746",https://www.usnews.com/education/best-global-universities/ewha-womans-university-504624
+193,chemistry,241,Florida State University,United States,Tallahassee,60.4,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+194,chemistry,202,Universidade de Lisboa,Portugal,Lisbon,60.3,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+195,chemistry,208,University of Vienna,Austria,Vienna,60.3,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+196,chemistry,67,University of Zurich,Switzerland,Zurich,60.3,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+197,chemistry,250,University of Illinois Chicago,United States,Chicago,60.2,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+198,chemistry,167,University of Utah,United States,Salt Lake City,60.2,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+199,chemistry,143,Autonomous University of Barcelona,Spain,Barcelona,60.1,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+200,chemistry,156,Arizona State University-Tempe,United States,Tempe,60,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+201,chemistry,779,University of Rostock,Germany,Rostock,60,43.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-rostock-500634
+202,chemistry,333,Northwestern Polytechnical University,China,Xi'an,59.9,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+203,chemistry,241,Johannes Gutenberg University of Mainz,Germany,Mainz,59.8,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+204,chemistry,145,University of Nottingham,United Kingdom,Nottingham,59.6,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+205,chemistry,379,Universiti Teknologi Malaysia,Malaysia,Johor,59.5,55,"19,974",https://www.usnews.com/education/best-global-universities/universiti-teknologi-malaysia-528827
+206,chemistry,512,Central China Normal University,China,Wuhan,59.4,50.7,N/A,https://www.usnews.com/education/best-global-universities/central-china-normal-university-501632
+207,chemistry,231,Autonomous University of Madrid,Spain,Madrid,59.3,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+208,chemistry,482,Quaid I Azam University,Pakistan,Islamabad,59,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+209,chemistry,794,Qingdao University,China,Qingdao,58.9,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+210,chemistry,688,Donghua University,China,Shanghai,58.7,46,"23,598",https://www.usnews.com/education/best-global-universities/donghua-university-500299
+211,chemistry,290,Universite de Bordeaux,France,Talence,58.7,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+212,chemistry,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,58.7,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+213,chemistry,547,Chulalongkorn University,Thailand,Bangkok,58.6,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+214,chemistry,125,Sapienza University Rome,Italy,Rome,58.6,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+215,chemistry,510,University of Regensburg,Germany,Regensburg,58.5,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-regensburg-500220
+216,chemistry,178,Aix-Marseille Universite,France,Marseille,58.4,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+217,chemistry,185,University of Naples Federico II,Italy,Naples,58.4,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+218,chemistry,129,Brown University,United States,Providence,58.3,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+219,chemistry,34,University of Edinburgh,United Kingdom,Edinburgh,58.3,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+220,chemistry,579,Novosibirsk State University,Russia,Novosibirsk,58.1,48.8,N/A,https://www.usnews.com/education/best-global-universities/novosibirsk-state-university-503585
+221,chemistry,652,Saint Petersburg State University,Russia,St. Petersburg,58.1,46.9,"24,335",https://www.usnews.com/education/best-global-universities/saint-petersburg-state-university-502182
+222,chemistry,42,University of Copenhagen,Denmark,Copenhagen,58.1,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+223,chemistry,394,National Tsing Hua University,Taiwan,Hsinchu,58,54.6,"13,030",https://www.usnews.com/education/best-global-universities/national-tsing-hua-university-501245
+224,chemistry,525,Universidade de Aveiro,Portugal,Aveiro,58,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+225,chemistry,478,Qatar University,Qatar,Doha,57.9,52.2,"9,084",https://www.usnews.com/education/best-global-universities/qatar-university-529146
+226,chemistry,74,University of Glasgow,United Kingdom,Glasgow,57.9,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+227,chemistry,61,Humboldt University of Berlin,Germany,Berlin,57.7,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+228,chemistry,39,University of Amsterdam,Netherlands,Amsterdam,57.7,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+229,chemistry,421,University of Johannesburg,South Africa,Johannesburg,57.7,53.9,"29,167",https://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854
+230,chemistry,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,57.6,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+231,chemistry,493,Universite de Rennes 1,France,Rennes,57.6,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+232,chemistry,112,University of Technology Sydney,Australia,Ultimo,57.6,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+233,chemistry,583,Indian Institute of Technology (IIT) - Bombay,India,Mumbai,57.4,48.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bombay-501259
+234,chemistry,223,University of Antwerp,Belgium,Antwerp,57.4,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+235,chemistry,662,Khalifa University of Science & Technology,United Arab Emirates,Abu Dhabi,57.3,46.6,N/A,https://www.usnews.com/education/best-global-universities/khalifa-university-of-science-technology-529390
+236,chemistry,212,University of Valencia,Spain,Valencia,57.3,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+237,chemistry,203,Griffith University,Australia,Nathan,57.2,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+238,chemistry,241,Hebrew University of Jerusalem,Israel,Jerusalem,57.2,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+239,chemistry,389,Universite de Lille,France,Lille,57.2,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+240,chemistry,150,University of Basel,Switzerland,Basel,57.1,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+241,chemistry,226,Charles University Prague,Czech Republic,Prague,56.8,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+242,chemistry,337,Complutense University of Madrid,Spain,Madrid,56.8,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+243,chemistry,"1,184",Ecole nationale superieure de chimie de Montpellier,France,Montpellier,56.8,34.6,N/A,https://www.usnews.com/education/best-global-universities/ecole-nationale-superieure-de-chimie-de-montpellier-529615
+244,chemistry,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),56.6,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+245,chemistry,115,University of Padua,Italy,Padua,56.6,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+246,chemistry,328,Washington State University,United States,Pullman,56.5,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+247,chemistry,196,Tongji University,China,Shanghai,56.3,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+248,chemistry,759,Nanjing Forestry University,China,Nanjing,56.2,44.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-forestry-university-529506
+249,chemistry,247,Universidade do Porto,Portugal,Porto,56.2,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+250,chemistry,109,University of Geneva,Switzerland,Geneva,56.1,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+251,chemistry,80,University of Southern California,United States,Los Angeles,56.1,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+252,chemistry,520,Kyung Hee University,South Korea,Seoul,56,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+253,chemistry,263,Iowa State University,United States,Ames,55.9,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+254,chemistry,"1,027",Kentucky State University,United States,Frankfort,55.8,38.2,N/A,https://www.usnews.com/education/best-global-universities/kentucky-state-university-157058
+255,chemistry,123,University of Auckland,New Zealand,Auckland,55.8,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+256,chemistry,138,University of Bonn,Germany,Bonn,55.8,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+257,chemistry,432,University of Houston,United States,Houston,55.8,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+258,chemistry,175,University of Calgary,Canada,Calgary,55.7,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+259,chemistry,62,Australian National University,Australia,Canberra,55.6,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+260,chemistry,702,Nanjing Normal University,China,Nanjing,55.6,45.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-normal-university-528982
+261,chemistry,416,Technische Universitat Wien,Austria,Vienna,55.6,54,N/A,https://www.usnews.com/education/best-global-universities/technische-universitat-wien-502163
+262,chemistry,116,Michigan State University,United States,East Lansing,55.5,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+263,chemistry,280,University of York - UK,United Kingdom,York,55.5,59.2,"17,965",https://www.usnews.com/education/best-global-universities/university-of-york-uk-505776
+264,chemistry,297,Polytechnic University of Milan,Italy,Milan,55.4,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+265,chemistry,598,Sharif University of Technology,Iran,Tehran,55.4,48.3,N/A,https://www.usnews.com/education/best-global-universities/sharif-university-of-technology-502898
+266,chemistry,363,Cairo University,Egypt,Giza,55.3,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+267,chemistry,"1,072",Yangzhou University,China,Yangzhou,55.3,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+268,chemistry,277,Durham University,United Kingdom,Durham (U.K.),55.1,59.3,"18,715",https://www.usnews.com/education/best-global-universities/durham-university-501717
+269,chemistry,317,Technion Israel Institute of Technology,Israel,Haifa,55.1,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+270,chemistry,72,Emory University,United States,Atlanta,55,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+271,chemistry,625,University of Tabriz,Iran,Tabriz,55,47.7,"20,983",https://www.usnews.com/education/best-global-universities/university-of-tabriz-528957
+272,chemistry,551,Guangzhou University,China,Guangzhou,54.9,49.6,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-529537
+273,chemistry,178,University of Freiburg,Germany,Freiburg,54.9,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+274,chemistry,273,Aalto University,Finland,Esbo,54.8,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+275,chemistry,299,Oregon State University,United States,Corvallis,54.8,58.3,N/A,https://www.usnews.com/education/best-global-universities/oregon-state-university-209542
+276,chemistry,"1,218",Tianjin University of Technology,China,Tianjin,54.8,34,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-of-technology-529674
+277,chemistry,192,University of Wurzburg,Germany,Wurzburg,54.7,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+278,chemistry,598,Rutgers State University Newark,United States,Newark,54.6,48.3,N/A,https://www.usnews.com/education/best-global-universities/rutgers-state-university-newark-186399
+279,chemistry,413,Universite de Lorraine,France,Nancy,54.6,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+280,chemistry,352,Drexel University,United States,Philadelphia,54.5,56,N/A,https://www.usnews.com/education/best-global-universities/drexel-university-212054
+281,chemistry,764,Indian Institute of Technology (IIT) - Kharagpur,India,Kharagpur,54.4,44.1,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kharagpur-500533
+282,chemistry,605,Indian Institute of Technology (IIT) - Madras,India,Chennai,54.4,48.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-madras-502278
+283,chemistry,31,New York University,United States,New York City,54.4,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+284,chemistry,"1,158",Qingdao University of Science & Technology,China,Qingdao,54.4,35.1,N/A,https://www.usnews.com/education/best-global-universities/qingdao-university-of-science-technology-529234
+285,chemistry,416,University of Trieste,Italy,Trieste,54.4,54,"16,677",https://www.usnews.com/education/best-global-universities/university-of-trieste-500914
+286,chemistry,109,Aarhus University,Denmark,Aarhus,54.3,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+287,chemistry,337,Chalmers University of Technology,Sweden,Gothenburg,54.3,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+288,chemistry,504,Polytechnic University of Turin,Italy,Turin,54.2,51.1,"29,428",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-turin-502577
+289,chemistry,322,University of Notre Dame,United States,Notre Dame,54.2,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+290,chemistry,209,University of Turin,Italy,Turin,54.2,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+291,chemistry,708,Tarbiat Modares University,Iran,Tehran,54.1,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+292,chemistry,219,University of Pisa,Italy,Pisa,54.1,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+293,chemistry,339,Jagiellonian University,Poland,Krakow,53.9,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+294,chemistry,698,Pusan National University,South Korea,Busan,53.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+295,chemistry,89,University of Birmingham,United Kingdom,Birmingham (U.K.),53.9,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+296,chemistry,504,Universiti Sains Malaysia,Malaysia,Penang,53.8,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+297,chemistry,722,Utah State University,United States,Logan,53.8,45.2,N/A,https://www.usnews.com/education/best-global-universities/utah-state-university-230728
+298,chemistry,152,Cardiff University,United Kingdom,Cardiff,53.7,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+299,chemistry,547,Philipps University Marburg,Germany,Marburg,53.7,49.8,N/A,https://www.usnews.com/education/best-global-universities/philipps-university-marburg-502174
+300,chemistry,215,University of Ottawa,Canada,Ottawa,53.4,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+301,chemistry,667,Kyungpook National University,South Korea,Daegu,53.2,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+302,chemistry,400,University of Twente,Netherlands,Enschede,53.2,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+303,chemistry,649,Zhejiang Normal University,China,Jinhua,53.2,47,"28,025",https://www.usnews.com/education/best-global-universities/zhejiang-normal-university-529076
+304,chemistry,618,Boston College,United States,Chestnut Hill,53.1,47.9,"12,755",https://www.usnews.com/education/best-global-universities/boston-college-164924
+305,chemistry,879,Indian Institute of Technology (IIT) - Kanpur,India,Kanpur,53.1,41.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-kanpur-506622
+306,chemistry,194,Northeastern University,United States,Boston,53.1,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+307,chemistry,119,University of Virginia,United States,Charlottesville,53.1,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+308,chemistry,138,McMaster University,Canada,Hamilton,53,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+309,chemistry,653,Guangdong University of Technology,China,Guangzhou,52.9,46.8,"46,040",https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270
+310,chemistry,745,Nanchang University,China,Nanchang,52.9,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+311,chemistry,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,52.9,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+312,chemistry,217,Deakin University,Australia,Burwood,52.7,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+313,chemistry,896,Universidade Federal de Sao Carlos,Brazil,Sao Carlos,52.7,41,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-carlos-505014
+314,chemistry,487,University of Hannover,Germany,Hannover,52.7,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-hannover-503676
+315,chemistry,497,Universidade Estadual Paulista,Brazil,Sao Paulo,52.5,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+316,chemistry,547,Universiti Putra Malaysia,Malaysia,Serdang,52.5,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+317,chemistry,276,Colorado State University,United States,Fort Collins,52.3,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+318,chemistry,"1,167",National Taipei University of Technology,Taiwan,Taipei City,52.3,34.9,"9,873",https://www.usnews.com/education/best-global-universities/national-taipei-university-of-technology-529069
+319,chemistry,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,52.3,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+320,chemistry,739,Isfahan University of Technology,Iran,Isfahan,52.2,44.6,"11,323",https://www.usnews.com/education/best-global-universities/isfahan-university-of-technology-502590
+321,chemistry,629,University of Stuttgart,Germany,Stuttgart,52.1,47.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-stuttgart-506202
+322,chemistry,345,University of Warsaw,Poland,Warsaw,52,56.3,"37,090",https://www.usnews.com/education/best-global-universities/university-of-warsaw-502726
+323,chemistry,"1,354",Zhejiang Sci-Tech University,China,Hangzhou,52,31.2,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-sci-tech-university-529088
+324,chemistry,282,China University of Geosciences,China,Wuhan,51.9,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+325,chemistry,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,51.9,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+326,chemistry,782,Shandong Normal University,China,Jinan,51.9,43.6,N/A,https://www.usnews.com/education/best-global-universities/shandong-normal-university-529300
+327,chemistry,"1,072",University of Akron,United States,Akron,51.9,37.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-akron-200800
+328,chemistry,"1,344","University of Chemistry & Technology, Prague",Czech Republic,Prague,51.9,31.5,"4,006",https://www.usnews.com/education/best-global-universities/university-of-chemistry-technology-prague-529066
+329,chemistry,89,University of Oslo,Norway,Oslo,51.9,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+330,chemistry,643,Istanbul Technical University,Turkey,Istanbul,51.7,47.1,"18,562",https://www.usnews.com/education/best-global-universities/istanbul-technical-university-503684
+331,chemistry,175,Tel Aviv University,Israel,Tel Aviv,51.7,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+332,chemistry,99,University of Helsinki,Finland,Helsinki,51.6,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+333,chemistry,250,University of Florence,Italy,Florence,51.5,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+334,chemistry,901,Shaanxi Normal University,China,Xi'an,51.4,40.9,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-normal-university-529190
+335,chemistry,611,Palacky University Olomouc,Czech Republic,Olomouc,51.3,48.1,"18,774",https://www.usnews.com/education/best-global-universities/palacky-university-olomouc-506534
+336,chemistry,322,Ulm University,Germany,Ulm,51.3,57.4,"10,271",https://www.usnews.com/education/best-global-universities/ulm-university-502475
+337,chemistry,"1,147",University of Jinan,China,Jinan,51.3,35.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-jinan-529252
+338,chemistry,794,Kent State University,United States,Kent,51.2,43.3,N/A,https://www.usnews.com/education/best-global-universities/kent-state-university-203517
+339,chemistry,"1,095",Tokyo University of Science,Japan,Tokyo,51.2,36.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-science-503707
+340,chemistry,156,University of Milan,Italy,Milan,51.2,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+341,chemistry,"1,372",Chongqing Technology & Business University,China,Chongqing,51.1,30.7,N/A,https://www.usnews.com/education/best-global-universities/chongqing-technology-business-university-529956
+342,chemistry,311,University of New Mexico,United States,Albuquerque,51.1,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+343,chemistry,531,University of Santiago De Compostela,Spain,Santiago de Compostela,50.9,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+344,chemistry,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,50.8,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+345,chemistry,106,Radboud University Nijmegen,Netherlands,Nijmegen,50.8,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+346,chemistry,104,University of Southampton,United Kingdom,Southampton,50.8,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+347,chemistry,203,University of Cincinnati,United States,Cincinnati,50.7,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+348,chemistry,149,University of Hamburg,Germany,Hamburg,50.6,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+349,chemistry,432,University of Tsukuba,Japan,Tsukuba,50.6,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+350,chemistry,89,Wageningen University & Research,Netherlands,Wageningen,50.6,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+351,chemistry,487,Universidade Nova de Lisboa,Portugal,Lisbon,50.5,51.7,"20,996",https://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121
+352,chemistry,78,Vanderbilt University,United States,Nashville,50.5,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+353,chemistry,759,Universitat de Girona,Spain,Girona,50.4,44.2,N/A,https://www.usnews.com/education/best-global-universities/universitat-de-girona-528856
+354,chemistry,889,Universiti Teknologi Petronas,Malaysia,Darul Ridzuan,50.4,41.1,N/A,https://www.usnews.com/education/best-global-universities/universiti-teknologi-petronas-529338
+355,chemistry,170,University of Rochester,United States,Rochester,50.4,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+356,chemistry,269,Beijing Normal University,China,Beijing,50.3,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+357,chemistry,400,Nantes Universite,France,Nantes,50.3,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+358,chemistry,459,University of Belgrade,Serbia,Belgrade,50.3,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+359,chemistry,231,University of Newcastle,Australia,Callaghan,50.3,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+360,chemistry,314,Dalhousie University,Canada,Halifax,50.2,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+361,chemistry,"1,060",Guangxi University,China,Nanning,50.2,37.4,N/A,https://www.usnews.com/education/best-global-universities/guangxi-university-529243
+362,chemistry,598,Jiangnan University,China,Wuxi,50.2,48.3,"29,899",https://www.usnews.com/education/best-global-universities/jiangnan-university-504800
+363,chemistry,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),50.2,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+364,chemistry,896,Indian Institute of Technology (IIT) - Roorkee,India,Roorkee,50.1,41,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-roorkee-528828
+365,chemistry,889,National Taiwan University of Science & Technology,Taiwan,Taipei City,50.1,41.1,"8,907",https://www.usnews.com/education/best-global-universities/national-taiwan-university-of-science-technology-501875
+366,chemistry,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,50.1,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+367,chemistry,"1,428",Chimie ParisTech,France,Paris,50,29.4,N/A,https://www.usnews.com/education/best-global-universities/chimie-paristech-528950
+368,chemistry,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,50,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+369,chemistry,385,University of Perugia,Italy,Perugia,50,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+370,chemistry,134,University of Sheffield,United Kingdom,Sheffield,50,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+371,chemistry,959,Ural Federal University,Russia,Ekaterinburg,50,39.7,N/A,https://www.usnews.com/education/best-global-universities/ural-federal-university-529237
+372,chemistry,667,Southwest University - China,China,Chongqing,49.9,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+373,chemistry,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,49.9,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+374,chemistry,750,University of Bayreuth,Germany,Bayreuth,49.8,44.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-bayreuth-500728
+375,chemistry,615,Dortmund University of Technology,Germany,Dortmund,49.7,48,N/A,https://www.usnews.com/education/best-global-universities/dortmund-university-of-technology-504395
+376,chemistry,576,University of Texas at San Antonio (UTSA),United States,San Antonio,49.7,48.9,"27,187",https://www.usnews.com/education/best-global-universities/university-of-texas-at-san-antonio-utsa-229027
+377,chemistry,717,Indian Institute of Technology (IIT) - Delhi,India,New Delhi,49.6,45.3,"9,794",https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-delhi-500856
+378,chemistry,540,Jinan University,China,Guangzhou,49.6,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+379,chemistry,156,Universite de Montreal,Canada,Montreal,49.6,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+380,chemistry,633,Amirkabir University of Technology,Iran,Tehran,49.5,47.3,N/A,https://www.usnews.com/education/best-global-universities/amirkabir-university-of-technology-506266
+381,chemistry,970,Henan University,China,Kaifeng,49.5,39.4,N/A,https://www.usnews.com/education/best-global-universities/henan-university-529507
+382,chemistry,379,University of Strathclyde,United Kingdom,Glasgow,49.5,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+383,chemistry,856,Braunschweig University of Technology,Germany,Braunschweig,49.4,41.9,N/A,https://www.usnews.com/education/best-global-universities/braunschweig-university-of-technology-505131
+384,chemistry,300,University of Duisburg Essen,Germany,Essen,49.4,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+385,chemistry,372,Changsha University of Science & Technology,China,Changsha,49.3,55.2,N/A,https://www.usnews.com/education/best-global-universities/changsha-university-of-science-technology-529522
+386,chemistry,317,Duy Tan University,Vietnam,Danang,49.3,57.6,N/A,https://www.usnews.com/education/best-global-universities/duy-tan-university-529795
+387,chemistry,564,Colorado School of Mines,United States,Golden,49.2,49.2,"6,350",https://www.usnews.com/education/best-global-universities/colorado-school-of-mines-126775
+388,chemistry,953,Qufu Normal University,China,Qufu,49.2,39.8,N/A,https://www.usnews.com/education/best-global-universities/qufu-normal-university-529543
+389,chemistry,587,Tomsk State University,Russia,Tomsk,49.2,48.6,"7,806",https://www.usnews.com/education/best-global-universities/tomsk-state-university-529019
+390,chemistry,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,49.2,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+391,chemistry,140,University of Leeds,United Kingdom,Leeds,49.2,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+392,chemistry,912,Yeungnam University,South Korea,Gyeongsan,49.1,40.7,"19,345",https://www.usnews.com/education/best-global-universities/yeungnam-university-504367
+393,chemistry,835,Northwest University Xi'an,China,Xi'an,49,42.3,N/A,https://www.usnews.com/education/best-global-universities/northwest-university-xian-500540
+394,chemistry,352,University of St Andrews,United Kingdom,Fife,48.9,56,"9,645",https://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328
+395,chemistry,593,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,48.8,48.4,N/A,https://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289
+396,chemistry,300,University of Genoa,Italy,Genoa,48.8,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+397,chemistry,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,48.7,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+398,chemistry,385,Polytechnic University of Catalonia,Spain,Barcelona,48.7,54.9,"22,280",https://www.usnews.com/education/best-global-universities/polytechnic-university-of-catalonia-501701
+399,chemistry,579,Waseda University,Japan,Tokyo,48.7,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+400,chemistry,300,University of Rome Tor Vergata,Italy,Rome,48.6,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+401,chemistry,816,Graz University of Technology,Austria,Graz,48.5,42.6,N/A,https://www.usnews.com/education/best-global-universities/graz-university-of-technology-506184
+402,chemistry,"1,327",Inha University,South Korea,Incheon,48.5,31.7,"17,103",https://www.usnews.com/education/best-global-universities/inha-university-504761
+403,chemistry,475,Justus Liebig University Giessen,Germany,Giessen,48.5,52.3,N/A,https://www.usnews.com/education/best-global-universities/justus-liebig-university-giessen-500790
+404,chemistry,"1,357",Taiyuan University of Technology,China,Taiyuan,48.5,31.1,N/A,https://www.usnews.com/education/best-global-universities/taiyuan-university-of-technology-529111
+405,chemistry,"1,664",Zhengzhou University of Light Industry,China,Zhengzhou,48.5,24.1,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-of-light-industry-529838
+406,chemistry,702,Skolkovo Institute of Science & Technology,Russia,Moscow (Russia),48.4,45.6,N/A,https://www.usnews.com/education/best-global-universities/skolkovo-institute-of-science-technology-529683
+407,chemistry,912,Universidad de Cordoba,Spain,Cordoba (Spain),48.4,40.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cordoba-505807
+408,chemistry,826,Banaras Hindu University (BHU),India,Varanasi,48.3,42.4,N/A,https://www.usnews.com/education/best-global-universities/banaras-hindu-university-bhu-503462
+409,chemistry,330,Linkoping University,Sweden,Linkoping,48.3,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+410,chemistry,901,University of Shanghai for Science & Technology,China,Shanghai,48.3,40.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-shanghai-for-science-technology-529079
+411,chemistry,300,Western University (University of Western Ontario),Canada,London (Canada),48.2,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+412,chemistry,441,University of Saskatchewan,Canada,Saskatoon,48.1,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+413,chemistry,"1,140",Jiangsu University of Science & Technology,China,Zhenjiang,48,35.6,N/A,https://www.usnews.com/education/best-global-universities/jiangsu-university-of-science-technology-529475
+414,chemistry,520,University of Sevilla,Spain,Seville,48,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+415,chemistry,"1,163",Anhui University,China,Hefei,47.8,35,N/A,https://www.usnews.com/education/best-global-universities/anhui-university-529110
+416,chemistry,590,Ben Gurion University,Israel,Beer-Sheva,47.7,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+417,chemistry,405,Heinrich Heine University Dusseldorf,Germany,Dusseldorf,47.7,54.3,N/A,https://www.usnews.com/education/best-global-universities/heinrich-heine-university-dusseldorf-503659
+418,chemistry,152,Indiana University Bloomington,United States,Bloomington,47.6,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+419,chemistry,856,Jamia Millia Islamia,India,New Delhi,47.6,41.9,"10,481",https://www.usnews.com/education/best-global-universities/jamia-millia-islamia-529538
+420,chemistry,236,Goethe University Frankfurt,Germany,Frankfurt am Main,47.5,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+421,chemistry,547,Middle East Technical University,Turkey,Ankara,47.5,49.8,"17,151",https://www.usnews.com/education/best-global-universities/middle-east-technical-university-503271
+422,chemistry,639,National Cheng Kung University,Taiwan,Tainan City,47.5,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+423,chemistry,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,47.5,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+424,chemistry,273,University of Milano-Bicocca,Italy,Milan,47.5,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+425,chemistry,966,Gwangju Institute of Science & Technology (GIST),South Korea,Gwangju,47.4,39.5,"1,808",https://www.usnews.com/education/best-global-universities/gwangju-institute-of-science-technology-gist-506847
+426,chemistry,889,Jeonbuk National University,South Korea,Jeonju,47.4,41.1,"21,782",https://www.usnews.com/education/best-global-universities/jeonbuk-national-university-503088
+427,chemistry,346,Leipzig University,Germany,Leipzig,47.3,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+428,chemistry,389,Louisiana State University,United States,Baton Rouge,47.3,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+429,chemistry,860,University of Patras,Greece,Rio Achaia,47.3,41.8,"29,393",https://www.usnews.com/education/best-global-universities/university-of-patras-503205
+430,chemistry,629,Hamad Bin Khalifa University-Qatar,Qatar,Doha,47.2,47.6,N/A,https://www.usnews.com/education/best-global-universities/hamad-bin-khalifa-university-qatar-510873
+431,chemistry,292,Vrije Universiteit Brussel,Belgium,Elsene,47.2,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+432,chemistry,379,Friedrich Schiller University of Jena,Germany,Jena,47.1,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+433,chemistry,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,47.1,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+434,chemistry,739,North China Electric Power University,China,Beijing,47,44.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-electric-power-university-528965
+435,chemistry,676,University of Zaragoza,Spain,Zaragoza,47,46.3,"28,083",https://www.usnews.com/education/best-global-universities/university-of-zaragoza-502343
+436,chemistry,"1,465",Shaanxi University of Science & Technology,China,Xi'an,46.9,28.5,N/A,https://www.usnews.com/education/best-global-universities/shaanxi-university-of-science-technology-529882
+437,chemistry,"1,027",Shanxi University,China,Taiyuan,46.9,38.2,N/A,https://www.usnews.com/education/best-global-universities/shanxi-university-529038
+438,chemistry,770,South China Normal University,China,Guangzhou,46.7,43.9,N/A,https://www.usnews.com/education/best-global-universities/south-china-normal-university-501607
+439,chemistry,370,University of Kwazulu Natal,South Africa,Durban,46.7,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+440,chemistry,70,Boston University,United States,Boston,46.6,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+441,chemistry,698,Rensselaer Polytechnic Institute,United States,Troy,46.6,45.7,N/A,https://www.usnews.com/education/best-global-universities/rensselaer-polytechnic-institute-194824
+442,chemistry,943,Taibah University,Saudi Arabia,Medina,46.6,40,N/A,https://www.usnews.com/education/best-global-universities/taibah-university-512768
+443,chemistry,215,Trinity College Dublin,Ireland,Dublin,46.5,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+444,chemistry,33,King's College London,United Kingdom,London (U.K.),46.3,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+445,chemistry,295,Queens University Belfast,United Kingdom,Belfast,46.3,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+446,chemistry,429,Universidade de Coimbra,Portugal,Coimbra,46.3,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+447,chemistry,74,Leiden University,Netherlands,Leiden,46.2,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+448,chemistry,618,Northeastern University - China,China,Shenyang,46.2,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931
+449,chemistry,722,University of Oviedo,Spain,Oviedo,46.2,45.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oviedo-503830
+450,chemistry,512,Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI),France,Paris,46.1,50.7,N/A,https://www.usnews.com/education/best-global-universities/ecole-superieure-de-physique-et-de-chimie-industrielles-de-la-ville-de-paris-espci-528926
+451,chemistry,"1,116",Hunan University of Science & Technology,China,Xiangtan,46.1,36.2,N/A,https://www.usnews.com/education/best-global-universities/hunan-university-of-science-technology-529481
+452,chemistry,879,Tomsk Polytechnic University,Russia,Tomsk,46.1,41.3,N/A,https://www.usnews.com/education/best-global-universities/tomsk-polytechnic-university-529158
+453,chemistry,"1,158",University of Mohaghegh Ardabili,Iran,Ardabil,46.1,35.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-mohaghegh-ardabili-529803
+454,chemistry,"1,225",Hubei University,China,Wuhan,45.9,33.8,N/A,https://www.usnews.com/education/best-global-universities/hubei-university-529080
+455,chemistry,107,University of Bern,Switzerland,Bern,45.9,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+456,chemistry,889,University of Limerick,Ireland,Limerick,45.9,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-limerick-528976
+457,chemistry,83,University of Western Australia,Australia,Crawley,45.9,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+458,chemistry,32,Washington University (WUSTL),United States,St. Louis,45.8,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+459,chemistry,324,University of Georgia,United States,"Athens (Georgia, U.S.)",45.7,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+460,chemistry,520,University of Jyvaskyla,Finland,Jyvaskyla,45.7,50.5,"10,434",https://www.usnews.com/education/best-global-universities/university-of-jyvaskyla-500627
+461,chemistry,"1,008",Northeast Normal University - China,China,Changchun,45.6,38.6,"30,310",https://www.usnews.com/education/best-global-universities/northeast-normal-university-china-503882
+462,chemistry,702,South China Agricultural University,China,Guangzhou,45.6,45.6,N/A,https://www.usnews.com/education/best-global-universities/south-china-agricultural-university-529032
+463,chemistry,309,University of Connecticut,United States,Storrs,45.6,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+464,chemistry,717,University of Delhi,India,New Delhi,45.6,45.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-delhi-504916
+465,chemistry,935,Wuhan Institute of Technology,China,Wuhan,45.6,40.1,"33,153",https://www.usnews.com/education/best-global-universities/wuhan-institute-of-technology-529516
+466,chemistry,570,China University of Mining & Technology,China,Xuzhou,45.5,49.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-mining-technology-529045
+467,chemistry,244,Ecole Normale Superieure (ENS),France,Paris,45.5,60.8,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-ens-505721
+468,chemistry,"1,072",Universitat d'Alacant,Spain,Alicante,45.5,37.2,N/A,https://www.usnews.com/education/best-global-universities/universitat-dalacant-503239
+469,chemistry,16,University of California San Francisco,United States,San Francisco,45.4,83.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699
+470,chemistry,732,University of Hull,United Kingdom,Hull,45.4,44.9,"12,725",https://www.usnews.com/education/best-global-universities/university-of-hull-505254
+471,chemistry,579,Auburn University,United States,Auburn,45.3,48.8,"27,512",https://www.usnews.com/education/best-global-universities/auburn-university-100858
+472,chemistry,662,Ocean University of China,China,Qingdao,45.3,46.6,N/A,https://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491
+473,chemistry,930,Peoples Friendship University of Russia,Russia,Moscow (Russia),45.3,40.2,N/A,https://www.usnews.com/education/best-global-universities/peoples-friendship-university-of-russia-529616
+474,chemistry,239,Tufts University,United States,Medford,45.3,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+475,chemistry,459,Institut National Polytechnique de Grenoble,France,Grenoble,45.2,53,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-grenoble-504372
+476,chemistry,"1,317",Ningbo University,China,Ningbo,45.2,31.8,N/A,https://www.usnews.com/education/best-global-universities/ningbo-university-529272
+477,chemistry,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,45.1,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+478,chemistry,244,University of Cologne,Germany,Koln,45.1,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+479,chemistry,875,University of Texas El Paso,United States,El Paso,45.1,41.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-el-paso-228796
+480,chemistry,452,Tata Institute of Fundamental Research (TIFR),India,Mumbai,45,53.1,N/A,https://www.usnews.com/education/best-global-universities/tata-institute-of-fundamental-research-tifr-529777
+481,chemistry,"1,327",Tiangong University,China,Tianjin,45,31.7,N/A,https://www.usnews.com/education/best-global-universities/tiangong-university-529130
+482,chemistry,787,Aligarh Muslim University,India,Aligarh,44.8,43.5,N/A,https://www.usnews.com/education/best-global-universities/aligarh-muslim-university-528840
+483,chemistry,356,College de France,France,Paris,44.8,55.8,N/A,https://www.usnews.com/education/best-global-universities/college-de-france-502833
+484,chemistry,618,University of Messina,Italy,Messina,44.8,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-messina-500522
+485,chemistry,943,Institut National Polytechnique de Toulouse,France,Toulouse,44.7,40,N/A,https://www.usnews.com/education/best-global-universities/institut-national-polytechnique-de-toulouse-505784
+486,chemistry,"1,037",King Faisal University,Saudi Arabia,Al Ahsa,44.7,37.9,N/A,https://www.usnews.com/education/best-global-universities/king-faisal-university-514869
+487,chemistry,507,Universidade do Minho,Portugal,Braga,44.7,51,"19,922",https://www.usnews.com/education/best-global-universities/universidade-do-minho-506228
+488,chemistry,554,Hacettepe University,Turkey,Ankara,44.6,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+489,chemistry,879,Iran University Science & Technology,Iran,Tehran,44.6,41.3,"15,436",https://www.usnews.com/education/best-global-universities/iran-university-science-technology-505518
+490,chemistry,"1,446",Qilu University of Technology,China,Jinan,44.6,29,N/A,https://www.usnews.com/education/best-global-universities/qilu-university-of-technology-529482
+491,chemistry,377,Bogazici University,Turkey,Istanbul,44.5,55.1,N/A,https://www.usnews.com/education/best-global-universities/bogazici-university-504066
+492,chemistry,"1,621",Heilongjiang University,China,Harbin,44.5,25,N/A,https://www.usnews.com/education/best-global-universities/heilongjiang-university-529289
+493,chemistry,"1,542",Henan Normal University,China,Xinxiang,44.5,26.9,N/A,https://www.usnews.com/education/best-global-universities/henan-normal-university-529271
+494,chemistry,346,University of South Carolina Columbia,United States,Columbia,44.5,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+495,chemistry,739,Al Azhar University,Egypt,Cairo,44.4,44.6,N/A,https://www.usnews.com/education/best-global-universities/al-azhar-university-508017
+496,chemistry,926,Indian Institute of Science Education & Research (IISER) Pune,India,Pashan,44.3,40.4,"1,512",https://www.usnews.com/education/best-global-universities/indian-institute-of-science-education-research-iiser-pune-529311
+497,chemistry,441,National Technical University of Athens,Greece,Athens (Greece),44.3,53.4,N/A,https://www.usnews.com/education/best-global-universities/national-technical-university-of-athens-505449
+498,chemistry,304,University of Kansas,United States,Lawrence,44.3,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+499,chemistry,501,Huazhong Agricultural University,China,Wuhan,44.2,51.2,N/A,https://www.usnews.com/education/best-global-universities/huazhong-agricultural-university-503034
+500,chemistry,"1,251",University Kashan,Iran,Kashan,44.2,33.3,N/A,https://www.usnews.com/education/best-global-universities/university-kashan-529415
+501,chemistry,313,University of Granada,Spain,Granada,44.2,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+502,chemistry,429,Queens University - Canada,Canada,Kingston (Canada),44.1,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+503,chemistry,540,Ain Shams University,Egypt,Cairo,44,50,"146,668",https://www.usnews.com/education/best-global-universities/ain-shams-university-500744
+504,chemistry,"1,184",Jadavpur University,India,Kolkata,43.9,34.6,N/A,https://www.usnews.com/education/best-global-universities/jadavpur-university-505474
+505,chemistry,472,Texas Tech University,United States,Lubbock,43.9,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+506,chemistry,295,University of Pavia,Italy,Pavia,43.9,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+507,chemistry,"1,022",Jiangsu Normal University,China,Xuzhou,43.8,38.3,"23,978",https://www.usnews.com/education/best-global-universities/jiangsu-normal-university-529282
+508,chemistry,821,Nanjing University of Posts & Telecommunications,China,Nanjing,43.8,42.5,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-posts-telecommunications-529215
+509,chemistry,964,Wuhan University of Science & Technology,China,Wuhan,43.8,39.6,"32,312",https://www.usnews.com/education/best-global-universities/wuhan-university-of-science-technology-529350
+510,chemistry,679,University of North Texas Denton,United States,Denton,43.7,46.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-texas-denton-227216
+511,chemistry,732,Warsaw University of Technology,Poland,Warsaw,43.7,44.9,"26,482",https://www.usnews.com/education/best-global-universities/warsaw-university-of-technology-502920
+512,chemistry,812,Hefei University of Technology,China,Hefei,43.6,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+513,chemistry,852,Indian Institute of Science Education & Research (IISER) - Kolkata,India,Nadia,43.6,42,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-science-education-research-iiser---kolkata-529446
+514,chemistry,182,Eberhard Karls University of Tubingen,Germany,Tubingen,43.5,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+515,chemistry,917,Lehigh University,United States,Bethlehem,43.5,40.6,"6,459",https://www.usnews.com/education/best-global-universities/lehigh-university-213543
+516,chemistry,475,Moscow Institute of Physics & Technology,Russia,Dolgoprudny,43.5,52.3,"6,083",https://www.usnews.com/education/best-global-universities/moscow-institute-of-physics-technology-528929
+517,chemistry,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,43.5,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+518,chemistry,531,University of Bremen,Germany,Bremen,43.5,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+519,chemistry,710,Assiut University,Egypt,Assiut,43.4,45.4,N/A,https://www.usnews.com/education/best-global-universities/assiut-university-513421
+520,chemistry,379,University of Macau,Macau,Taipa,43.4,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+521,chemistry,526,"University of Natural Resources & Life Sciences, Vienna",Austria,Vienna,43.4,50.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-natural-resources-life-sciences-vienna-501157
+522,chemistry,943,King Khalid University,Saudi Arabia,Abha,43.2,40,N/A,https://www.usnews.com/education/best-global-universities/king-khalid-university-529704
+523,chemistry,,Madurai Kamaraj University,India,Madurai,43.2,N/A,N/A,https://www.usnews.com/education/best-global-universities/madurai-kamaraj-university-528889
+524,chemistry,573,University of Palermo,Italy,Palermo,43.2,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+525,chemistry,"1,407",Yanshan University,China,Qinhuangdao,43.2,29.9,"38,649",https://www.usnews.com/education/best-global-universities/yanshan-university-529086
+526,chemistry,507,Kansas State University,United States,Manhattan,43.1,51,N/A,https://www.usnews.com/education/best-global-universities/kansas-state-university-155399
+527,chemistry,413,University of Central Florida,United States,Orlando,43.1,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+528,chemistry,244,University of Witwatersrand,South Africa,Johannesburg,43.1,60.8,"26,871",https://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909
+529,chemistry,"1,561",Anhui Normal University,China,Wuhu,43,26.5,N/A,https://www.usnews.com/education/best-global-universities/anhui-normal-university-529314
+530,chemistry,"1,494",Jiangxi Normal University,China,Nanchang,43,27.9,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-normal-university-529313
+531,chemistry,"1,417",Sichuan Normal University,China,Chengdu,43,29.7,N/A,https://www.usnews.com/education/best-global-universities/sichuan-normal-university-529719
+532,chemistry,517,Tehran University of Medical Sciences,Iran,Tehran,43,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+533,chemistry,"1,506",Tianjin University Science & Technology,China,Tianjin,43,27.7,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-science-technology-529285
+534,chemistry,"1,271",University of Hyderabad,India,Hyderabad,43,32.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-hyderabad-528875
+535,chemistry,"1,060",Brno University of Technology,Czech Republic,Brno,42.9,37.4,N/A,https://www.usnews.com/education/best-global-universities/brno-university-of-technology-529040
+536,chemistry,821,Shiraz University,Iran,Shiraz,42.8,42.5,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-500400
+537,chemistry,452,University of Potsdam,Germany,Potsdam (Germany),42.8,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-potsdam-505430
+538,chemistry,696,ITMO University,Russia,St. Petersburg,42.7,45.8,N/A,https://www.usnews.com/education/best-global-universities/itmo-university-529154
+539,chemistry,"1,564",Chung Yuan Christian University,Taiwan,Taoyuan City,42.6,26.4,"15,037",https://www.usnews.com/education/best-global-universities/chung-yuan-christian-university-529072
+540,chemistry,"1,198",Hainan University,China,Haikou,42.6,34.4,N/A,https://www.usnews.com/education/best-global-universities/hainan-university-529489
+541,chemistry,,Nanyang Normal College,China,Nanyang,42.6,N/A,N/A,https://www.usnews.com/education/best-global-universities/nanyang-normal-college-529739
+542,chemistry,"1,085",Osaka Metropolitan University,Japan,Osaka,42.6,36.9,"15,782",https://www.usnews.com/education/best-global-universities/osaka-metropolitan-university-530032
+543,chemistry,"1,151",Budapest University of Technology & Economics,Hungary,Budapest,42.5,35.4,N/A,https://www.usnews.com/education/best-global-universities/budapest-university-of-technology-economics-502324
+544,chemistry,935,China Pharmaceutical University,China,Nanjing,42.5,40.1,"24,270",https://www.usnews.com/education/best-global-universities/china-pharmaceutical-university-502614
+545,chemistry,667,Hiroshima University,Japan,Hiroshima,42.5,46.5,"14,612",https://www.usnews.com/education/best-global-universities/hiroshima-university-502589
+546,chemistry,105,University of California Santa Cruz,United States,Santa Cruz,42.5,69.5,"19,494",https://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714
+547,chemistry,844,Chonnam National University,South Korea,Gwangju,42.4,42.2,"24,436",https://www.usnews.com/education/best-global-universities/chonnam-national-university-503755
+548,chemistry,"1,753",Institute of Chemical Technology - Mumbai,India,Mumbai,42.4,21.5,N/A,https://www.usnews.com/education/best-global-universities/institute-of-chemical-technology-mumbai-529413
+549,chemistry,860,Kazan Federal University,Russia,Kazan,42.3,41.8,"22,603",https://www.usnews.com/education/best-global-universities/kazan-federal-university-529155
+550,chemistry,463,University of Salerno,Italy,Fisciano,42.3,52.8,"26,289",https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+551,chemistry,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,42.2,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+552,chemistry,426,University of Buenos Aires,Argentina,Buenos Aires,42.2,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+553,chemistry,688,University of Calabria,Italy,Arcavacata di Rende,42.2,46,N/A,https://www.usnews.com/education/best-global-universities/university-of-calabria-505594
+554,chemistry,948,Beijing Forestry University,China,Beijing,42.1,39.9,N/A,https://www.usnews.com/education/best-global-universities/beijing-forestry-university-528815
+555,chemistry,866,Universidad de Malaga,Spain,Malaga,42.1,41.7,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-malaga-503965
+556,chemistry,"1,022",University of Wroclaw,Poland,Wroclaw,42.1,38.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-wroclaw-502646
+557,chemistry,"1,132",Xiangtan University,China,Xiangtan,42.1,35.8,N/A,https://www.usnews.com/education/best-global-universities/xiangtan-university-529020
+558,chemistry,611,Alexandria University,Egypt,Alexandria,42,48.1,N/A,https://www.usnews.com/education/best-global-universities/alexandria-university-509708
+559,chemistry,807,University of Agriculture Faisalabad,Pakistan,Faisalabad,42,43,N/A,https://www.usnews.com/education/best-global-universities/university-of-agriculture-faisalabad-529094
+560,chemistry,450,University of Ljubljana,Slovenia,Ljubljana,42,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+561,chemistry,487,North West University - South Africa,South Africa,Potchefstroom,41.9,51.7,N/A,https://www.usnews.com/education/best-global-universities/north-west-university-south-africa-528970
+562,chemistry,100,Queen Mary University London,United Kingdom,London (U.K.),41.9,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+563,chemistry,757,Tokyo Metropolitan University,Japan,Tokyo,41.9,44.3,"8,829",https://www.usnews.com/education/best-global-universities/tokyo-metropolitan-university-505425
+564,chemistry,226,Universite Libre de Bruxelles,Belgium,Brussels,41.9,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+565,chemistry,821,University of South Africa,South Africa,Pretoria,41.9,42.5,"236,282",https://www.usnews.com/education/best-global-universities/university-of-south-africa-529170
+566,chemistry,332,China Agricultural University,China,Beijing,41.8,56.9,N/A,https://www.usnews.com/education/best-global-universities/china-agricultural-university-500688
+567,chemistry,526,Loughborough University,United Kingdom,Loughborough,41.8,50.3,"17,130",https://www.usnews.com/education/best-global-universities/loughborough-university-506503
+568,chemistry,618,Universidade Federal de Santa Catarina (UFSC),Brazil,Florianopolis,41.8,47.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204
+569,chemistry,"1,218",Gdansk University of Technology,Poland,Gdansk,41.7,34,"14,312",https://www.usnews.com/education/best-global-universities/gdansk-university-of-technology-529186
+570,chemistry,590,Northwest A&F University - China,China,Shaanxi,41.7,48.5,N/A,https://www.usnews.com/education/best-global-universities/northwest-af-university-china-503600
+571,chemistry,"1,281",SRM Institute of Science & Technology Chennai,India,Chengalpattu,41.7,32.6,N/A,https://www.usnews.com/education/best-global-universities/srm-institute-of-science-technology-chennai-529816
+572,chemistry,385,Wayne State University,United States,Detroit,41.7,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+573,chemistry,"1,066",Southwest University of Science & Technology - China,China,Mianyang,41.6,37.3,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-of-science-technology---china-529731
+574,chemistry,"1,140",Chungnam National University,South Korea,Daejeon,41.5,35.6,N/A,https://www.usnews.com/education/best-global-universities/chungnam-national-university-502760
+575,chemistry,"1,046",Ferdowsi University Mashhad,Iran,Mashhad,41.5,37.7,N/A,https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854
+576,chemistry,468,Florida International University,United States,Miami,41.5,52.6,"35,590",https://www.usnews.com/education/best-global-universities/florida-international-university-133951
+577,chemistry,684,Ihsan Dogramaci Bilkent University,Turkey,Ankara,41.5,46.1,"9,682",https://www.usnews.com/education/best-global-universities/ihsan-dogramaci-bilkent-university-506575
+578,chemistry,"1,291",Indian Institute of Technology (IIT BHU) - Varanasi,India,Varanasi,41.5,32.3,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-bhu-varanasi-529539
+579,chemistry,"1,049",Konkuk University,South Korea,Seoul,41.5,37.6,N/A,https://www.usnews.com/education/best-global-universities/konkuk-university-503911
+580,chemistry,"1,489",Southwest Petroleum University,China,Chengdu,41.5,28,N/A,https://www.usnews.com/education/best-global-universities/southwest-petroleum-university-529461
+581,chemistry,"1,180",Wenzhou University,China,Wenzhou,41.5,34.7,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-university-529301
+582,chemistry,"1,526",Japan Advanced Institute of Science & Technology (JAIST),Japan,Nomi,41.4,27.1,N/A,https://www.usnews.com/education/best-global-universities/japan-advanced-institute-of-science-technology-jaist-529613
+583,chemistry,517,Keio University,Japan,Tokyo,41.4,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+584,chemistry,"1,013",Universidad de Castilla-La Mancha,Spain,Real,41.4,38.5,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-castilla-la-mancha-505673
+585,chemistry,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,41.4,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+586,chemistry,512,University of Alabama Tuscaloosa,United States,Tuscaloosa,41.4,50.7,"44,133",https://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751
+587,chemistry,605,University of Crete,Greece,Rethymnon,41.4,48.2,"13,808",https://www.usnews.com/education/best-global-universities/university-of-crete-501556
+588,chemistry,693,University of Graz,Austria,Graz,41.4,45.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-graz-505072
+589,chemistry,"1,106",Indian Institute of Technology (IIT) - Guwahati,India,Guwahati,41.3,36.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-guwahati-528994
+590,chemistry,483,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,Moscow (Russia),41.3,52,"4,932",https://www.usnews.com/education/best-global-universities/national-research-nuclear-university-mephi-moscow-engineering-physics-institute-528842
+591,chemistry,615,Technical University of Darmstadt,Germany,Darmstadt,41.3,48,"15,526",https://www.usnews.com/education/best-global-universities/technical-university-of-darmstadt-506035
+592,chemistry,182,University of Lausanne,Switzerland,Lausanne,41.3,63.9,"13,402",https://www.usnews.com/education/best-global-universities/university-of-lausanne-505144
+593,chemistry,"1,386",Northeast Forestry University - China,China,Harbin,41.2,30.4,N/A,https://www.usnews.com/education/best-global-universities/northeast-forestry-university-china-529095
+594,chemistry,182,Lancaster University,United Kingdom,Lancaster,41.1,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+595,chemistry,108,University of Arizona,United States,Tucson,41.1,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+596,chemistry,180,University of Iowa,United States,Iowa City,41.1,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+597,chemistry,356,University of Kentucky,United States,Lexington,41.1,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+598,chemistry,"1,483",Changzhou University,China,Changzhou,41,28.1,N/A,https://www.usnews.com/education/best-global-universities/changzhou-university-529351
+599,chemistry,"1,042",Shahid Beheshti University,Iran,Tehran,41,37.8,"19,695",https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-502879
+600,chemistry,984,Universitat Jaume I,Spain,Castellon,41,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-jaume-i-528868
+601,chemistry,256,University of Trento,Italy,Trento,41,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-trento-504044
+602,chemistry,236,University College Dublin,Ireland,Dublin,40.9,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+603,chemistry,693,University of Ioannina,Greece,Ioannina,40.8,45.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-ioannina-501360
+604,chemistry,"1,309",Wroclaw University of Science & Technology,Poland,Wroclaw,40.8,32,N/A,https://www.usnews.com/education/best-global-universities/wroclaw-university-of-science-technology-502904
+605,chemistry,852,Government College University Faisalabad,Pakistan,Faisalabad,40.7,42,N/A,https://www.usnews.com/education/best-global-universities/government-college-university-faisalabad-529535
+606,chemistry,"1,506",Yasouj University,Iran,Yasuj,40.7,27.7,N/A,https://www.usnews.com/education/best-global-universities/yasouj-university-529429
+607,chemistry,349,University of Texas Dallas,United States,Richardson,40.6,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+608,chemistry,"1,556",China Three Gorges University,China,Yichang,40.5,26.6,N/A,https://www.usnews.com/education/best-global-universities/china-three-gorges-university-529478
+609,chemistry,501,University of Parma,Italy,Parma,40.5,51.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-parma-501495
+610,chemistry,970,University of Sofia,Bulgaria,Sofia,40.4,39.4,"22,490",https://www.usnews.com/education/best-global-universities/university-of-sofia-504656
+611,chemistry,"1,037",Abo Akademi University,Finland,Turku,40.3,37.9,N/A,https://www.usnews.com/education/best-global-universities/abo-akademi-university-529149
+612,chemistry,997,Universite de Caen Normandie,France,Caen,40.3,38.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-caen-normandie-528879
+613,chemistry,889,University of Peshawar,Pakistan,Peshawar,40.3,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-peshawar-529479
+614,chemistry,554,Universitat de les Illes Balears,Spain,Palma de Mallorca,40.2,49.5,N/A,https://www.usnews.com/education/best-global-universities/universitat-de-les-illes-balears-528855
+615,chemistry,192,Macquarie University,Australia,North Ryde,40.1,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+616,chemistry,429,University of Innsbruck,Austria,Innsbruck,40.1,53.7,"13,918",https://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813
+617,chemistry,"1,327",Fahrenheit Universities,Poland,Gda¨½sk,40,31.7,N/A,https://www.usnews.com/education/best-global-universities/fahrenheit-universities-530044
+618,chemistry,"1,478",Liaocheng University,China,Liaocheng,40,28.2,N/A,https://www.usnews.com/education/best-global-universities/liaocheng-university-529802
+619,chemistry,"1,066",Yunnan University,China,Kunming,40,37.3,N/A,https://www.usnews.com/education/best-global-universities/yunnan-university-529189
+620,chemistry,"1,556",Harbin Normal University,China,Harbin,39.9,26.6,N/A,https://www.usnews.com/education/best-global-universities/harbin-normal-university-529965
+621,chemistry,583,Kobe University,Japan,Kobe,39.9,48.7,"15,478",https://www.usnews.com/education/best-global-universities/kobe-university-504263
+622,chemistry,"1,361",Anna University Chennai,India,Chennai,39.8,31,N/A,https://www.usnews.com/education/best-global-universities/anna-university-chennai-529021
+623,chemistry,975,Tabriz University of Medical Science,Iran,Tabriz,39.8,39.3,N/A,https://www.usnews.com/education/best-global-universities/tabriz-university-of-medical-science-529423
+624,chemistry,466,University of Canterbury,New Zealand,Christchurch,39.8,52.7,"15,245",https://www.usnews.com/education/best-global-universities/university-of-canterbury-504532
+625,chemistry,146,University of Gothenburg,Sweden,Gothenburg,39.8,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+626,chemistry,"1,684",Nanchang Hangkong University,China,Nanchang,39.7,23.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-hangkong-university-529611
+627,chemistry,"1,250",Taras Shevchenko National University Kiev,Ukraine,Kyiv,39.7,33.4,"23,857",https://www.usnews.com/education/best-global-universities/taras-shevchenko-national-university-kiev-529168
+628,chemistry,605,Masaryk University Brno,Czech Republic,Brno,39.6,48.2,"32,271",https://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917
+629,chemistry,199,Swinburne University of Technology,Australia,Hawthorn,39.6,63,"15,327",https://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823
+630,chemistry,400,Universidad de Chile,Chile,Santiago,39.6,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+631,chemistry,217,University of Leicester,United Kingdom,Leicester,39.6,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+632,chemistry,598,Massey University,New Zealand,Palmerston North,39.5,48.3,"18,570",https://www.usnews.com/education/best-global-universities/massey-university-503390
+633,chemistry,875,Adam Mickiewicz University,Poland,Poznan,39.4,41.4,"36,207",https://www.usnews.com/education/best-global-universities/adam-mickiewicz-university-500923
+634,chemistry,"1,446",Daegu Gyeongbuk Institute of Science & Technology (DGIST),South Korea,Deagu,39.4,29,N/A,https://www.usnews.com/education/best-global-universities/daegu-gyeongbuk-institute-of-science-technology-dgist-529431
+635,chemistry,"1,049",Kumamoto University,Japan,Kumamoto,39.4,37.6,"9,536",https://www.usnews.com/education/best-global-universities/kumamoto-university-505102
+636,chemistry,512,Mahidol University,Thailand,Salaya,39.4,50.7,"28,477",https://www.usnews.com/education/best-global-universities/mahidol-university-503481
+637,chemistry,447,Mansoura University,Egypt,Mansoura,39.3,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+638,chemistry,"1,603",Suzhou University of Science & Technology,China,Suzhou,39.3,25.5,N/A,https://www.usnews.com/education/best-global-universities/suzhou-university-of-science-technology-529823
+639,chemistry,992,Universiti Malaysia Pahang,Malaysia,Pahang,39.3,38.9,"8,140",https://www.usnews.com/education/best-global-universities/universiti-malaysia-pahang-529458
+640,chemistry,710,University of Ulsan,South Korea,Ulsan,39.3,45.4,"12,415",https://www.usnews.com/education/best-global-universities/university-of-ulsan-500178
+641,chemistry,930,Fujian Agriculture & Forestry University,China,Fuzhou,39.1,40.2,N/A,https://www.usnews.com/education/best-global-universities/fujian-agriculture-forestry-university-529097
+642,chemistry,"1,163",Hangzhou Dianzi University,China,Hangzhou,39.1,35,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-dianzi-university-529256
+643,chemistry,"1,581",Hebei University of Technology,China,Tianjin,39,26,N/A,https://www.usnews.com/education/best-global-universities/hebei-university-of-technology-529604
+644,chemistry,450,Tulane University,United States,New Orleans,39,53.2,"11,220",https://www.usnews.com/education/best-global-universities/tulane-university-160755
+645,chemistry,51,Karolinska Institutet,Sweden,Stockholm,38.9,74.9,"8,021",https://www.usnews.com/education/best-global-universities/karolinska-institutet-503151
+646,chemistry,397,Sejong University,South Korea,Seoul,38.9,54.5,N/A,https://www.usnews.com/education/best-global-universities/sejong-university-528964
+647,chemistry,693,Clemson University,United States,Clemson,38.8,45.9,N/A,https://www.usnews.com/education/best-global-universities/clemson-university-217882
+648,chemistry,"1,473",University of Isfahan,Iran,Isfahan,38.8,28.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-isfahan-529204
+649,chemistry,452,University of Missouri Columbia,United States,Columbia,38.8,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+650,chemistry,576,University of Texas Arlington,United States,Arlington,38.8,48.9,"33,537",https://www.usnews.com/education/best-global-universities/university-of-texas-arlington-228769
+651,chemistry,725,Heriot Watt University,United Kingdom,Edinburgh,38.6,45.1,"9,885",https://www.usnews.com/education/best-global-universities/heriot-watt-university-506192
+652,chemistry,"1,449",Hunan Normal University,China,Changsha,38.6,28.9,N/A,https://www.usnews.com/education/best-global-universities/hunan-normal-university-529497
+653,chemistry,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),38.6,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+654,chemistry,750,Sultan Qaboos University,Oman,Muscat,38.6,44.4,N/A,https://www.usnews.com/education/best-global-universities/sultan-qaboos-university-507300
+655,chemistry,794,Harbin Engineering University,China,Harbin,38.5,43.3,"29,861",https://www.usnews.com/education/best-global-universities/harbin-engineering-university-528986
+656,chemistry,416,Scuola Normale Superiore di Pisa,Italy,Pisa,38.5,54,629,https://www.usnews.com/education/best-global-universities/scuola-normale-superiore-di-pisa-504541
+657,chemistry,"1,346",Universite de Haute-Alsace (UHA),France,Mulhouse,38.5,31.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-haute-alsace-uha-528946
+658,chemistry,125,University of Cape Town,South Africa,Cape Town,38.5,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+659,chemistry,452,University of Siena,Italy,Siena,38.5,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-siena-504323
+660,chemistry,717,Aston University,United Kingdom,Birmingham (U.K.),38.4,45.3,"13,230",https://www.usnews.com/education/best-global-universities/aston-university-528938
+661,chemistry,717,Babes Bolyai University from Cluj,Romania,Cluj-Napoca,38.4,45.3,"39,811",https://www.usnews.com/education/best-global-universities/babes-bolyai-university-from-cluj-504529
+662,chemistry,"1,233",Nara Institute of Science & Technology,Japan,Ikoma,38.4,33.7,N/A,https://www.usnews.com/education/best-global-universities/nara-institute-of-science-technology-528981
+663,chemistry,"1,017",National University of Science & Technology (MISIS),Russia,Moscow (Russia),38.4,38.4,"7,300",https://www.usnews.com/education/best-global-universities/national-university-of-science-technology-misis-529075
+664,chemistry,984,Shinshu University,Japan,Matsumoto,38.4,39.1,"10,603",https://www.usnews.com/education/best-global-universities/shinshu-university-505095
+665,chemistry,463,Swansea University,United Kingdom,Swansea,38.4,52.8,"17,745",https://www.usnews.com/education/best-global-universities/swansea-university-505583
+666,chemistry,684,University of Cagliari,Italy,Cagliari,38.4,46.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cagliari-506894
+667,chemistry,280,University of Kiel,Germany,Kiel,38.4,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+668,chemistry,"1,542",University of Madras,India,Chennai,38.4,26.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-madras-529221
+669,chemistry,"1,046",Dongguk University,South Korea,Seoul,38.3,37.7,N/A,https://www.usnews.com/education/best-global-universities/dongguk-university-529173
+670,chemistry,"1,658",Nagoya Institute of Technology,Japan,Nagoya,38.3,24.3,N/A,https://www.usnews.com/education/best-global-universities/nagoya-institute-of-technology-529083
+671,chemistry,"1,857",Jiaxing University,China,Jiaxing,38.2,17.8,N/A,https://www.usnews.com/education/best-global-universities/jiaxing-university-529959
+672,chemistry,360,University of Liege,Belgium,Liege,38.2,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+673,chemistry,452,University of Pretoria,South Africa,Hatfied (South Africa),38.1,53.1,"36,493",https://www.usnews.com/education/best-global-universities/university-of-pretoria-501543
+674,chemistry,564,Ecole Normale Superieure de Lyon (ENS de LYON),France,Lyon,38,49.2,N/A,https://www.usnews.com/education/best-global-universities/ecole-normale-superieure-de-lyon-ens-de-lyon-503874
+675,chemistry,"1,465",Hunan University of Technology,China,Zhuzhou,38,28.5,N/A,https://www.usnews.com/education/best-global-universities/hunan-university-of-technology-529606
+676,chemistry,"1,158",Shanghai Normal University,China,Shanghai,37.9,35.1,N/A,https://www.usnews.com/education/best-global-universities/shanghai-normal-university-505334
+677,chemistry,468,Nanjing University of Information Science & Technology,China,Nanjing,37.8,52.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-information-science-technology-529160
+678,chemistry,370,University of Surrey,United Kingdom,Surrey,37.8,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+679,chemistry,"1,753",China West Normal University,China,Nanchong,37.7,21.5,N/A,https://www.usnews.com/education/best-global-universities/china-west-normal-university-529957
+680,chemistry,"1,208",Gyeongsang National University,South Korea,Jinju City,37.7,34.2,N/A,https://www.usnews.com/education/best-global-universities/gyeongsang-national-university-500897
+681,chemistry,826,National Central University,Taiwan,Jhongli City,37.7,42.4,"10,853",https://www.usnews.com/education/best-global-universities/national-central-university-504757
+682,chemistry,"1,413",Tamkang University,Taiwan,Taipei,37.7,29.8,"23,207",https://www.usnews.com/education/best-global-universities/tamkang-university-529251
+683,chemistry,309,Temple University,United States,Philadelphia,37.7,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+684,chemistry,611,Universidad de Cantabria,Spain,Santander,37.7,48.1,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-cantabria-501803
+685,chemistry,907,Universite Gustave-Eiffel,France,Marne-la-Vall¨¦e,37.7,40.8,N/A,https://www.usnews.com/education/best-global-universities/universite-gustave-eiffel-529800
+686,chemistry,782,AGH University of Science & Technology,Poland,Krakow,37.6,43.6,N/A,https://www.usnews.com/education/best-global-universities/agh-university-of-science-technology-504859
+687,chemistry,368,Eotvos Lorand University,Hungary,Budapest,37.6,55.4,"30,190",https://www.usnews.com/education/best-global-universities/eotvos-lorand-university-505612
+688,chemistry,"1,060",Hunan Agricultural University,China,Changsha,37.6,37.4,N/A,https://www.usnews.com/education/best-global-universities/hunan-agricultural-university-529354
+689,chemistry,"1,422",Huaqiao University,China,Xiamen,37.5,29.6,N/A,https://www.usnews.com/education/best-global-universities/huaqiao-university-529488
+690,chemistry,"1,473",Jiangxi University of Science & Technology,China,Jiangxi,37.5,28.4,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-university-of-science-technology-529889
+691,chemistry,397,Laval University,Canada,Quebec City,37.5,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+692,chemistry,653,Hohai University,China,Nanjing,37.4,46.8,N/A,https://www.usnews.com/education/best-global-universities/hohai-university-528997
+693,chemistry,"1,506",Indian Institute of Technology (Indian School of Mines) Dhanbad,India,Dhanbad,37.4,27.7,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-indian-school-of-mines-dhanbad-529410
+694,chemistry,"1,042",Fujian Normal University,China,Fuzhou,37.3,37.8,N/A,https://www.usnews.com/education/best-global-universities/fujian-normal-university-529517
+695,chemistry,977,Universidade Federal do Ceara,Brazil,Fortaleza,37.3,39.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-ceara-503817
+696,chemistry,750,Bar Ilan University,Israel,Ramat Gan,37.2,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+697,chemistry,679,Peter the Great St. Petersburg Polytechnic University,Russia,St. Petersburg,37.1,46.2,N/A,https://www.usnews.com/education/best-global-universities/peter-the-great-st-petersburg-polytechnic-university-529065
+698,chemistry,"1,781",South Central Minzu University,China,Wuhan,37.1,20.8,N/A,https://www.usnews.com/education/best-global-universities/south-central-minzu-university-529493
+699,chemistry,"1,066",University of Bucharest,Romania,Bucharest,37.1,37.3,"31,267",https://www.usnews.com/education/best-global-universities/university-of-bucharest-501581
+700,chemistry,"1,180",Kunming University of Science & Technology,China,Kunming,37,34.7,N/A,https://www.usnews.com/education/best-global-universities/kunming-university-of-science-technology-529089
+701,chemistry,"1,243",Shanghai University of Electric Power,China,Shanghai,37,33.5,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-electric-power-529644
+702,chemistry,770,National University of Sciences & Technology - Pakistan,Pakistan,Islamabad,36.9,43.9,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-sciences-technology---pakistan-529152
+703,chemistry,517,University of Zagreb,Croatia,Zagreb,36.9,50.6,"65,436",https://www.usnews.com/education/best-global-universities/university-of-zagreb-502783
+704,chemistry,"1,788",Lanzhou Jiaotong University,China,Lanzhou,36.8,20.4,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-jiaotong-university-529614
+705,chemistry,253,University of Oregon,United States,Eugene,36.8,60.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-oregon-209551
+706,chemistry,483,Nanjing Agricultural University,China,Nanjing,36.7,52,"28,184",https://www.usnews.com/education/best-global-universities/nanjing-agricultural-university-506399
+707,chemistry,826,Shahid Beheshti University Medical Sciences,Iran,Tehran,36.7,42.4,N/A,https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-medical-sciences-501678
+708,chemistry,866,Universidade de Vigo,Spain,Vigo,36.7,41.7,"18,146",https://www.usnews.com/education/best-global-universities/universidade-de-vigo-505924
+709,chemistry,558,University of Konstanz,Germany,Konstanz,36.7,49.4,"5,758",https://www.usnews.com/education/best-global-universities/university-of-konstanz-504712
+710,chemistry,835,Missouri University of Science & Technology,United States,Rolla,36.6,42.3,N/A,https://www.usnews.com/education/best-global-universities/missouri-university-of-science-technology-178411
+711,chemistry,564,Universidad Politecnica de Madrid,Spain,Madrid,36.6,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+712,chemistry,920,Universite de Tunis-El-Manar,Tunisia,Tunis,36.6,40.5,"26,325",https://www.usnews.com/education/best-global-universities/universite-de-tunis-el-manar-529027
+713,chemistry,812,University of Seoul,South Korea,Seoul,36.6,42.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-seoul-528845
+714,chemistry,520,Martin Luther University Halle Wittenberg,Germany,Halle,36.5,50.5,N/A,https://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747
+715,chemistry,"1,233",National Chung Hsing University,Taiwan,Taichung,36.5,33.7,"15,150",https://www.usnews.com/education/best-global-universities/national-chung-hsing-university-506137
+716,chemistry,"1,498",Razi University,Iran,Taq-e Bostan,36.5,27.8,N/A,https://www.usnews.com/education/best-global-universities/razi-university-529417
+717,chemistry,"1,381",Sogang University,South Korea,Seoul,36.5,30.5,"9,625",https://www.usnews.com/education/best-global-universities/sogang-university-529014
+718,chemistry,"1,080",Universidade Federal de Santa Maria (UFSM),Brazil,Santa Maria,36.5,37.1,"27,242",https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-maria-ufsm-500881
+719,chemistry,816,Universidade Federal do Parana,Brazil,Curitiba,36.5,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-parana-503933
+720,chemistry,696,Lappeenranta University of Technology,Finland,Lappeenranta,36.4,45.8,"4,609",https://www.usnews.com/education/best-global-universities/lappeenranta-university-of-technology-528924
+721,chemistry,"1,636",North China University of Science & Technology,China,Tangshen,36.4,24.6,N/A,https://www.usnews.com/education/best-global-universities/north-china-university-of-science-technology-529518
+722,chemistry,814,University of Mons,Belgium,Mons,36.4,42.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-mons-528860
+723,chemistry,"1,842",Payame Noor University,Iran,Tehran,36.3,18.3,N/A,https://www.usnews.com/education/best-global-universities/payame-noor-university-529865
+724,chemistry,722,Ankara University,Turkey,Ankara,36.2,45.2,"71,311",https://www.usnews.com/education/best-global-universities/ankara-university-503075
+725,chemistry,"1,303",Guizhou University,China,Guiyang,36.2,32.1,N/A,https://www.usnews.com/education/best-global-universities/guizhou-university-529303
+726,chemistry,"1,413",National Institute of Technology Tiruchirappalli,India,Tiruchirappalli,36.2,29.8,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-tiruchirappalli-529710
+727,chemistry,"1,095",Sohag University,Egypt,Nasir City,36.2,36.7,N/A,https://www.usnews.com/education/best-global-universities/sohag-university-529724
+728,chemistry,461,University of Catania,Italy,Catania,36.2,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+729,chemistry,247,University of Otago,New Zealand,Dunedin,36.2,60.7,"18,508",https://www.usnews.com/education/best-global-universities/university-of-otago-506723
+730,chemistry,"1,008",King Mongkuts University of Technology Thonburi,Thailand,Bangkok,36.1,38.6,"15,116",https://www.usnews.com/education/best-global-universities/king-mongkuts-university-of-technology-thonburi-529070
+731,chemistry,"1,774",Taizhou University,China,Taizhou,36.1,21,N/A,https://www.usnews.com/education/best-global-universities/taizhou-university-529962
+732,chemistry,598,Beijing Jiaotong University,China,Beijing,36,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+733,chemistry,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,36,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+734,chemistry,662,Szeged University,Hungary,Szeged,36,46.6,"20,023",https://www.usnews.com/education/best-global-universities/szeged-university-501065
+735,chemistry,"1,549",Yantai University,China,Yantai,36,26.8,N/A,https://www.usnews.com/education/best-global-universities/yantai-university-529490
+736,chemistry,759,Panjab University,India,Chandigarh,35.8,44.2,N/A,https://www.usnews.com/education/best-global-universities/panjab-university-528843
+737,chemistry,"1,314",Centrale Lille,France,Villeneuve d'Ascq,35.6,31.9,N/A,https://www.usnews.com/education/best-global-universities/centrale-lille-529696
+738,chemistry,"1,376",Dongguan University of Technology,China,Dongguan,35.6,30.6,N/A,https://www.usnews.com/education/best-global-universities/dongguan-university-of-technology-529804
+739,chemistry,"1,514",Qingdao Agricultural University,China,Qingdao,35.5,27.5,N/A,https://www.usnews.com/education/best-global-universities/qingdao-agricultural-university-529491
+740,chemistry,537,University of Fribourg,Switzerland,Fribourg,35.5,50.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-fribourg-528849
+741,chemistry,333,University of Reading,United Kingdom,Reading,35.5,56.8,"16,195",https://www.usnews.com/education/best-global-universities/university-of-reading-504198
+742,chemistry,"1,455",Shahrood University of Technology,Iran,Shahrood,35.4,28.7,N/A,https://www.usnews.com/education/best-global-universities/shahrood-university-of-technology-529465
+743,chemistry,"1,647",Southern Federal University,Russia,Rostov-on-Don,35.4,24.5,N/A,https://www.usnews.com/education/best-global-universities/southern-federal-university-529281
+744,chemistry,598,University of the Andes Colombia,Colombia,Bogota,35.3,48.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-andes-colombia-528846
+745,chemistry,"1,261",Ataturk University,Turkey,Erzurum,35.2,33,"56,295",https://www.usnews.com/education/best-global-universities/ataturk-university-500132
+746,chemistry,"1,767",Kyoto Institute of Technology,Japan,Kyoto,35.2,21.2,N/A,https://www.usnews.com/education/best-global-universities/kyoto-institute-of-technology-529087
+747,chemistry,537,Universite Clermont Auvergne (UCA),France,Clermont-Ferrand,35.2,50.1,N/A,https://www.usnews.com/education/best-global-universities/universite-clermont-auvergne-uca-529156
+748,chemistry,920,Universite de Poitiers,France,Poitiers,35.2,40.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-poitiers-501414
+749,chemistry,977,Universiti Teknologi MARA,Malaysia,Darul Ehsan,35.2,39.2,"60,563",https://www.usnews.com/education/best-global-universities/universiti-teknologi-mara-529194
+750,chemistry,959,Beni Suef University,Egypt,Beni Suef,35.1,39.7,"75,200",https://www.usnews.com/education/best-global-universities/beni-suef-university-514394
+751,chemistry,"1,376",Bharathiar University,India,Coimbatore,35.1,30.6,N/A,https://www.usnews.com/education/best-global-universities/bharathiar-university-529406
+752,chemistry,261,Dartmouth College,United States,Hanover,35.1,60.1,"6,440",https://www.usnews.com/education/best-global-universities/dartmouth-college-182670
+753,chemistry,860,Hassan II University of Casablanca,Morocco,Casablanca,35.1,41.8,N/A,https://www.usnews.com/education/best-global-universities/hassan-ii-university-of-casablanca-529470
+754,chemistry,"1,354",Homi Bhabha National Institute,India,Mumbai,35.1,31.2,N/A,https://www.usnews.com/education/best-global-universities/homi-bhabha-national-institute-529784
+755,chemistry,304,Stellenbosch University,South Africa,Stellenbosch,35,58.1,"24,907",https://www.usnews.com/education/best-global-universities/stellenbosch-university-500980
+756,chemistry,698,Czech Technical University Prague,Czech Republic,Prague,34.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/czech-technical-university-prague-502255
+757,chemistry,639,Comenius University Bratislava,Slovakia,Bratislava,34.8,47.2,"21,788",https://www.usnews.com/education/best-global-universities/comenius-university-bratislava-500702
+758,chemistry,"1,809",Northwest Normal University - China,China,Lanzhou,34.8,19.6,N/A,https://www.usnews.com/education/best-global-universities/northwest-normal-university-china-529605
+759,chemistry,653,Southwest Jiaotong University,China,Chengdu,34.8,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+760,chemistry,,Jain University,India,Bangalore,34.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/jain-university-529958
+761,chemistry,"1,758",North University of China,China,Taiyuan,34.7,21.4,N/A,https://www.usnews.com/education/best-global-universities/north-university-of-china-529839
+762,chemistry,"1,136",Zhejiang A&F University,China,Hangzhou,34.7,35.7,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-af-university-529418
+763,chemistry,520,Renmin University of China,China,Beijing,34.6,50.5,N/A,https://www.usnews.com/education/best-global-universities/renmin-university-of-china-528921
+764,chemistry,816,Universidad de Concepcion,Chile,Concepcion,34.6,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-concepcion-506070
+765,chemistry,826,Graduate University for Advanced Studies - Japan,Japan,Hayama,34.5,42.4,N/A,https://www.usnews.com/education/best-global-universities/graduate-university-for-advanced-studies-japan-528948
+766,chemistry,779,Michigan Technological University,United States,Houghton,34.5,43.7,N/A,https://www.usnews.com/education/best-global-universities/michigan-technological-university-171128
+767,chemistry,"1,446",Silesian University of Technology,Poland,Gliwice,34.5,29,N/A,https://www.usnews.com/education/best-global-universities/silesian-university-of-technology-529268
+768,chemistry,844,Vellore Institute of Technology,India,Tamil Nadu,34.5,42.2,"33,416",https://www.usnews.com/education/best-global-universities/vellore-institute-of-technology-529209
+769,chemistry,"1,095",Instituto Politecnico Nacional - Mexico,Mexico,Mexico City,34.4,36.7,N/A,https://www.usnews.com/education/best-global-universities/instituto-politecnico-nacional-mexico-506818
+770,chemistry,"1,225",Shantou University,China,Shantou,34.4,33.8,N/A,https://www.usnews.com/education/best-global-universities/shantou-university-529179
+771,chemistry,750,University of Arkansas Fayetteville,United States,Fayetteville,34.4,44.4,"25,207",https://www.usnews.com/education/best-global-universities/university-of-arkansas-fayetteville-106397
+772,chemistry,495,Victoria University Wellington,New Zealand,Wellington,34.4,51.5,"17,883",https://www.usnews.com/education/best-global-universities/victoria-university-wellington-504111
+773,chemistry,"1,847",Luoyang Normal University,China,Luoyang,34.2,18.1,N/A,https://www.usnews.com/education/best-global-universities/luoyang-normal-university-529964
+774,chemistry,750,Okayama University,Japan,Okayama City,34.2,44.4,N/A,https://www.usnews.com/education/best-global-universities/okayama-university-504249
+775,chemistry,"1,002",University of Toledo,United States,Toledo,34.2,38.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-toledo-206084
+776,chemistry,324,University of Victoria,Canada,Victoria,34.2,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+777,chemistry,"1,394",Lodz University of Technology,Poland,Lodz,34.1,30.2,"12,642",https://www.usnews.com/education/best-global-universities/lodz-university-of-technology-529225
+778,chemistry,"1,376",University of Calcutta,India,Kolkata,34,30.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-calcutta-529004
+779,chemistry,"1,455",Bharathidasan University,India,Tiruchirappalli,33.9,28.7,N/A,https://www.usnews.com/education/best-global-universities/bharathidasan-university-529541
+780,chemistry,175,University of Sussex,United Kingdom,Brighton,33.9,64.2,"18,015",https://www.usnews.com/education/best-global-universities/university-of-sussex-503906
+781,chemistry,273,University of Tasmania,Australia,Hobart,33.9,59.5,"18,264",https://www.usnews.com/education/best-global-universities/university-of-tasmania-502985
+782,chemistry,684,City College of New York (CUNY),United States,New York City,33.8,46.1,N/A,https://www.usnews.com/education/best-global-universities/city-college-of-new-york-cuny-190567
+783,chemistry,"1,008",Polytechnic University of Bucharest,Romania,Bucharest,33.8,38.6,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-bucharest-506097
+784,chemistry,"1,662",Guangxi Normal University,China,Guilin,33.7,24.2,N/A,https://www.usnews.com/education/best-global-universities/guangxi-normal-university-529504
+785,chemistry,835,Chiba University,Japan,Chiba-shi,33.6,42.3,N/A,https://www.usnews.com/education/best-global-universities/chiba-university-503793
+786,chemistry,920,Saarland University,Germany,Saarbrucken,33.6,40.5,N/A,https://www.usnews.com/education/best-global-universities/saarland-university-504282
+787,chemistry,871,Universidade Federal do Rio Grande do Norte,Brazil,Natal/RN,33.6,41.5,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-norte-529407
+788,chemistry,"1,570",Indian Institute of Science Education & Research (IISER) - Bhopal,India,Bhopal,33.5,26.2,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-science-education-research-iiser---bhopal-529738
+789,chemistry,"1,036",Chung Ang University,South Korea,Seoul,33.4,38,N/A,https://www.usnews.com/education/best-global-universities/chung-ang-university-500565
+790,chemistry,"1,389",Foshan University,China,Foshan,33.4,30.3,N/A,https://www.usnews.com/education/best-global-universities/foshan-university-529885
+791,chemistry,"1,567",Gebze Technical University,Turkey,Gebze,33.4,26.3,"8,403",https://www.usnews.com/education/best-global-universities/gebze-technical-university-529430
+792,chemistry,363,University of South Australia,Australia,Adelaide,33.4,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+793,chemistry,439,Virginia Commonwealth University,United States,Richmond,33.4,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+794,chemistry,583,Hong Kong Baptist University,Hong Kong,Hong Kong,33.3,48.7,"8,358",https://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544
+795,chemistry,662,Universidad Nacional de Colombia,Colombia,Bogota,33.3,46.6,N/A,https://www.usnews.com/education/best-global-universities/universidad-nacional-de-colombia-505620
+796,chemistry,,Wuyi University,China,Jiiangmen City,33.3,N/A,N/A,https://www.usnews.com/education/best-global-universities/wuyi-university-530153
+797,chemistry,"1,017",Universidade Federal Fluminense,Brazil,Niteroi,33.1,38.4,"49,554",https://www.usnews.com/education/best-global-universities/universidade-federal-fluminense-506244
+798,chemistry,"1,153",Yildiz Technical University,Turkey,Istanbul,33.1,35.3,"25,532",https://www.usnews.com/education/best-global-universities/yildiz-technical-university-528878
+799,chemistry,"1,897",Ningxia University,China,Yinchuan,33,15.7,N/A,https://www.usnews.com/education/best-global-universities/ningxia-university-529972
+800,chemistry,"1,535",Shandong University of Technology,China,Zibo,33,27,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-technology-529853
+801,chemistry,"1,880",Shihezi University,China,Shihezi,33,16.7,N/A,https://www.usnews.com/education/best-global-universities/shihezi-university-529961
+802,chemistry,679,United Arab Emirates University,United Arab Emirates,Al-Ain,33,46.2,N/A,https://www.usnews.com/education/best-global-universities/united-arab-emirates-university-514827
+803,chemistry,256,University of Tartu,Estonia,Tartu,33,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-tartu-502553
+804,chemistry,"1,049",National Taiwan Normal University,Taiwan,Taipei City,32.9,37.6,"10,699",https://www.usnews.com/education/best-global-universities/national-taiwan-normal-university-503050
+805,chemistry,776,Universidade Federal do ABC (UFABC),Brazil,Santo Andre,32.9,43.8,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-abc-ufabc-528920
+806,chemistry,643,University of Louisville,United States,Louisville,32.9,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-louisville-157289
+807,chemistry,948,University of New Brunswick,Canada,Fredericton,32.9,39.9,"8,307",https://www.usnews.com/education/best-global-universities/university-of-new-brunswick-499973
+808,chemistry,"1,955",Mendeleev University of Chemical Technology of Russia,Russia,Moscow (Russia),32.8,11.9,N/A,https://www.usnews.com/education/best-global-universities/mendeleev-university-of-chemical-technology-of-russia-529960
+809,chemistry,787,National University of La Plata,Argentina,Buenos Aires,32.8,43.5,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-la-plata-502752
+810,chemistry,"1,275",Universidad Autonoma Metropolitana - Mexico,Mexico,Mexico City,32.8,32.7,"59,709",https://www.usnews.com/education/best-global-universities/universidad-autonoma-metropolitana-mexico-500675
+811,chemistry,"1,631",Kharazmi University,Iran,Tehran,32.7,24.7,N/A,https://www.usnews.com/education/best-global-universities/kharazmi-university-530055
+812,chemistry,"1,258",Capital Normal University,China,Beijing,32.6,33.1,N/A,https://www.usnews.com/education/best-global-universities/capital-normal-university-529223
+813,chemistry,779,Mashhad University Medical Science,Iran,Mahshad,32.5,43.7,N/A,https://www.usnews.com/education/best-global-universities/mashhad-university-medical-science-529398
+814,chemistry,844,Universidad de Alcala,Spain,Madrid,32.5,42.2,"15,941",https://www.usnews.com/education/best-global-universities/universidad-de-alcala-528978
+815,chemistry,561,Universita di Modena e Reggio Emilia,Italy,Modena,32.5,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+816,chemistry,"1,825",East China University of Technology,China,Nanchang,32.4,18.9,N/A,https://www.usnews.com/education/best-global-universities/east-china-university-of-technology-529973
+817,chemistry,"1,261",Kangwon National University,South Korea,Chuncheon-si,32.4,33,N/A,https://www.usnews.com/education/best-global-universities/kangwon-national-university-500476
+818,chemistry,"1,399",Selcuk University,Turkey,Selcuklu-Konya,32.4,30.1,N/A,https://www.usnews.com/education/best-global-universities/selcuk-university-505792
+819,chemistry,537,West Virginia University,United States,Morgantown,32.3,50.1,N/A,https://www.usnews.com/education/best-global-universities/west-virginia-university-238032
+820,chemistry,304,La Trobe University,Australia,Melbourne (Australia),32.2,58.1,"21,663",https://www.usnews.com/education/best-global-universities/la-trobe-university-501305
+821,chemistry,750,Manchester Metropolitan University,United Kingdom,Manchester,32.2,44.4,"29,830",https://www.usnews.com/education/best-global-universities/manchester-metropolitan-university-528968
+822,chemistry,564,University of Ferrara,Italy,Ferrara,32.2,49.2,"20,507",https://www.usnews.com/education/best-global-universities/university-of-ferrara-503123
+823,chemistry,"1,132",University of Novi Sad,Serbia,Novi Sad,32.1,35.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-novi-sad-529165
+824,chemistry,"1,291",Wenzhou Medical University,China,Wenzhou,32.1,32.3,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-medical-university-529262
+825,chemistry,,Ecole Nationale Superieure de Chimie de Rennes (ENSCR),France,Rennes,32,N/A,N/A,https://www.usnews.com/education/best-global-universities/ecole-nationale-superieure-de-chimie-de-rennes-enscr-529969
+826,chemistry,"1,465",Kwangwoon University,South Korea,Seoul,32,28.5,N/A,https://www.usnews.com/education/best-global-universities/kwangwoon-university-529280
+827,chemistry,653,Universite Paris-Est-Creteil-Val-de-Marne (UPEC),France,Creteil,32,46.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-est-creteil-val-de-marne-upec-528863
+828,chemistry,,University of Maragheh,Iran,Maragheh,32,N/A,N/A,https://www.usnews.com/education/best-global-universities/university-of-maragheh-530197
+829,chemistry,739,Chiang Mai University,Thailand,Chiang Mai,31.9,44.6,"34,110",https://www.usnews.com/education/best-global-universities/chiang-mai-university-500257
+830,chemistry,267,Aalborg University,Denmark,Aalborg,31.8,59.8,"16,818",https://www.usnews.com/education/best-global-universities/aalborg-university-501276
+831,chemistry,152,University of Exeter,United Kingdom,Exeter,31.8,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+832,chemistry,"1,600",University of Karachi,Pakistan,Karachi,31.8,25.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-karachi-529273
+833,chemistry,"1,002",Mohammed V University in Rabat,Morocco,Rabat,31.7,38.7,N/A,https://www.usnews.com/education/best-global-universities/mohammed-v-university-in-rabat-528985
+834,chemistry,"1,327",National Institute of Technology Rourkela,India,Rourkela,31.7,31.7,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-technology-rourkela-529700
+835,chemistry,"1,072",National University of Cordoba,Argentina,Cordoba (Argentina),31.7,37.2,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-cordoba-502638
+836,chemistry,"1,208",Kaohsiung Medical University,Taiwan,Kaohsiung City,31.6,34.2,"6,490",https://www.usnews.com/education/best-global-universities/kaohsiung-medical-university-505935
+837,chemistry,710,Lulea University of Technology,Sweden,Lulea,31.6,45.4,N/A,https://www.usnews.com/education/best-global-universities/lulea-university-of-technology-529025
+838,chemistry,"1,082",Nicolaus Copernicus University,Poland,Torun,31.6,37,"19,684",https://www.usnews.com/education/best-global-universities/nicolaus-copernicus-university-502450
+839,chemistry,984,State University of New York (SUNY) Binghamton,United States,Binghamton,31.6,39.1,"18,852",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-binghamton-196079
+840,chemistry,"1,103",Hangzhou Normal University,China,Hangzhou,31.5,36.5,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-normal-university-529205
+841,chemistry,860,Southern Medical University - China,China,Guangzhou,31.5,41.8,N/A,https://www.usnews.com/education/best-global-universities/southern-medical-university-china-529257
+842,chemistry,"1,718",China Jiliang University,China,Hangzhou,31.4,22.6,N/A,https://www.usnews.com/education/best-global-universities/china-jiliang-university-529306
+843,chemistry,875,Indian Institute of Technology (IIT) - Hyderabad,India,Teangana,31.4,41.4,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-hyderabad-529636
+844,chemistry,"1,275",North Dakota State University Fargo,United States,Fargo,31.4,32.7,"11,852",https://www.usnews.com/education/best-global-universities/north-dakota-state-university-fargo-200332
+845,chemistry,"1,106",Universidade da Coruna,Spain,Coruna,31.4,36.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-da-coruna-529162
+846,chemistry,461,University of Oklahoma - Norman,United States,Norman,31.4,52.9,"26,450",https://www.usnews.com/education/best-global-universities/university-of-oklahoma-norman-207500
+847,chemistry,"1,309",Henan Polytechnic University,China,Jiaozuo,31.3,32,N/A,https://www.usnews.com/education/best-global-universities/henan-polytechnic-university-529521
+848,chemistry,"1,281",Xi'an University of Technology,China,Xi'an,31.3,32.6,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-technology-529477
+849,chemistry,277,University of Aberdeen,United Kingdom,Aberdeen,31.2,59.3,"13,010",https://www.usnews.com/education/best-global-universities/university-of-aberdeen-501749
+850,chemistry,"1,753",Bu Ali Sina University,Iran,Hamedan,31.1,21.5,N/A,https://www.usnews.com/education/best-global-universities/bu-ali-sina-university-529463
+851,chemistry,"1,603",Tianjin Normal University,China,Tianjin,31.1,25.5,N/A,https://www.usnews.com/education/best-global-universities/tianjin-normal-university-529963
+852,chemistry,487,University of Bielefeld,Germany,Bielefeld,31.1,51.7,"24,875",https://www.usnews.com/education/best-global-universities/university-of-bielefeld-504564
+853,chemistry,372,University of Manitoba,Canada,Winnipeg,31.1,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+854,chemistry,801,Vilnius University,Lithuania,Vilnius,31.1,43.2,N/A,https://www.usnews.com/education/best-global-universities/vilnius-university-503315
+855,chemistry,"1,116",Ajou University,South Korea,Suwon,31,36.2,"7,574",https://www.usnews.com/education/best-global-universities/ajou-university-504876
+856,chemistry,"1,243",Kasetsart University,Thailand,Bangkok,31,33.5,"68,757",https://www.usnews.com/education/best-global-universities/kasetsart-university-529012
+857,chemistry,989,Chang'an University,China,Xi'an,30.9,39,N/A,https://www.usnews.com/education/best-global-universities/changan-university-529427
+858,chemistry,"1,129",Guangzhou Medical University,China,Guangzhou,30.9,35.9,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-medical-university-529307
+859,chemistry,,Huaibei Normal University,China,Huaibei,30.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/huaibei-normal-university-529612
+860,chemistry,959,Imam Abdulrahman Bin Faisal University,Saudi Arabia,Dammam,30.9,39.7,N/A,https://www.usnews.com/education/best-global-universities/imam-abdulrahman-bin-faisal-university-529721
+861,chemistry,"1,254",Birla Institute of Technology & Science Pilani (BITS Pilani),India,Pilani,30.8,33.2,N/A,https://www.usnews.com/education/best-global-universities/birla-institute-of-technology-science-pilani-bits-pilani-528900
+862,chemistry,426,Flinders University South Australia,Australia,Bedford Park,30.8,53.8,"17,366",https://www.usnews.com/education/best-global-universities/flinders-university-south-australia-504837
+863,chemistry,"1,621",Institut National des Sciences Appliquees de Toulouse,France,Toulouse,30.8,25,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-toulouse-529716
+864,chemistry,"1,443",Poznan University of Technology,Poland,Poznan,30.8,29.1,"14,502",https://www.usnews.com/education/best-global-universities/poznan-university-of-technology-529181
+865,chemistry,725,Belarusian State University,Belarus,Minsk,30.7,45.1,"24,277",https://www.usnews.com/education/best-global-universities/belarusian-state-university-529143
+866,chemistry,507,China Medical University Taiwan,Taiwan,Taichung,30.7,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+867,chemistry,"1,225",Gazi University,Turkey,Ankara,30.7,33.8,"41,372",https://www.usnews.com/education/best-global-universities/gazi-university-506852
+868,chemistry,992,Marmara University,Turkey,Istanbul,30.7,38.9,"62,045",https://www.usnews.com/education/best-global-universities/marmara-university-502695
+869,chemistry,896,Universidad de Antioquia,Colombia,Antioquia,30.7,41,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-antioquia-528980
+870,chemistry,794,University of Debrecen,Hungary,Debrecen,30.7,43.3,"29,045",https://www.usnews.com/education/best-global-universities/university-of-debrecen-504230
+871,chemistry,953,Institut National des Sciences Appliquees de Lyon - INSA Lyon,France,Villeurbanne,30.6,39.8,N/A,https://www.usnews.com/education/best-global-universities/institut-national-des-sciences-appliquees-de-lyon-insa-lyon-505713
+872,chemistry,"1,478",Semnan University,Iran,Semnan,30.6,28.2,N/A,https://www.usnews.com/education/best-global-universities/semnan-university-529459
+873,chemistry,710,Universidade de Brasilia,Brazil,Brasilia,30.6,45.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217
+874,chemistry,794,University of Wyoming,United States,Laramie,30.6,43.3,"10,660",https://www.usnews.com/education/best-global-universities/university-of-wyoming-240727
+875,chemistry,"1,208",Universidad de Santiago de Chile,Chile,Santiago,30.5,34.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-santiago-de-chile-529177
+876,chemistry,"1,301",Universidade Federal de Uberlandia,Brazil,Uberlandia,30.5,32.2,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-uberlandia-529244
+877,chemistry,"1,735",Dalian Polytechnic University,China,Dalian,30.4,22,N/A,https://www.usnews.com/education/best-global-universities/dalian-polytechnic-university-529903
+878,chemistry,"1,180",Visva Bharati University,India,Santiniketan,30.4,34.7,N/A,https://www.usnews.com/education/best-global-universities/visva-bharati-university-529447
+879,chemistry,186,Maastricht University,Netherlands,Maastricht,30.3,63.6,N/A,https://www.usnews.com/education/best-global-universities/maastricht-university-505759
+880,chemistry,866,Universite d'Angers,France,Angers,30.3,41.7,N/A,https://www.usnews.com/education/best-global-universities/universite-dangers-528967
+881,chemistry,"1,443",Anhui Agricultural University,China,Hefei,30.2,29.1,N/A,https://www.usnews.com/education/best-global-universities/anhui-agricultural-university-529528
+882,chemistry,"1,465",Central South University of Forestry & Technology,China,Changsha,30.2,28.5,N/A,https://www.usnews.com/education/best-global-universities/central-south-university-of-forestry-technology-529997
+883,chemistry,"1,585",Shanghai University of Engineering Science,China,Shanghai,30.2,25.9,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-engineering-science-529812
+884,chemistry,317,Simon Fraser University,Canada,Burnaby,30.2,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+885,chemistry,643,University of Cyprus,Cyprus,Nicosia,30.2,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-cyprus-528848
+886,chemistry,"1,258",Army Medical University,China,Shapingba,30.1,33.1,N/A,https://www.usnews.com/education/best-global-universities/army-medical-university-503729
+887,chemistry,992,Benemerita Universidad Autonoma de Puebla,Mexico,Puebla,30.1,38.9,N/A,https://www.usnews.com/education/best-global-universities/benemerita-universidad-autonoma-de-puebla-528925
+888,chemistry,"1,735",Hebei University,China,Baoding,30.1,22,N/A,https://www.usnews.com/education/best-global-universities/hebei-university-529732
+889,chemistry,"1,060",Kanazawa University,Japan,Kanazawa,30.1,37.4,"9,888",https://www.usnews.com/education/best-global-universities/kanazawa-university-503283
+890,chemistry,"1,049",National Sun Yat Sen University,Taiwan,Kaohsiung,30.1,37.6,"7,992",https://www.usnews.com/education/best-global-universities/national-sun-yat-sen-university-505080
+891,chemistry,"1,600",Anadolu University,Turkey,Tepebasi,30,25.6,N/A,https://www.usnews.com/education/best-global-universities/anadolu-university-529229
+892,chemistry,"1,327",Beijing Technology & Business University,China,Beijing,30,31.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-technology-business-university-529734
+893,chemistry,"1,636",Indian Institute of Science Education & Research (IISER) - Mohali,India,SAS Nagar,30,24.6,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-science-education-research-iiser---mohali-529967
+894,chemistry,736,Nanjing Medical University,China,Gulou,30,44.7,"19,277",https://www.usnews.com/education/best-global-universities/nanjing-medical-university-500938
+895,chemistry,"1,233",Universite de Orleans,France,Orleans,30,33.7,N/A,https://www.usnews.com/education/best-global-universities/universite-de-orleans-528865
+896,chemistry,789,Universite de Savoie,France,Chambery,30,43.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-savoie-501758
+897,chemistry,"1,473",Xinjiang University,China,Xinjiang,30,28.4,N/A,https://www.usnews.com/education/best-global-universities/xinjiang-university-529284
+898,chemistry,821,Universite de Bourgogne,France,Dijon,29.9,42.5,N/A,https://www.usnews.com/education/best-global-universities/universite-de-bourgogne-505886
+899,chemistry,"1,726",University of Science & Technology (UST),South Korea,Daejeon,29.9,22.3,"1,346",https://www.usnews.com/education/best-global-universities/university-of-science-technology-ust-529395
+900,chemistry,,Vidyasirimedhi Institute of Science & Technology,Thailand,Rayong,29.9,N/A,N/A,https://www.usnews.com/education/best-global-universities/vidyasirimedhi-institute-of-science-technology-529971
+901,chemistry,"1,522",Yamagata University,Japan,Yamagata,29.9,27.2,"8,684",https://www.usnews.com/education/best-global-universities/yamagata-university-529042
+902,chemistry,593,Peking Union Medical College,China,Beijing,29.8,48.4,N/A,https://www.usnews.com/education/best-global-universities/peking-union-medical-college-529794
+903,chemistry,"1,218",Shandong Agricultural University,China,Tai'an,29.8,34,N/A,https://www.usnews.com/education/best-global-universities/shandong-agricultural-university-529093
+904,chemistry,"1,167",Umm Al Qura University,Saudi Arabia,Makkah,29.8,34.9,N/A,https://www.usnews.com/education/best-global-universities/umm-al-qura-university-510156
+905,chemistry,"1,671",Universidad de Guanajuato,Mexico,Guanajuato,29.8,23.9,N/A,https://www.usnews.com/education/best-global-universities/universidad-de-guanajuato-529416
+906,chemistry,"1,140",University of Punjab,Pakistan,Lahore,29.8,35.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-punjab-529178
+907,chemistry,730,University of Salento,Italy,Lecce,29.8,45,"13,608",https://www.usnews.com/education/best-global-universities/university-of-salento-528853
+908,chemistry,"1,140",Indian Institute of Technology (IIT) - Indore,India,Indore,29.7,35.6,N/A,https://www.usnews.com/education/best-global-universities/indian-institute-of-technology-iit-indore-529453
+909,chemistry,,"Mahatma Gandhi University, Kerala",India,Kerala,29.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/mahatma-gandhi-university-kerala-529968
+910,chemistry,943,Benha University,Egypt,Benha,29.6,40,N/A,https://www.usnews.com/education/best-global-universities/benha-university-514104
+911,chemistry,917,Dublin City University,Ireland,Dublin,29.6,40.6,"13,956",https://www.usnews.com/education/best-global-universities/dublin-city-university-528873
+912,chemistry,"1,088","Jawaharlal Nehru University, New Delhi",India,New Delhi,29.6,36.8,N/A,https://www.usnews.com/education/best-global-universities/jawaharlal-nehru-university-new-delhi-529031
+913,chemistry,"1,835",Jilin Normal University,China,Siping,29.6,18.5,N/A,https://www.usnews.com/education/best-global-universities/jilin-normal-university-529884
+914,chemistry,992,Johannes Kepler University Linz,Austria,Linz,29.6,38.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-kepler-university-linz-528837
+915,chemistry,835,Tanta University,Egypt,Tanta,29.6,42.3,"129,209",https://www.usnews.com/education/best-global-universities/tanta-university-529188
+916,chemistry,"1,327",Universite de Reims Champagne-Ardenne,France,Reims,29.6,31.7,N/A,https://www.usnews.com/education/best-global-universities/universite-de-reims-champagne-ardenne-529182
+917,chemistry,"1,386",Gachon University,South Korea,Seongnam,29.5,30.4,N/A,https://www.usnews.com/education/best-global-universities/gachon-university-529167
+918,chemistry,"1,734",Lanzhou University of Technology,China,Lanzhou,29.5,22.1,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-of-technology-529641
+919,chemistry,"1,678",Lorestan University,Iran,Khorramabad,29.5,23.6,N/A,https://www.usnews.com/education/best-global-universities/lorestan-university-529981
+920,chemistry,583,Universidade Federal de Sao Paulo (UNIFESP),Brazil,Sao Paulo,29.5,48.7,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-paulo-unifesp-501953
+921,chemistry,"1,017",Universite de Sfax,Tunisia,Sfax,29.5,38.4,N/A,https://www.usnews.com/education/best-global-universities/universite-de-sfax-529029
+922,chemistry,807,Hasselt University,Belgium,Hasselt,29.4,43,N/A,https://www.usnews.com/education/best-global-universities/hasselt-university-528960
+923,chemistry,928,Menofia University,Egypt,Shebin El Koum,29.4,40.3,N/A,https://www.usnews.com/education/best-global-universities/menofia-university-529235
+924,chemistry,"1,303",University of Gdansk,Poland,Gdansk,29.4,32.1,"19,970",https://www.usnews.com/education/best-global-universities/university-of-gdansk-529023
+925,chemistry,497,University of Guelph,Canada,Guelph,29.4,51.4,"22,763",https://www.usnews.com/education/best-global-universities/university-of-guelph-499974
+926,chemistry,392,University of Mississippi,United States,University,29.4,54.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-mississippi-176017
+927,chemistry,"1,431",Kyushu Institute of Technology,Japan,Fukuoka,29.3,29.3,N/A,https://www.usnews.com/education/best-global-universities/kyushu-institute-of-technology-529222
+928,chemistry,554,Universita della Campania Vanvitelli,Italy,Caserta,29.3,49.5,N/A,https://www.usnews.com/education/best-global-universities/universita-della-campania-vanvitelli-529545
+929,chemistry,199,University of Bergen,Norway,Bergen,29.3,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+930,chemistry,"1,489",Erciyes University,Turkey,Kayseri,29.2,28,"50,212",https://www.usnews.com/education/best-global-universities/erciyes-university-503419
+931,chemistry,"1,198",Universidad de Valladolid,Spain,Valladolid,29.2,34.4,"21,780",https://www.usnews.com/education/best-global-universities/universidad-de-valladolid-501268
+932,chemistry,"1,022",Universita Ca Foscari Venezia,Italy,Venice,29.2,38.3,"16,851",https://www.usnews.com/education/best-global-universities/universita-ca-foscari-venezia-529000
+933,chemistry,"1,254",Bahauddin Zakariya University,Pakistan,Multan,29.1,33.2,N/A,https://www.usnews.com/education/best-global-universities/bahauddin-zakariya-university-529426
+934,chemistry,"1,609",Harbin University of Science & Technology,China,Harbin,29.1,25.4,N/A,https://www.usnews.com/education/best-global-universities/harbin-university-of-science-technology-529815
+935,chemistry,"1,106",Kermanshah University of Medical Sciences,Iran,Kermanshah,29.1,36.4,N/A,https://www.usnews.com/education/best-global-universities/kermanshah-university-of-medical-sciences-529623
+936,chemistry,"1,136",University of Massachusetts Lowell,United States,Lowell,29.1,35.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-lowell-166513
+937,chemistry,504,Georgia State University,United States,Atlanta,29,51.1,N/A,https://www.usnews.com/education/best-global-universities/georgia-state-university-139940
+938,chemistry,"1,865",Shanghai Institute of Technology,China,Shanghai,29,17.5,N/A,https://www.usnews.com/education/best-global-universities/shanghai-institute-of-technology-529887
+939,chemistry,"1,581",Shizuoka University,Japan,"Suruga-ku, Shizuoka City",29,26,N/A,https://www.usnews.com/education/best-global-universities/shizuoka-university-503668
+940,chemistry,"1,422",University of Guilan,Iran,Rasht,29,29.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-guilan-529421
+941,chemistry,"1,498",University of Namur,Belgium,Namur,29,27.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-namur-529001
+942,chemistry,"1,372",Hubei University of Technology,China,Wuhan,28.9,30.7,N/A,https://www.usnews.com/education/best-global-universities/hubei-university-of-technology-529727
+943,chemistry,"1,600",Maria Curie-Sklodowska University,Poland,Lublin,28.9,25.6,N/A,https://www.usnews.com/education/best-global-universities/maria-curie-sklodowska-university-529239
+944,chemistry,698,Memorial University Newfoundland,Canada,St. John's,28.9,45.7,N/A,https://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985
+945,chemistry,901,Universidade Federal de Pernambuco,Brazil,Recife,28.9,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pernambuco-506633
+946,chemistry,271,George Washington University,United States,"Washington, D.C.",28.8,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+947,chemistry,366,Umea University,Sweden,Umea,28.8,55.5,N/A,https://www.usnews.com/education/best-global-universities/umea-university-504031
+948,chemistry,"1,261",Universite de Monastir,Tunisia,Monastir,28.8,33,"19,203",https://www.usnews.com/education/best-global-universities/universite-de-monastir-529198
+949,chemistry,"1,945",Yangtze Normal University,China,Chongqing,28.8,12.6,N/A,https://www.usnews.com/education/best-global-universities/yangtze-normal-university-529978
+950,chemistry,"1,647",Linyi University,China,Linyi,28.7,24.5,N/A,https://www.usnews.com/education/best-global-universities/linyi-university-529970
+951,chemistry,"1,225",University of Paderborn,Germany,Paderborn,28.7,33.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-paderborn-529396
+952,chemistry,"1,216",Xi'an University of Architecture & Technology,China,Xi'an,28.7,34.1,N/A,https://www.usnews.com/education/best-global-universities/xian-university-of-architecture-technology-529487
+953,chemistry,"1,694",Xinyang Normal University,China,Xinyang,28.7,23.1,N/A,https://www.usnews.com/education/best-global-universities/xinyang-normal-university-529975
+954,chemistry,372,Syracuse University,United States,Syracuse,28.6,55.2,"20,620",https://www.usnews.com/education/best-global-universities/syracuse-university-196413
+955,chemistry,"1,190",University of Kaiserslautern,Germany,Kaiserslautern,28.6,34.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-kaiserslautern-528867
+956,chemistry,"1,438",Ritsumeikan University,Japan,Kyoto,28.5,29.2,N/A,https://www.usnews.com/education/best-global-universities/ritsumeikan-university-528871
+957,chemistry,"1,498",Slovak University of Technology Bratislava,Slovakia,Bratislava,28.5,27.8,N/A,https://www.usnews.com/education/best-global-universities/slovak-university-of-technology-bratislava-529184
+958,chemistry,"1,615",Universite de Pau et des Pays de l'Adour,France,Pyrenees-Atlantiques,28.5,25.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-pau-et-des-pays-de-ladour-529180
+959,chemistry,"1,216",Universite de Carthage,Tunisia,Tunis,28.4,34.1,N/A,https://www.usnews.com/education/best-global-universities/universite-de-carthage-529240
+960,chemistry,789,University of Sherbrooke,Canada,Sherbrooke,28.4,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-sherbrooke-506839
+961,chemistry,133,University of Texas Southwestern Medical Center Dallas,United States,Dallas,28.4,67.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-southwestern-medical-center-dallas-228635
+962,chemistry,"1,190",Prince of Songkla University,Thailand,Songkhla,28.3,34.5,"32,779",https://www.usnews.com/education/best-global-universities/prince-of-songkla-university-529017
+963,chemistry,475,UiT The Arctic University of Tromso,Norway,Tromso,28.3,52.3,N/A,https://www.usnews.com/education/best-global-universities/uit-the-arctic-university-of-tromso-500047
+964,chemistry,"1,190",Universidad Rey Juan Carlos,Spain,Madrid,28.3,34.5,"42,869",https://www.usnews.com/education/best-global-universities/universidad-rey-juan-carlos-529015
+965,chemistry,261,University of Southern Denmark,Denmark,Odense,28.2,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+966,chemistry,"1,519",Chengdu University,China,"Sichuan, Chengdu",28.1,27.4,N/A,https://www.usnews.com/education/best-global-universities/chengdu-university-529826
+967,chemistry,"1,903",Cumhuriyet University,Turkey,Merkez,28.1,15.4,N/A,https://www.usnews.com/education/best-global-universities/cumhuriyet-university-530091
+968,chemistry,618,University of Udine,Italy,Udine,28.1,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-udine-504338
+969,chemistry,"1,631",Liaoning University,China,Shenyang,28,24.7,N/A,https://www.usnews.com/education/best-global-universities/liaoning-university-529509
+970,chemistry,930,Carl von Ossietzky Universitat Oldenburg,Germany,Oldenburg,27.9,40.2,N/A,https://www.usnews.com/education/best-global-universities/carl-von-ossietzky-universitat-oldenburg-528947
+971,chemistry,"1,088",Chang Gung University,Taiwan,Taoyuan City,27.9,36.8,"7,016",https://www.usnews.com/education/best-global-universities/chang-gung-university-505417
+972,chemistry,"1,750",Guilin University of Technology,China,Guilin,27.9,21.6,N/A,https://www.usnews.com/education/best-global-universities/guilin-university-of-technology-529886
+973,chemistry,759,Tecnologico de Monterrey,Mexico,Monterrey,27.9,44.2,"49,696",https://www.usnews.com/education/best-global-universities/tecnologico-de-monterrey-529343
+974,chemistry,"1,936",Universite d'Artois,France,Arras,27.9,13,N/A,https://www.usnews.com/education/best-global-universities/universite-dartois-529974
+975,chemistry,"1,266",Prince Sattam Bin Abdulaziz University,Saudi Arabia,Al Kharj,27.8,32.9,N/A,https://www.usnews.com/education/best-global-universities/prince-sattam-bin-abdulaziz-university-530003
+976,chemistry,"1,798",Shivaji University,India,Kolhapur,27.8,20.1,N/A,https://www.usnews.com/education/best-global-universities/shivaji-university-529073
+977,chemistry,896,South Ural State University,Russia,Chelyabins,27.8,41,N/A,https://www.usnews.com/education/best-global-universities/south-ural-state-university-530031
+978,chemistry,984,Universitat Siegen,Germany,Siegen,27.8,39.1,N/A,https://www.usnews.com/education/best-global-universities/universitat-siegen-529388
+979,chemistry,901,Universidade Federal de Pelotas,Brazil,Pelotas,27.7,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pelotas-528834
+980,chemistry,"1,609",Wuhan Textile University,China,Wuhan,27.7,25.4,N/A,https://www.usnews.com/education/best-global-universities/wuhan-textile-university-529883
+981,chemistry,"1,735",Sardar Vallabhbhai National Institute of Technology,India,Surat,27.6,22,N/A,https://www.usnews.com/education/best-global-universities/sardar-vallabhbhai-national-institute-of-technology-529639
+982,chemistry,"1,116",Vietnam National University Hochiminh City,Vietnam,Ho Chi Minh City,27.6,36.2,N/A,https://www.usnews.com/education/best-global-universities/vietnam-national-university-hochiminh-city-529532
+983,chemistry,463,Wake Forest University,United States,Winston-Salem,27.6,52.8,N/A,https://www.usnews.com/education/best-global-universities/wake-forest-university-199847
+984,chemistry,"1,514","Shanmugha Arts, Science, Technology & Research Academy (SASTRA)",India,Thanjavur,27.5,27.5,N/A,https://www.usnews.com/education/best-global-universities/shanmugha-arts-science-technology-research-academy-sastra-529523
+985,chemistry,977,Shiraz University of Medical Science,Iran,Shiraz,27.5,39.2,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-of-medical-science-529286
+986,chemistry,"1,203",Universidade Federal de Goias,Brazil,Goiania,27.5,34.3,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-goias-529175
+987,chemistry,735,Illinois Institute of Technology,United States,Chicago,27.4,44.8,N/A,https://www.usnews.com/education/best-global-universities/illinois-institute-of-technology-145725
+988,chemistry,"1,522",Sahand University of Technology,Iran,Tabriz,27.4,27.2,N/A,https://www.usnews.com/education/best-global-universities/sahand-university-of-technology-529513
+989,chemistry,"1,549",Savitribai Phule Pune University,India,Pune,27.4,26.8,N/A,https://www.usnews.com/education/best-global-universities/savitribai-phule-pune-university-529514
+990,chemistry,"1,895",Sichuan University of Science & Engineering,China,Zigong,27.4,15.8,N/A,https://www.usnews.com/education/best-global-universities/sichuan-university-of-science-engineering-529979
+991,chemistry,"1,309",Tokyo University of Agriculture & Technology,Japan,Tokyo,27.4,32,N/A,https://www.usnews.com/education/best-global-universities/tokyo-university-of-agriculture-technology-504314
+992,chemistry,632,University of Camerino,Italy,Camerino,27.4,47.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-camerino-529174
+993,chemistry,330,University of East Anglia,United Kingdom,Norwich,27.4,57,"16,245",https://www.usnews.com/education/best-global-universities/university-of-east-anglia-503561
+994,chemistry,"1,129",Sichuan Agricultural University,China,Yaan,27.3,35.9,N/A,https://www.usnews.com/education/best-global-universities/sichuan-agricultural-university-529103
+995,chemistry,"1,357",University of Toyama,Japan,Toyama,27.3,31.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-toyama-501284
+996,chemistry,871,University of Nevada Las Vegas,United States,Las Vegas,27.2,41.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-nevada-las-vegas-182281
+997,chemistry,"1,631",Guilin University of Electronic Technology,China,Guilin,27.1,24.7,N/A,https://www.usnews.com/education/best-global-universities/guilin-university-of-electronic-technology-529505
+998,chemistry,"1,222",Khon Kaen University,Thailand,Khon Kaen,27.1,33.9,"32,857",https://www.usnews.com/education/best-global-universities/khon-kaen-university-529024
+999,chemistry,948,Minia University,Egypt,Minya,27.1,39.9,N/A,https://www.usnews.com/education/best-global-universities/minia-university-514678
+1000,chemistry,"1,151",Ege University,Turkey,Izmir,27,35.4,"33,062",https://www.usnews.com/education/best-global-universities/ege-university-500691

@@ -1,0 +1,101 @@
+ranking,,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,artificial-intelligence,23,Tsinghua University,China,Beijing,100,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+2,artificial-intelligence,30,Nanyang Technological University,Singapore,Singapore,97,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+3,artificial-intelligence,53,Chinese University of Hong Kong,Hong Kong,Shatin,91.3,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+4,artificial-intelligence,112,University of Technology Sydney,Australia,Ultimo,91.3,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+5,artificial-intelligence,26,National University of Singapore,Singapore,Singapore,90.2,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+6,artificial-intelligence,196,Harbin Institute of Technology,China,Harbin,89.3,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+7,artificial-intelligence,74,University of Adelaide,Australia,Adelaide,88.9,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+8,artificial-intelligence,231,University of Electronic Science & Technology of China,China,Chengdu,88.1,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+9,artificial-intelligence,39,Peking University,China,Beijing,87.2,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+10,artificial-intelligence,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,87.1,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+11,artificial-intelligence,109,Huazhong University of Science & Technology,China,Wuhan,86.5,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+12,artificial-intelligence,118,Carnegie Mellon University,United States,Pittsburgh,86,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+13,artificial-intelligence,3,Stanford University,United States,Stanford,86,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+14,artificial-intelligence,333,Northwestern Polytechnical University,China,Xi'an,84.4,56.8,"34,095",https://www.usnews.com/education/best-global-universities/northwestern-polytechnical-university-504154
+15,artificial-intelligence,5,University of Oxford,United Kingdom,Oxford,84.1,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+16,artificial-intelligence,28,University of Sydney,Australia,Sydney,83.8,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+17,artificial-intelligence,29,ETH Zurich,Switzerland,Zurich,82.6,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+18,artificial-intelligence,93,Zhejiang University,China,Hangzhou,82.6,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+19,artificial-intelligence,4,University of California Berkeley,United States,Berkeley,82.3,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+20,artificial-intelligence,89,Shanghai Jiao Tong University,China,Shanghai,82.1,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+21,artificial-intelligence,102,"University of Science & Technology of China, CAS",China,Hefei,81.3,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+22,artificial-intelligence,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),80.6,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+23,artificial-intelligence,260,Tianjin University,China,Tianjin,79.8,60.2,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-503557
+24,artificial-intelligence,643,Xidian University,China,Xi'an,79.7,47.1,N/A,https://www.usnews.com/education/best-global-universities/xidian-university-506871
+25,artificial-intelligence,120,City University of Hong Kong,Hong Kong,Kowloon,78.2,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+26,artificial-intelligence,253,Beihang University,China,Beijing,77.6,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+27,artificial-intelligence,234,Southeast University - China,China,Nanjing,77.6,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+28,artificial-intelligence,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,77.5,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+29,artificial-intelligence,129,Sun Yat Sen University,China,Guangzhou,76.9,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+30,artificial-intelligence,531,Nanjing University of Science & Technology,China,Nanjing,76.7,50.2,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-science-technology-502308
+31,artificial-intelligence,150,Wuhan University,China,Wuhan,76.1,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+32,artificial-intelligence,304,Sichuan University,China,Chengdu,74.7,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+33,artificial-intelligence,313,University of Granada,Spain,Granada,74.2,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+34,artificial-intelligence,219,Xi'an Jiaotong University,China,Xi'an,74,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+35,artificial-intelligence,247,Xiamen University,China,Xiamen,73,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+36,artificial-intelligence,392,Dalian University of Technology,China,Dalian,72.5,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+37,artificial-intelligence,13,Imperial College London,United Kingdom,London (U.K.),72,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+38,artificial-intelligence,298,Beijing Institute of Technology,China,Beijing,70.4,58.4,N/A,https://www.usnews.com/education/best-global-universities/beijing-institute-of-technology-504704
+39,artificial-intelligence,219,South China University of Technology,China,Guangzhou,70.3,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+40,artificial-intelligence,79,Technical University of Munich,Germany,Munich,69.9,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+41,artificial-intelligence,12,University College London,United Kingdom,London (U.K.),68.8,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+42,artificial-intelligence,379,University of Macau,Macau,Taipa,67.1,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+43,artificial-intelligence,123,Nanjing University,China,Nanjing,67,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+44,artificial-intelligence,618,Northeastern University - China,China,Shenyang,67,47.9,"39,155",https://www.usnews.com/education/best-global-universities/northeastern-university-china-514931
+45,artificial-intelligence,812,Hefei University of Technology,China,Hefei,65.9,42.9,N/A,https://www.usnews.com/education/best-global-universities/hefei-university-of-technology-528958
+46,artificial-intelligence,653,Guangdong University of Technology,China,Guangzhou,65.7,46.8,"46,040",https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270
+47,artificial-intelligence,271,Shenzhen University,China,Shenzhen,65.5,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+48,artificial-intelligence,18,University of Toronto,Canada,Toronto,65.1,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+49,artificial-intelligence,95,Hong Kong University of Science & Technology,Hong Kong,Hong Kong,63.7,70.6,"9,864",https://www.usnews.com/education/best-global-universities/hong-kong-university-of-science-technology-503260
+50,artificial-intelligence,8,University of Cambridge,United Kingdom,Cambridge (U.K.),63.4,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+51,artificial-intelligence,80,University of Southern California,United States,Los Angeles,62.9,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+52,artificial-intelligence,136,University of Alberta,Canada,Edmonton,62.7,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+53,artificial-intelligence,51,Georgia Institute of Technology,United States,Atlanta,62.3,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+54,artificial-intelligence,19,University of Michigan,United States,Ann Arbor,62.2,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+55,artificial-intelligence,394,Islamic Azad University,Iran,Tehran,62,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+56,artificial-intelligence,116,Michigan State University,United States,East Lansing,61.9,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+57,artificial-intelligence,468,Nanjing University of Information Science & Technology,China,Nanjing,61.8,52.6,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-information-science-technology-529160
+58,artificial-intelligence,1,Harvard University,United States,Cambridge (U.S.),61.6,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+59,artificial-intelligence,370,University of Surrey,United Kingdom,Surrey,61.3,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+60,artificial-intelligence,290,Korea University,South Korea,Seoul,60.9,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+61,artificial-intelligence,50,KU Leuven,Belgium,Leuven,60.9,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+62,artificial-intelligence,209,Central South University,China,Changsha,60.8,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+63,artificial-intelligence,196,Tongji University,China,Shanghai,60.7,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+64,artificial-intelligence,69,Ecole Polytechnique Federale de Lausanne,Switzerland,Lausanne,59.5,73.2,"11,641",https://www.usnews.com/education/best-global-universities/ecole-polytechnique-federale-de-lausanne-501629
+65,artificial-intelligence,329,University of Tehran,Iran,Tehran,59.4,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+66,artificial-intelligence,997,Thapar Institute of Engineering & Technology,India,Patiala,59.3,38.8,N/A,https://www.usnews.com/education/best-global-universities/thapar-institute-of-engineering-technology-529291
+67,artificial-intelligence,"1,082",National University of Defense Technology - China,China,Changsha,59,37,N/A,https://www.usnews.com/education/best-global-universities/national-university-of-defense-technology-china-505128
+68,artificial-intelligence,116,Fudan University,China,Shanghai,58.6,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+69,artificial-intelligence,168,Hunan University,China,Changsha,58.5,65.3,"41,580",https://www.usnews.com/education/best-global-universities/hunan-university-505375
+70,artificial-intelligence,667,Southwest University - China,China,Chongqing,58.4,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+71,artificial-intelligence,37,University of New South Wales Sydney,Australia,Kensington,58.3,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+72,artificial-intelligence,34,University of Edinburgh,United Kingdom,Edinburgh,58,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+73,artificial-intelligence,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,57,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+74,artificial-intelligence,48,Universite de Paris,France,Paris,56.4,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+75,artificial-intelligence,60,Universite Paris Saclay,France,Saint-Aubin,56.4,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+76,artificial-intelligence,598,Beijing Jiaotong University,China,Beijing,55.6,48.3,N/A,https://www.usnews.com/education/best-global-universities/beijing-jiaotong-university-501352
+77,artificial-intelligence,679,Beijing University of Posts & Telecommunications,China,Beijing,55.2,46.2,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-posts-telecommunications-502130
+78,artificial-intelligence,89,University of Birmingham,United Kingdom,Birmingham (U.K.),55.2,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+79,artificial-intelligence,"1,163",Hangzhou Dianzi University,China,Hangzhou,55.1,35,N/A,https://www.usnews.com/education/best-global-universities/hangzhou-dianzi-university-529256
+80,artificial-intelligence,39,University of Amsterdam,Netherlands,Amsterdam,55,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+81,artificial-intelligence,421,Shanghai University,China,Shanghai,54.7,53.9,"37,499",https://www.usnews.com/education/best-global-universities/shanghai-university-504274
+82,artificial-intelligence,282,China University of Geosciences,China,Wuhan,54.6,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+83,artificial-intelligence,226,Universiti Malaya,Malaysia,Kuala Lumpur,53.7,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+84,artificial-intelligence,379,Chongqing University,China,Chongqing,53,55,"40,696",https://www.usnews.com/education/best-global-universities/chongqing-university-505768
+85,artificial-intelligence,368,Shandong University,China,Jinan,53,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+86,artificial-intelligence,"1,060",Dalian Maritime University,China,Dalian,52.8,37.4,N/A,https://www.usnews.com/education/best-global-universities/dalian-maritime-university-529341
+87,artificial-intelligence,667,Nanjing University of Aeronautics & Astronautics,China,Nanjing,51.9,46.5,"32,238",https://www.usnews.com/education/best-global-universities/nanjing-university-of-aeronautics-astronautics-500835
+88,artificial-intelligence,191,University of Waterloo,Canada,Waterloo,51.8,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+89,artificial-intelligence,653,Southwest Jiaotong University,China,Chengdu,51.7,46.8,"43,541",https://www.usnews.com/education/best-global-universities/southwest-jiaotong-university-528991
+90,artificial-intelligence,37,Monash University,Australia,Clayton,50.9,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+91,artificial-intelligence,217,Deakin University,Australia,Burwood,50.6,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+92,artificial-intelligence,377,Shandong University of Science & Technology,China,Qingdao,50.2,55.1,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-of-science-technology-529480
+93,artificial-intelligence,782,Shandong Normal University,China,Jinan,50,43.6,N/A,https://www.usnews.com/education/best-global-universities/shandong-normal-university-529300
+94,artificial-intelligence,169,Delft University of Technology,Netherlands,Delft,49,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+95,artificial-intelligence,48,Sorbonne Universite,France,Paris,48.5,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+96,artificial-intelligence,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,47.8,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+97,artificial-intelligence,643,East China University of Science & Technology,China,Shanghai,47.6,47.1,"28,718",https://www.usnews.com/education/best-global-universities/east-china-university-of-science-technology-505997
+98,artificial-intelligence,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),46.8,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+99,artificial-intelligence,441,University of Science & Technology Beijing,China,Beijing,46.5,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-science-technology-beijing-506176
+100,artificial-intelligence,81,University of Tokyo,Japan,Tokyo,46.3,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248

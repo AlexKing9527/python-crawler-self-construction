@@ -1,0 +1,401 @@
+,subject_name,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,pharmacology-toxicology,1,Harvard University,United States,Cambridge (U.S.),100,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+2,pharmacology-toxicology,12,University College London,United Kingdom,London (U.K.),87.7,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+3,pharmacology-toxicology,37,Monash University,Australia,Clayton,85.5,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+4,pharmacology-toxicology,10,Johns Hopkins University,United States,Baltimore,82.6,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+5,pharmacology-toxicology,116,Fudan University,China,Shanghai,81.4,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+6,pharmacology-toxicology,26,National University of Singapore,Singapore,Singapore,81.3,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+7,pharmacology-toxicology,935,China Pharmaceutical University,China,Nanjing,80.9,40.1,"24,270",https://www.usnews.com/education/best-global-universities/china-pharmaceutical-university-502614
+8,pharmacology-toxicology,3,Stanford University,United States,Stanford,80.2,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+9,pharmacology-toxicology,44,Utrecht University,Netherlands,Utrecht,79.3,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+10,pharmacology-toxicology,20,University of California San Diego,United States,La Jolla,79.1,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+11,pharmacology-toxicology,41,University of North Carolina Chapel Hill,United States,Chapel Hill,79.1,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+12,pharmacology-toxicology,42,University of Copenhagen,Denmark,Copenhagen,78.8,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+13,pharmacology-toxicology,39,Peking University,China,Beijing,78.6,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+14,pharmacology-toxicology,145,University of Nottingham,United Kingdom,Nottingham,78.6,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+15,pharmacology-toxicology,93,Zhejiang University,China,Hangzhou,78.4,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+16,pharmacology-toxicology,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),78,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+17,pharmacology-toxicology,51,Karolinska Institutet,Sweden,Stockholm,77.6,74.9,"8,021",https://www.usnews.com/education/best-global-universities/karolinska-institutet-503151
+18,pharmacology-toxicology,89,Shanghai Jiao Tong University,China,Shanghai,77.3,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+19,pharmacology-toxicology,129,Sun Yat Sen University,China,Guangzhou,76.1,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+20,pharmacology-toxicology,16,University of California San Francisco,United States,San Francisco,75.9,83.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699
+21,pharmacology-toxicology,13,Imperial College London,United Kingdom,London (U.K.),75.7,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+22,pharmacology-toxicology,36,University of Queensland,Australia,Brisbane,74.8,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+23,pharmacology-toxicology,304,Sichuan University,China,Chengdu,74.1,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+24,pharmacology-toxicology,517,Tehran University of Medical Sciences,Iran,Tehran,74.1,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+25,pharmacology-toxicology,6,University of Washington Seattle,United States,Seattle,74,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+26,pharmacology-toxicology,18,University of Toronto,Canada,Toronto,73.5,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+27,pharmacology-toxicology,28,University of Sydney,Australia,Sydney,73.4,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+28,pharmacology-toxicology,120,Universidade de Sao Paulo,Brazil,Sao Paulo,73.1,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+29,pharmacology-toxicology,50,KU Leuven,Belgium,Leuven,72.9,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+30,pharmacology-toxicology,5,University of Oxford,United Kingdom,Oxford,72.7,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+31,pharmacology-toxicology,48,Universite de Paris,France,Paris,72.6,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+32,pharmacology-toxicology,19,University of Michigan,United States,Ann Arbor,71.2,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+33,pharmacology-toxicology,34,University of Edinburgh,United Kingdom,Edinburgh,71.1,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+34,pharmacology-toxicology,87,Free University of Berlin,Germany,Berlin,71,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+35,pharmacology-toxicology,74,Leiden University,Netherlands,Leiden,69.8,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+36,pharmacology-toxicology,8,University of Cambridge,United Kingdom,Cambridge (U.K.),69.6,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+37,pharmacology-toxicology,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,69.5,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+38,pharmacology-toxicology,213,King Saud University,Saudi Arabia,Riyadh,69.2,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+39,pharmacology-toxicology,"1,570",Shenyang Pharmaceutical University,China,Shenyang,68.9,26.2,N/A,https://www.usnews.com/education/best-global-universities/shenyang-pharmaceutical-university-501409
+40,pharmacology-toxicology,14,University of California Los Angeles,United States,Los Angeles,68.4,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+41,pharmacology-toxicology,156,University of Milan,Italy,Milan,68.4,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+42,pharmacology-toxicology,15,University of Pennsylvania,United States,Philadelphia,68.4,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+43,pharmacology-toxicology,593,Peking Union Medical College,China,Beijing,68.2,48.4,N/A,https://www.usnews.com/education/best-global-universities/peking-union-medical-college-529794
+44,pharmacology-toxicology,247,Universidade do Porto,Portugal,Porto,67.9,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+45,pharmacology-toxicology,178,Aix-Marseille Universite,France,Marseille,67.6,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+46,pharmacology-toxicology,95,Ghent University,Belgium,Gent,67.4,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+47,pharmacology-toxicology,65,King Abdulaziz University,Saudi Arabia,Jeddah,67.4,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+48,pharmacology-toxicology,60,Universite Paris Saclay,France,Saint-Aubin,67.4,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+49,pharmacology-toxicology,98,University of Florida,United States,Gainesville,67.4,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+50,pharmacology-toxicology,25,Duke University,United States,"Durham (North Carolina, U.S.)",67.1,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+51,pharmacology-toxicology,129,Seoul National University (SNU),South Korea,Seoul,66.8,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+52,pharmacology-toxicology,363,Cairo University,Egypt,Giza,66.6,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+53,pharmacology-toxicology,185,University of Naples Federico II,Italy,Naples,66.6,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+54,pharmacology-toxicology,143,Rutgers State University New Brunswick,United States,Piscataway Township,66.4,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+55,pharmacology-toxicology,65,Erasmus University Rotterdam,Netherlands,Rotterdam,65.9,73.4,N/A,https://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349
+56,pharmacology-toxicology,86,University of Barcelona,Spain,Barcelona,65.9,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+57,pharmacology-toxicology,127,Uppsala University,Sweden,Uppsala,65.7,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+58,pharmacology-toxicology,27,University of Melbourne,Australia,Parkville,65.4,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+59,pharmacology-toxicology,7,Columbia University,United States,New York City,65.2,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+60,pharmacology-toxicology,45,University of Pittsburgh,United States,Pittsburgh,64.4,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+61,pharmacology-toxicology,779,Mashhad University Medical Science,Iran,Mahshad,64.3,43.7,N/A,https://www.usnews.com/education/best-global-universities/mashhad-university-medical-science-529398
+62,pharmacology-toxicology,55,University of Hong Kong,Hong Kong,Pok Fu Lam,64.2,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+63,pharmacology-toxicology,263,Sungkyunkwan University (SKKU),South Korea,Seoul,63.8,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+64,pharmacology-toxicology,736,Nanjing Medical University,China,Gulou,63.7,44.7,"19,277",https://www.usnews.com/education/best-global-universities/nanjing-medical-university-500938
+65,pharmacology-toxicology,125,Sapienza University Rome,Italy,Rome,63.7,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+66,pharmacology-toxicology,203,National Taiwan University,Taiwan,Taipei,63.6,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+67,pharmacology-toxicology,140,Purdue University West Lafayette Campus,United States,West Lafayette,63.6,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+68,pharmacology-toxicology,33,King's College London,United Kingdom,London (U.K.),62.8,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+69,pharmacology-toxicology,21,Cornell University,United States,Ithaca,62.6,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+70,pharmacology-toxicology,"1,431",Shanghai University of Traditional Chinese Medicine,China,Shanghai,62.5,29.3,"11,937",https://www.usnews.com/education/best-global-universities/shanghai-university-of-traditional-chinese-medicine-529292
+71,pharmacology-toxicology,368,Shandong University,China,Jinan,61.8,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+72,pharmacology-toxicology,379,University of Macau,Macau,Taipa,61.4,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+73,pharmacology-toxicology,11,Yale University,United States,New Haven,60.8,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+74,pharmacology-toxicology,99,University of Helsinki,Finland,Helsinki,60.2,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+75,pharmacology-toxicology,55,Ohio State University,United States,Columbus,60,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+76,pharmacology-toxicology,88,University of Groningen,Netherlands,Groningen,60,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+77,pharmacology-toxicology,35,University of British Columbia,Canada,Vancouver,59.3,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+78,pharmacology-toxicology,250,University of Florence,Italy,Florence,59.3,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+79,pharmacology-toxicology,194,Northeastern University,United States,Boston,59.2,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+80,pharmacology-toxicology,150,University of Basel,Switzerland,Basel,59.1,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+81,pharmacology-toxicology,109,Huazhong University of Science & Technology,China,Wuhan,58.9,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+82,pharmacology-toxicology,29,ETH Zurich,Switzerland,Zurich,58.7,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+83,pharmacology-toxicology,81,University of Tokyo,Japan,Tokyo,58.5,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+84,pharmacology-toxicology,975,Tabriz University of Medical Science,Iran,Tabriz,58.3,39.3,N/A,https://www.usnews.com/education/best-global-universities/tabriz-university-of-medical-science-529423
+85,pharmacology-toxicology,37,University of New South Wales Sydney,Australia,Kensington,58.3,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+86,pharmacology-toxicology,72,Emory University,United States,Atlanta,58.1,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+87,pharmacology-toxicology,78,Vanderbilt University,United States,Nashville,58,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+88,pharmacology-toxicology,53,Chinese University of Hong Kong,Hong Kong,Shatin,57.9,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+89,pharmacology-toxicology,165,Technical University of Denmark,Denmark,Kongens Lyngby,57.9,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+90,pharmacology-toxicology,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,57.8,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+91,pharmacology-toxicology,57,University of Minnesota Twin Cities,United States,Minneapolis,57.7,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+92,pharmacology-toxicology,182,Eberhard Karls University of Tubingen,Germany,Tubingen,57.5,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+93,pharmacology-toxicology,123,University of Auckland,New Zealand,Auckland,57.1,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+94,pharmacology-toxicology,826,Shahid Beheshti University Medical Sciences,Iran,Tehran,57,42.4,N/A,https://www.usnews.com/education/best-global-universities/shahid-beheshti-university-medical-sciences-501678
+95,pharmacology-toxicology,63,University of Manchester,United Kingdom,Manchester,57,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+96,pharmacology-toxicology,250,University of Illinois Chicago,United States,Chicago,56.8,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+97,pharmacology-toxicology,618,University of Messina,Italy,Messina,56.2,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-messina-500522
+98,pharmacology-toxicology,107,University of Bern,Switzerland,Bern,55.8,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+99,pharmacology-toxicology,421,Jilin University,China,Changchun,55.4,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+100,pharmacology-toxicology,241,Johannes Gutenberg University of Mainz,Germany,Mainz,55.4,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+101,pharmacology-toxicology,540,Ain Shams University,Egypt,Cairo,55.3,50,"146,668",https://www.usnews.com/education/best-global-universities/ain-shams-university-500744
+102,pharmacology-toxicology,"1,365",Jamia Hamdard University,India,New Delhi,55.3,30.9,N/A,https://www.usnews.com/education/best-global-universities/jamia-hamdard-university-529132
+103,pharmacology-toxicology,46,Icahn School of Medicine at Mount Sinai,United States,New York City,55.2,75.4,N/A,https://www.usnews.com/education/best-global-universities/icahn-school-of-medicine-at-mount-sinai-193405
+104,pharmacology-toxicology,106,Radboud University Nijmegen,Netherlands,Nijmegen,55,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+105,pharmacology-toxicology,47,University of Munich,Germany,Munich,54.7,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+106,pharmacology-toxicology,146,University of Liverpool,United Kingdom,Liverpool,54.6,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+107,pharmacology-toxicology,860,Southern Medical University - China,China,Guangzhou,54.3,41.8,N/A,https://www.usnews.com/education/best-global-universities/southern-medical-university-china-529257
+108,pharmacology-toxicology,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),54.2,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+109,pharmacology-toxicology,148,Texas A&M University College Station,United States,College Station,54,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+110,pharmacology-toxicology,61,Humboldt University of Berlin,Germany,Berlin,53.9,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+111,pharmacology-toxicology,182,University of Lausanne,Switzerland,Lausanne,53.7,63.9,"13,402",https://www.usnews.com/education/best-global-universities/university-of-lausanne-505144
+112,pharmacology-toxicology,"1,309",Nanjing University of Chinese Medicine,China,Nanjing,53.6,32,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-chinese-medicine-529308
+113,pharmacology-toxicology,100,Queen Mary University London,United Kingdom,London (U.K.),53.2,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+114,pharmacology-toxicology,133,University of Texas Southwestern Medical Center Dallas,United States,Dallas,53.2,67.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-southwestern-medical-center-dallas-228635
+115,pharmacology-toxicology,295,Queens University Belfast,United Kingdom,Belfast,53.1,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+116,pharmacology-toxicology,138,University of Bonn,Germany,Bonn,53.1,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+117,pharmacology-toxicology,385,Zhengzhou University,China,Zhengzhou,52.9,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+118,pharmacology-toxicology,202,Universidade de Lisboa,Portugal,Lisbon,52.8,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+119,pharmacology-toxicology,136,University of Alberta,Canada,Edmonton,52.8,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+120,pharmacology-toxicology,74,University of Glasgow,United Kingdom,Glasgow,52.7,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+121,pharmacology-toxicology,219,Xi'an Jiaotong University,China,Xi'an,52.7,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+122,pharmacology-toxicology,884,Capital Medical University,China,Beijing,52.4,41.2,N/A,https://www.usnews.com/education/best-global-universities/capital-medical-university-504555
+123,pharmacology-toxicology,209,Central South University,China,Changsha,52.3,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+124,pharmacology-toxicology,212,University of Valencia,Spain,Valencia,52.3,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+125,pharmacology-toxicology,39,University of Amsterdam,Netherlands,Amsterdam,52.2,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+126,pharmacology-toxicology,43,University of Texas Austin,United States,Austin,52,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+127,pharmacology-toxicology,311,Soochow University - China,China,Suzhou,51.9,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+128,pharmacology-toxicology,89,University of Oslo,Norway,Oslo,51.9,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+129,pharmacology-toxicology,122,University of Bologna,Italy,Bologna,51.8,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+130,pharmacology-toxicology,63,University of Wisconsin Madison,United States,Madison,51.6,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+131,pharmacology-toxicology,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,51.4,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+132,pharmacology-toxicology,109,University of Geneva,Switzerland,Geneva,51.4,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+133,pharmacology-toxicology,337,Complutense University of Madrid,Spain,Madrid,51.2,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+134,pharmacology-toxicology,123,Nanjing University,China,Nanjing,51.1,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+135,pharmacology-toxicology,115,University of Padua,Italy,Padua,51,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+136,pharmacology-toxicology,739,Al Azhar University,Egypt,Cairo,50.9,44.6,N/A,https://www.usnews.com/education/best-global-universities/al-azhar-university-508017
+137,pharmacology-toxicology,512,Mahidol University,Thailand,Salaya,50.9,50.7,"28,477",https://www.usnews.com/education/best-global-universities/mahidol-university-503481
+138,pharmacology-toxicology,73,University of California Davis,United States,Davis,50.9,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+139,pharmacology-toxicology,"1,291",Wenzhou Medical University,China,Wenzhou,50.7,32.3,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-medical-university-529262
+140,pharmacology-toxicology,611,Alexandria University,Egypt,Alexandria,50.6,48.1,N/A,https://www.usnews.com/education/best-global-universities/alexandria-university-509708
+141,pharmacology-toxicology,23,Tsinghua University,China,Beijing,50.5,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+142,pharmacology-toxicology,"1,556",National Institute of Pharmaceutical Education & Research (NIPER),India,Mohali,50.4,26.6,N/A,https://www.usnews.com/education/best-global-universities/national-institute-of-pharmaceutical-education-research-niper-529648
+143,pharmacology-toxicology,175,University of Calgary,Canada,Calgary,50.4,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+144,pharmacology-toxicology,174,University of Colorado Anschutz Medical Campus,United States,Aurora,50.3,64.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-anschutz-medical-campus-529678
+145,pharmacology-toxicology,226,Universiti Malaya,Malaysia,Kuala Lumpur,50.2,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+146,pharmacology-toxicology,392,University of Mississippi,United States,University,50.2,54.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-mississippi-176017
+147,pharmacology-toxicology,"1,489",Beijing University of Chinese Medicine,China,Beijing,50,28,N/A,https://www.usnews.com/education/best-global-universities/beijing-university-of-chinese-medicine-529730
+148,pharmacology-toxicology,429,Universidade de Coimbra,Portugal,Coimbra,50,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+149,pharmacology-toxicology,80,University of Southern California,United States,Los Angeles,50,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+150,pharmacology-toxicology,"1,129",Guangzhou Medical University,China,Guangzhou,49.9,35.9,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-medical-university-529307
+151,pharmacology-toxicology,236,Goethe University Frankfurt,Germany,Frankfurt am Main,49.8,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+152,pharmacology-toxicology,540,Jinan University,China,Guangzhou,49.8,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+153,pharmacology-toxicology,136,Baylor College of Medicine,United States,Houston,49.7,67.1,N/A,https://www.usnews.com/education/best-global-universities/baylor-college-of-medicine-223223
+154,pharmacology-toxicology,48,Sorbonne Universite,France,Paris,49.5,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+155,pharmacology-toxicology,"1,394",Guangzhou University of Chinese Medicine,China,Guangzhou,49.3,30.2,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-of-chinese-medicine-529492
+156,pharmacology-toxicology,54,McGill University,Canada,Montreal,49.3,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+157,pharmacology-toxicology,167,University of Utah,United States,Salt Lake City,49.3,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+158,pharmacology-toxicology,186,Maastricht University,Netherlands,Maastricht,49.1,63.6,N/A,https://www.usnews.com/education/best-global-universities/maastricht-university-505759
+159,pharmacology-toxicology,504,Universiti Sains Malaysia,Malaysia,Penang,49,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+160,pharmacology-toxicology,70,Boston University,United States,Boston,48.8,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+161,pharmacology-toxicology,"1,113",China Medical University,China,Shenyang,48.5,36.3,N/A,https://www.usnews.com/education/best-global-universities/china-medical-university-506215
+162,pharmacology-toxicology,639,National Cheng Kung University,Taiwan,Tainan City,48.5,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+163,pharmacology-toxicology,84,University of California Irvine,United States,Irvine,48.5,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+164,pharmacology-toxicology,32,Washington University (WUSTL),United States,St. Louis,48.4,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+165,pharmacology-toxicology,143,Autonomous University of Barcelona,Spain,Barcelona,48.3,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+166,pharmacology-toxicology,286,University of Maryland Baltimore,United States,Baltimore,48.1,59,N/A,https://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-163259
+167,pharmacology-toxicology,531,University of Santiago De Compostela,Spain,Santiago de Compostela,48,50.2,"24,713",https://www.usnews.com/education/best-global-universities/university-of-santiago-de-compostela-506569
+168,pharmacology-toxicology,379,University of Strathclyde,United Kingdom,Glasgow,47.9,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+169,pharmacology-toxicology,24,Northwestern University,United States,Evanston,47.8,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+170,pharmacology-toxicology,907,Taipei Medical University,Taiwan,Taipei City,47.8,40.8,N/A,https://www.usnews.com/education/best-global-universities/taipei-medical-university-501451
+171,pharmacology-toxicology,286,State University of New York (SUNY) Buffalo,United States,Buffalo,47.5,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+172,pharmacology-toxicology,959,Beni Suef University,Egypt,Beni Suef,47.3,39.7,"75,200",https://www.usnews.com/education/best-global-universities/beni-suef-university-514394
+173,pharmacology-toxicology,294,Universidade Estadual de Campinas,Brazil,Campinas,47.2,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+174,pharmacology-toxicology,215,Trinity College Dublin,Ireland,Dublin,47,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+175,pharmacology-toxicology,152,Case Western Reserve University,United States,Cleveland,46.9,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+176,pharmacology-toxicology,22,University of Chicago,United States,Chicago,46.8,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+177,pharmacology-toxicology,108,University of Arizona,United States,Tucson,46.6,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+178,pharmacology-toxicology,"1,567",Shandong First Medical University & Shandong Academy of Medical Sciences,China,Taian,46.4,26.3,N/A,https://www.usnews.com/education/best-global-universities/shandong-first-medical-university-shandong-academy-of-medical-sciences-529729
+179,pharmacology-toxicology,219,University of Pisa,Italy,Pisa,46.4,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+180,pharmacology-toxicology,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,46.2,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+181,pharmacology-toxicology,394,Islamic Azad University,Iran,Tehran,45.9,54.6,N/A,https://www.usnews.com/education/best-global-universities/islamic-azad-university-528829
+182,pharmacology-toxicology,844,Jiangsu University,China,Zhenjiang,45.9,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+183,pharmacology-toxicology,150,Wuhan University,China,Wuhan,45.7,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+184,pharmacology-toxicology,"1,873",Chengdu University of Traditional Chinese Medicine,China,Chengdu,45.5,17.1,N/A,https://www.usnews.com/education/best-global-universities/chengdu-university-of-traditional-chinese-medicine-530083
+185,pharmacology-toxicology,241,Hebrew University of Jerusalem,Israel,Jerusalem,45.5,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+186,pharmacology-toxicology,461,University of Catania,Italy,Catania,45.5,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+187,pharmacology-toxicology,447,Mansoura University,Egypt,Mansoura,45.4,53.3,N/A,https://www.usnews.com/education/best-global-universities/mansoura-university-508398
+188,pharmacology-toxicology,977,Shiraz University of Medical Science,Iran,Shiraz,45.4,39.2,N/A,https://www.usnews.com/education/best-global-universities/shiraz-university-of-medical-science-529286
+189,pharmacology-toxicology,"1,438",Anhui Medical University,China,Hefei,45.3,29.2,N/A,https://www.usnews.com/education/best-global-universities/anhui-medical-university-529269
+190,pharmacology-toxicology,277,Universite de Strasbourg,France,Strasbourg,45.3,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+191,pharmacology-toxicology,206,Medical University of Vienna,Austria,Vienna,45.1,62.7,"7,274",https://www.usnews.com/education/best-global-universities/medical-university-of-vienna-504165
+192,pharmacology-toxicology,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,45.1,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+193,pharmacology-toxicology,339,Jagiellonian University,Poland,Krakow,45,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+194,pharmacology-toxicology,463,University of Salerno,Italy,Fisciano,45,52.8,"26,289",https://www.usnews.com/education/best-global-universities/university-of-salerno-502531
+195,pharmacology-toxicology,140,Kyoto University,Japan,Kyoto,44.8,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+196,pharmacology-toxicology,31,New York University,United States,New York City,44.8,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+197,pharmacology-toxicology,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,44.4,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+198,pharmacology-toxicology,83,University of Western Australia,Australia,Crawley,44.3,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+199,pharmacology-toxicology,156,Universite de Montreal,Canada,Montreal,44.2,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+200,pharmacology-toxicology,497,Universidade Estadual Paulista,Brazil,Sao Paulo,44.1,51.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-estadual-paulista-503331
+201,pharmacology-toxicology,231,Autonomous University of Madrid,Spain,Madrid,43.8,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+202,pharmacology-toxicology,265,Yeshiva University,United States,New York City,43.8,59.9,N/A,https://www.usnews.com/education/best-global-universities/yeshiva-university-197708
+203,pharmacology-toxicology,89,Wageningen University & Research,Netherlands,Wageningen,43.6,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+204,pharmacology-toxicology,194,Universite de Montpellier,France,Montpellier,43.5,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+205,pharmacology-toxicology,372,University of Manitoba,Canada,Winnipeg,43.5,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+206,pharmacology-toxicology,"1,821",Zhejiang Chinese Medical University,China,Hangzhou,43.4,19,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-chinese-medical-university-529949
+207,pharmacology-toxicology,247,University of Otago,New Zealand,Dunedin,43.3,60.7,"18,508",https://www.usnews.com/education/best-global-universities/university-of-otago-506723
+208,pharmacology-toxicology,304,University of Kansas,United States,Lawrence,43.2,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+209,pharmacology-toxicology,261,University of Southern Denmark,Denmark,Odense,43.2,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+210,pharmacology-toxicology,329,University of Tehran,Iran,Tehran,43.1,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+211,pharmacology-toxicology,209,University of Turin,Italy,Turin,43.1,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+212,pharmacology-toxicology,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,43,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+213,pharmacology-toxicology,710,Assiut University,Egypt,Assiut,42.8,45.4,N/A,https://www.usnews.com/education/best-global-universities/assiut-university-513421
+214,pharmacology-toxicology,482,Quaid I Azam University,Pakistan,Islamabad,42.8,52.1,N/A,https://www.usnews.com/education/best-global-universities/quaid-i-azam-university-503114
+215,pharmacology-toxicology,794,Iran University of Medical Sciences,Iran,Tehran,42.7,43.3,N/A,https://www.usnews.com/education/best-global-universities/iran-university-of-medical-sciences-529414
+216,pharmacology-toxicology,"1,407",Chongqing Medical University,China,Yuzhong,42.6,29.9,N/A,https://www.usnews.com/education/best-global-universities/chongqing-medical-university-529043
+217,pharmacology-toxicology,441,Hanyang University,South Korea,Seoul,42.5,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+218,pharmacology-toxicology,230,North Carolina State University,United States,Raleigh,42.5,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+219,pharmacology-toxicology,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,42.3,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+220,pharmacology-toxicology,625,University of Tennessee Health Science Center,United States,Memphis,42.3,47.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-tennessee-health-science-center-499917
+221,pharmacology-toxicology,234,Southeast University - China,China,Nanjing,42,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+222,pharmacology-toxicology,370,University of Kwazulu Natal,South Africa,Durban,41.9,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+223,pharmacology-toxicology,292,Yonsei University,South Korea,Seoul,41.8,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+224,pharmacology-toxicology,356,University of Kentucky,United States,Lexington,41.7,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+225,pharmacology-toxicology,661,Zagazig University,Egypt,Zagazig,41.7,46.7,N/A,https://www.usnews.com/education/best-global-universities/zagazig-university-514033
+226,pharmacology-toxicology,507,China Medical University Taiwan,Taiwan,Taichung,41.5,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+227,pharmacology-toxicology,385,University of Perugia,Italy,Perugia,41.4,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+228,pharmacology-toxicology,138,McMaster University,Canada,Hamilton,41.3,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+229,pharmacology-toxicology,170,University of Rochester,United States,Rochester,41.3,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+230,pharmacology-toxicology,459,University of Belgrade,Serbia,Belgrade,41.1,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+231,pharmacology-toxicology,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,41,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+232,pharmacology-toxicology,363,University of South Australia,Australia,Adelaide,40.8,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+233,pharmacology-toxicology,501,University of Parma,Italy,Parma,40.6,51.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-parma-501495
+234,pharmacology-toxicology,432,Hokkaido University,Japan,Sapporo,40.4,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+235,pharmacology-toxicology,"1,106",Kermanshah University of Medical Sciences,Iran,Kermanshah,40.4,36.4,N/A,https://www.usnews.com/education/best-global-universities/kermanshah-university-of-medical-sciences-529623
+236,pharmacology-toxicology,"1,389",Naval Medical University,China,Shanghai,40.4,30.3,N/A,https://www.usnews.com/education/best-global-universities/naval-medical-university-505505
+237,pharmacology-toxicology,271,Shenzhen University,China,Shenzhen,40.3,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+238,pharmacology-toxicology,"1,027",Harbin Medical University,China,Harbin,40.2,38.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-medical-university-502045
+239,pharmacology-toxicology,554,Universita della Campania Vanvitelli,Italy,Caserta,40.1,49.5,N/A,https://www.usnews.com/education/best-global-universities/universita-della-campania-vanvitelli-529545
+240,pharmacology-toxicology,794,Qingdao University,China,Qingdao,40,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+241,pharmacology-toxicology,"1,535",Dalian Medical University,China,Dalian,39.9,27,N/A,https://www.usnews.com/education/best-global-universities/dalian-medical-university-529283
+242,pharmacology-toxicology,286,Tohoku University,Japan,Sendai,39.7,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+243,pharmacology-toxicology,226,Charles University Prague,Czech Republic,Prague,39.6,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+244,pharmacology-toxicology,349,Kyushu University,Japan,Fukuoka,39.6,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+245,pharmacology-toxicology,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,39.4,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+246,pharmacology-toxicology,547,Universiti Putra Malaysia,Malaysia,Serdang,39.4,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+247,pharmacology-toxicology,244,University of Cologne,Germany,Koln,39.4,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+248,pharmacology-toxicology,405,Heinrich Heine University Dusseldorf,Germany,Dusseldorf,39.2,54.3,N/A,https://www.usnews.com/education/best-global-universities/heinrich-heine-university-dusseldorf-503659
+249,pharmacology-toxicology,160,Curtin University,Australia,Bentley,39.1,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+250,pharmacology-toxicology,219,University of Munster,Germany,Munster,39.1,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+251,pharmacology-toxicology,472,Texas Tech University,United States,Lubbock,39,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+252,pharmacology-toxicology,223,University of Antwerp,Belgium,Antwerp,39,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+253,pharmacology-toxicology,948,Minia University,Egypt,Minya,38.8,39.9,N/A,https://www.usnews.com/education/best-global-universities/minia-university-514678
+254,pharmacology-toxicology,269,University of Texas Health Science Center Houston,United States,Houston,38.8,59.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-houston-229300
+255,pharmacology-toxicology,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,38.7,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+256,pharmacology-toxicology,196,Tongji University,China,Shanghai,38.7,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+257,pharmacology-toxicology,152,Indiana University Bloomington,United States,Bloomington,38.6,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+258,pharmacology-toxicology,"1,002",Macau University of Science & Technology,Macau,Taipa,38.6,38.7,"11,993",https://www.usnews.com/education/best-global-universities/macau-university-of-science-technology-529500
+259,pharmacology-toxicology,180,University of Iowa,United States,Iowa City,38.6,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+260,pharmacology-toxicology,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,38.2,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+261,pharmacology-toxicology,160,University of Alabama Birmingham,United States,Birmingham (U.S.),38.2,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-alabama-birmingham-100663
+262,pharmacology-toxicology,547,Chulalongkorn University,Thailand,Bangkok,38.1,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+263,pharmacology-toxicology,745,Nanchang University,China,Nanchang,37.7,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+264,pharmacology-toxicology,253,University of Miami,United States,Coral Gables,37.7,60.5,"17,047",https://www.usnews.com/education/best-global-universities/university-of-miami-135726
+265,pharmacology-toxicology,152,Cardiff University,United Kingdom,Cardiff,37.6,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+266,pharmacology-toxicology,"1,049",Konkuk University,South Korea,Seoul,37.6,37.6,N/A,https://www.usnews.com/education/best-global-universities/konkuk-university-503911
+267,pharmacology-toxicology,286,Osaka University,Japan,Suita,37.6,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+268,pharmacology-toxicology,89,University of Birmingham,United Kingdom,Birmingham (U.K.),37.6,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+269,pharmacology-toxicology,366,Catholic University of the Sacred Heart,Italy,Milan,37.4,55.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-the-sacred-heart-503167
+270,pharmacology-toxicology,313,University of Granada,Spain,Granada,37.3,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+271,pharmacology-toxicology,561,Universita di Modena e Reggio Emilia,Italy,Modena,37.2,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+272,pharmacology-toxicology,112,University of Technology Sydney,Australia,Ultimo,37.2,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+273,pharmacology-toxicology,487,University of Eastern Finland,Finland,Joensuu,37.1,51.7,"11,898",https://www.usnews.com/education/best-global-universities/university-of-eastern-finland-504471
+274,pharmacology-toxicology,935,G d'Annunzio University of Chieti-Pescara,Italy,Chieti,37,40.1,N/A,https://www.usnews.com/education/best-global-universities/g-dannunzio-university-of-chieti-pescara-529183
+275,pharmacology-toxicology,"1,417",Nantong University,China,Nantong,37,29.7,N/A,https://www.usnews.com/education/best-global-universities/nantong-university-529473
+276,pharmacology-toxicology,912,Yeungnam University,South Korea,Gyeongsan,37,40.7,"19,345",https://www.usnews.com/education/best-global-universities/yeungnam-university-504367
+277,pharmacology-toxicology,439,Virginia Commonwealth University,United States,Richmond,36.9,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+278,pharmacology-toxicology,295,University of Pavia,Italy,Pavia,36.8,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+279,pharmacology-toxicology,"1,261",Ataturk University,Turkey,Erzurum,36.7,33,"56,295",https://www.usnews.com/education/best-global-universities/ataturk-university-500132
+280,pharmacology-toxicology,67,University of Zurich,Switzerland,Zurich,36.7,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+281,pharmacology-toxicology,231,University of Newcastle,Australia,Callaghan,36.6,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+282,pharmacology-toxicology,149,University of Hamburg,Germany,Hamburg,36.4,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+283,pharmacology-toxicology,452,University of Siena,Italy,Siena,36.3,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-siena-504323
+284,pharmacology-toxicology,"1,694",Xuzhou Medical University,China,Xuzhou,36.3,23.1,N/A,https://www.usnews.com/education/best-global-universities/xuzhou-medical-university-529926
+285,pharmacology-toxicology,520,Kyung Hee University,South Korea,Seoul,36.1,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+286,pharmacology-toxicology,208,University of Vienna,Austria,Vienna,36.1,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+287,pharmacology-toxicology,"1,938",Tianjin University of Traditional Chinese Medicine,China,Tianjin,36,12.9,N/A,https://www.usnews.com/education/best-global-universities/tianjin-university-of-traditional-chinese-medicine-530110
+288,pharmacology-toxicology,450,University of Ljubljana,Slovenia,Ljubljana,36,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+289,pharmacology-toxicology,554,Hacettepe University,Turkey,Ankara,35.9,49.5,"38,444",https://www.usnews.com/education/best-global-universities/hacettepe-university-505298
+290,pharmacology-toxicology,441,University of Saskatchewan,Canada,Saskatoon,35.6,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+291,pharmacology-toxicology,497,Liverpool John Moores University,United Kingdom,Liverpool,35.5,51.4,N/A,https://www.usnews.com/education/best-global-universities/liverpool-john-moores-university-504028
+292,pharmacology-toxicology,129,Brown University,United States,Providence,35.4,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+293,pharmacology-toxicology,175,Tel Aviv University,Israel,Tel Aviv,35.4,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+294,pharmacology-toxicology,324,University of Georgia,United States,"Athens (Georgia, U.S.)",35.3,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+295,pharmacology-toxicology,129,London School of Hygiene & Tropical Medicine,United Kingdom,London (U.K.),35.2,67.5,N/A,https://www.usnews.com/education/best-global-universities/london-school-of-hygiene-tropical-medicine-503353
+296,pharmacology-toxicology,165,Oregon Health & Science University,United States,Portland,35.2,65.5,N/A,https://www.usnews.com/education/best-global-universities/oregon-health-science-university-209490
+297,pharmacology-toxicology,125,University of Cape Town,South Africa,Cape Town,35.1,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+298,pharmacology-toxicology,134,University of Sheffield,United Kingdom,Sheffield,35.1,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+299,pharmacology-toxicology,385,Wayne State University,United States,Detroit,35.1,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+300,pharmacology-toxicology,970,Henan University,China,Kaifeng,34.9,39.4,N/A,https://www.usnews.com/education/best-global-universities/henan-university-529507
+301,pharmacology-toxicology,"1,167",Tianjin Medical University,China,Tianjin,34.9,34.9,N/A,https://www.usnews.com/education/best-global-universities/tianjin-medical-university-529011
+302,pharmacology-toxicology,"1,438",Iuliu Hatieganu University of Medicine & Pharmacy,Romania,Cluj-Napoca,34.8,29.2,N/A,https://www.usnews.com/education/best-global-universities/iuliu-hatieganu-university-of-medicine-pharmacy-529214
+303,pharmacology-toxicology,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,34.5,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+304,pharmacology-toxicology,"1,140",Chungnam National University,South Korea,Daejeon,34.4,35.6,N/A,https://www.usnews.com/education/best-global-universities/chungnam-national-university-502760
+305,pharmacology-toxicology,441,COMSATS University Islamabad (CUI),Pakistan,Islamabad,34.4,53.4,N/A,https://www.usnews.com/education/best-global-universities/comsats-university-islamabad-cui-529200
+306,pharmacology-toxicology,247,Xiamen University,China,Xiamen,34.2,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+307,pharmacology-toxicology,332,China Agricultural University,China,Beijing,34.1,56.9,N/A,https://www.usnews.com/education/best-global-universities/china-agricultural-university-500688
+308,pharmacology-toxicology,140,University of Leeds,United Kingdom,Leeds,34.1,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+309,pharmacology-toxicology,290,Korea University,South Korea,Seoul,34,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+310,pharmacology-toxicology,300,University of Genoa,Italy,Genoa,34,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+311,pharmacology-toxicology,239,Tufts University,United States,Medford,33.9,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+312,pharmacology-toxicology,"1,032",Manipal Academy of Higher Education (MAHE),India,Manipal,33.6,38.1,"23,002",https://www.usnews.com/education/best-global-universities/manipal-academy-of-higher-education-mahe-528886
+313,pharmacology-toxicology,564,University of Ferrara,Italy,Ferrara,33.6,49.2,"20,507",https://www.usnews.com/education/best-global-universities/university-of-ferrara-503123
+314,pharmacology-toxicology,"1,088",Chang Gung University,Taiwan,Taoyuan City,33.4,36.8,"7,016",https://www.usnews.com/education/best-global-universities/chang-gung-university-505417
+315,pharmacology-toxicology,520,University of Sevilla,Spain,Seville,33.2,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+316,pharmacology-toxicology,"1,113",Air Force Military Medical University,China,Xi'an,33.1,36.3,N/A,https://www.usnews.com/education/best-global-universities/air-force-military-medical-university-506665
+317,pharmacology-toxicology,"1,788",Guangdong Pharmaceutical University,China,Guangdong Province,33.1,20.4,N/A,https://www.usnews.com/education/best-global-universities/guangdong-pharmaceutical-university-530070
+318,pharmacology-toxicology,79,Technical University of Munich,Germany,Munich,33.1,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+319,pharmacology-toxicology,290,Universite de Bordeaux,France,Talence,33,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+320,pharmacology-toxicology,662,Szeged University,Hungary,Szeged,32.8,46.6,"20,023",https://www.usnews.com/education/best-global-universities/szeged-university-501065
+321,pharmacology-toxicology,116,Michigan State University,United States,East Lansing,32.6,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+322,pharmacology-toxicology,215,University of Ottawa,Canada,Ottawa,32.6,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+323,pharmacology-toxicology,432,Medical University of South Carolina,United States,Charleston,32.5,53.6,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-south-carolina-218335
+324,pharmacology-toxicology,203,Griffith University,Australia,Nathan,32.3,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+325,pharmacology-toxicology,583,Universidade Federal de Sao Paulo (UNIFESP),Brazil,Sao Paulo,32.3,48.7,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-sao-paulo-unifesp-501953
+326,pharmacology-toxicology,413,Universite de Lorraine,France,Nancy,32.3,54.1,"61,235",https://www.usnews.com/education/best-global-universities/universite-de-lorraine-529568
+327,pharmacology-toxicology,517,University of Zagreb,Croatia,Zagreb,32.3,50.6,"65,436",https://www.usnews.com/education/best-global-universities/university-of-zagreb-502783
+328,pharmacology-toxicology,300,Western University (University of Western Ontario),Canada,London (Canada),32.2,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+329,pharmacology-toxicology,"1,085",Helwan University,Egypt,Cairo,32.1,36.9,N/A,https://www.usnews.com/education/best-global-universities/helwan-university-512792
+330,pharmacology-toxicology,109,Aarhus University,Denmark,Aarhus,31.7,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+331,pharmacology-toxicology,203,University of Cincinnati,United States,Cincinnati,31.7,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+332,pharmacology-toxicology,"1,036",Chung Ang University,South Korea,Seoul,31.6,38,N/A,https://www.usnews.com/education/best-global-universities/chung-ang-university-500565
+333,pharmacology-toxicology,633,Sechenov First Moscow State Medical University,Russia,Moscow (Russia),31.2,47.3,"16,575",https://www.usnews.com/education/best-global-universities/sechenov-first-moscow-state-medical-university-529709
+334,pharmacology-toxicology,722,Ankara University,Turkey,Ankara,30.9,45.2,"71,311",https://www.usnews.com/education/best-global-universities/ankara-university-503075
+335,pharmacology-toxicology,256,Nankai University,China,Nankai,30.8,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+336,pharmacology-toxicology,"1,589",Medical University of Lublin,Poland,Lublin,30.7,25.8,"7,004",https://www.usnews.com/education/best-global-universities/medical-university-of-lublin-529305
+337,pharmacology-toxicology,146,University of Gothenburg,Sweden,Gothenburg,30.7,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+338,pharmacology-toxicology,360,University of Liege,Belgium,Liege,30.7,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+339,pharmacology-toxicology,389,Universite de Lille,France,Lille,30.6,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+340,pharmacology-toxicology,300,University of Rome Tor Vergata,Italy,Rome,30.5,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+341,pharmacology-toxicology,653,Semmelweis University,Hungary,Budapest,30.3,46.8,"9,860",https://www.usnews.com/education/best-global-universities/semmelweis-university-502811
+342,pharmacology-toxicology,"1,072",Yangzhou University,China,Yangzhou,30.3,37.2,"31,066",https://www.usnews.com/education/best-global-universities/yangzhou-university-529253
+343,pharmacology-toxicology,593,Universiti Kebangsaan Malaysia,Malaysia,Bangi Selangor,30.2,48.4,N/A,https://www.usnews.com/education/best-global-universities/universiti-kebangsaan-malaysia-506289
+344,pharmacology-toxicology,"1,106",Medical University of Warsaw,Poland,Warsaw,30,36.4,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-warsaw-529008
+345,pharmacology-toxicology,662,Ocean University of China,China,Qingdao,30,46.6,N/A,https://www.usnews.com/education/best-global-universities/ocean-university-of-china-502491
+346,pharmacology-toxicology,"1,600",University of Karachi,Pakistan,Karachi,30,25.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-karachi-529273
+347,pharmacology-toxicology,112,Lund University,Sweden,Lund,29.9,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+348,pharmacology-toxicology,759,Panjab University,India,Chandigarh,29.9,44.2,N/A,https://www.usnews.com/education/best-global-universities/panjab-university-528843
+349,pharmacology-toxicology,667,Kyungpook National University,South Korea,Daegu,29.8,46.5,"18,892",https://www.usnews.com/education/best-global-universities/kyungpook-national-university-506312
+350,pharmacology-toxicology,835,Tanta University,Egypt,Tanta,29.8,42.3,"129,209",https://www.usnews.com/education/best-global-universities/tanta-university-529188
+351,pharmacology-toxicology,493,Universite de Rennes 1,France,Rennes,29.8,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+352,pharmacology-toxicology,"1,046",Dongguk University,South Korea,Seoul,29.5,37.7,N/A,https://www.usnews.com/education/best-global-universities/dongguk-university-529173
+353,pharmacology-toxicology,"1,854",Hunan University of Chinese Medicine,China,Changsha City,29.5,17.9,N/A,https://www.usnews.com/education/best-global-universities/hunan-university-of-chinese-medicine-530079
+354,pharmacology-toxicology,"1,208",Kaohsiung Medical University,Taiwan,Kaohsiung City,29.5,34.2,"6,490",https://www.usnews.com/education/best-global-universities/kaohsiung-medical-university-505935
+355,pharmacology-toxicology,317,University of South Florida,United States,Tampa,29.4,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+356,pharmacology-toxicology,"1,225",Gazi University,Turkey,Ankara,29.3,33.8,"41,372",https://www.usnews.com/education/best-global-universities/gazi-university-506852
+357,pharmacology-toxicology,"1,792",Southwest Medical University,China,Luzhou,29.3,20.3,N/A,https://www.usnews.com/education/best-global-universities/southwest-medical-university-529931
+358,pharmacology-toxicology,256,University of Erlangen Nuremberg,Germany,Erlangen,29.3,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+359,pharmacology-toxicology,889,Jeonbuk National University,South Korea,Jeonju,29.2,41.1,"21,782",https://www.usnews.com/education/best-global-universities/jeonbuk-national-university-503088
+360,pharmacology-toxicology,598,Jiangnan University,China,Wuxi,29,48.3,"29,899",https://www.usnews.com/education/best-global-universities/jiangnan-university-504800
+361,pharmacology-toxicology,573,University of Palermo,Italy,Palermo,28.9,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+362,pharmacology-toxicology,"1,758",Fujian Medical University,China,Fuzhou,28.7,21.4,N/A,https://www.usnews.com/education/best-global-universities/fujian-medical-university-529622
+363,pharmacology-toxicology,583,Hong Kong Baptist University,Hong Kong,Hong Kong,28.6,48.7,"8,358",https://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544
+364,pharmacology-toxicology,192,University of Wurzburg,Germany,Wurzburg,28.6,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+365,pharmacology-toxicology,178,University of Freiburg,Germany,Freiburg,27.9,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+366,pharmacology-toxicology,540,Lanzhou University,China,Lanzhou,27.8,50,N/A,https://www.usnews.com/education/best-global-universities/lanzhou-university-502794
+367,pharmacology-toxicology,856,Ewha Womans University,South Korea,Seoul,27.7,41.9,"14,746",https://www.usnews.com/education/best-global-universities/ewha-womans-university-504624
+368,pharmacology-toxicology,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,27.7,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+369,pharmacology-toxicology,309,University of Connecticut,United States,Storrs,27.5,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+370,pharmacology-toxicology,866,University of Jordan,Jordan,Amman,27.3,41.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-jordan-512144
+371,pharmacology-toxicology,"1,291",Medical University Lodz,Poland,Lodz,27.1,32.3,N/A,https://www.usnews.com/education/best-global-universities/medical-university-lodz-529195
+372,pharmacology-toxicology,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,27.1,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+373,pharmacology-toxicology,708,Tarbiat Modares University,Iran,Tehran,27,45.5,N/A,https://www.usnews.com/education/best-global-universities/tarbiat-modares-university-528825
+374,pharmacology-toxicology,426,University of Buenos Aires,Argentina,Buenos Aires,27,53.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-buenos-aires-504821
+375,pharmacology-toxicology,"1,327",Baqiyatallah University of Medical Sciences (BMSU),Iran,Tehran,26.9,31.7,N/A,https://www.usnews.com/education/best-global-universities/baqiyatallah-university-of-medical-sciences-bmsu-529531
+376,pharmacology-toxicology,84,Pennsylvania State University,United States,University Park,26.9,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+377,pharmacology-toxicology,"1,190",Catholic University of Korea,South Korea,Bucheon,26.6,34.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-korea-504494
+378,pharmacology-toxicology,667,Southwest University - China,China,Chongqing,26.6,46.5,N/A,https://www.usnews.com/education/best-global-universities/southwest-university-china-506024
+379,pharmacology-toxicology,400,Nantes Universite,France,Nantes,26.3,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+380,pharmacology-toxicology,"1,266",Prince Sattam Bin Abdulaziz University,Saudi Arabia,Al Kharj,26.2,32.9,N/A,https://www.usnews.com/education/best-global-universities/prince-sattam-bin-abdulaziz-university-530003
+381,pharmacology-toxicology,"1,386",Gachon University,South Korea,Seongnam,26,30.4,N/A,https://www.usnews.com/education/best-global-universities/gachon-university-529167
+382,pharmacology-toxicology,"1,955",Jiangxi University of Traditional Chinese Medicine,China,Nanchang,26,11.9,N/A,https://www.usnews.com/education/best-global-universities/jiangxi-university-of-traditional-chinese-medicine-530117
+383,pharmacology-toxicology,439,Hannover Medical School,Germany,Hannover,25.5,53.5,N/A,https://www.usnews.com/education/best-global-universities/hannover-medical-school-503226
+384,pharmacology-toxicology,673,Zhejiang University of Technology,China,Hangzhou,25.5,46.4,N/A,https://www.usnews.com/education/best-global-universities/zhejiang-university-of-technology-529071
+385,pharmacology-toxicology,468,University of Verona,Italy,Verona,25.3,52.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-verona-503896
+386,pharmacology-toxicology,826,Banaras Hindu University (BHU),India,Varanasi,25.2,42.4,N/A,https://www.usnews.com/education/best-global-universities/banaras-hindu-university-bhu-503462
+387,pharmacology-toxicology,280,University of Kiel,Germany,Kiel,25.2,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+388,pharmacology-toxicology,"1,774",Guangxi Medical University,China,Nanning,25.1,21,N/A,https://www.usnews.com/education/best-global-universities/guangxi-medical-university-529620
+389,pharmacology-toxicology,"1,129",Isfahan University Medical Science,Iran,Isfahan,25.1,35.9,N/A,https://www.usnews.com/education/best-global-universities/isfahan-university-medical-science-529419
+390,pharmacology-toxicology,"1,261",Kangwon National University,South Korea,Chuncheon-si,24.7,33,N/A,https://www.usnews.com/education/best-global-universities/kangwon-national-university-500476
+391,pharmacology-toxicology,"1,636",Ahvaz Jundishapur University of Medical Sciences (AJUMS),Iran,Ahvaz,24.3,24.6,N/A,https://www.usnews.com/education/best-global-universities/ahvaz-jundishapur-university-of-medical-sciences-ajums-529917
+392,pharmacology-toxicology,"1,357",University of Toyama,Japan,Toyama,24.2,31.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-toyama-501284
+393,pharmacology-toxicology,852,Government College University Faisalabad,Pakistan,Faisalabad,23.9,42,N/A,https://www.usnews.com/education/best-global-universities/government-college-university-faisalabad-529535
+394,pharmacology-toxicology,"1,907",Hebei Medical University,China,Shijiazhuang,23.9,15.2,N/A,https://www.usnews.com/education/best-global-universities/hebei-medical-university-529919
+395,pharmacology-toxicology,745,Istanbul University,Turkey,Istanbul,23.9,44.5,"59,250",https://www.usnews.com/education/best-global-universities/istanbul-university-502403
+396,pharmacology-toxicology,816,Universidade Federal do Parana,Brazil,Curitiba,23.8,42.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-parana-503933
+397,pharmacology-toxicology,698,Pusan National University,South Korea,Busan,23.7,45.7,N/A,https://www.usnews.com/education/best-global-universities/pusan-national-university-501725
+398,pharmacology-toxicology,"1,827",Shanxi Medical University,China,Jinzhong,23.6,18.8,N/A,https://www.usnews.com/education/best-global-universities/shanxi-medical-university-529915
+399,pharmacology-toxicology,"1,927",Zunyi Medical University,China,"Zunyi, Guizhou",23.5,13.4,N/A,https://www.usnews.com/education/best-global-universities/zunyi-medical-university-530104
+400,pharmacology-toxicology,643,University of Louisville,United States,Louisville,23.3,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-louisville-157289

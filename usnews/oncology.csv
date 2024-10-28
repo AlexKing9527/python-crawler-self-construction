@@ -1,0 +1,401 @@
+,subject_name,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,oncology,1,Harvard University,United States,Cambridge (U.S.),100,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+2,oncology,10,Johns Hopkins University,United States,Baltimore,83.8,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+3,oncology,21,Cornell University,United States,Ithaca,83.3,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+4,oncology,16,University of California San Francisco,United States,San Francisco,82.4,83.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699
+5,oncology,18,University of Toronto,Canada,Toronto,79.4,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+6,oncology,11,Yale University,United States,New Haven,78,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+7,oncology,14,University of California Los Angeles,United States,Los Angeles,77.6,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+8,oncology,60,Universite Paris Saclay,France,Saint-Aubin,76.4,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+9,oncology,78,Vanderbilt University,United States,Nashville,76.2,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+10,oncology,15,University of Pennsylvania,United States,Philadelphia,75.7,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+11,oncology,6,University of Washington Seattle,United States,Seattle,75.5,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+12,oncology,19,University of Michigan,United States,Ann Arbor,75.2,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+13,oncology,28,University of Sydney,Australia,Sydney,74.9,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+14,oncology,3,Stanford University,United States,Stanford,74.8,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+15,oncology,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),74.7,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+16,oncology,25,Duke University,United States,"Durham (North Carolina, U.S.)",74.5,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+17,oncology,32,Washington University (WUSTL),United States,St. Louis,73.8,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+18,oncology,50,KU Leuven,Belgium,Leuven,73.4,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+19,oncology,48,Universite de Paris,France,Paris,72.2,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+20,oncology,12,University College London,United Kingdom,London (U.K.),72.2,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+21,oncology,22,University of Chicago,United States,Chicago,71.9,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+22,oncology,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,71.7,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+23,oncology,55,Ohio State University,United States,Columbus,71.1,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+24,oncology,174,University of Colorado Anschutz Medical Campus,United States,Aurora,70.2,64.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-anschutz-medical-campus-529678
+25,oncology,31,New York University,United States,New York City,69.1,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+26,oncology,45,University of Pittsburgh,United States,Pittsburgh,68.5,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+27,oncology,24,Northwestern University,United States,Evanston,68.2,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+28,oncology,129,Seoul National University (SNU),South Korea,Seoul,67.4,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+29,oncology,72,Emory University,United States,Atlanta,66.8,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+30,oncology,300,University of Duisburg Essen,Germany,Essen,66.5,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-duisburg-essen-505327
+31,oncology,100,Queen Mary University London,United Kingdom,London (U.K.),66.1,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+32,oncology,182,University of Lausanne,Switzerland,Lausanne,65.5,63.9,"13,402",https://www.usnews.com/education/best-global-universities/university-of-lausanne-505144
+33,oncology,152,Case Western Reserve University,United States,Cleveland,65,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+34,oncology,47,University of Munich,Germany,Munich,65,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+35,oncology,27,University of Melbourne,Australia,Parkville,64.6,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+36,oncology,7,Columbia University,United States,New York City,64.2,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+37,oncology,86,University of Barcelona,Spain,Barcelona,63.8,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+38,oncology,41,University of North Carolina Chapel Hill,United States,Chapel Hill,63.4,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+39,oncology,178,Aix-Marseille Universite,France,Marseille,63.2,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+40,oncology,51,Karolinska Institutet,Sweden,Stockholm,63.2,74.9,"8,021",https://www.usnews.com/education/best-global-universities/karolinska-institutet-503151
+41,oncology,63,University of Manchester,United Kingdom,Manchester,63.1,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+42,oncology,167,University of Utah,United States,Salt Lake City,63.1,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+43,oncology,80,University of Southern California,United States,Los Angeles,63,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+44,oncology,48,Sorbonne Universite,France,Paris,62.9,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+45,oncology,5,University of Oxford,United Kingdom,Oxford,62.8,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+46,oncology,20,University of California San Diego,United States,La Jolla,62.7,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+47,oncology,65,Erasmus University Rotterdam,Netherlands,Rotterdam,62.4,73.4,N/A,https://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349
+48,oncology,13,Imperial College London,United Kingdom,London (U.K.),62.3,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+49,oncology,263,Sungkyunkwan University (SKKU),South Korea,Seoul,62.2,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+50,oncology,209,University of Turin,Italy,Turin,61.8,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+51,oncology,129,Sun Yat Sen University,China,Guangzhou,61.6,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+52,oncology,182,Eberhard Karls University of Tubingen,Germany,Tubingen,61.5,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+53,oncology,46,Icahn School of Medicine at Mount Sinai,United States,New York City,61.2,75.4,N/A,https://www.usnews.com/education/best-global-universities/icahn-school-of-medicine-at-mount-sinai-193405
+54,oncology,165,Oregon Health & Science University,United States,Portland,61.2,65.5,N/A,https://www.usnews.com/education/best-global-universities/oregon-health-science-university-209490
+55,oncology,54,McGill University,Canada,Montreal,60.9,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+56,oncology,133,University of Texas Southwestern Medical Center Dallas,United States,Dallas,60.8,67.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-southwestern-medical-center-dallas-228635
+57,oncology,89,Shanghai Jiao Tong University,China,Shanghai,60.6,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+58,oncology,8,University of Cambridge,United Kingdom,Cambridge (U.K.),60.3,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+59,oncology,116,Fudan University,China,Shanghai,60.2,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+60,oncology,203,National Taiwan University,Taiwan,Taipei,59.8,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+61,oncology,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,59.3,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+62,oncology,156,University of Milan,Italy,Milan,59.2,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+63,oncology,206,Medical University of Vienna,Austria,Vienna,58.8,62.7,"7,274",https://www.usnews.com/education/best-global-universities/medical-university-of-vienna-504165
+64,oncology,136,Baylor College of Medicine,United States,Houston,58.5,67.1,N/A,https://www.usnews.com/education/best-global-universities/baylor-college-of-medicine-223223
+65,oncology,160,University of Alabama Birmingham,United States,Birmingham (U.S.),58.5,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-alabama-birmingham-100663
+66,oncology,53,Chinese University of Hong Kong,Hong Kong,Shatin,57.8,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+67,oncology,389,University of Navarra,Spain,Pamplona,57.8,54.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-navarra-500141
+68,oncology,337,Complutense University of Madrid,Spain,Madrid,57.7,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+69,oncology,292,Yonsei University,South Korea,Seoul,57.7,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+70,oncology,42,University of Copenhagen,Denmark,Copenhagen,57.3,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+71,oncology,74,Leiden University,Netherlands,Leiden,57.1,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+72,oncology,87,Free University of Berlin,Germany,Berlin,57,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+73,oncology,280,University of Kiel,Germany,Kiel,57,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+74,oncology,61,Humboldt University of Berlin,Germany,Berlin,56.9,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+75,oncology,39,University of Amsterdam,Netherlands,Amsterdam,56.7,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+76,oncology,89,University of Oslo,Norway,Oslo,56.6,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+77,oncology,244,University of Cologne,Germany,Koln,56.2,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+78,oncology,149,University of Hamburg,Germany,Hamburg,56.1,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+79,oncology,84,University of California Irvine,United States,Irvine,56,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+80,oncology,74,University of Glasgow,United Kingdom,Glasgow,55.8,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+81,oncology,175,Tel Aviv University,Israel,Tel Aviv,55.5,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+82,oncology,33,King's College London,United Kingdom,London (U.K.),55.3,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+83,oncology,26,National University of Singapore,Singapore,Singapore,55.3,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+84,oncology,88,University of Groningen,Netherlands,Groningen,55.2,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+85,oncology,710,University of Ulsan,South Korea,Ulsan,55.2,45.4,"12,415",https://www.usnews.com/education/best-global-universities/university-of-ulsan-500178
+86,oncology,63,University of Wisconsin Madison,United States,Madison,55.2,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+87,oncology,156,Universite de Montreal,Canada,Montreal,55.1,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+88,oncology,39,Peking University,China,Beijing,55,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+89,oncology,35,University of British Columbia,Canada,Vancouver,54.9,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+90,oncology,109,Huazhong University of Science & Technology,China,Wuhan,54.8,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+91,oncology,"1,163",Kindai University (Kinki University),Japan,Higashiosaka,54.6,35,N/A,https://www.usnews.com/education/best-global-universities/kindai-university-kinki-university-505855
+92,oncology,356,University of Colorado Denver,United States,Denver,54.5,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-denver-126562
+93,oncology,67,University of Zurich,Switzerland,Zurich,54.5,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+94,oncology,209,Central South University,China,Changsha,54.3,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+95,oncology,439,Hannover Medical School,Germany,Hannover,54.3,53.5,N/A,https://www.usnews.com/education/best-global-universities/hannover-medical-school-503226
+96,oncology,122,University of Bologna,Italy,Bologna,54.3,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+97,oncology,44,Utrecht University,Netherlands,Utrecht,54.3,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+98,oncology,109,Aarhus University,Denmark,Aarhus,54,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+99,oncology,79,Technical University of Munich,Germany,Munich,54,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+100,oncology,89,University of Birmingham,United Kingdom,Birmingham (U.K.),54,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+101,oncology,34,University of Edinburgh,United Kingdom,Edinburgh,53.6,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+102,oncology,324,Georgetown University,United States,"Washington, D.C.",53.4,57.3,"16,074",https://www.usnews.com/education/best-global-universities/georgetown-university-131496
+103,oncology,736,Nanjing Medical University,China,Gulou,53.4,44.7,"19,277",https://www.usnews.com/education/best-global-universities/nanjing-medical-university-500938
+104,oncology,106,Radboud University Nijmegen,Netherlands,Nijmegen,53.4,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+105,oncology,186,Maastricht University,Netherlands,Maastricht,53.2,63.6,N/A,https://www.usnews.com/education/best-global-universities/maastricht-university-505759
+106,oncology,192,University of Wurzburg,Germany,Wurzburg,53.1,63.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-wurzburg-505067
+107,oncology,265,Yeshiva University,United States,New York City,52.9,59.9,N/A,https://www.usnews.com/education/best-global-universities/yeshiva-university-197708
+108,oncology,136,University of Alberta,Canada,Edmonton,52.4,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+109,oncology,36,University of Queensland,Australia,Brisbane,52.4,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+110,oncology,236,Goethe University Frankfurt,Germany,Frankfurt am Main,52.3,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+111,oncology,593,Peking Union Medical College,China,Beijing,52.3,48.4,N/A,https://www.usnews.com/education/best-global-universities/peking-union-medical-college-529794
+112,oncology,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,52.2,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+113,oncology,405,Jefferson University,United States,Philadelphia,51.9,54.3,N/A,https://www.usnews.com/education/best-global-universities/jefferson-university-216366
+114,oncology,170,University of Rochester,United States,Rochester,51.9,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+115,oncology,322,Ulm University,Germany,Ulm,51.6,57.4,"10,271",https://www.usnews.com/education/best-global-universities/ulm-university-502475
+116,oncology,226,Universite Libre de Bruxelles,Belgium,Brussels,51.6,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+117,oncology,625,University of Tennessee Health Science Center,United States,Memphis,51.2,47.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-tennessee-health-science-center-499917
+118,oncology,93,Zhejiang University,China,Hangzhou,51.2,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+119,oncology,385,Zhengzhou University,China,Zhengzhou,50.9,54.9,N/A,https://www.usnews.com/education/best-global-universities/zhengzhou-university-502623
+120,oncology,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),50.4,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+121,oncology,99,University of Helsinki,Finland,Helsinki,50.4,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+122,oncology,"1,155",Medical University Gdansk,Poland,Gdansk,50,35.2,N/A,https://www.usnews.com/education/best-global-universities/medical-university-gdansk-529056
+123,oncology,"1,327",Fahrenheit Universities,Poland,Gda?§Ôk,49.9,31.7,N/A,https://www.usnews.com/education/best-global-universities/fahrenheit-universities-530044
+124,oncology,138,McMaster University,Canada,Hamilton,49.9,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+125,oncology,112,Lund University,Sweden,Lund,49.7,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+126,oncology,273,University of Milano-Bicocca,Italy,Milan,49.7,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+127,oncology,57,University of Minnesota Twin Cities,United States,Minneapolis,49.7,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+128,oncology,269,University of Texas Health Science Center Houston,United States,Houston,49.6,59.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-houston-229300
+129,oncology,314,Vita-Salute San Raffaele University,Italy,Milan,49.6,57.7,N/A,https://www.usnews.com/education/best-global-universities/vita-salute-san-raffaele-university-501347
+130,oncology,186,Technische Universitat Dresden,Germany,Dresden,49.4,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+131,oncology,194,Universite de Montpellier,France,Montpellier,49.3,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+132,oncology,107,University of Bern,Switzerland,Bern,49.3,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+133,oncology,37,University of New South Wales Sydney,Australia,Kensington,49,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+134,oncology,95,Ghent University,Belgium,Gent,48.7,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+135,oncology,37,Monash University,Australia,Clayton,48.7,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+136,oncology,605,University of Oklahoma Health Sciences Center,United States,Oklahoma City,48.7,48.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-oklahoma-health-sciences-center-207342
+137,oncology,215,University of Ottawa,Canada,Ottawa,48.7,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+138,oncology,140,University of Leeds,United Kingdom,Leeds,48.5,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+139,oncology,860,Southern Medical University - China,China,Guangzhou,48.4,41.8,N/A,https://www.usnews.com/education/best-global-universities/southern-medical-university-china-529257
+140,oncology,196,Tongji University,China,Shanghai,48.4,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+141,oncology,115,University of Padua,Italy,Padua,48.4,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+142,oncology,341,Universite Claude Bernard Lyon 1,France,Villeurbanne,48.3,56.5,"28,253",https://www.usnews.com/education/best-global-universities/universite-claude-bernard-lyon-1-500870
+143,oncology,"1,167",Tianjin Medical University,China,Tianjin,48.2,34.9,N/A,https://www.usnews.com/education/best-global-universities/tianjin-medical-university-529011
+144,oncology,389,Universite de Lille,France,Lille,48.2,54.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-lille-529680
+145,oncology,253,University of Miami,United States,Coral Gables,48.2,60.5,"17,047",https://www.usnews.com/education/best-global-universities/university-of-miami-135726
+146,oncology,175,University of Calgary,Canada,Calgary,47.9,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+147,oncology,73,University of California Davis,United States,Davis,47.9,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+148,oncology,400,Nantes Universite,France,Nantes,47.6,54.4,N/A,https://www.usnews.com/education/best-global-universities/nantes-universite-501104
+149,oncology,385,Wayne State University,United States,Detroit,47.5,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+150,oncology,226,Charles University Prague,Czech Republic,Prague,47.4,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+151,oncology,143,Rutgers State University New Brunswick,United States,Piscataway Township,47.4,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+152,oncology,150,University of Basel,Switzerland,Basel,47.3,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+153,oncology,261,University of Southern Denmark,Denmark,Odense,47.3,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+154,oncology,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,47,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+155,oncology,134,University of Sheffield,United Kingdom,Sheffield,46.9,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+156,oncology,143,Autonomous University of Barcelona,Spain,Barcelona,46.7,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+157,oncology,108,University of Arizona,United States,Tucson,46.5,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+158,oncology,452,University of Siena,Italy,Siena,46.5,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-siena-504323
+159,oncology,119,University of Virginia,United States,Charlottesville,46.4,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+160,oncology,"1,129",Guangzhou Medical University,China,Guangzhou,46.3,35.9,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-medical-university-529307
+161,oncology,300,University of Genoa,Italy,Genoa,46.3,58.2,"20,263",https://www.usnews.com/education/best-global-universities/university-of-genoa-503778
+162,oncology,500,Indiana University-Purdue University Indianapolis,United States,Indianapolis,46,51.3,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-purdue-university-indianapolis-151111
+163,oncology,219,University of Munster,Germany,Munster,46,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+164,oncology,178,University of Freiburg,Germany,Freiburg,45.8,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+165,oncology,366,Catholic University of the Sacred Heart,Italy,Milan,45.6,55.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-the-sacred-heart-503167
+166,oncology,304,University of Kansas,United States,Lawrence,45.6,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+167,oncology,127,Uppsala University,Sweden,Uppsala,45.5,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+168,oncology,140,Kyoto University,Japan,Kyoto,45.3,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+169,oncology,256,University of Erlangen Nuremberg,Germany,Erlangen,45.3,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+170,oncology,"1,027",Harbin Medical University,China,Harbin,45.1,38.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-medical-university-502045
+171,oncology,405,Heinrich Heine University Dusseldorf,Germany,Dusseldorf,45.1,54.3,N/A,https://www.usnews.com/education/best-global-universities/heinrich-heine-university-dusseldorf-503659
+172,oncology,215,Trinity College Dublin,Ireland,Dublin,45.1,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+173,oncology,125,Sapienza University Rome,Italy,Rome,44.8,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+174,oncology,241,Hebrew University of Jerusalem,Israel,Jerusalem,44.7,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+175,oncology,152,Indiana University Bloomington,United States,Bloomington,44.7,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+176,oncology,429,Queens University - Canada,Canada,Kingston (Canada),44.7,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+177,oncology,304,Sichuan University,China,Chengdu,44.5,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+178,oncology,217,University of Leicester,United Kingdom,Leicester,44.5,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+179,oncology,286,University of Maryland Baltimore,United States,Baltimore,44.5,59,N/A,https://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-163259
+180,oncology,55,University of Hong Kong,Hong Kong,Pok Fu Lam,44.4,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+181,oncology,146,University of Liverpool,United Kingdom,Liverpool,44.4,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+182,oncology,104,University of Southampton,United Kingdom,Southampton,44.1,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+183,oncology,241,Johannes Gutenberg University of Mainz,Germany,Mainz,44,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+184,oncology,98,University of Florida,United States,Gainesville,43.6,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+185,oncology,84,Pennsylvania State University,United States,University Park,43.5,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+186,oncology,150,Wuhan University,China,Wuhan,43.5,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+187,oncology,261,Dartmouth College,United States,Hanover,43.4,60.1,"6,440",https://www.usnews.com/education/best-global-universities/dartmouth-college-182670
+188,oncology,152,Cardiff University,United Kingdom,Cardiff,43.3,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+189,oncology,223,University of Antwerp,Belgium,Antwerp,43.3,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+190,oncology,884,Capital Medical University,China,Beijing,43.2,41.2,N/A,https://www.usnews.com/education/best-global-universities/capital-medical-university-504555
+191,oncology,615,Medical College of Wisconsin,United States,Milwaukee,43.2,48,N/A,https://www.usnews.com/education/best-global-universities/medical-college-of-wisconsin-239169
+192,oncology,368,Shandong University,China,Jinan,43.2,55.4,N/A,https://www.usnews.com/education/best-global-universities/shandong-university-505166
+193,oncology,120,Universidade de Sao Paulo,Brazil,Sao Paulo,42.8,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+194,oncology,468,University of Verona,Italy,Verona,42.8,52.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-verona-503896
+195,oncology,311,Soochow University - China,China,Suzhou,42.2,57.9,"49,131",https://www.usnews.com/education/best-global-universities/soochow-university-china-506714
+196,oncology,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,42.2,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+197,oncology,83,University of Western Australia,Australia,Crawley,42.2,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+198,oncology,109,University of Geneva,Switzerland,Geneva,42.1,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+199,oncology,81,University of Tokyo,Japan,Tokyo,42.1,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+200,oncology,"1,258",Army Medical University,China,Shapingba,42,33.1,N/A,https://www.usnews.com/education/best-global-universities/army-medical-university-503729
+201,oncology,379,Friedrich Schiller University of Jena,Germany,Jena,42,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+202,oncology,219,Xi'an Jiaotong University,China,Xi'an,41.9,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+203,oncology,282,Universite Toulouse III - Paul Sabatier,France,Toulouse,41.8,59.1,N/A,https://www.usnews.com/education/best-global-universities/universite-toulouse-iii-paul-sabatier-503302
+204,oncology,432,Medical University of South Carolina,United States,Charleston,41.7,53.6,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-south-carolina-218335
+205,oncology,"1,389",Naval Medical University,China,Shanghai,41.6,30.3,N/A,https://www.usnews.com/education/best-global-universities/naval-medical-university-505505
+206,oncology,421,Jilin University,China,Changchun,41.5,53.9,N/A,https://www.usnews.com/education/best-global-universities/jilin-university-506709
+207,oncology,421,University of Texas Health San Antonio,United States,San Antonio,41.3,53.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-san-antonio-228644
+208,oncology,360,University of Liege,Belgium,Liege,41,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+209,oncology,439,Virginia Commonwealth University,United States,Richmond,41,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+210,oncology,180,University of Iowa,United States,Iowa City,40.7,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+211,oncology,250,University of Florence,Italy,Florence,40.5,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+212,oncology,653,Semmelweis University,Hungary,Budapest,40.3,46.8,"9,860",https://www.usnews.com/education/best-global-universities/semmelweis-university-502811
+213,oncology,653,Universite Paris-Est-Creteil-Val-de-Marne (UPEC),France,Creteil,40.3,46.8,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-est-creteil-val-de-marne-upec-528863
+214,oncology,"1,113",China Medical University,China,Shenyang,40.2,36.3,N/A,https://www.usnews.com/education/best-global-universities/china-medical-university-506215
+215,oncology,346,Leipzig University,Germany,Leipzig,39.9,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+216,oncology,212,University of Valencia,Spain,Valencia,39.9,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+217,oncology,379,Medical University of Innsbruck,Austria,Innsbruck,39.6,55,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-innsbruck-505463
+218,oncology,290,Universite de Bordeaux,France,Talence,39.5,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+219,oncology,145,University of Nottingham,United Kingdom,Nottingham,39.5,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+220,oncology,185,University of Naples Federico II,Italy,Naples,39.4,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+221,oncology,199,RWTH Aachen University,Germany,Aachen,39.3,63,"39,738",https://www.usnews.com/education/best-global-universities/rwth-aachen-university-506441
+222,oncology,138,University of Bonn,Germany,Bonn,39.2,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+223,oncology,236,University College Dublin,Ireland,Dublin,39.1,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+224,oncology,463,Wake Forest University,United States,Winston-Salem,39.1,52.8,N/A,https://www.usnews.com/education/best-global-universities/wake-forest-university-199847
+225,oncology,"1,553",Chungbuk National University,South Korea,Cheongju,39,26.7,N/A,https://www.usnews.com/education/best-global-universities/chungbuk-national-university-503344
+226,oncology,219,University of Pisa,Italy,Pisa,39,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+227,oncology,295,Queens University Belfast,United Kingdom,Belfast,38.9,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+228,oncology,199,University of Bergen,Norway,Bergen,38.9,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+229,oncology,"1,103",Athens Medical School,Greece,Athens (Greece),38.8,36.5,N/A,https://www.usnews.com/education/best-global-universities/athens-medical-school-529124
+230,oncology,"1,113",Air Force Military Medical University,China,Xi'an,38.5,36.3,N/A,https://www.usnews.com/education/best-global-universities/air-force-military-medical-university-506665
+231,oncology,397,Laval University,Canada,Quebec City,38.5,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+232,oncology,74,University of Adelaide,Australia,Adelaide,38.5,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+233,oncology,"1,066",Niigata University,Japan,Niigata,38.4,37.3,N/A,https://www.usnews.com/education/best-global-universities/niigata-university-504351
+234,oncology,129,London School of Hygiene & Tropical Medicine,United Kingdom,London (U.K.),38.3,67.5,N/A,https://www.usnews.com/education/best-global-universities/london-school-of-hygiene-tropical-medicine-503353
+235,oncology,129,Brown University,United States,Providence,38.1,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+236,oncology,517,Keio University,Japan,Tokyo,37.9,50.6,N/A,https://www.usnews.com/education/best-global-universities/keio-university-500715
+237,oncology,317,University of South Florida,United States,Tampa,37.8,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+238,oncology,507,China Medical University Taiwan,Taiwan,Taichung,37.7,51,"7,284",https://www.usnews.com/education/best-global-universities/china-medical-university-taiwan-503180
+239,oncology,203,University of Cincinnati,United States,Cincinnati,37.7,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+240,oncology,304,La Trobe University,Australia,Melbourne (Australia),37.6,58.1,"21,663",https://www.usnews.com/education/best-global-universities/la-trobe-university-501305
+241,oncology,70,Boston University,United States,Boston,37.3,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+242,oncology,520,Martin Luther University Halle Wittenberg,Germany,Halle,37.1,50.5,N/A,https://www.usnews.com/education/best-global-universities/martin-luther-university-halle-wittenberg-502747
+243,oncology,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,36.9,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+244,oncology,300,Western University (University of Western Ontario),Canada,London (Canada),36.9,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+245,oncology,292,Vrije Universiteit Brussel,Belgium,Elsene,36.7,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+246,oncology,554,Universita della Campania Vanvitelli,Italy,Caserta,36.6,49.5,N/A,https://www.usnews.com/education/best-global-universities/universita-della-campania-vanvitelli-529545
+247,oncology,"1,291",Wenzhou Medical University,China,Wenzhou,36.5,32.3,N/A,https://www.usnews.com/education/best-global-universities/wenzhou-medical-university-529262
+248,oncology,501,University of Parma,Italy,Parma,36.3,51.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-parma-501495
+249,oncology,333,Medical University of Graz,Austria,Graz,36.1,56.8,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-graz-501562
+250,oncology,163,University of Gottingen,Germany,Gottingen,36,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+251,oncology,123,Nanjing University,China,Nanjing,35.9,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+252,oncology,750,Okayama University,Japan,Okayama City,35.7,44.4,N/A,https://www.usnews.com/education/best-global-universities/okayama-university-504249
+253,oncology,333,Nagoya University,Japan,Nagoya,35.6,56.8,"15,224",https://www.usnews.com/education/best-global-universities/nagoya-university-501944
+254,oncology,171,Queensland University of Technology (QUT),Australia,Brisbane,35.5,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+255,oncology,579,National Yang Ming Chiao Tung University,Taiwan,Hsinchu,35.3,48.8,"16,425",https://www.usnews.com/education/best-global-universities/national-yang-ming-chiao-tung-university-529781
+256,oncology,510,University of Regensburg,Germany,Regensburg,35.3,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-regensburg-500220
+257,oncology,639,National Cheng Kung University,Taiwan,Tainan City,35.1,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+258,oncology,286,Osaka University,Japan,Suita,35,59,"22,485",https://www.usnews.com/education/best-global-universities/osaka-university-505864
+259,oncology,953,Augusta University,United States,Augusta,34.9,39.8,N/A,https://www.usnews.com/education/best-global-universities/augusta-university-482149
+260,oncology,385,University of Perugia,Italy,Perugia,34.9,54.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-perugia-504697
+261,oncology,450,Tulane University,United States,New Orleans,34.8,53.2,"11,220",https://www.usnews.com/education/best-global-universities/tulane-university-160755
+262,oncology,366,Umea University,Sweden,Umea,34.7,55.5,N/A,https://www.usnews.com/education/best-global-universities/umea-university-504031
+263,oncology,835,Yokohama City University,Japan,Yokohama,34.2,42.3,N/A,https://www.usnews.com/education/best-global-universities/yokohama-city-university-529035
+264,oncology,"1,567",Shandong First Medical University & Shandong Academy of Medical Sciences,China,Taian,34.1,26.3,N/A,https://www.usnews.com/education/best-global-universities/shandong-first-medical-university-shandong-academy-of-medical-sciences-529729
+265,oncology,475,UiT The Arctic University of Tromso,Norway,Tromso,34.1,52.3,N/A,https://www.usnews.com/education/best-global-universities/uit-the-arctic-university-of-tromso-500047
+266,oncology,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,34,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+267,oncology,"1,438",Anhui Medical University,China,Hefei,33.9,29.2,N/A,https://www.usnews.com/education/best-global-universities/anhui-medical-university-529269
+268,oncology,247,Universidade do Porto,Portugal,Porto,33.9,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+269,oncology,"1,407",Chongqing Medical University,China,Yuzhong,33.7,29.9,N/A,https://www.usnews.com/education/best-global-universities/chongqing-medical-university-529043
+270,oncology,226,Universiti Malaya,Malaysia,Kuala Lumpur,33.5,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+271,oncology,472,Humanitas University,Italy,Milan,33.3,52.4,N/A,https://www.usnews.com/education/best-global-universities/humanitas-university-529627
+272,oncology,540,Jinan University,China,Guangzhou,33.3,50,N/A,https://www.usnews.com/education/best-global-universities/jinan-university-505051
+273,oncology,860,Loyola University Chicago,United States,Chicago,33.3,41.8,N/A,https://www.usnews.com/education/best-global-universities/loyola-university-chicago-146719
+274,oncology,23,Tsinghua University,China,Beijing,33.3,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+275,oncology,286,State University of New York (SUNY) Buffalo,United States,Buffalo,33,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+276,oncology,"1,758",Fujian Medical University,China,Fuzhou,32.9,21.4,N/A,https://www.usnews.com/education/best-global-universities/fujian-medical-university-529622
+277,oncology,643,University of Louisville,United States,Louisville,32.7,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-louisville-157289
+278,oncology,"1,309",Nanjing University of Chinese Medicine,China,Nanjing,32.6,32,N/A,https://www.usnews.com/education/best-global-universities/nanjing-university-of-chinese-medicine-529308
+279,oncology,295,University of Pavia,Italy,Pavia,32.6,58.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-pavia-502948
+280,oncology,"1,088",Chang Gung University,Taiwan,Taoyuan City,32.5,36.8,"7,016",https://www.usnews.com/education/best-global-universities/chang-gung-university-505417
+281,oncology,271,George Washington University,United States,"Washington, D.C.",32.4,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+282,oncology,"1,049",Kumamoto University,Japan,Kumamoto,32.4,37.6,"9,536",https://www.usnews.com/education/best-global-universities/kumamoto-university-505102
+283,oncology,234,Southeast University - China,China,Nanjing,32.3,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+284,oncology,286,Tohoku University,Japan,Sendai,32,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+285,oncology,561,Universita di Modena e Reggio Emilia,Italy,Modena,32,49.3,N/A,https://www.usnews.com/education/best-global-universities/universita-di-modena-e-reggio-emilia-501966
+286,oncology,93,University of Bristol,United Kingdom,Bristol,31.9,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+287,oncology,"1,060",Kanazawa University,Japan,Kanazawa,31.8,37.4,"9,888",https://www.usnews.com/education/best-global-universities/kanazawa-university-503283
+288,oncology,349,Kyushu University,Japan,Fukuoka,31.8,56.1,N/A,https://www.usnews.com/education/best-global-universities/kyushu-university-505482
+289,oncology,356,University of Kentucky,United States,Lexington,31.5,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+290,oncology,146,University of Gothenburg,Sweden,Gothenburg,31.4,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+291,oncology,309,Temple University,United States,Philadelphia,31.2,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+292,oncology,512,Mahidol University,Thailand,Salaya,31.1,50.7,"28,477",https://www.usnews.com/education/best-global-universities/mahidol-university-503481
+293,oncology,605,Masaryk University Brno,Czech Republic,Brno,31.1,48.2,"32,271",https://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917
+294,oncology,346,Ruhr University Bochum,Germany,Bochum,31.1,56.2,N/A,https://www.usnews.com/education/best-global-universities/ruhr-university-bochum-500459
+295,oncology,250,University of Illinois Chicago,United States,Chicago,31.1,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+296,oncology,432,Hokkaido University,Japan,Sapporo,31,53.6,N/A,https://www.usnews.com/education/best-global-universities/hokkaido-university-501928
+297,oncology,907,Taipei Medical University,Taiwan,Taipei City,31,40.8,N/A,https://www.usnews.com/education/best-global-universities/taipei-medical-university-501451
+298,oncology,400,Tampere University,Finland,Tampere,30.8,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+299,oncology,"1,032",University of Eastern Piedmont Amedeo Avogadro,Italy,Vercelli,30.8,38.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-eastern-piedmont-amedeo-avogadro-528952
+300,oncology,311,University of New Mexico,United States,Albuquerque,30.8,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+301,oncology,339,Jagiellonian University,Poland,Krakow,30.7,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+302,oncology,526,University of Brescia,Italy,Brescia,30.7,50.3,"15,134",https://www.usnews.com/education/best-global-universities/university-of-brescia-502286
+303,oncology,231,University of Newcastle,Australia,Callaghan,30.5,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+304,oncology,517,Tehran University of Medical Sciences,Iran,Tehran,30.4,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+305,oncology,478,Universite Cote d'Azur,France,Nice,30.3,52.2,N/A,https://www.usnews.com/education/best-global-universities/universite-cote-dazur-529682
+306,oncology,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,30.2,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+307,oncology,317,Technion Israel Institute of Technology,Israel,Haifa,30.2,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+308,oncology,290,Korea University,South Korea,Seoul,30.1,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+309,oncology,"1,190",Catholic University of Korea,South Korea,Bucheon,29.9,34.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-korea-504494
+310,oncology,493,Universite de Rennes 1,France,Rennes,29.5,51.6,N/A,https://www.usnews.com/education/best-global-universities/universite-de-rennes-1-504447
+311,oncology,653,University of Lubeck,Germany,Lubeck,29.5,46.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-lubeck-528857
+312,oncology,770,University of Salamanca,Spain,Salamanca,29.5,43.9,"27,920",https://www.usnews.com/education/best-global-universities/university-of-salamanca-502705
+313,oncology,794,Qingdao University,China,Qingdao,29.4,43.3,"42,809",https://www.usnews.com/education/best-global-universities/qingdao-university-529026
+314,oncology,372,University of Manitoba,Canada,Winnipeg,29.3,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+315,oncology,583,Kobe University,Japan,Kobe,28.8,48.7,"15,478",https://www.usnews.com/education/best-global-universities/kobe-university-504263
+316,oncology,"1,535",Dalian Medical University,China,Dalian,28.7,27,N/A,https://www.usnews.com/education/best-global-universities/dalian-medical-university-529283
+317,oncology,196,Pompeu Fabra University,Spain,Barcelona,28.7,63.2,"11,965",https://www.usnews.com/education/best-global-universities/pompeu-fabra-university-504748
+318,oncology,314,Dalhousie University,Canada,Halifax,28.6,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+319,oncology,309,University of Connecticut,United States,Storrs,28.6,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+320,oncology,472,American University of Beirut,Lebanon,Beirut,28.5,52.4,"9,267",https://www.usnews.com/education/best-global-universities/american-university-of-beirut-499994
+321,oncology,"1,225",Shantou University,China,Shantou,28.3,33.8,N/A,https://www.usnews.com/education/best-global-universities/shantou-university-529179
+322,oncology,520,University of Sevilla,Spain,Seville,28.2,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+323,oncology,745,Istanbul University,Turkey,Istanbul,28.1,44.5,"59,250",https://www.usnews.com/education/best-global-universities/istanbul-university-502403
+324,oncology,"1,741",Nippon Medical School,Japan,Tokyo,28.1,21.9,N/A,https://www.usnews.com/education/best-global-universities/nippon-medical-school-529119
+325,oncology,277,Universite de Strasbourg,France,Strasbourg,28.1,59.3,N/A,https://www.usnews.com/education/best-global-universities/universite-de-strasbourg-501292
+326,oncology,835,Chiba University,Japan,Chiba-shi,28,42.3,N/A,https://www.usnews.com/education/best-global-universities/chiba-university-503793
+327,oncology,271,Shenzhen University,China,Shenzhen,28,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+328,oncology,219,South China University of Technology,China,Guangzhou,28,61.9,"40,082",https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115
+329,oncology,935,China Pharmaceutical University,China,Nanjing,27.9,40.1,"24,270",https://www.usnews.com/education/best-global-universities/china-pharmaceutical-university-502614
+330,oncology,"1,774",Guangxi Medical University,China,Nanning,27.4,21,N/A,https://www.usnews.com/education/best-global-universities/guangxi-medical-university-529620
+331,oncology,461,University of Catania,Italy,Catania,27.3,52.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-catania-504106
+332,oncology,300,University of Rome Tor Vergata,Italy,Rome,27.2,58.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-rome-tor-vergata-500808
+333,oncology,"1,812",Saitama Medical University,Japan,Iruma,27,19.4,N/A,https://www.usnews.com/education/best-global-universities/saitama-medical-university-529373
+334,oncology,148,Texas A&M University College Station,United States,College Station,26.6,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+335,oncology,342,University of Turku,Finland,Turku,26.5,56.4,"12,919",https://www.usnews.com/education/best-global-universities/university-of-turku-504089
+336,oncology,"1,718",Kurume University,Japan,Kurume,26.3,22.6,N/A,https://www.usnews.com/education/best-global-universities/kurume-university-529122
+337,oncology,510,University of Vermont,United States,Burlington,26.3,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-vermont-231174
+338,oncology,605,University of Crete,Greece,Rethymnon,26.2,48.2,"13,808",https://www.usnews.com/education/best-global-universities/university-of-crete-501556
+339,oncology,564,University of Ferrara,Italy,Ferrara,26.2,49.2,"20,507",https://www.usnews.com/education/best-global-universities/university-of-ferrara-503123
+340,oncology,745,Nanchang University,China,Nanchang,26.1,44.5,N/A,https://www.usnews.com/education/best-global-universities/nanchang-university-529112
+341,oncology,"1,126",University Campus Bio-Medico - Rome Italy,Italy,Rome,26,36,N/A,https://www.usnews.com/education/best-global-universities/university-campus-bio-medico-rome-italy-528992
+342,oncology,247,Xiamen University,China,Xiamen,26,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+343,oncology,844,Chonnam National University,South Korea,Gwangju,25.9,42.2,"24,436",https://www.usnews.com/education/best-global-universities/chonnam-national-university-503755
+344,oncology,426,Flinders University South Australia,Australia,Bedford Park,25.9,53.8,"17,366",https://www.usnews.com/education/best-global-universities/flinders-university-south-australia-504837
+345,oncology,997,Universite de Caen Normandie,France,Caen,25.9,38.8,N/A,https://www.usnews.com/education/best-global-universities/universite-de-caen-normandie-528879
+346,oncology,432,University of Tsukuba,Japan,Tsukuba,25.8,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+347,oncology,267,Aalborg University,Denmark,Aalborg,25.6,59.8,"16,818",https://www.usnews.com/education/best-global-universities/aalborg-university-501276
+348,oncology,667,Hiroshima University,Japan,Hiroshima,25.4,46.5,"14,612",https://www.usnews.com/education/best-global-universities/hiroshima-university-502589
+349,oncology,844,Jiangsu University,China,Zhenjiang,25.2,42.2,"35,687",https://www.usnews.com/education/best-global-universities/jiangsu-university-501438
+350,oncology,"1,180",Tokyo Medical University,Japan,Tokyo,25.1,34.7,N/A,https://www.usnews.com/education/best-global-universities/tokyo-medical-university-529058
+351,oncology,486,Rush University,United States,Chicago,24.9,51.8,N/A,https://www.usnews.com/education/best-global-universities/rush-university-148511
+352,oncology,"1,431",Shanghai University of Traditional Chinese Medicine,China,Shanghai,24.9,29.3,"11,937",https://www.usnews.com/education/best-global-universities/shanghai-university-of-traditional-chinese-medicine-529292
+353,oncology,213,King Saud University,Saudi Arabia,Riyadh,24.8,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+354,oncology,"1,394",Guangzhou University of Chinese Medicine,China,Guangzhou,24.6,30.2,N/A,https://www.usnews.com/education/best-global-universities/guangzhou-university-of-chinese-medicine-529492
+355,oncology,432,Universita degli Studi di Bari Aldo Moro,Italy,Bari,24.6,53.6,"42,689",https://www.usnews.com/education/best-global-universities/universita-degli-studi-di-bari-aldo-moro-505560
+356,oncology,"1,705",Wakayama Medical University,Japan,Wakayama,24.6,22.9,N/A,https://www.usnews.com/education/best-global-universities/wakayama-medical-university-529624
+357,oncology,970,Henan University,China,Kaifeng,24.5,39.4,N/A,https://www.usnews.com/education/best-global-universities/henan-university-529507
+358,oncology,794,Iran University of Medical Sciences,Iran,Tehran,24.5,43.3,N/A,https://www.usnews.com/education/best-global-universities/iran-university-of-medical-sciences-529414
+359,oncology,"1,425",Asia University Taiwan,Taiwan,Taichung City,24.4,29.5,"11,421",https://www.usnews.com/education/best-global-universities/asia-university-taiwan-529037
+360,oncology,239,Tufts University,United States,Medford,24.4,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+361,oncology,547,Philipps University Marburg,Germany,Marburg,24.1,49.8,N/A,https://www.usnews.com/education/best-global-universities/philipps-university-marburg-502174
+362,oncology,"1,233",Juntendo University,Japan,Tokyo,23.7,33.7,N/A,https://www.usnews.com/education/best-global-universities/juntendo-university-502999
+363,oncology,866,Universite d'Angers,France,Angers,23.3,41.7,N/A,https://www.usnews.com/education/best-global-universities/universite-dangers-528967
+364,oncology,203,Griffith University,Australia,Nathan,23.2,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+365,oncology,123,University of Auckland,New Zealand,Auckland,23.2,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+366,oncology,"1,208",Kaohsiung Medical University,Taiwan,Kaohsiung City,23.1,34.2,"6,490",https://www.usnews.com/education/best-global-universities/kaohsiung-medical-university-505935
+367,oncology,884,Tokyo Medical & Dental University (TMDU),Japan,Tokyo,23,41.2,N/A,https://www.usnews.com/education/best-global-universities/tokyo-medical-dental-university-tmdu-505893
+368,oncology,"1,431",Poznan University of Medical Sciences,Poland,Poznan,22.9,29.3,N/A,https://www.usnews.com/education/best-global-universities/poznan-university-of-medical-sciences-529261
+369,oncology,43,University of Texas Austin,United States,Austin,22.6,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+370,oncology,363,Cairo University,Egypt,Giza,22.4,55.6,"208,524",https://www.usnews.com/education/best-global-universities/cairo-university-501834
+371,oncology,313,University of Granada,Spain,Granada,22.4,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+372,oncology,618,University of Udine,Italy,Udine,22.4,47.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-udine-504338
+373,oncology,540,Ain Shams University,Egypt,Cairo,22.3,50,"146,668",https://www.usnews.com/education/best-global-universities/ain-shams-university-500744
+374,oncology,330,Linkoping University,Sweden,Linkoping,22.2,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+375,oncology,441,University of Massachusetts Worcester,United States,Worcester,22.2,53.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-worcester-166708
+376,oncology,416,University of Trieste,Italy,Trieste,22.1,54,"16,677",https://www.usnews.com/education/best-global-universities/university-of-trieste-500914
+377,oncology,662,Marche Polytechnic University,Italy,Ancona,21.5,46.6,N/A,https://www.usnews.com/education/best-global-universities/marche-polytechnic-university-503536
+378,oncology,256,Nankai University,China,Nankai,21.5,60.3,"31,322",https://www.usnews.com/education/best-global-universities/nankai-university-505981
+379,oncology,202,Universidade de Lisboa,Portugal,Lisbon,21.2,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+380,oncology,"1,907",Hebei Medical University,China,Shijiazhuang,21.1,15.2,N/A,https://www.usnews.com/education/best-global-universities/hebei-medical-university-529919
+381,oncology,573,University of Palermo,Italy,Palermo,21.1,49,N/A,https://www.usnews.com/education/best-global-universities/university-of-palermo-501535
+382,oncology,"1,386",Gachon University,South Korea,Seongnam,20.9,30.4,N/A,https://www.usnews.com/education/best-global-universities/gachon-university-529167
+383,oncology,"1,106",Medical University of Warsaw,Poland,Warsaw,20.9,36.4,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-warsaw-529008
+384,oncology,"1,037",University of Arkansas Medical Sciences,United States,Little Rock,20.9,37.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-arkansas-medical-sciences-106263
+385,oncology,935,G d'Annunzio University of Chieti-Pescara,Italy,Chieti,20.8,40.1,N/A,https://www.usnews.com/education/best-global-universities/g-dannunzio-university-of-chieti-pescara-529183
+386,oncology,779,University of Rostock,Germany,Rostock,20.5,43.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-rostock-500634
+387,oncology,65,King Abdulaziz University,Saudi Arabia,Jeddah,20.4,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+388,oncology,649,Saint Louis University,United States,St. Louis,20.3,47,N/A,https://www.usnews.com/education/best-global-universities/saint-louis-university-179159
+389,oncology,"1,291",Medical University Lodz,Poland,Lodz,20.2,32.3,N/A,https://www.usnews.com/education/best-global-universities/medical-university-lodz-529195
+390,oncology,363,University of South Australia,Australia,Adelaide,20.2,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+391,oncology,"1,567",Showa University,Japan,Tokyo,20.1,26.3,N/A,https://www.usnews.com/education/best-global-universities/showa-university-529125
+392,oncology,459,University of Belgrade,Serbia,Belgrade,20.1,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+393,oncology,"1,085",Osaka Metropolitan University,Japan,Osaka,20,36.9,"15,782",https://www.usnews.com/education/best-global-universities/osaka-metropolitan-university-530032
+394,oncology,231,University of Electronic Science & Technology of China,China,Chengdu,20,61.4,"35,232",https://www.usnews.com/education/best-global-universities/university-of-electronic-science-technology-of-china-506780
+395,oncology,"1,844",Pochon Cha University,South Korea,Pocheon,19.9,18.2,N/A,https://www.usnews.com/education/best-global-universities/pochon-cha-university-529476
+396,oncology,"1,417",Nantong University,China,Nantong,19.7,29.7,N/A,https://www.usnews.com/education/best-global-universities/nantong-university-529473
+397,oncology,"1,184",Tokai University,Japan,Hiratsuka,19.7,34.6,N/A,https://www.usnews.com/education/best-global-universities/tokai-university-505943
+398,oncology,"1,753",Kunming Medical University,China,Kunming,19.5,21.5,N/A,https://www.usnews.com/education/best-global-universities/kunming-medical-university-529921
+399,oncology,"1,694",Xuzhou Medical University,China,Xuzhou,19.2,23.1,N/A,https://www.usnews.com/education/best-global-universities/xuzhou-medical-university-529926
+400,oncology,"1,795",Guangdong Medical University,China,Zhanjiang,18.8,20.2,N/A,https://www.usnews.com/education/best-global-universities/guangdong-medical-university-529485

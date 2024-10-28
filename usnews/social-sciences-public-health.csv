@@ -1,0 +1,501 @@
+,subject_name,global_ranking,school_name,country,area,subject_score,global_score,enrollment,url
+1,social-sciences-public-health,1,Harvard University,United States,Cambridge (U.S.),100,100,"21,887",https://www.usnews.com/education/best-global-universities/harvard-university-166027
+2,social-sciences-public-health,5,University of Oxford,United Kingdom,Oxford,88.2,86.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637
+3,social-sciences-public-health,10,Johns Hopkins University,United States,Baltimore,86.2,84.7,"17,584",https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928
+4,social-sciences-public-health,12,University College London,United Kingdom,London (U.K.),85.2,84.4,"36,900",https://www.usnews.com/education/best-global-universities/university-college-london-501693
+5,social-sciences-public-health,3,Stanford University,United States,Stanford,84.8,95.2,"16,164",https://www.usnews.com/education/best-global-universities/stanford-university-243744
+6,social-sciences-public-health,19,University of Michigan,United States,Ann Arbor,83.7,83.4,"46,146",https://www.usnews.com/education/best-global-universities/university-of-michigan-170976
+7,social-sciences-public-health,6,University of Washington Seattle,United States,Seattle,81.8,86.6,"47,727",https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948
+8,social-sciences-public-health,7,Columbia University,United States,New York City,81,86.5,"21,781",https://www.usnews.com/education/best-global-universities/columbia-university-190150
+9,social-sciences-public-health,18,University of Toronto,Canada,Toronto,80.8,83.8,"77,468",https://www.usnews.com/education/best-global-universities/university-of-toronto-499968
+10,social-sciences-public-health,129,London School of Hygiene & Tropical Medicine,United Kingdom,London (U.K.),79.7,67.5,N/A,https://www.usnews.com/education/best-global-universities/london-school-of-hygiene-tropical-medicine-503353
+11,social-sciences-public-health,8,University of Cambridge,United Kingdom,Cambridge (U.K.),79.5,86.1,"20,385",https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149
+12,social-sciences-public-health,41,University of North Carolina Chapel Hill,United States,Chapel Hill,79.5,76.7,"30,845",https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120
+13,social-sciences-public-health,35,University of British Columbia,Canada,Vancouver,78.3,77.5,"58,590",https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976
+14,social-sciences-public-health,11,Yale University,United States,New Haven,78.1,84.6,"13,482",https://www.usnews.com/education/best-global-universities/yale-university-130794
+15,social-sciences-public-health,44,Utrecht University,Netherlands,Utrecht,77.8,75.7,"32,532",https://www.usnews.com/education/best-global-universities/utrecht-university-505962
+16,social-sciences-public-health,2,Massachusetts Institute of Technology (MIT),United States,Cambridge (U.S.),77.2,97.7,"11,415",https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683
+17,social-sciences-public-health,4,University of California Berkeley,United States,Berkeley,76.4,88.7,"40,921",https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635
+18,social-sciences-public-health,14,University of California Los Angeles,United States,Los Angeles,76.3,84.2,"43,289",https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662
+19,social-sciences-public-health,27,University of Melbourne,Australia,Parkville,76,80.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796
+20,social-sciences-public-health,15,University of Pennsylvania,United States,Philadelphia,75.7,84,"21,453",https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062
+21,social-sciences-public-health,28,University of Sydney,Australia,Sydney,75.4,79.9,"47,118",https://www.usnews.com/education/best-global-universities/university-of-sydney-505369
+22,social-sciences-public-health,25,Duke University,United States,"Durham (North Carolina, U.S.)",74.6,80.7,N/A,https://www.usnews.com/education/best-global-universities/duke-university-198419
+23,social-sciences-public-health,16,University of California San Francisco,United States,San Francisco,74.5,83.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699
+24,social-sciences-public-health,39,University of Amsterdam,Netherlands,Amsterdam,74.2,76.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957
+25,social-sciences-public-health,100,Hong Kong Polytechnic University,Hong Kong,Kowloon,74,70.2,"19,046",https://www.usnews.com/education/best-global-universities/hong-kong-polytechnic-university-500421
+26,social-sciences-public-health,55,University of Hong Kong,Hong Kong,Pok Fu Lam,74,74.4,"18,087",https://www.usnews.com/education/best-global-universities/university-of-hong-kong-505046
+27,social-sciences-public-health,36,University of Queensland,Australia,Brisbane,73.6,77.2,"41,372",https://www.usnews.com/education/best-global-universities/university-of-queensland-500164
+28,social-sciences-public-health,13,Imperial College London,United Kingdom,London (U.K.),72.9,84.3,"18,455",https://www.usnews.com/education/best-global-universities/imperial-college-london-505571
+29,social-sciences-public-health,33,King's College London,United Kingdom,London (U.K.),72.6,77.9,"29,240",https://www.usnews.com/education/best-global-universities/kings-college-london-500330
+30,social-sciences-public-health,31,New York University,United States,New York City,72.5,78.5,"36,337",https://www.usnews.com/education/best-global-universities/new-york-university-193900
+31,social-sciences-public-health,65,Erasmus University Rotterdam,Netherlands,Rotterdam,72.1,73.4,N/A,https://www.usnews.com/education/best-global-universities/erasmus-university-rotterdam-500349
+32,social-sciences-public-health,57,University of Minnesota Twin Cities,United States,Minneapolis,71.9,74.3,"45,276",https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066
+33,social-sciences-public-health,42,University of Copenhagen,Denmark,Copenhagen,71.8,76.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710
+34,social-sciences-public-health,37,Monash University,Australia,Clayton,71.3,77,"58,725",https://www.usnews.com/education/best-global-universities/monash-university-500301
+35,social-sciences-public-health,26,National University of Singapore,Singapore,Singapore,71,80.4,"32,337",https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009
+36,social-sciences-public-health,21,Cornell University,United States,Ithaca,70.9,82.9,"24,027",https://www.usnews.com/education/best-global-universities/cornell-university-190415
+37,social-sciences-public-health,236,London School Economics & Political Science,United Kingdom,London (U.K.),70.9,61.2,"11,310",https://www.usnews.com/education/best-global-universities/london-school-economics-political-science-502076
+38,social-sciences-public-health,156,Arizona State University-Tempe,United States,Tempe,70.7,65.9,"50,027",https://www.usnews.com/education/best-global-universities/arizona-state-university-tempe-104151
+39,social-sciences-public-health,70,Boston University,United States,Boston,70.7,73.1,"27,243",https://www.usnews.com/education/best-global-universities/boston-university-164988
+40,social-sciences-public-health,54,McGill University,Canada,Montreal,70.7,74.6,"32,309",https://www.usnews.com/education/best-global-universities/mcgill-university-499986
+41,social-sciences-public-health,20,University of California San Diego,United States,La Jolla,70.7,83.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680
+42,social-sciences-public-health,43,University of Texas Austin,United States,Austin,70.7,75.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778
+43,social-sciences-public-health,82,Vrije Universiteit Amsterdam,Netherlands,Amsterdam,70.4,72.3,N/A,https://www.usnews.com/education/best-global-universities/vrije-universiteit-amsterdam-500669
+44,social-sciences-public-health,37,University of New South Wales Sydney,Australia,Kensington,70.3,77,"45,133",https://www.usnews.com/education/best-global-universities/university-of-new-south-wales-sydney-502434
+45,social-sciences-public-health,39,Peking University,China,Beijing,70.1,76.8,"31,994",https://www.usnews.com/education/best-global-universities/peking-university-501148
+46,social-sciences-public-health,84,Pennsylvania State University,United States,University Park,70.1,71.9,"46,863",https://www.usnews.com/education/best-global-universities/pennsylvania-state-university-214777
+47,social-sciences-public-health,89,Wageningen University & Research,Netherlands,Wageningen,69.8,71.3,"15,404",https://www.usnews.com/education/best-global-universities/wageningen-university-research-501112
+48,social-sciences-public-health,80,University of Southern California,United States,Los Angeles,69.6,72.5,"42,502",https://www.usnews.com/education/best-global-universities/university-of-southern-california-123961
+49,social-sciences-public-health,116,Michigan State University,United States,East Lansing,69.4,68.8,"45,465",https://www.usnews.com/education/best-global-universities/michigan-state-university-171100
+50,social-sciences-public-health,63,University of Manchester,United Kingdom,Manchester,69.1,73.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-manchester-500273
+51,social-sciences-public-health,72,Emory University,United States,Atlanta,69,73,"13,190",https://www.usnews.com/education/best-global-universities/emory-university-139658
+52,social-sciences-public-health,34,University of Edinburgh,United Kingdom,Edinburgh,69,77.8,"32,800",https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832
+53,social-sciences-public-health,63,University of Wisconsin Madison,United States,Madison,68.9,73.8,"40,701",https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444
+54,social-sciences-public-health,23,Tsinghua University,China,Beijing,68.8,81.3,N/A,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146
+55,social-sciences-public-health,55,Ohio State University,United States,Columbus,68.6,74.4,"55,814",https://www.usnews.com/education/best-global-universities/ohio-state-university-204796
+56,social-sciences-public-health,57,University of Maryland College Park,United States,College Park,68.4,74.3,"33,775",https://www.usnews.com/education/best-global-universities/university-of-maryland-college-park-163286
+57,social-sciences-public-health,175,University of Sussex,United Kingdom,Brighton,68.2,64.2,"18,015",https://www.usnews.com/education/best-global-universities/university-of-sussex-503906
+58,social-sciences-public-health,93,University of Bristol,United Kingdom,Bristol,68,70.7,"25,660",https://www.usnews.com/education/best-global-universities/university-of-bristol-505342
+59,social-sciences-public-health,29,ETH Zurich,Switzerland,Zurich,67.6,79.3,"21,209",https://www.usnews.com/education/best-global-universities/eth-zurich-502241
+60,social-sciences-public-health,24,Northwestern University,United States,Evanston,67.6,81.2,"18,803",https://www.usnews.com/education/best-global-universities/northwestern-university-147767
+61,social-sciences-public-health,89,University of Oslo,Norway,Oslo,67.6,71.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-oslo-502680
+62,social-sciences-public-health,51,Karolinska Institutet,Sweden,Stockholm,67.3,74.9,"8,021",https://www.usnews.com/education/best-global-universities/karolinska-institutet-503151
+63,social-sciences-public-health,112,Lund University,Sweden,Lund,67.2,69,N/A,https://www.usnews.com/education/best-global-universities/lund-university-500083
+64,social-sciences-public-health,169,Delft University of Technology,Netherlands,Delft,67,65.1,N/A,https://www.usnews.com/education/best-global-universities/delft-university-of-technology-505496
+65,social-sciences-public-health,127,Stockholm University,Sweden,Stockholm,66.8,67.8,N/A,https://www.usnews.com/education/best-global-universities/stockholm-university-505458
+66,social-sciences-public-health,129,Sun Yat Sen University,China,Guangzhou,66.6,67.5,"58,208",https://www.usnews.com/education/best-global-universities/sun-yat-sen-university-506062
+67,social-sciences-public-health,125,University of Cape Town,South Africa,Cape Town,66.6,68,"21,069",https://www.usnews.com/education/best-global-universities/university-of-cape-town-504187
+68,social-sciences-public-health,109,Aarhus University,Denmark,Aarhus,66.4,69.1,"26,475",https://www.usnews.com/education/best-global-universities/aarhus-university-502125
+69,social-sciences-public-health,50,KU Leuven,Belgium,Leuven,66.3,75.1,"47,663",https://www.usnews.com/education/best-global-universities/ku-leuven-504785
+70,social-sciences-public-health,134,University of Sheffield,United Kingdom,Sheffield,66.3,67.3,"27,840",https://www.usnews.com/education/best-global-universities/university-of-sheffield-503922
+71,social-sciences-public-health,152,Indiana University Bloomington,United States,Bloomington,66.1,66.1,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-bloomington-151351
+72,social-sciences-public-health,140,University of Leeds,United Kingdom,Leeds,65.5,66.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-leeds-505265
+73,social-sciences-public-health,67,University of Zurich,Switzerland,Zurich,65.2,73.3,"25,255",https://www.usnews.com/education/best-global-universities/university-of-zurich-505287
+74,social-sciences-public-health,16,Princeton University,United States,Princeton,65.1,83.9,N/A,https://www.usnews.com/education/best-global-universities/princeton-university-186131
+75,social-sciences-public-health,22,University of Chicago,United States,Chicago,65.1,82.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050
+76,social-sciences-public-health,62,Australian National University,Australia,Canberra,64.9,73.9,"16,758",https://www.usnews.com/education/best-global-universities/australian-national-university-503825
+77,social-sciences-public-health,95,Ghent University,Belgium,Gent,64.9,70.6,"39,437",https://www.usnews.com/education/best-global-universities/ghent-university-506883
+78,social-sciences-public-health,150,Wuhan University,China,Wuhan,64.4,66.2,N/A,https://www.usnews.com/education/best-global-universities/wuhan-university-503252
+79,social-sciences-public-health,203,Griffith University,Australia,Nathan,64.3,62.8,"35,900",https://www.usnews.com/education/best-global-universities/griffith-university-501686
+80,social-sciences-public-health,32,Washington University (WUSTL),United States,St. Louis,64.2,78.1,"14,761",https://www.usnews.com/education/best-global-universities/washington-university-wustl-179867
+81,social-sciences-public-health,45,University of Pittsburgh,United States,Pittsburgh,63.9,75.6,"26,575",https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293
+82,social-sciences-public-health,74,University of Illinois Urbana-Champaign,United States,Champaign,63.8,72.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-urbana-champaign-145637
+83,social-sciences-public-health,143,Rutgers State University New Brunswick,United States,Piscataway Township,63.7,66.8,"46,158",https://www.usnews.com/education/best-global-universities/rutgers-state-university-new-brunswick-186380
+84,social-sciences-public-health,98,University of Florida,United States,Gainesville,63.2,70.4,"46,807",https://www.usnews.com/education/best-global-universities/university-of-florida-134130
+85,social-sciences-public-health,324,University of Georgia,United States,"Athens (Georgia, U.S.)",63,57.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-georgia-139959
+86,social-sciences-public-health,74,Leiden University,Netherlands,Leiden,62.9,72.8,N/A,https://www.usnews.com/education/best-global-universities/leiden-university-503069
+87,social-sciences-public-health,196,Tongji University,China,Shanghai,62.7,63.2,"30,153",https://www.usnews.com/education/best-global-universities/tongji-university-501326
+88,social-sciences-public-health,88,University of Groningen,Netherlands,Groningen,62.7,71.5,"30,009",https://www.usnews.com/education/best-global-universities/university-of-groningen-500967
+89,social-sciences-public-health,99,University of Helsinki,Finland,Helsinki,62.7,70.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-helsinki-501989
+90,social-sciences-public-health,129,Brown University,United States,Providence,62.5,67.5,"10,037",https://www.usnews.com/education/best-global-universities/brown-university-217156
+91,social-sciences-public-health,217,Deakin University,Australia,Burwood,62.5,62.1,"43,080",https://www.usnews.com/education/best-global-universities/deakin-university-504884
+92,social-sciences-public-health,215,University of Ottawa,Canada,Ottawa,62.5,62.2,"36,670",https://www.usnews.com/education/best-global-universities/university-of-ottawa-499972
+93,social-sciences-public-health,269,Beijing Normal University,China,Beijing,62.2,59.7,N/A,https://www.usnews.com/education/best-global-universities/beijing-normal-university-506588
+94,social-sciences-public-health,53,Chinese University of Hong Kong,Hong Kong,Shatin,62.2,74.7,"18,468",https://www.usnews.com/education/best-global-universities/chinese-university-of-hong-kong-502973
+95,social-sciences-public-health,109,Huazhong University of Science & Technology,China,Wuhan,62.2,69.1,"57,167",https://www.usnews.com/education/best-global-universities/huazhong-university-of-science-technology-505190
+96,social-sciences-public-health,271,George Washington University,United States,"Washington, D.C.",62,59.6,"22,298",https://www.usnews.com/education/best-global-universities/george-washington-university-131469
+97,social-sciences-public-health,30,Nanyang Technological University,Singapore,Singapore,61.9,79,"24,651",https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366
+98,social-sciences-public-health,104,University of Southampton,United Kingdom,Southampton,61.9,69.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-southampton-504892
+99,social-sciences-public-health,346,University of South Carolina Columbia,United States,Columbia,61.9,56.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-south-carolina-columbia-218663
+100,social-sciences-public-health,171,Queensland University of Technology (QUT),Australia,Brisbane,61.6,64.7,"37,165",https://www.usnews.com/education/best-global-universities/queensland-university-of-technology-qut-504619
+101,social-sciences-public-health,143,Autonomous University of Barcelona,Spain,Barcelona,61.5,66.8,"31,933",https://www.usnews.com/education/best-global-universities/autonomous-university-of-barcelona-505700
+102,social-sciences-public-health,317,Simon Fraser University,Canada,Burnaby,61.5,57.6,"26,981",https://www.usnews.com/education/best-global-universities/simon-fraser-university-499981
+103,social-sciences-public-health,152,University of Exeter,United Kingdom,Exeter,61.5,66.1,"24,940",https://www.usnews.com/education/best-global-universities/university-of-exeter-502021
+104,social-sciences-public-health,47,University of Munich,Germany,Munich,61.5,75.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-munich-500951
+105,social-sciences-public-health,73,University of California Davis,United States,Davis,61.3,72.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-davis-110644
+106,social-sciences-public-health,241,Florida State University,United States,Tallahassee,61.1,60.9,"39,380",https://www.usnews.com/education/best-global-universities/florida-state-university-134097
+107,social-sciences-public-health,138,McMaster University,Canada,Hamilton,61.1,67,N/A,https://www.usnews.com/education/best-global-universities/mcmaster-university-502196
+108,social-sciences-public-health,156,Universite de Montreal,Canada,Montreal,61.1,65.9,"38,189",https://www.usnews.com/education/best-global-universities/universite-de-montreal-506159
+109,social-sciences-public-health,123,University of Auckland,New Zealand,Auckland,61.1,68.2,"33,093",https://www.usnews.com/education/best-global-universities/university-of-auckland-503786
+110,social-sciences-public-health,413,University of Central Florida,United States,Orlando,61.1,54.1,"62,248",https://www.usnews.com/education/best-global-universities/university-of-central-florida-132903
+111,social-sciences-public-health,78,Vanderbilt University,United States,Nashville,60.9,72.7,N/A,https://www.usnews.com/education/best-global-universities/vanderbilt-university-221999
+112,social-sciences-public-health,61,Humboldt University of Berlin,Germany,Berlin,60.8,74,"34,399",https://www.usnews.com/education/best-global-universities/humboldt-university-of-berlin-506698
+113,social-sciences-public-health,127,Uppsala University,Sweden,Uppsala,60.8,67.8,N/A,https://www.usnews.com/education/best-global-universities/uppsala-university-501990
+114,social-sciences-public-health,324,Georgetown University,United States,"Washington, D.C.",60.3,57.3,"16,074",https://www.usnews.com/education/best-global-universities/georgetown-university-131496
+115,social-sciences-public-health,120,Universidade de Sao Paulo,Brazil,Sao Paulo,60.3,68.5,"82,010",https://www.usnews.com/education/best-global-universities/universidade-de-sao-paulo-500437
+116,social-sciences-public-health,140,Purdue University West Lafayette Campus,United States,West Lafayette,60,66.9,N/A,https://www.usnews.com/education/best-global-universities/purdue-university-west-lafayette-campus-243780
+117,social-sciences-public-health,146,University of Gothenburg,Sweden,Gothenburg,59.9,66.6,"20,901",https://www.usnews.com/education/best-global-universities/university-of-gothenburg-501869
+118,social-sciences-public-health,160,Curtin University,Australia,Bentley,59.8,65.8,"29,999",https://www.usnews.com/education/best-global-universities/curtin-university-503377
+119,social-sciences-public-health,93,Zhejiang University,China,Hangzhou,59.8,70.7,"44,636",https://www.usnews.com/education/best-global-universities/zhejiang-university-504773
+120,social-sciences-public-health,309,Temple University,United States,Philadelphia,59.7,58,"35,641",https://www.usnews.com/education/best-global-universities/temple-university-216339
+121,social-sciences-public-health,280,University of York - UK,United Kingdom,York,59.6,59.2,"17,965",https://www.usnews.com/education/best-global-universities/university-of-york-uk-505776
+122,social-sciences-public-health,148,Texas A&M University College Station,United States,College Station,59.1,66.5,"62,931",https://www.usnews.com/education/best-global-universities/texas-am-university-college-station-228723
+123,social-sciences-public-health,261,University of Southern Denmark,Denmark,Odense,59,60.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-southern-denmark-500382
+124,social-sciences-public-health,199,University of Bergen,Norway,Bergen,58.9,63,"15,202",https://www.usnews.com/education/best-global-universities/university-of-bergen-500374
+125,social-sciences-public-health,57,Ruprecht Karls University Heidelberg,Germany,Heidelberg,58.8,74.3,"19,347",https://www.usnews.com/education/best-global-universities/ruprecht-karls-university-heidelberg-506277
+126,social-sciences-public-health,84,University of California Irvine,United States,Irvine,58.7,71.9,"36,655",https://www.usnews.com/education/best-global-universities/university-of-california-irvine-110653
+127,social-sciences-public-health,191,University of Waterloo,Canada,Waterloo,58.7,63.5,"34,306",https://www.usnews.com/education/best-global-universities/university-of-waterloo-499966
+128,social-sciences-public-health,244,University of Witwatersrand,South Africa,Johannesburg,58.7,60.8,"26,871",https://www.usnews.com/education/best-global-universities/university-of-witwatersrand-500909
+129,social-sciences-public-health,152,Cardiff University,United Kingdom,Cardiff,58.6,66.1,N/A,https://www.usnews.com/education/best-global-universities/cardiff-university-500071
+130,social-sciences-public-health,67,University of California Santa Barbara,United States,Santa Barbara,58.4,73.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-santa-barbara-110705
+131,social-sciences-public-health,208,University of Vienna,Austria,Vienna,58.4,62.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-vienna-505908
+132,social-sciences-public-health,186,Maastricht University,Netherlands,Maastricht,58.1,63.6,N/A,https://www.usnews.com/education/best-global-universities/maastricht-university-505759
+133,social-sciences-public-health,74,University of Glasgow,United Kingdom,Glasgow,57.9,72.8,"28,250",https://www.usnews.com/education/best-global-universities/university-of-glasgow-500110
+134,social-sciences-public-health,120,City University of Hong Kong,Hong Kong,Kowloon,57.8,68.5,"9,099",https://www.usnews.com/education/best-global-universities/city-university-of-hong-kong-502667
+135,social-sciences-public-health,156,Newcastle University - UK,United Kingdom,Newcastle upon Tyne,57.8,65.9,"26,920",https://www.usnews.com/education/best-global-universities/newcastle-university-uk-503247
+136,social-sciences-public-health,247,Xiamen University,China,Xiamen,57.6,60.7,N/A,https://www.usnews.com/education/best-global-universities/xiamen-university-506410
+137,social-sciences-public-health,544,Bocconi University,Italy,Milan,57.4,49.9,N/A,https://www.usnews.com/education/best-global-universities/bocconi-university-502370
+138,social-sciences-public-health,261,Dartmouth College,United States,Hanover,57.4,60.1,"6,440",https://www.usnews.com/education/best-global-universities/dartmouth-college-182670
+139,social-sciences-public-health,86,University of Barcelona,Spain,Barcelona,57.4,71.8,"45,004",https://www.usnews.com/education/best-global-universities/university-of-barcelona-500261
+140,social-sciences-public-health,370,University of Surrey,United Kingdom,Surrey,57.3,55.3,"15,875",https://www.usnews.com/education/best-global-universities/university-of-surrey-505401
+141,social-sciences-public-health,136,University of Alberta,Canada,Edmonton,57.1,67.1,"32,338",https://www.usnews.com/education/best-global-universities/university-of-alberta-499977
+142,social-sciences-public-health,70,University of Colorado Boulder,United States,Boulder,57,73.1,"34,928",https://www.usnews.com/education/best-global-universities/university-of-colorado-boulder-126614
+143,social-sciences-public-health,163,University of Warwick,United Kingdom,Coventry,56.9,65.7,"23,895",https://www.usnews.com/education/best-global-universities/university-of-warwick-503443
+144,social-sciences-public-health,194,Northeastern University,United States,Boston,56.8,63.3,"21,211",https://www.usnews.com/education/best-global-universities/northeastern-university-167358
+145,social-sciences-public-health,108,University of Arizona,United States,Tucson,56.8,69.2,"39,797",https://www.usnews.com/education/best-global-universities/university-of-arizona-104179
+146,social-sciences-public-health,89,University of Birmingham,United Kingdom,Birmingham (U.K.),56.6,71.3,"32,560",https://www.usnews.com/education/best-global-universities/university-of-birmingham-501524
+147,social-sciences-public-health,145,University of Nottingham,United Kingdom,Nottingham,56.6,66.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-nottingham-503548
+148,social-sciences-public-health,112,"University of Chinese Academy of Sciences, CAS",China,Beijing,56.3,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-chinese-academy-of-sciences-cas-529679
+149,social-sciences-public-health,83,University of Western Australia,Australia,Crawley,56.3,72.2,"18,405",https://www.usnews.com/education/best-global-universities/university-of-western-australia-503979
+150,social-sciences-public-health,472,American University of Beirut,Lebanon,Beirut,56.2,52.4,"9,267",https://www.usnews.com/education/best-global-universities/american-university-of-beirut-499994
+151,social-sciences-public-health,106,Radboud University Nijmegen,Netherlands,Nijmegen,56,69.4,"21,979",https://www.usnews.com/education/best-global-universities/radboud-university-nijmegen-501519
+152,social-sciences-public-health,119,University of Virginia,United States,Charlottesville,56,68.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-virginia-234076
+153,social-sciences-public-health,277,Durham University,United Kingdom,Durham (U.K.),55.9,59.3,"18,715",https://www.usnews.com/education/best-global-universities/durham-university-501717
+154,social-sciences-public-health,247,University of Otago,New Zealand,Dunedin,55.8,60.7,"18,508",https://www.usnews.com/education/best-global-universities/university-of-otago-506723
+155,social-sciences-public-health,48,Universite de Paris,France,Paris,55.6,75.2,N/A,https://www.usnews.com/education/best-global-universities/universite-de-paris-529677
+156,social-sciences-public-health,182,Lancaster University,United Kingdom,Lancaster,55.5,63.9,"14,665",https://www.usnews.com/education/best-global-universities/lancaster-university-504720
+157,social-sciences-public-health,123,Nanjing University,China,Nanjing,55.2,68.2,"36,426",https://www.usnews.com/education/best-global-universities/nanjing-university-503849
+158,social-sciences-public-health,317,University of South Florida,United States,Tampa,55,57.6,"39,907",https://www.usnews.com/education/best-global-universities/university-of-south-florida-137351
+159,social-sciences-public-health,160,University of Massachusetts Amherst,United States,Amherst,54.8,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-amherst-166629
+160,social-sciences-public-health,231,University of Newcastle,Australia,Callaghan,54.8,61.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-newcastle-500363
+161,social-sciences-public-health,363,University of South Australia,Australia,Adelaide,54.6,55.6,"23,490",https://www.usnews.com/education/best-global-universities/university-of-south-australia-506290
+162,social-sciences-public-health,112,University of Technology Sydney,Australia,Ultimo,54.6,69,N/A,https://www.usnews.com/education/best-global-universities/university-of-technology-sydney-505153
+163,social-sciences-public-health,400,University of Twente,Netherlands,Enschede,54.6,54.4,"9,816",https://www.usnews.com/education/best-global-universities/university-of-twente-506687
+164,social-sciences-public-health,116,Fudan University,China,Shanghai,54.5,68.8,N/A,https://www.usnews.com/education/best-global-universities/fudan-university-500824
+165,social-sciences-public-health,167,University of Utah,United States,Salt Lake City,54.5,65.4,"30,967",https://www.usnews.com/education/best-global-universities/university-of-utah-230764
+166,social-sciences-public-health,250,University of Illinois Chicago,United States,Chicago,54.4,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-illinois-chicago-145600
+167,social-sciences-public-health,102,"University of Science & Technology of China, CAS",China,Hefei,54.3,70.1,"18,573",https://www.usnews.com/education/best-global-universities/university-of-science-technology-of-china-cas-505547
+168,social-sciences-public-health,421,University of Johannesburg,South Africa,Johannesburg,54,53.9,"29,167",https://www.usnews.com/education/best-global-universities/university-of-johannesburg-528854
+169,social-sciences-public-health,526,Loughborough University,United Kingdom,Loughborough,53.8,50.3,"17,130",https://www.usnews.com/education/best-global-universities/loughborough-university-506503
+170,social-sciences-public-health,309,University of Connecticut,United States,Storrs,53.8,58,"27,752",https://www.usnews.com/education/best-global-universities/university-of-connecticut-129020
+171,social-sciences-public-health,81,University of Tokyo,Japan,Tokyo,53.7,72.4,"26,112",https://www.usnews.com/education/best-global-universities/university-of-tokyo-500248
+172,social-sciences-public-health,265,Virginia Polytechnic Institute & State University,United States,Blacksburg,53.7,59.9,"36,512",https://www.usnews.com/education/best-global-universities/virginia-polytechnic-institute-state-university-233921
+173,social-sciences-public-health,87,Free University of Berlin,Germany,Berlin,53.6,71.7,"36,792",https://www.usnews.com/education/best-global-universities/free-university-of-berlin-502084
+174,social-sciences-public-health,267,Norwegian University of Science & Technology (NTNU),Norway,Trondheim,53.6,59.8,"37,759",https://www.usnews.com/education/best-global-universities/norwegian-university-of-science-technology-ntnu-503599
+175,social-sciences-public-health,196,Pompeu Fabra University,Spain,Barcelona,53.5,63.2,"11,965",https://www.usnews.com/education/best-global-universities/pompeu-fabra-university-504748
+176,social-sciences-public-health,241,Hebrew University of Jerusalem,Israel,Jerusalem,53.4,60.9,"16,362",https://www.usnews.com/education/best-global-universities/hebrew-university-of-jerusalem-500554
+177,social-sciences-public-health,149,University of Hamburg,Germany,Hamburg,53.3,66.3,"30,676",https://www.usnews.com/education/best-global-universities/university-of-hamburg-501079
+178,social-sciences-public-health,129,Seoul National University (SNU),South Korea,Seoul,53.1,67.5,"26,209",https://www.usnews.com/education/best-global-universities/seoul-national-university-snu-503456
+179,social-sciences-public-health,463,Swansea University,United Kingdom,Swansea,53.1,52.8,"17,745",https://www.usnews.com/education/best-global-universities/swansea-university-505583
+180,social-sciences-public-health,397,Sejong University,South Korea,Seoul,53,54.5,N/A,https://www.usnews.com/education/best-global-universities/sejong-university-528964
+181,social-sciences-public-health,478,George Mason University,United States,Fairfax,52.7,52.2,"32,140",https://www.usnews.com/education/best-global-universities/george-mason-university-232186
+182,social-sciences-public-health,520,Kyung Hee University,South Korea,Seoul,52.7,50.5,"20,504",https://www.usnews.com/education/best-global-universities/kyung-hee-university-501161
+183,social-sciences-public-health,146,University of Liverpool,United Kingdom,Liverpool,52.6,66.6,"27,145",https://www.usnews.com/education/best-global-universities/university-of-liverpool-506611
+184,social-sciences-public-health,328,Washington State University,United States,Pullman,52.6,57.2,"29,463",https://www.usnews.com/education/best-global-universities/washington-state-university-236939
+185,social-sciences-public-health,192,Macquarie University,Australia,North Ryde,52.5,63.4,"30,561",https://www.usnews.com/education/best-global-universities/macquarie-university-502013
+186,social-sciences-public-health,125,Sapienza University Rome,Italy,Rome,52.5,68,"74,149",https://www.usnews.com/education/best-global-universities/sapienza-university-rome-506550
+187,social-sciences-public-health,51,Georgia Institute of Technology,United States,Atlanta,52.4,74.9,N/A,https://www.usnews.com/education/best-global-universities/georgia-institute-of-technology-139755
+188,social-sciences-public-health,175,University of Calgary,Canada,Calgary,52.4,64.2,"33,560",https://www.usnews.com/education/best-global-universities/university-of-calgary-499975
+189,social-sciences-public-health,209,Royal Melbourne Institute of Technology (RMIT),Australia,Melbourne (Australia),52.3,62.5,"32,692",https://www.usnews.com/education/best-global-universities/royal-melbourne-institute-of-technology-rmit-503858
+190,social-sciences-public-health,46,Icahn School of Medicine at Mount Sinai,United States,New York City,52.2,75.4,N/A,https://www.usnews.com/education/best-global-universities/icahn-school-of-medicine-at-mount-sinai-193405
+191,social-sciences-public-health,300,Western University (University of Western Ontario),Canada,London (Canada),52.2,58.2,N/A,https://www.usnews.com/education/best-global-universities/western-university-university-of-western-ontario-499965
+192,social-sciences-public-health,239,Tufts University,United States,Medford,52,61.1,"11,399",https://www.usnews.com/education/best-global-universities/tufts-university-168148
+193,social-sciences-public-health,352,Drexel University,United States,Philadelphia,51.9,56,N/A,https://www.usnews.com/education/best-global-universities/drexel-university-212054
+194,social-sciences-public-health,202,Universidade de Lisboa,Portugal,Lisbon,51.9,62.9,"48,404",https://www.usnews.com/education/best-global-universities/universidade-de-lisboa-501120
+195,social-sciences-public-health,186,University of Wollongong,Australia,Wollongong,51.9,63.6,"19,169",https://www.usnews.com/education/best-global-universities/university-of-wollongong-503195
+196,social-sciences-public-health,89,Shanghai Jiao Tong University,China,Shanghai,51.7,71.3,"37,478",https://www.usnews.com/education/best-global-universities/shanghai-jiao-tong-university-501915
+197,social-sciences-public-health,180,University of Iowa,United States,Iowa City,51.7,64,"29,257",https://www.usnews.com/education/best-global-universities/university-of-iowa-153658
+198,social-sciences-public-health,304,La Trobe University,Australia,Melbourne (Australia),51.6,58.1,"21,663",https://www.usnews.com/education/best-global-universities/la-trobe-university-501305
+199,social-sciences-public-health,342,University of Turku,Finland,Turku,51.5,56.4,"12,919",https://www.usnews.com/education/best-global-universities/university-of-turku-504089
+200,social-sciences-public-health,321,East China Normal University,China,Shanghai,51.4,57.5,"28,055",https://www.usnews.com/education/best-global-universities/east-china-normal-university-506407
+201,social-sciences-public-health,466,University of Canterbury,New Zealand,Christchurch,51.3,52.7,"15,245",https://www.usnews.com/education/best-global-universities/university-of-canterbury-504532
+202,social-sciences-public-health,366,Umea University,Sweden,Umea,51.2,55.5,N/A,https://www.usnews.com/education/best-global-universities/umea-university-504031
+203,social-sciences-public-health,313,University of Granada,Spain,Granada,51.2,57.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-granada-505316
+204,social-sciences-public-health,304,University of Kansas,United States,Lawrence,51.2,58.1,"24,147",https://www.usnews.com/education/best-global-universities/university-of-kansas-155317
+205,social-sciences-public-health,107,University of Bern,Switzerland,Bern,51.1,69.3,"11,740",https://www.usnews.com/education/best-global-universities/university-of-bern-505657
+206,social-sciences-public-health,400,Tampere University,Finland,Tampere,50.9,54.4,N/A,https://www.usnews.com/education/best-global-universities/tampere-university-501054
+207,social-sciences-public-health,79,Technical University of Munich,Germany,Munich,50.9,72.6,"33,960",https://www.usnews.com/education/best-global-universities/technical-university-of-munich-503109
+208,social-sciences-public-health,688,Copenhagen Business School,Denmark,Frederiksberg,50.7,46,N/A,https://www.usnews.com/education/best-global-universities/copenhagen-business-school-502092
+209,social-sciences-public-health,405,State University of New York (SUNY) Albany,United States,Albany,50.7,54.3,"16,090",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-albany-196060
+210,social-sciences-public-health,372,Syracuse University,United States,Syracuse,50.7,55.2,"20,620",https://www.usnews.com/education/best-global-universities/syracuse-university-196413
+211,social-sciences-public-health,330,University of East Anglia,United Kingdom,Norwich,50.7,57,"16,245",https://www.usnews.com/education/best-global-universities/university-of-east-anglia-503561
+212,social-sciences-public-health,504,Georgia State University,United States,Atlanta,50.6,51.1,N/A,https://www.usnews.com/education/best-global-universities/georgia-state-university-139940
+213,social-sciences-public-health,520,Renmin University of China,China,Beijing,50.6,50.5,N/A,https://www.usnews.com/education/best-global-universities/renmin-university-of-china-528921
+214,social-sciences-public-health,100,Queen Mary University London,United Kingdom,London (U.K.),50.5,70.2,"20,485",https://www.usnews.com/education/best-global-universities/queen-mary-university-london-503389
+215,social-sciences-public-health,304,Stellenbosch University,South Africa,Stellenbosch,50.5,58.1,"24,907",https://www.usnews.com/education/best-global-universities/stellenbosch-university-500980
+216,social-sciences-public-health,223,University of Antwerp,Belgium,Antwerp,50.3,61.8,"15,857",https://www.usnews.com/education/best-global-universities/university-of-antwerp-505023
+217,social-sciences-public-health,234,Southeast University - China,China,Nanjing,50.2,61.3,"37,491",https://www.usnews.com/education/best-global-universities/southeast-university-china-505648
+218,social-sciences-public-health,372,University of Manitoba,Canada,Winnipeg,50.2,55.2,"29,561",https://www.usnews.com/education/best-global-universities/university-of-manitoba-503954
+219,social-sciences-public-health,277,University of Aberdeen,United Kingdom,Aberdeen,50.1,59.3,"13,010",https://www.usnews.com/education/best-global-universities/university-of-aberdeen-501749
+220,social-sciences-public-health,160,University of Alabama Birmingham,United States,Birmingham (U.S.),50.1,65.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-alabama-birmingham-100663
+221,social-sciences-public-health,219,Xi'an Jiaotong University,China,Xi'an,50.1,61.9,"44,942",https://www.usnews.com/education/best-global-universities/xian-jiaotong-university-503987
+222,social-sciences-public-health,286,State University of New York (SUNY) Buffalo,United States,Buffalo,50,59,"27,393",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-buffalo-196088
+223,social-sciences-public-health,292,Vrije Universiteit Brussel,Belgium,Elsene,50,58.8,"14,284",https://www.usnews.com/education/best-global-universities/vrije-universiteit-brussel-504942
+224,social-sciences-public-health,175,Tel Aviv University,Israel,Tel Aviv,49.9,64.2,"23,834",https://www.usnews.com/education/best-global-universities/tel-aviv-university-500052
+225,social-sciences-public-health,109,University of Geneva,Switzerland,Geneva,49.9,69.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-geneva-504635
+226,social-sciences-public-health,416,Australian Catholic University,Australia,Melbourne (Australia),49.7,54,"23,728",https://www.usnews.com/education/best-global-universities/australian-catholic-university-529148
+227,social-sciences-public-health,226,Universiti Malaya,Malaysia,Kuala Lumpur,49.6,61.6,"18,320",https://www.usnews.com/education/best-global-universities/universiti-malaya-501730
+228,social-sciences-public-health,236,University College Dublin,Ireland,Dublin,49.5,61.2,"23,361",https://www.usnews.com/education/best-global-universities/university-college-dublin-504418
+229,social-sciences-public-health,225,University of Tennessee Knoxville,United States,Knoxville,49.5,61.7,"27,308",https://www.usnews.com/education/best-global-universities/university-of-tennessee-knoxville-221759
+230,social-sciences-public-health,215,Trinity College Dublin,Ireland,Dublin,49.4,62.2,"17,764",https://www.usnews.com/education/best-global-universities/trinity-college-dublin-501570
+231,social-sciences-public-health,150,University of Basel,Switzerland,Basel,49.1,66.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-basel-502059
+232,social-sciences-public-health,74,University of Adelaide,Australia,Adelaide,49,72.8,"23,102",https://www.usnews.com/education/best-global-universities/university-of-adelaide-504015
+233,social-sciences-public-health,122,University of Bologna,Italy,Bologna,48.9,68.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-bologna-502210
+234,social-sciences-public-health,314,Pontificia Universidad Catolica de Chile,Chile,Santiago,48.7,57.7,"31,579",https://www.usnews.com/education/best-global-universities/pontificia-universidad-catolica-de-chile-506168
+235,social-sciences-public-health,212,University of Valencia,Spain,Valencia,48.6,62.4,"50,575",https://www.usnews.com/education/best-global-universities/university-of-valencia-504510
+236,social-sciences-public-health,182,Eberhard Karls University of Tubingen,Germany,Tubingen,48.5,63.9,N/A,https://www.usnews.com/education/best-global-universities/eberhard-karls-university-of-tubingen-503424
+237,social-sciences-public-health,356,University of Kentucky,United States,Lexington,48.5,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-kentucky-157085
+238,social-sciences-public-health,276,Colorado State University,United States,Fort Collins,48.4,59.4,"29,351",https://www.usnews.com/education/best-global-universities/colorado-state-university-126818
+239,social-sciences-public-health,178,Aix-Marseille Universite,France,Marseille,48.3,64.1,"70,054",https://www.usnews.com/education/best-global-universities/aix-marseille-universite-528917
+240,social-sciences-public-health,633,University of Essex,United Kingdom,Colchester,48.3,47.3,"15,075",https://www.usnews.com/education/best-global-universities/university-of-essex-502672
+241,social-sciences-public-health,247,Universidade do Porto,Portugal,Porto,48.2,60.7,"33,484",https://www.usnews.com/education/best-global-universities/universidade-do-porto-505685
+242,social-sciences-public-health,292,Yonsei University,South Korea,Seoul,48.2,58.8,N/A,https://www.usnews.com/education/best-global-universities/yonsei-university-503801
+243,social-sciences-public-health,314,Dalhousie University,Canada,Halifax,48.1,57.7,"16,901",https://www.usnews.com/education/best-global-universities/dalhousie-university-499990
+244,social-sciences-public-health,171,Universite Catholique Louvain,Belgium,Louvain-la-Neuve,47.9,64.7,"24,523",https://www.usnews.com/education/best-global-universities/universite-catholique-louvain-506348
+245,social-sciences-public-health,253,University of Miami,United States,Coral Gables,47.9,60.5,"17,047",https://www.usnews.com/education/best-global-universities/university-of-miami-135726
+246,social-sciences-public-health,170,University of Rochester,United States,Rochester,47.9,64.8,"10,364",https://www.usnews.com/education/best-global-universities/university-of-rochester-195030
+247,social-sciences-public-health,324,James Cook University,Australia,Townsville City,47.7,57.3,"12,825",https://www.usnews.com/education/best-global-universities/james-cook-university-506320
+248,social-sciences-public-health,452,University of Missouri Columbia,United States,Columbia,47.7,53.1,"25,113",https://www.usnews.com/education/best-global-universities/university-of-missouri-columbia-178396
+249,social-sciences-public-health,311,University of New Mexico,United States,Albuquerque,47.7,57.9,"18,223",https://www.usnews.com/education/best-global-universities/university-of-new-mexico-187985
+250,social-sciences-public-health,633,University of Haifa,Israel,Haifa,47.6,47.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-haifa-501200
+251,social-sciences-public-health,394,University of Hawaii Manoa,United States,Honolulu,47.6,54.6,"14,722",https://www.usnews.com/education/best-global-universities/university-of-hawaii-manoa-141574
+252,social-sciences-public-health,273,Aalto University,Finland,Esbo,47.4,59.5,"13,306",https://www.usnews.com/education/best-global-universities/aalto-university-503645
+253,social-sciences-public-health,230,North Carolina State University,United States,Raleigh,47.3,61.5,"31,527",https://www.usnews.com/education/best-global-universities/north-carolina-state-university-199193
+254,social-sciences-public-health,304,Technical University of Berlin,Germany,Berlin,47.3,58.1,"20,243",https://www.usnews.com/education/best-global-universities/technical-university-of-berlin-506357
+255,social-sciences-public-health,520,University of Jyvaskyla,Finland,Jyvaskyla,47.3,50.5,"10,434",https://www.usnews.com/education/best-global-universities/university-of-jyvaskyla-500627
+256,social-sciences-public-health,217,University of Leicester,United Kingdom,Leicester,47.3,62.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-leicester-501221
+257,social-sciences-public-health,253,University of Oregon,United States,Eugene,47.3,60.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-oregon-209551
+258,social-sciences-public-health,342,Eindhoven University of Technology,Netherlands,Eindhoven,47.1,56.4,N/A,https://www.usnews.com/education/best-global-universities/eindhoven-university-of-technology-501655
+259,social-sciences-public-health,561,HSE University (National Research University Higher School of Economics),Russia,Moscow (Russia),47.1,49.3,N/A,https://www.usnews.com/education/best-global-universities/hse-university-national-research-university-higher-school-of-economics-529129
+260,social-sciences-public-health,776,University of Mannheim,Germany,Mannheim,47.1,43.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-mannheim-502865
+261,social-sciences-public-health,234,Western Sydney University,Australia,Penrith,47.1,61.3,"36,033",https://www.usnews.com/education/best-global-universities/western-sydney-university-506826
+262,social-sciences-public-health,826,European University Institute,Italy,Florence,47,42.4,N/A,https://www.usnews.com/education/best-global-universities/european-university-institute-529059
+263,social-sciences-public-health,531,Tilburg University,Netherlands,Tilburg,47,50.2,"11,876",https://www.usnews.com/education/best-global-universities/tilburg-university-499980
+264,social-sciences-public-health,118,Carnegie Mellon University,United States,Pittsburgh,46.7,68.7,N/A,https://www.usnews.com/education/best-global-universities/carnegie-mellon-university-211440
+265,social-sciences-public-health,152,Case Western Reserve University,United States,Cleveland,46.7,66.1,"10,953",https://www.usnews.com/education/best-global-universities/case-western-reserve-university-201645
+266,social-sciences-public-health,337,Complutense University of Madrid,Spain,Madrid,46.7,56.7,"61,128",https://www.usnews.com/education/best-global-universities/complutense-university-of-madrid-506527
+267,social-sciences-public-health,48,Sorbonne Universite,France,Paris,46.7,75.2,"44,649",https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569
+268,social-sciences-public-health,409,University of Bath,United Kingdom,Bath,46.7,54.2,"16,730",https://www.usnews.com/education/best-global-universities/university-of-bath-506373
+269,social-sciences-public-health,203,University of Cincinnati,United States,Cincinnati,46.6,62.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cincinnati-201885
+270,social-sciences-public-health,432,University of Houston,United States,Houston,46.6,53.6,"46,958",https://www.usnews.com/education/best-global-universities/university-of-houston-225511
+271,social-sciences-public-health,324,University of Victoria,Canada,Victoria,46.6,57.3,"20,936",https://www.usnews.com/education/best-global-universities/university-of-victoria-499967
+272,social-sciences-public-health,884,Bournemouth University,United Kingdom,Poole,46.5,41.2,N/A,https://www.usnews.com/education/best-global-universities/bournemouth-university-529060
+273,social-sciences-public-health,65,King Abdulaziz University,Saudi Arabia,Jeddah,46.5,73.4,N/A,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597
+274,social-sciences-public-health,400,Universidad de Chile,Chile,Santiago,46.5,54.4,"37,286",https://www.usnews.com/education/best-global-universities/universidad-de-chile-502207
+275,social-sciences-public-health,304,Sichuan University,China,Chengdu,46.4,58.1,"49,543",https://www.usnews.com/education/best-global-universities/sichuan-university-506145
+276,social-sciences-public-health,60,Universite Paris Saclay,France,Saint-Aubin,46.3,74.1,N/A,https://www.usnews.com/education/best-global-universities/universite-paris-saclay-529676
+277,social-sciences-public-health,178,University of Freiburg,Germany,Freiburg,46.2,64.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-freiburg-503940
+278,social-sciences-public-health,379,University of Strathclyde,United Kingdom,Glasgow,46.2,55,N/A,https://www.usnews.com/education/best-global-universities/university-of-strathclyde-504736
+279,social-sciences-public-health,282,China University of Geosciences,China,Wuhan,46,59.1,N/A,https://www.usnews.com/education/best-global-universities/china-university-of-geosciences-506930
+280,social-sciences-public-health,583,Hong Kong Baptist University,Hong Kong,Hong Kong,45.9,48.7,"8,358",https://www.usnews.com/education/best-global-universities/hong-kong-baptist-university-502544
+281,social-sciences-public-health,576,University of Kent,United Kingdom,Canterbury,45.8,48.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-kent-500018
+282,social-sciences-public-health,297,Polytechnic University of Milan,Italy,Milan,45.7,58.5,N/A,https://www.usnews.com/education/best-global-universities/polytechnic-university-of-milan-502229
+283,social-sciences-public-health,174,University of Colorado Anschutz Medical Campus,United States,Aurora,45.7,64.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-anschutz-medical-campus-529678
+284,social-sciences-public-health,269,University of Texas Health Science Center Houston,United States,Houston,45.6,59.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-texas-health-science-center-houston-229300
+285,social-sciences-public-health,426,York University - Canada,Canada,Toronto,45.6,53.8,"44,036",https://www.usnews.com/education/best-global-universities/york-university-canada-499962
+286,social-sciences-public-health,352,University of St Andrews,United Kingdom,Fife,45.5,56,"9,645",https://www.usnews.com/education/best-global-universities/university-of-st-andrews-503328
+287,social-sciences-public-health,273,University of Tasmania,Australia,Hobart,45.5,59.5,"18,264",https://www.usnews.com/education/best-global-universities/university-of-tasmania-502985
+288,social-sciences-public-health,203,National Taiwan University,Taiwan,Taipei,45.4,62.8,"25,215",https://www.usnews.com/education/best-global-universities/national-taiwan-university-504077
+289,social-sciences-public-health,209,University of Turin,Italy,Turin,45.4,62.5,"58,463",https://www.usnews.com/education/best-global-universities/university-of-turin-502528
+290,social-sciences-public-health,263,Iowa State University,United States,Ames,45.3,60,N/A,https://www.usnews.com/education/best-global-universities/iowa-state-university-153603
+291,social-sciences-public-health,389,Louisiana State University,United States,Baton Rouge,45.3,54.8,"29,191",https://www.usnews.com/education/best-global-universities/louisiana-state-university-159391
+292,social-sciences-public-health,299,Oregon State University,United States,Corvallis,45.3,58.3,N/A,https://www.usnews.com/education/best-global-universities/oregon-state-university-209542
+293,social-sciences-public-health,244,University of Cologne,Germany,Koln,45.3,60.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-cologne-500060
+294,social-sciences-public-health,295,Queens University Belfast,United Kingdom,Belfast,45.2,58.6,"20,195",https://www.usnews.com/education/best-global-universities/queens-university-belfast-505350
+295,social-sciences-public-health,429,Queens University - Canada,Canada,Kingston (Canada),45.2,53.7,"26,575",https://www.usnews.com/education/best-global-universities/queens-university-canada-500946
+296,social-sciences-public-health,182,University of Lausanne,Switzerland,Lausanne,45.2,63.9,"13,402",https://www.usnews.com/education/best-global-universities/university-of-lausanne-505144
+297,social-sciences-public-health,163,University of Gottingen,Germany,Gottingen,44.7,65.7,"30,221",https://www.usnews.com/education/best-global-universities/university-of-gottingen-502609
+298,social-sciences-public-health,487,University of Eastern Finland,Finland,Joensuu,44.6,51.7,"11,898",https://www.usnews.com/education/best-global-universities/university-of-eastern-finland-504471
+299,social-sciences-public-health,426,Flinders University South Australia,Australia,Bedford Park,44.5,53.8,"17,366",https://www.usnews.com/education/best-global-universities/flinders-university-south-australia-504837
+300,social-sciences-public-health,267,Aalborg University,Denmark,Aalborg,44.4,59.8,"16,818",https://www.usnews.com/education/best-global-universities/aalborg-university-501276
+301,social-sciences-public-health,337,Chalmers University of Technology,Sweden,Gothenburg,44.3,56.7,"9,513",https://www.usnews.com/education/best-global-universities/chalmers-university-of-technology-505279
+302,social-sciences-public-health,379,University of Macau,Macau,Taipa,44.3,55,"10,460",https://www.usnews.com/education/best-global-universities/university-of-macau-528951
+303,social-sciences-public-health,213,King Saud University,Saudi Arabia,Riyadh,44.2,62.3,"33,931",https://www.usnews.com/education/best-global-universities/king-saud-university-503764
+304,social-sciences-public-health,370,University of Kwazulu Natal,South Africa,Durban,44.2,55.3,"33,855",https://www.usnews.com/education/best-global-universities/university-of-kwazulu-natal-504296
+305,social-sciences-public-health,439,Virginia Commonwealth University,United States,Richmond,44.1,53.5,N/A,https://www.usnews.com/education/best-global-universities/virginia-commonwealth-university-234030
+306,social-sciences-public-health,253,Beihang University,China,Beijing,44,60.5,N/A,https://www.usnews.com/education/best-global-universities/beihang-university-502158
+307,social-sciences-public-health,757,Makerere University,Uganda,Kampala,44,44.3,N/A,https://www.usnews.com/education/best-global-universities/makerere-university-528833
+308,social-sciences-public-health,356,University of Colorado Denver,United States,Denver,44,55.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-colorado-denver-126562
+309,social-sciences-public-health,392,Dalian University of Technology,China,Dalian,43.9,54.7,N/A,https://www.usnews.com/education/best-global-universities/dalian-university-of-technology-500236
+310,social-sciences-public-health,140,Kyoto University,Japan,Kyoto,43.9,66.9,N/A,https://www.usnews.com/education/best-global-universities/kyoto-university-505388
+311,social-sciences-public-health,186,University of California Riverside,United States,Riverside,43.9,63.6,"24,515",https://www.usnews.com/education/best-global-universities/university-of-california-riverside-110671
+312,social-sciences-public-health,231,Autonomous University of Madrid,Spain,Madrid,43.8,61.4,"29,327",https://www.usnews.com/education/best-global-universities/autonomous-university-of-madrid-502502
+313,social-sciences-public-health,750,Manchester Metropolitan University,United Kingdom,Manchester,43.8,44.4,"29,830",https://www.usnews.com/education/best-global-universities/manchester-metropolitan-university-528968
+314,social-sciences-public-health,907,University of Ghana,Ghana,Legon,43.8,40.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-ghana-529375
+315,social-sciences-public-health,653,University of Stirling,United Kingdom,Stirling,43.8,46.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-stirling-528876
+316,social-sciences-public-health,256,University of Tartu,Estonia,Tartu,43.8,60.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-tartu-502553
+317,social-sciences-public-health,209,Central South University,China,Changsha,43.7,62.5,"56,344",https://www.usnews.com/education/best-global-universities/central-south-university-501467
+318,social-sciences-public-health,"1,049",Portland State University,United States,Portland,43.7,37.6,N/A,https://www.usnews.com/education/best-global-universities/portland-state-university-209807
+319,social-sciences-public-health,352,University of Delaware,United States,Newark,43.7,56,"21,808",https://www.usnews.com/education/best-global-universities/university-of-delaware-130943
+320,social-sciences-public-health,330,Linkoping University,Sweden,Linkoping,43.5,57,N/A,https://www.usnews.com/education/best-global-universities/linkoping-university-503497
+321,social-sciences-public-health,450,Tulane University,United States,New Orleans,43.5,53.2,"11,220",https://www.usnews.com/education/best-global-universities/tulane-university-160755
+322,social-sciences-public-health,590,American University,United States,"Washington, D.C.",43.2,48.5,"14,319",https://www.usnews.com/education/best-global-universities/american-university-131159
+323,social-sciences-public-health,366,Catholic University of the Sacred Heart,Italy,Milan,43.1,55.5,N/A,https://www.usnews.com/education/best-global-universities/catholic-university-of-the-sacred-heart-503167
+324,social-sciences-public-health,593,San Diego State University,United States,San Diego,43.1,48.4,"31,340",https://www.usnews.com/education/best-global-universities/san-diego-state-university-122409
+325,social-sciences-public-health,487,Universidade Nova de Lisboa,Portugal,Lisbon,43,51.7,"20,996",https://www.usnews.com/education/best-global-universities/universidade-nova-de-lisboa-506121
+326,social-sciences-public-health,333,University of Reading,United Kingdom,Reading,43,56.8,"16,195",https://www.usnews.com/education/best-global-universities/university-of-reading-504198
+327,social-sciences-public-health,598,Massey University,New Zealand,Palmerston North,42.9,48.3,"18,570",https://www.usnews.com/education/best-global-universities/massey-university-503390
+328,social-sciences-public-health,512,University of Alabama Tuscaloosa,United States,Tuscaloosa,42.8,50.7,"44,133",https://www.usnews.com/education/best-global-universities/university-of-alabama-tuscaloosa-100751
+329,social-sciences-public-health,286,University of Maryland Baltimore,United States,Baltimore,42.8,59,N/A,https://www.usnews.com/education/best-global-universities/university-of-maryland-baltimore-163259
+330,social-sciences-public-health,860,Central European University,Austria,Vienna,42.7,41.8,"1,276",https://www.usnews.com/education/best-global-universities/central-european-university-529671
+331,social-sciences-public-health,206,State University of New York (SUNY) Stony Brook,United States,Stony Brook,42.7,62.7,"25,836",https://www.usnews.com/education/best-global-universities/state-university-of-new-york-suny-stony-brook-196097
+332,social-sciences-public-health,504,Universiti Sains Malaysia,Malaysia,Penang,42.7,51.1,"23,492",https://www.usnews.com/education/best-global-universities/universiti-sains-malaysia-528826
+333,social-sciences-public-health,468,Florida International University,United States,Miami,42.6,52.6,"35,590",https://www.usnews.com/education/best-global-universities/florida-international-university-133951
+334,social-sciences-public-health,835,Education University of Hong Kong (EdUHK),Hong Kong,Tai Po,42.5,42.3,N/A,https://www.usnews.com/education/best-global-universities/education-university-of-hong-kong-eduhk-529062
+335,social-sciences-public-health,618,Boston College,United States,Chestnut Hill,42.4,47.9,"12,755",https://www.usnews.com/education/best-global-universities/boston-college-164924
+336,social-sciences-public-health,250,National & Kapodistrian University of Athens,Greece,Athens (Greece),42.4,60.6,N/A,https://www.usnews.com/education/best-global-universities/national-kapodistrian-university-of-athens-504988
+337,social-sciences-public-health,495,Victoria University Wellington,New Zealand,Wellington,42.4,51.5,"17,883",https://www.usnews.com/education/best-global-universities/victoria-university-wellington-504111
+338,social-sciences-public-health,849,University of Denver,United States,Denver,42.3,42.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-denver-127060
+339,social-sciences-public-health,156,University of Milan,Italy,Milan,42.1,65.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-milan-506478
+340,social-sciences-public-health,561,Liverpool School of Tropical Medicine,United Kingdom,Liverpool,42,49.3,N/A,https://www.usnews.com/education/best-global-universities/liverpool-school-of-tropical-medicine-529389
+341,social-sciences-public-health,593,University of Canberra,Australia,Canberra,42,48.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-canberra-529147
+342,social-sciences-public-health,138,University of Bonn,Germany,Bonn,41.9,67,"27,210",https://www.usnews.com/education/best-global-universities/university-of-bonn-504578
+343,social-sciences-public-health,385,Wayne State University,United States,Detroit,41.7,54.9,N/A,https://www.usnews.com/education/best-global-universities/wayne-state-university-172644
+344,social-sciences-public-health,598,Rutgers State University Newark,United States,Newark,41.6,48.3,N/A,https://www.usnews.com/education/best-global-universities/rutgers-state-university-newark-186399
+345,social-sciences-public-health,871,University of Nevada Las Vegas,United States,Las Vegas,41.6,41.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-nevada-las-vegas-182281
+346,social-sciences-public-health,544,University of Wisconsin Milwaukee,United States,Milwaukee,41.6,49.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-wisconsin-milwaukee-240453
+347,social-sciences-public-health,290,Universite de Bordeaux,France,Talence,41.5,58.9,"53,757",https://www.usnews.com/education/best-global-universities/universite-de-bordeaux-528820
+348,social-sciences-public-health,495,Edith Cowan University,Australia,Joondalup,41.4,51.5,"18,759",https://www.usnews.com/education/best-global-universities/edith-cowan-university-528941
+349,social-sciences-public-health,196,Harbin Institute of Technology,China,Harbin,41.4,63.2,N/A,https://www.usnews.com/education/best-global-universities/harbin-institute-of-technology-505604
+350,social-sciences-public-health,322,University of Notre Dame,United States,Notre Dame,41.4,57.4,"12,401",https://www.usnews.com/education/best-global-universities/university-of-notre-dame-152080
+351,social-sciences-public-health,889,City University London,United Kingdom,London (U.K.),41.3,41.1,N/A,https://www.usnews.com/education/best-global-universities/city-university-london-503692
+352,social-sciences-public-health,397,Laval University,Canada,Quebec City,41.3,54.5,"28,611",https://www.usnews.com/education/best-global-universities/laval-university-505699
+353,social-sciences-public-health,639,National Cheng Kung University,Taiwan,Tainan City,41.3,47.2,"20,080",https://www.usnews.com/education/best-global-universities/national-cheng-kung-university-502356
+354,social-sciences-public-health,136,Baylor College of Medicine,United States,Houston,41.2,67.1,N/A,https://www.usnews.com/education/best-global-universities/baylor-college-of-medicine-223223
+355,social-sciences-public-health,236,Goethe University Frankfurt,Germany,Frankfurt am Main,41.2,61.2,N/A,https://www.usnews.com/education/best-global-universities/goethe-university-frankfurt-503512
+356,social-sciences-public-health,186,Technische Universitat Dresden,Germany,Dresden,41.2,63.6,"30,578",https://www.usnews.com/education/best-global-universities/technische-universitat-dresden-501011
+357,social-sciences-public-health,349,University of Texas Dallas,United States,Richardson,41.2,56.1,"25,464",https://www.usnews.com/education/best-global-universities/university-of-texas-dallas-228787
+358,social-sciences-public-health,598,University of the Andes Colombia,Colombia,Bogota,41.2,48.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-andes-colombia-528846
+359,social-sciences-public-health,884,Bangor University,United Kingdom,Bangor,41.1,41.2,N/A,https://www.usnews.com/education/best-global-universities/bangor-university-528852
+360,social-sciences-public-health,290,Korea University,South Korea,Seoul,41.1,58.9,N/A,https://www.usnews.com/education/best-global-universities/korea-university-505391
+361,social-sciences-public-health,679,University of North Texas Denton,United States,Denton,41.1,46.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-texas-denton-227216
+362,social-sciences-public-health,339,Jagiellonian University,Poland,Krakow,41,56.6,"34,725",https://www.usnews.com/education/best-global-universities/jagiellonian-university-500039
+363,social-sciences-public-health,717,Southwestern University of Finance & Economics - China,China,Chengdu,40.9,45.3,N/A,https://www.usnews.com/education/best-global-universities/southwestern-university-of-finance-economics---china-529633
+364,social-sciences-public-health,468,Universidade Federal de Minas Gerais,Brazil,Belo Horizonte,40.9,52.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-minas-gerais-506043
+365,social-sciences-public-health,450,University of Ljubljana,Slovenia,Ljubljana,40.6,53.2,"37,615",https://www.usnews.com/education/best-global-universities/university-of-ljubljana-502840
+366,social-sciences-public-health,199,Swinburne University of Technology,Australia,Hawthorn,40.3,63,"15,327",https://www.usnews.com/education/best-global-universities/swinburne-university-of-technology-528823
+367,social-sciences-public-health,372,Auckland University of Technology,New Zealand,Auckland,40.2,55.2,"18,837",https://www.usnews.com/education/best-global-universities/auckland-university-of-technology-528944
+368,social-sciences-public-health,558,University of Konstanz,Germany,Konstanz,40.2,49.4,"5,758",https://www.usnews.com/education/best-global-universities/university-of-konstanz-504712
+369,social-sciences-public-health,573,Addis Ababa University,Ethiopia,Addis Ababa,40,49,N/A,https://www.usnews.com/education/best-global-universities/addis-ababa-university-529036
+370,social-sciences-public-health,240,Royal Institute of Technology,Sweden,Stockholm,40,61,N/A,https://www.usnews.com/education/best-global-universities/royal-institute-of-technology-505970
+371,social-sciences-public-health,667,Orebro University,Sweden,Orebro,39.9,46.5,N/A,https://www.usnews.com/education/best-global-universities/orebro-university-528966
+372,social-sciences-public-health,531,University of Bremen,Germany,Bremen,39.9,50.2,"12,635",https://www.usnews.com/education/best-global-universities/university-of-bremen-500777
+373,social-sciences-public-health,447,University of Oulu,Finland,Oulu,39.9,53.3,"10,134",https://www.usnews.com/education/best-global-universities/university-of-oulu-502651
+374,social-sciences-public-health,226,Charles University Prague,Czech Republic,Prague,39.6,61.6,"49,787",https://www.usnews.com/education/best-global-universities/charles-university-prague-502397
+375,social-sciences-public-health,510,University of Vermont,United States,Burlington,39.5,50.9,N/A,https://www.usnews.com/education/best-global-universities/university-of-vermont-231174
+376,social-sciences-public-health,487,North West University - South Africa,South Africa,Potchefstroom,39.1,51.7,N/A,https://www.usnews.com/education/best-global-universities/north-west-university-south-africa-528970
+377,social-sciences-public-health,487,University of Massachusetts Boston,United States,Boston,39.1,51.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-massachusetts-boston-166638
+378,social-sciences-public-health,676,University of North Carolina Charlotte,United States,Charlotte,39.1,46.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-carolina-charlotte-199139
+379,social-sciences-public-health,625,University of the Western Cape,South Africa,Belville,39.1,47.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-the-western-cape-528949
+380,social-sciences-public-health,926,Leuphana University Luneburg,Germany,Luneburg,39,40.4,N/A,https://www.usnews.com/education/best-global-universities/leuphana-university-luneburg-529466
+381,social-sciences-public-health,782,Eastern Mediterranean University,Turkey,Famagusta,38.7,43.6,N/A,https://www.usnews.com/education/best-global-universities/eastern-mediterranean-university-529692
+382,social-sciences-public-health,356,Swedish University of Agricultural Sciences,Sweden,Uppsala,38.7,55.8,N/A,https://www.usnews.com/education/best-global-universities/swedish-university-of-agricultural-sciences-503091
+383,social-sciences-public-health,"1,080",Coventry University,United Kingdom,Coventry,38.6,37.1,"33,395",https://www.usnews.com/education/best-global-universities/coventry-university-529401
+384,social-sciences-public-health,500,Indiana University-Purdue University Indianapolis,United States,Indianapolis,38.5,51.3,N/A,https://www.usnews.com/education/best-global-universities/indiana-university-purdue-university-indianapolis-151111
+385,social-sciences-public-health,497,Liverpool John Moores University,United Kingdom,Liverpool,38.5,51.4,N/A,https://www.usnews.com/education/best-global-universities/liverpool-john-moores-university-504028
+386,social-sciences-public-health,349,University of Ibadan,Nigeria,Ibadan,38.5,56.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-ibadan-529052
+387,social-sciences-public-health,547,Universiti Putra Malaysia,Malaysia,Serdang,38.4,49.8,"18,365",https://www.usnews.com/education/best-global-universities/universiti-putra-malaysia-500789
+388,social-sciences-public-health,165,Oregon Health & Science University,United States,Portland,38.3,65.5,N/A,https://www.usnews.com/education/best-global-universities/oregon-health-science-university-209490
+389,social-sciences-public-health,432,Universidade Federal do Rio Grande do Sul,Brazil,Porto Alegre,38.3,53.6,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-grande-do-sul-500468
+390,social-sciences-public-health,593,Royal Holloway University London,United Kingdom,Egham,38.1,48.4,"10,770",https://www.usnews.com/education/best-global-universities/royal-holloway-university-london-501237
+391,social-sciences-public-health,517,Tehran University of Medical Sciences,Iran,Tehran,38.1,50.6,"11,605",https://www.usnews.com/education/best-global-universities/tehran-university-of-medical-sciences-503294
+392,social-sciences-public-health,901,Universidade Federal de Pelotas,Brazil,Pelotas,38.1,40.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-pelotas-528834
+393,social-sciences-public-health,185,University of Naples Federico II,Italy,Naples,38.1,63.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-naples-federico-ii-505539
+394,social-sciences-public-health,745,University of Quebec Montreal,Canada,Montreal,38.1,44.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-quebec-montreal-504868
+395,social-sciences-public-health,710,Brigham Young University,United States,Provo,38,45.4,N/A,https://www.usnews.com/education/best-global-universities/brigham-young-university-230038
+396,social-sciences-public-health,736,Norwegian University of Life Sciences,Norway,As,38,44.7,N/A,https://www.usnews.com/education/best-global-universities/norwegian-university-of-life-sciences-528819
+397,social-sciences-public-health,633,Oklahoma State University - Stillwater,United States,Stillwater,38,47.3,"21,250",https://www.usnews.com/education/best-global-universities/oklahoma-state-university-stillwater-207388
+398,social-sciences-public-health,789,University of Brighton,United Kingdom,Brighton,37.9,43.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-brighton-528973
+399,social-sciences-public-health,441,Hanyang University,South Korea,Seoul,37.8,53.4,N/A,https://www.usnews.com/education/best-global-universities/hanyang-university-500484
+400,social-sciences-public-health,739,University of Waikato,New Zealand,Hamilton,37.8,44.6,"10,472",https://www.usnews.com/education/best-global-universities/university-of-waikato-528934
+401,social-sciences-public-health,590,Ben Gurion University,Israel,Beer-Sheva,37.7,48.5,"16,468",https://www.usnews.com/education/best-global-universities/ben-gurion-university-501902
+402,social-sciences-public-health,673,Murdoch University,Australia,Murdoch,37.7,46.4,"16,641",https://www.usnews.com/education/best-global-universities/murdoch-university-528818
+403,social-sciences-public-health,250,University of Florence,Italy,Florence,37.7,60.6,N/A,https://www.usnews.com/education/best-global-universities/university-of-florence-501033
+404,social-sciences-public-health,"1,049",National Taiwan Normal University,Taiwan,Taipei City,37.6,37.6,"10,699",https://www.usnews.com/education/best-global-universities/national-taiwan-normal-university-503050
+405,social-sciences-public-health,794,Kent State University,United States,Kent,37.5,43.3,N/A,https://www.usnews.com/education/best-global-universities/kent-state-university-203517
+406,social-sciences-public-health,478,Qatar University,Qatar,Doha,37.5,52.2,"9,084",https://www.usnews.com/education/best-global-universities/qatar-university-529146
+407,social-sciences-public-health,452,University of Southern Queensland,Australia,Toowoomba,37.5,53.1,"12,150",https://www.usnews.com/education/best-global-universities/university-of-southern-queensland-529601
+408,social-sciences-public-health,"1,049",Middlesex University,United Kingdom,London (U.K.),37.4,37.6,"16,415",https://www.usnews.com/education/best-global-universities/middlesex-university-528885
+409,social-sciences-public-health,"1,121",Instituto Universitario de Lisboa,Portugal,Lisbon,37.3,36.1,"9,374",https://www.usnews.com/education/best-global-universities/instituto-universitario-de-lisboa-529551
+410,social-sciences-public-health,512,Mahidol University,Thailand,Salaya,37.3,50.7,"28,477",https://www.usnews.com/education/best-global-universities/mahidol-university-503481
+411,social-sciences-public-health,770,Open University - UK,United Kingdom,Milton Keynes,37.3,43.9,N/A,https://www.usnews.com/education/best-global-universities/open-university-uk-506455
+412,social-sciences-public-health,816,Salzburg University,Austria,Salzburg,37.3,42.6,N/A,https://www.usnews.com/education/best-global-universities/salzburg-university-528953
+413,social-sciences-public-health,194,Universite de Montpellier,France,Montpellier,37.2,63.3,"40,179",https://www.usnews.com/education/best-global-universities/universite-de-montpellier-528813
+414,social-sciences-public-health,673,University of California Merced,United States,Merced,37.2,46.4,N/A,https://www.usnews.com/education/best-global-universities/university-of-california-merced-445188
+415,social-sciences-public-health,579,Auburn University,United States,Auburn,37.1,48.8,"27,512",https://www.usnews.com/education/best-global-universities/auburn-university-100858
+416,social-sciences-public-health,286,Tohoku University,Japan,Sendai,37.1,59,"17,812",https://www.usnews.com/education/best-global-universities/tohoku-university-500862
+417,social-sciences-public-health,346,Leipzig University,Germany,Leipzig,37,56.2,N/A,https://www.usnews.com/education/best-global-universities/leipzig-university-503504
+418,social-sciences-public-health,452,University of Potsdam,Germany,Potsdam (Germany),37,53.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-potsdam-505430
+419,social-sciences-public-health,339,University of Dundee,United Kingdom,Dundee,36.9,56.6,"13,550",https://www.usnews.com/education/best-global-universities/university-of-dundee-506606
+420,social-sciences-public-health,520,University of Sevilla,Spain,Seville,36.9,50.5,"49,155",https://www.usnews.com/education/best-global-universities/university-of-sevilla-502822
+421,social-sciences-public-health,564,Universidad Politecnica de Madrid,Spain,Madrid,36.7,49.2,N/A,https://www.usnews.com/education/best-global-universities/universidad-politecnica-de-madrid-500155
+422,social-sciences-public-health,463,Wake Forest University,United States,Winston-Salem,36.7,52.8,N/A,https://www.usnews.com/education/best-global-universities/wake-forest-university-199847
+423,social-sciences-public-health,263,Sungkyunkwan University (SKKU),South Korea,Seoul,36.6,60,"23,399",https://www.usnews.com/education/best-global-universities/sungkyunkwan-university-skku-500193
+424,social-sciences-public-health,441,University of Saskatchewan,Canada,Saskatoon,36.6,53.4,"17,741",https://www.usnews.com/education/best-global-universities/university-of-saskatchewan-499969
+425,social-sciences-public-health,472,Texas Tech University,United States,Lubbock,36.5,52.4,"35,809",https://www.usnews.com/education/best-global-universities/texas-tech-university-229115
+426,social-sciences-public-health,405,Universidad Nacional Autonoma de Mexico,Mexico,Mexico City,36.5,54.3,"172,729",https://www.usnews.com/education/best-global-universities/universidad-nacional-autonoma-de-mexico-502101
+427,social-sciences-public-health,389,University of Navarra,Spain,Pamplona,36.5,54.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-navarra-500141
+428,social-sciences-public-health,363,Aristotle University of Thessaloniki,Greece,Thessaloniki,36.4,55.6,"49,840",https://www.usnews.com/education/best-global-universities/aristotle-university-of-thessaloniki-506056
+429,social-sciences-public-health,570,Universitat Politecnica de Valencia,Spain,Valencia,36.4,49.1,"23,607",https://www.usnews.com/education/best-global-universities/universitat-politecnica-de-valencia-501850
+430,social-sciences-public-health,409,University of Nebraska Lincoln,United States,Lincoln (U.S.),36.3,54.2,"25,055",https://www.usnews.com/education/best-global-universities/university-of-nebraska-lincoln-181464
+431,social-sciences-public-health,526,Carleton University,Canada,Ottawa,36.2,50.3,N/A,https://www.usnews.com/education/best-global-universities/carleton-university-499991
+432,social-sciences-public-health,"1,365",Leeds Beckett University,United Kingdom,Leeds,36.2,30.9,"19,105",https://www.usnews.com/education/best-global-universities/leeds-beckett-university-529564
+433,social-sciences-public-health,219,University of Munster,Germany,Munster,36.1,61.9,"28,014",https://www.usnews.com/education/best-global-universities/university-of-munster-500396
+434,social-sciences-public-health,750,Bar Ilan University,Israel,Ramat Gan,36,44.4,"17,269",https://www.usnews.com/education/best-global-universities/bar-ilan-university-505206
+435,social-sciences-public-health,,Institut d'Etudes Politiques Paris (Sciences Po),France,Paris,36,N/A,N/A,https://www.usnews.com/education/best-global-universities/institut-detudes-politiques-paris-sciences-po-530182
+436,social-sciences-public-health,432,Medical University of South Carolina,United States,Charleston,36,53.6,N/A,https://www.usnews.com/education/best-global-universities/medical-university-of-south-carolina-218335
+437,social-sciences-public-health,466,University of Basque Country,Spain,Leioa,36,52.7,"43,018",https://www.usnews.com/education/best-global-universities/university-of-basque-country-502718
+438,social-sciences-public-health,688,Kwame Nkrumah University Science & Technology,Ghana,Kumasi,35.9,46,N/A,https://www.usnews.com/education/best-global-universities/kwame-nkrumah-university-science-technology-529441
+439,social-sciences-public-health,"1,049",Universitetet i Stavanger,Norway,Stavanger,35.9,37.6,N/A,https://www.usnews.com/education/best-global-universities/universitetet-i-stavanger-529549
+440,social-sciences-public-health,226,Universite Libre de Bruxelles,Belgium,Brussels,35.6,61.6,"28,290",https://www.usnews.com/education/best-global-universities/universite-libre-de-bruxelles-505303
+441,social-sciences-public-health,360,University of Liege,Belgium,Liege,35.6,55.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-liege-506253
+442,social-sciences-public-health,280,University of Kiel,Germany,Kiel,35.5,59.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-kiel-504681
+443,social-sciences-public-health,"1,027",University of West England,United Kingdom,Bristol,35.5,38.2,N/A,https://www.usnews.com/education/best-global-universities/university-of-west-england-529164
+444,social-sciences-public-health,165,Technical University of Denmark,Denmark,Kongens Lyngby,35.3,65.5,"9,599",https://www.usnews.com/education/best-global-universities/technical-university-of-denmark-503016
+445,social-sciences-public-health,271,Shenzhen University,China,Shenzhen,35.2,59.6,"38,240",https://www.usnews.com/education/best-global-universities/shenzhen-university-529041
+446,social-sciences-public-health,889,University of Limerick,Ireland,Limerick,35.2,41.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-limerick-528976
+447,social-sciences-public-health,485,Brunel University,United Kingdom,Uxbridge,35.1,51.9,"14,185",https://www.usnews.com/education/best-global-universities/brunel-university-502232
+448,social-sciences-public-health,329,University of Tehran,Iran,Tehran,35.1,57.1,"45,295",https://www.usnews.com/education/best-global-universities/university-of-tehran-504903
+449,social-sciences-public-health,282,Korea Advanced Institute of Science & Technology (KAIST),South Korea,Daejeon,35,59.1,"9,946",https://www.usnews.com/education/best-global-universities/korea-advanced-institute-of-science-technology-kaist-506336
+450,social-sciences-public-health,794,University of Nairobi,Kenya,Nairobi,34.9,43.3,N/A,https://www.usnews.com/education/best-global-universities/university-of-nairobi-529444
+451,social-sciences-public-health,"1,535",Arizona State University-Downtown Phoenix,United States,Phoenix,34.8,27,N/A,https://www.usnews.com/education/best-global-universities/arizona-state-university-downtown-phoenix-529933
+452,social-sciences-public-health,540,Northern Arizona University,United States,Flagstaff,34.8,50,"30,081",https://www.usnews.com/education/best-global-universities/northern-arizona-university-105330
+453,social-sciences-public-health,452,University of Pretoria,South Africa,Hatfied (South Africa),34.8,53.1,"36,493",https://www.usnews.com/education/best-global-universities/university-of-pretoria-501543
+454,social-sciences-public-health,475,UiT The Arctic University of Tromso,Norway,Tromso,34.7,52.3,N/A,https://www.usnews.com/education/best-global-universities/uit-the-arctic-university-of-tromso-500047
+455,social-sciences-public-health,"1,042",University of North Carolina Greensboro,United States,Greensboro,34.7,37.8,N/A,https://www.usnews.com/education/best-global-universities/university-of-north-carolina-greensboro-199148
+456,social-sciences-public-health,432,University of Tsukuba,Japan,Tsukuba,34.4,53.6,"16,626",https://www.usnews.com/education/best-global-universities/university-of-tsukuba-506429
+457,social-sciences-public-health,618,Universidade Federal de Santa Catarina (UFSC),Brazil,Florianopolis,34.3,47.9,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-de-santa-catarina-ufsc-500204
+458,social-sciences-public-health,"1,463",University of London School Oriental & African Studies (SOAS),United Kingdom,London (U.K.),34.3,28.6,"4,685",https://www.usnews.com/education/best-global-universities/university-of-london-school-oriental-african-studies-soas-529061
+459,social-sciences-public-health,605,Masaryk University Brno,Czech Republic,Brno,34.2,48.2,"32,271",https://www.usnews.com/education/best-global-universities/masaryk-university-brno-506917
+460,social-sciences-public-health,392,University of Mississippi,United States,University,34.2,54.7,N/A,https://www.usnews.com/education/best-global-universities/university-of-mississippi-176017
+461,social-sciences-public-health,"1,338",Oslo Metropolitan University (OsloMet),Norway,Olso,34,31.6,N/A,https://www.usnews.com/education/best-global-universities/oslo-metropolitan-university-oslomet-529371
+462,social-sciences-public-health,625,Universitat Rovira i Virgili,Spain,Tarragona,34,47.7,"12,975",https://www.usnews.com/education/best-global-universities/universitat-rovira-i-virgili-506486
+463,social-sciences-public-health,653,Concordia University - Canada,Canada,Montreal,33.8,46.8,"35,592",https://www.usnews.com/education/best-global-universities/concordia-university-canada-499961
+464,social-sciences-public-health,889,National Taiwan University of Science & Technology,Taiwan,Taipei City,33.8,41.1,"8,907",https://www.usnews.com/education/best-global-universities/national-taiwan-university-of-science-technology-501875
+465,social-sciences-public-health,379,Friedrich Schiller University of Jena,Germany,Jena,33.7,55,N/A,https://www.usnews.com/education/best-global-universities/friedrich-schiller-university-of-jena-500506
+466,social-sciences-public-health,294,Universidade Estadual de Campinas,Brazil,Campinas,33.7,58.7,"31,199",https://www.usnews.com/education/best-global-universities/universidade-estadual-de-campinas-504975
+467,social-sciences-public-health,105,University of California Santa Cruz,United States,Santa Cruz,33.7,69.5,"19,494",https://www.usnews.com/education/best-global-universities/university-of-california-santa-cruz-110714
+468,social-sciences-public-health,115,University of Padua,Italy,Padua,33.6,68.9,"48,524",https://www.usnews.com/education/best-global-universities/university-of-padua-502381
+469,social-sciences-public-health,345,University of Warsaw,Poland,Warsaw,33.6,56.3,"37,090",https://www.usnews.com/education/best-global-universities/university-of-warsaw-502726
+470,social-sciences-public-health,429,Universidade de Coimbra,Portugal,Coimbra,33.5,53.7,"21,429",https://www.usnews.com/education/best-global-universities/universidade-de-coimbra-501040
+471,social-sciences-public-health,413,Universidade Federal do Rio de Janeiro,Brazil,Rio de Janeiro,33.5,54.1,"45,964",https://www.usnews.com/education/best-global-universities/universidade-federal-do-rio-de-janeiro-504608
+472,social-sciences-public-health,452,University of Iceland,Iceland,Reykjavik,33.4,53.1,"10,642",https://www.usnews.com/education/best-global-universities/university-of-iceland-528847
+473,social-sciences-public-health,219,University of Pisa,Italy,Pisa,33.4,61.9,"34,459",https://www.usnews.com/education/best-global-universities/university-of-pisa-501006
+474,social-sciences-public-health,576,University of Texas at San Antonio (UTSA),United States,San Antonio,33.4,48.9,"27,187",https://www.usnews.com/education/best-global-universities/university-of-texas-at-san-antonio-utsa-229027
+475,social-sciences-public-health,273,University of Milano-Bicocca,Italy,Milan,33.3,59.5,N/A,https://www.usnews.com/education/best-global-universities/university-of-milano-bicocca-501339
+476,social-sciences-public-health,579,Waseda University,Japan,Tokyo,33.3,48.8,"46,798",https://www.usnews.com/education/best-global-universities/waseda-university-501931
+477,social-sciences-public-health,917,Dublin City University,Ireland,Dublin,33.2,40.6,"13,956",https://www.usnews.com/education/best-global-universities/dublin-city-university-528873
+478,social-sciences-public-health,241,Johannes Gutenberg University of Mainz,Germany,Mainz,33.2,60.9,N/A,https://www.usnews.com/education/best-global-universities/johannes-gutenberg-university-of-mainz-500317
+479,social-sciences-public-health,975,Shanghai University of Finance & Economics,China,Shanghai,33,39.3,N/A,https://www.usnews.com/education/best-global-universities/shanghai-university-of-finance-economics-529139
+480,social-sciences-public-health,525,Universidade de Aveiro,Portugal,Aveiro,32.9,50.4,"12,566",https://www.usnews.com/education/best-global-universities/universidade-de-aveiro-504426
+481,social-sciences-public-health,722,Utah State University,United States,Logan,32.9,45.2,N/A,https://www.usnews.com/education/best-global-universities/utah-state-university-230728
+482,social-sciences-public-health,547,Chulalongkorn University,Thailand,Bangkok,32.8,49.8,"34,095",https://www.usnews.com/education/best-global-universities/chulalongkorn-university-505636
+483,social-sciences-public-health,"1,327",Linnaeus University,Sweden,Vaxjo,32.8,31.7,N/A,https://www.usnews.com/education/best-global-universities/linnaeus-university-529159
+484,social-sciences-public-health,698,Memorial University Newfoundland,Canada,St. John's,32.8,45.7,N/A,https://www.usnews.com/education/best-global-universities/memorial-university-newfoundland-499985
+485,social-sciences-public-health,186,Universite Grenoble Alpes (UGA),France,Saint-Martin-d'Heres,32.8,63.6,"50,868",https://www.usnews.com/education/best-global-universities/universite-grenoble-alpes-uga-528916
+486,social-sciences-public-health,459,University of Belgrade,Serbia,Belgrade,32.8,53,N/A,https://www.usnews.com/education/best-global-universities/university-of-belgrade-500616
+487,social-sciences-public-health,732,University of Hull,United Kingdom,Hull,32.8,44.9,"12,725",https://www.usnews.com/education/best-global-universities/university-of-hull-505254
+488,social-sciences-public-health,461,University of Oklahoma - Norman,United States,Norman,32.4,52.9,"26,450",https://www.usnews.com/education/best-global-universities/university-of-oklahoma-norman-207500
+489,social-sciences-public-health,317,Technion Israel Institute of Technology,Israel,Haifa,32.2,57.6,"15,147",https://www.usnews.com/education/best-global-universities/technion-israel-institute-of-technology-505919
+490,social-sciences-public-health,"1,095",Central Queensland University,Australia,Rockhampton North,32.1,36.7,N/A,https://www.usnews.com/education/best-global-universities/central-queensland-university-529603
+491,social-sciences-public-health,256,University of Erlangen Nuremberg,Germany,Erlangen,32.1,60.3,"33,777",https://www.usnews.com/education/best-global-universities/university-of-erlangen-nuremberg-504002
+492,social-sciences-public-health,512,Central China Normal University,China,Wuhan,32,50.7,N/A,https://www.usnews.com/education/best-global-universities/central-china-normal-university-501632
+493,social-sciences-public-health,710,Universidade de Brasilia,Brazil,Brasilia,32,45.4,N/A,https://www.usnews.com/education/best-global-universities/universidade-de-brasilia-504217
+494,social-sciences-public-health,487,University of Bielefeld,Germany,Bielefeld,32,51.7,"24,875",https://www.usnews.com/education/best-global-universities/university-of-bielefeld-504564
+495,social-sciences-public-health,429,University of Innsbruck,Austria,Innsbruck,32,53.7,"13,918",https://www.usnews.com/education/best-global-universities/university-of-innsbruck-504813
+496,social-sciences-public-health,943,Edinburgh Napier University,United Kingdom,Edinburgh,31.9,40,N/A,https://www.usnews.com/education/best-global-universities/edinburgh-napier-university-529991
+497,social-sciences-public-health,"1,002",Universidade Federal da Bahia,Brazil,Cruz Das Almas,31.9,38.7,N/A,https://www.usnews.com/education/best-global-universities/universidade-federal-da-bahia-528977
+498,social-sciences-public-health,558,University of Portsmouth,United Kingdom,Portsmouth,31.9,49.4,"23,595",https://www.usnews.com/education/best-global-universities/university-of-portsmouth-505745
+499,social-sciences-public-health,643,University of Louisville,United States,Louisville,31.8,47.1,N/A,https://www.usnews.com/education/best-global-universities/university-of-louisville-157289
+500,social-sciences-public-health,,Open University Netherlands,Netherlands,Heerlen,31.7,N/A,N/A,https://www.usnews.com/education/best-global-universities/open-university-netherlands-529763

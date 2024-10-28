@@ -60,7 +60,7 @@ driver.find_element(By.XPATH, '//*[@id="password-2"]').send_keys('ZGCfeite123456
 while True:
     text = '0'
     while len(text) != 4:
-        driver.find_element(By.XPATH, '//*[@id="img_2"]').click()
+        driver.find_element(By.XPATH, '//*[@id="rankings"]/div[3]/button').click()
         time.sleep(0.5)
         driver.find_element(By.XPATH, '//*[@id="img_2"]').screenshot('login.png')
         # text = pic_ocr.character_recognition('login.png')
